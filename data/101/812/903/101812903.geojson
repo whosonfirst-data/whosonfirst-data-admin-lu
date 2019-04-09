@@ -1,0 +1,105 @@
+{
+  "id": 101812903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000107,
+    "geom:area_square_m":857226.330299,
+    "geom:bbox":"5.86604637554,49.588512917,5.88100489695,49.6064656975",
+    "geom:latitude":49.597602,
+    "geom:longitude":5.873905,
+    "gn:population":1821,
+    "iso:country":"LU",
+    "lbl:latitude":49.597483,
+    "lbl:longitude":5.872658,
+    "mps:latitude":49.597483,
+    "mps:longitude":5.872658,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kuentzig"
+    ],
+    "name:eng_x_variant":[
+        "Dorscheid"
+    ],
+    "name:und_x_colloquial":[
+        "Doenningen",
+        "Donningen",
+        "Kuntzig"
+    ],
+    "name:und_x_preferred":[
+        "Clemency"
+    ],
+    "name:und_x_variant":[
+        "D\u00f6nningen",
+        "K\u00fcntzig"
+    ],
+    "name:unk_x_variant":[
+        "K\u00fcntzig"
+    ],
+    "qs:a0":"Luxembourg",
+    "qs:a1":"*",
+    "qs:a1r":"0",
+    "qs:adm0":"Luxembourg",
+    "qs:la":"Clemency",
+    "qs:la_lc":"*LU02021",
+    "qs:level":"locality",
+    "qs:loc":"Clemency",
+    "qs:loc_alt":"Clemency",
+    "qs:pop":0,
+    "qs:source":"XCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633275,
+        85673875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"0195526a-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2960687,
+        "gp:id":20104954,
+        "qs:id":468031,
+        "qs_pg:id":468031,
+        "wd:id":"Q21053530"
+    },
+    "wof:country":"LU",
+    "wof:geomhash":"f3079d8fec7dcfe19388fecc6f30d57c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "locality_id":101812903,
+            "region_id":85673875
+        }
+    ],
+    "wof:id":101812903,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1505338089,
+    "wof:name":"Clemency",
+    "wof:parent_id":85673875,
+    "wof:placetype":"locality",
+    "wof:population":1821,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-lu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.86604637554484,
+    49.58851291702393,
+    5.88100489694682,
+    49.60646569748667
+],
+  "geometry": {"coordinates":[[[5.8757158793274,49.60187666295883],[5.87609798492844,49.59738848290863],[5.87747922584867,49.59743891215379],[5.87763199231836,49.59564363556666],[5.8790131849579,49.59569404579003],[5.87908953741487,49.59479640590405],[5.88047070722934,49.5948467981807],[5.88054703068605,49.59394915687545],[5.87916588632339,49.59389876567258],[5.87939491176098,49.59120584290406],[5.88077597977468,49.59125623088659],[5.88100489694682,49.58856330178622],[5.87962390527133,49.58851291702393],[5.87947124647837,49.59030820128987],[5.87809020653833,49.59025779750988],[5.87793748266108,49.59205307824499],[5.87517530887555,49.59195221577477],[5.87509889071521,49.59284985347495],[5.86957447291184,49.59264792177441],[5.86926835753042,49.59623845190771],[5.86788715785633,49.59618792249722],[5.8678105946646,49.5970855530893],[5.86919181979266,49.59713608357629],[5.86896218523509,49.59982897650787],[5.86619958487682,49.59972789219893],[5.86604637554484,49.60152314811688],[5.87157179047563,49.60172525785009],[5.87141877059423,49.603520521],[5.87418159571257,49.60362147891738],[5.87410513136501,49.60451911212584],[5.87686801794075,49.6046200046888],[5.87671518044641,49.60641527437105],[5.8780966786133,49.60646569748667],[5.87840223753159,49.60287515244369],[5.87702084122594,49.60282473362633],[5.87709724754103,49.60192709757746],[5.8757158793274,49.60187666295883]]],"type":"Polygon"}
+}

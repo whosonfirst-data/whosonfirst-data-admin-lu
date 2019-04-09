@@ -1,0 +1,67 @@
+{
+  "id": 1259914443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.13333,49.61667,6.13333,49.61667",
+    "geom:latitude":49.61667,
+    "geom:longitude":6.13333,
+    "gn:admin1_code":"LU",
+    "gn:admin2_code":"2960317.0",
+    "gn:asciiname":"Pfaffenthal",
+    "gn:country_code":"LU",
+    "gn:dem":270,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2960182,
+    "gn:latitude":49.61667,
+    "gn:longitude":6.13333,
+    "gn:modification_date":"2017-01-28",
+    "gn:name":"Pfaffenthal",
+    "gn:population":0,
+    "gn:timezone":"Europe/Luxembourg",
+    "iso:country":"LU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633275,
+        85673875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2960182,
+        "wk:page":"Pfaffenthal"
+    },
+    "wof:country":"LU",
+    "wof:geomhash":"6c3fd61c5ba775b6bfc33c7b437b0710",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "locality_id":1259914443,
+            "region_id":85673875
+        }
+    ],
+    "wof:id":1259914443,
+    "wof:lastmodified":1537568184,
+    "wof:name":"Pfaffenthal",
+    "wof:parent_id":85673875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.13333,
+    49.61667,
+    6.13333,
+    49.61667
+],
+  "geometry": {"coordinates":[6.13333,49.61667],"type":"Point"}
+}

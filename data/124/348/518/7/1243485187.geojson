@@ -1,0 +1,66 @@
+{
+  "id": 1243485187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.20917,49.9,6.20917,49.9",
+    "geom:latitude":49.9,
+    "geom:longitude":6.20917,
+    "gn:admin1_code":"VD",
+    "gn:admin2_code":"1.0",
+    "gn:asciiname":"Marxberg",
+    "gn:country_code":"LU",
+    "gn:dem":316,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2960290,
+    "gn:latitude":49.9,
+    "gn:longitude":6.20917,
+    "gn:modification_date":"2017-01-28",
+    "gn:name":"Marxberg",
+    "gn:population":0,
+    "gn:timezone":"Europe/Luxembourg",
+    "iso:country":"LU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633275,
+        85673865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2960290
+    },
+    "wof:country":"LU",
+    "wof:geomhash":"a09a9d96a1503a63598c3f4646a3391c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "locality_id":1243485187,
+            "region_id":85673865
+        }
+    ],
+    "wof:id":1243485187,
+    "wof:lastmodified":1536749617,
+    "wof:name":"Marxberg",
+    "wof:parent_id":85673865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.20917,
+    49.9,
+    6.20917,
+    49.9
+],
+  "geometry": {"coordinates":[6.20917,49.9],"type":"Point"}
+}

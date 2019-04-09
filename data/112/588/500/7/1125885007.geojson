@@ -1,0 +1,76 @@
+{
+  "id": 1125885007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.01083,49.52944,6.01083,49.52944",
+    "geom:latitude":49.52944,
+    "geom:longitude":6.01083,
+    "gn:gn_country":"LU",
+    "gn:gn_fcode":"PPLL",
+    "gn:gn_pop":483,
+    "gn:population":483,
+    "iso:country":"LU",
+    "lbl:latitude":49.52944,
+    "lbl:longitude":6.01083,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"LU",
+    "qs_pg:gn_country":"LU",
+    "qs_pg:gn_fcode":"PPLL",
+    "qs_pg:gn_id":2960565,
+    "qs_pg:gn_pop":483,
+    "qs_pg:name":"Foetz",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1033249,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633275,
+        85673875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2960565,
+        "qs_pg:id":1033249
+    },
+    "wof:country":"LU",
+    "wof:created":1497295032,
+    "wof:geomhash":"d7d26eeb1cafc996f8f107c361b5c4df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "locality_id":1125885007,
+            "region_id":85673875
+        }
+    ],
+    "wof:id":1125885007,
+    "wof:lastmodified":1509398436,
+    "wof:name":"Foetz",
+    "wof:parent_id":85673875,
+    "wof:placetype":"locality",
+    "wof:population":483,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-lu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.01083,
+    49.52944,
+    6.01083,
+    49.52944
+],
+  "geometry": {"coordinates":[6.01083,49.52944],"type":"Point"}
+}

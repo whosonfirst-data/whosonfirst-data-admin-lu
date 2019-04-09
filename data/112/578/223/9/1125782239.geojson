@@ -1,0 +1,106 @@
+{
+  "id": 1125782239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.11306,50.10278,6.11306,50.10278",
+    "geom:latitude":50.10278,
+    "geom:longitude":6.11306,
+    "gn:gn_country":"LU",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":58,
+    "gn:population":58,
+    "iso:country":"LU",
+    "lbl:latitude":50.10278,
+    "lbl:longitude":6.11306,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Kalborn"
+    ],
+    "name:dut_x_preferred":[
+        "Kalborn"
+    ],
+    "name:eng_x_preferred":[
+        "Kalborn"
+    ],
+    "name:fre_x_preferred":[
+        "Kalborn"
+    ],
+    "name:ltz_x_preferred":[
+        "Kaalber"
+    ],
+    "name:unk_x_variant":[
+        "Kalborn"
+    ],
+    "qs_pg:aaroncc":"LU",
+    "qs_pg:gn_country":"LU",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2960398,
+    "qs_pg:gn_pop":58,
+    "qs_pg:name":"Malborn",
+    "qs_pg:name_adm0":"Deutschland",
+    "qs_pg:name_adm1":"Rheinland-Pfalz",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":4,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":939707,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424829,
+    "qs_pg:woe_id":673554,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424829,
+    "woe:name_adm0":"Deutschland",
+    "woe:name_adm1":"Rheinland-Pfalz",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2960398,
+        "gp:id":673554,
+        "qs_pg:id":939707,
+        "wd:id":"Q3192136"
+    },
+    "wof:country":"LU",
+    "wof:created":1497290533,
+    "wof:geomhash":"0fcf799371ae452e0b14c198f62cfe03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "locality_id":1125782239,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1125782239,
+    "wof:lastmodified":1514483922,
+    "wof:name":"Malborn",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":58,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-lu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.11306,
+    50.10278,
+    6.11306,
+    50.10278
+],
+  "geometry": {"coordinates":[6.11306,50.10278],"type":"Point"}
+}

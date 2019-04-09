@@ -1,0 +1,147 @@
+{
+  "id": 101845567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00005,
+    "geom:area_square_m":398715.386496,
+    "geom:bbox":"6.20140108157,49.5448857303,6.21382203633,49.5567441292",
+    "geom:latitude":49.550729,
+    "geom:longitude":6.206033,
+    "gn:population":484,
+    "iso:country":"LU",
+    "lbl:latitude":49.551234,
+    "lbl:longitude":6.204574,
+    "mps:latitude":49.551234,
+    "mps:longitude":6.204574,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bel_x_preferred":[
+        "\u0412\u0435\u0439\u043b\u0435\u0440-\u043b\u0430-\u0422\u0443\u0440"
+    ],
+    "name:cat_x_preferred":[
+        "Weiler-la-Tour"
+    ],
+    "name:dan_x_preferred":[
+        "Weiler-la-Tour"
+    ],
+    "name:dut_x_preferred":[
+        "Weiler-la-Tour"
+    ],
+    "name:eng_x_preferred":[
+        "Weiler-la-Tour"
+    ],
+    "name:fre_x_preferred":[
+        "Weiler-la-Tour"
+    ],
+    "name:ger_x_preferred":[
+        "Weiler zum Turm"
+    ],
+    "name:gsw_x_preferred":[
+        "Weiler zum Tuerm"
+    ],
+    "name:ita_x_preferred":[
+        "Weiler-la-Tour"
+    ],
+    "name:ltz_x_preferred":[
+        "Weiler zum Tuerm"
+    ],
+    "name:may_x_preferred":[
+        "Weiler-la-Tour"
+    ],
+    "name:nan_x_preferred":[
+        "Weiler-la-Tour"
+    ],
+    "name:nob_x_preferred":[
+        "Weiler-la-Tour"
+    ],
+    "name:per_x_preferred":[
+        "\u0648\u0627\u06cc\u0644\u0631-\u0644\u0627-\u062a\u0648\u0631"
+    ],
+    "name:pol_x_preferred":[
+        "Weiler-la-Tour"
+    ],
+    "name:por_x_preferred":[
+        "Weiler-la-Tour"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0435\u0439\u043b\u0435\u0440-\u043b\u0430-\u0422\u0443\u0440"
+    ],
+    "name:slo_x_preferred":[
+        "Weiler-la-Tour"
+    ],
+    "name:swe_x_preferred":[
+        "Weiler-la-Tour"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0430\u0439\u043b\u0435\u0440-\u043b\u0430-\u0422\u0443\u0440"
+    ],
+    "name:und_x_preferred":[
+        "Weiler-la-Tour"
+    ],
+    "qs:a0":"Luxembourg",
+    "qs:a1":"*",
+    "qs:a1r":"0",
+    "qs:adm0":"Luxembourg",
+    "qs:la":"Weiler-la-Tour",
+    "qs:la_lc":"*LU04101",
+    "qs:level":"locality",
+    "qs:loc":"Weiler-la-Tour",
+    "qs:loc_alt":"Weiler-la-Tour",
+    "qs:pop":0,
+    "qs:source":"XCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633275,
+        85673875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"019590f4-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2959996,
+        "gp:id":979989,
+        "qs:id":942957,
+        "qs_pg:id":942957,
+        "wd:id":"Q985390"
+    },
+    "wof:country":"LU",
+    "wof:geomhash":"d09a8fb5edf56e88cdc313d6bb47b1ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "locality_id":101845567,
+            "region_id":85673875
+        }
+    ],
+    "wof:id":101845567,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1514483945,
+    "wof:name":"Weiler-la-Tour",
+    "wof:parent_id":85673875,
+    "wof:placetype":"locality",
+    "wof:population":484,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-lu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.20140108157113,
+    49.54488573031585,
+    6.2138220363272,
+    49.55674412922986
+],
+  "geometry": {"coordinates":[[[6.20621954328624,49.55674412922986],[6.20628975180739,49.55584622905786],[6.2076700867039,49.55589261634924],[6.20795078647666,49.55230100834211],[6.20933102208068,49.55234737482112],[6.20947130156736,49.55055156682198],[6.21085148873743,49.55059791446519],[6.21092159817374,49.54970000897356],[6.21230176233269,49.5497463387681],[6.21237184309274,49.54884843195362],[6.21375198424113,49.54889474390041],[6.2138220363272,49.54799683576306],[6.2110618072785,49.54790419697895],[6.21099170435383,49.54880210314491],[6.2096115680252,49.54875575747451],[6.20954143642513,49.5496536623167],[6.2054009656502,49.54951452117473],[6.2055413781091,49.54771871707482],[6.20416127684842,49.54767230494576],[6.20430172710002,49.54587650147164],[6.20292167908639,49.5458300744574],[6.2029919247355,49.54493217320203],[6.20161190455116,49.54488573031585],[6.20140108157113,49.54757943010441],[6.20278117800223,49.54762587595548],[6.20235959644356,49.55301327235185],[6.20512010160365,49.55310612532713],[6.20483918537508,49.55669772408635],[6.20621954328624,49.55674412922986]]],"type":"Polygon"}
+}

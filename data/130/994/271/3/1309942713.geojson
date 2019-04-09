@@ -1,0 +1,70 @@
+{
+  "id": 1309942713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.8,49.93333,5.8,49.93333",
+    "geom:latitude":49.93333,
+    "geom:longitude":5.8,
+    "gn:admin1_code":"WI",
+    "gn:admin2_code":"5.0",
+    "gn:asciiname":"Ferme Fuhrman",
+    "gn:country_code":"LU",
+    "gn:dem":442,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2960580,
+    "gn:latitude":49.93333,
+    "gn:longitude":5.8,
+    "gn:modification_date":"2017-01-28",
+    "gn:name":"Ferme Fuhrman",
+    "gn:population":0,
+    "gn:timezone":"Europe/Luxembourg",
+    "iso:country":"LU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ferme Fahrman",
+        "Ferme Fuhrman"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633275,
+        85673865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2960580
+    },
+    "wof:country":"LU",
+    "wof:geomhash":"df2a593ee62cf69bf5bb8c37072904dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "locality_id":1309942713,
+            "region_id":85673865
+        }
+    ],
+    "wof:id":1309942713,
+    "wof:lastmodified":1537662998,
+    "wof:name":"Ferme Fuhrman",
+    "wof:parent_id":85673865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.8,
+    49.93333,
+    5.8,
+    49.93333
+],
+  "geometry": {"coordinates":[5.8,49.93333],"type":"Point"}
+}

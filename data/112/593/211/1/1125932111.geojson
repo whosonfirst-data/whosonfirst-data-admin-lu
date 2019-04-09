@@ -1,0 +1,113 @@
+{
+  "id": 1125932111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.12417,49.96361,6.12417,49.96361",
+    "geom:latitude":49.96361,
+    "geom:longitude":6.12417,
+    "gn:gn_country":"LU",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":153,
+    "gn:population":153,
+    "iso:country":"LU",
+    "lbl:latitude":49.96361,
+    "lbl:longitude":6.12417,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Weiler"
+    ],
+    "name:dut_x_preferred":[
+        "Weiler"
+    ],
+    "name:eng_x_preferred":[
+        "Weiler"
+    ],
+    "name:fre_x_preferred":[
+        "Weiler"
+    ],
+    "name:ltz_x_preferred":[
+        "Weiler"
+    ],
+    "name:pol_x_preferred":[
+        "Weiler"
+    ],
+    "name:swe_x_preferred":[
+        "Weiler-l\u00e8s-Putscheid"
+    ],
+    "name:unk_x_variant":[
+        "Weiler"
+    ],
+    "qs_pg:aaroncc":"LU",
+    "qs_pg:gn_country":"LU",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2959995,
+    "qs_pg:gn_pop":153,
+    "qs_pg:name":"Weiler-l\u00e8s-Putscheid",
+    "qs_pg:name_adm0":"Luxembourg",
+    "qs_pg:name_adm1":"Diekirch",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":3,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":182526,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424881,
+    "qs_pg:woe_id":979990,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424881,
+    "woe:name_adm0":"Luxembourg",
+    "woe:name_adm1":"Diekirch",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633275,
+        85673865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2959995,
+        "gp:id":979990,
+        "qs_pg:id":182526,
+        "wd:id":"Q3246508"
+    },
+    "wof:country":"LU",
+    "wof:created":1497296840,
+    "wof:geomhash":"3fb698c3b27a78142a540b9b2ca71c70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "locality_id":1125932111,
+            "region_id":85673865
+        }
+    ],
+    "wof:id":1125932111,
+    "wof:lastmodified":1514483945,
+    "wof:name":"Weiler-l\u00e8s-Putscheid",
+    "wof:parent_id":85673865,
+    "wof:placetype":"locality",
+    "wof:population":153,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-lu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.12417,
+    49.96361,
+    6.12417,
+    49.96361
+],
+  "geometry": {"coordinates":[6.12417,49.96361],"type":"Point"}
+}

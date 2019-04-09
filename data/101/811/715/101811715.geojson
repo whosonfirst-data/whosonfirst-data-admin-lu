@@ -1,0 +1,112 @@
+{
+  "id": 101811715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00004,
+    "geom:area_square_m":318931.795818,
+    "geom:bbox":"5.968668312,50.0923672734,5.97742148146,50.1005933495",
+    "geom:latitude":50.096452,
+    "geom:longitude":5.97235,
+    "gn:population":413,
+    "iso:country":"LU",
+    "lbl:latitude":50.096664,
+    "lbl:longitude":5.971919,
+    "mps:latitude":50.096664,
+    "mps:longitude":5.971919,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Asselborn"
+    ],
+    "name:ceb_x_preferred":[
+        "Asselborn"
+    ],
+    "name:dut_x_preferred":[
+        "Asselborn"
+    ],
+    "name:eng_x_preferred":[
+        "Asselborn"
+    ],
+    "name:fra_x_preferred":[
+        "Asselborn"
+    ],
+    "name:fre_x_preferred":[
+        "Asselborn"
+    ],
+    "name:ltz_x_preferred":[
+        "Aasselbur"
+    ],
+    "name:nld_x_preferred":[
+        "Asselborn"
+    ],
+    "name:swe_x_preferred":[
+        "Asselborn"
+    ],
+    "qs:a0":"Luxembourg",
+    "qs:a1":"*",
+    "qs:a1r":"0",
+    "qs:adm0":"Luxembourg",
+    "qs:la":"Wincrange",
+    "qs:la_lc":"*LU06011",
+    "qs:level":"locality",
+    "qs:loc":"Asselborn",
+    "qs:loc_alt":"Asselborn",
+    "qs:pop":0,
+    "qs:source":"XCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:elevation":480.0,
+    "wd:latitude":50.0962,
+    "wd:longitude":5.9752,
+    "wd:wordcount":104,
+    "wof:belongsto":[
+        102191581,
+        85633275,
+        85673865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2960820,
+        "gp:id":979292,
+        "qs:id":942900,
+        "qs_pg:id":942900,
+        "wd:id":"Q2029793",
+        "wk:page":"Asselborn"
+    },
+    "wof:country":"LU",
+    "wof:geomhash":"855a5052a0075de1f8ca763d1d1e4cd4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "locality_id":101811715,
+            "region_id":85673865
+        }
+    ],
+    "wof:id":101811715,
+    "wof:lastmodified":1527642302,
+    "wof:name":"Asselborn",
+    "wof:parent_id":85673865,
+    "wof:placetype":"locality",
+    "wof:population":413,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-lu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.96866831199873,
+    50.09236727342659,
+    5.97742148146421,
+    50.10059334947994
+],
+  "geometry": {"coordinates":[[[5.97409981589351,50.10059334947994],[5.97432714358672,50.09790066033008],[5.97572288887619,50.09794996596719],[5.9759501061086,50.0952572708095],[5.97734577563915,50.09530655616965],[5.97742148146421,50.09440898942694],[5.97323455919576,50.09426108531221],[5.97331033985307,50.0933635214559],[5.97191473051407,50.09331418699685],[5.97199053373765,50.09241662389496],[5.97059495317205,50.09236727342659],[5.97044329090318,50.09416239718325],[5.96904766072538,50.09411302750317],[5.96866831199873,50.09860082608833],[5.97006407284249,50.0986502011076],[5.96998821853316,50.09954776095577],[5.97277980043481,50.09964646189258],[5.97270399483585,50.10054402356366],[5.97409981589351,50.10059334947994]]],"type":"Polygon"}
+}

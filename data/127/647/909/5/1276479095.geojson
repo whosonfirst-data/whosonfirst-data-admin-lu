@@ -1,0 +1,64 @@
+{
+  "id": 1276479095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.05,50.15,6.05,50.15",
+    "geom:latitude":50.15,
+    "geom:longitude":6.05,
+    "gn:admin1_code":"CL",
+    "gn:admin2_code":"10.0",
+    "gn:asciiname":"Ferme du Flamand",
+    "gn:country_code":"LU",
+    "gn:dem":503,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2960581,
+    "gn:latitude":50.15,
+    "gn:longitude":6.05,
+    "gn:modification_date":"2017-01-28",
+    "gn:name":"Ferme du Flamand",
+    "gn:population":0,
+    "gn:timezone":"Europe/Luxembourg",
+    "iso:country":"LU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2960581
+    },
+    "wof:country":"LU",
+    "wof:geomhash":"eeae4ace1412eaf6bbf6d2e7b2316f1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "locality_id":1276479095,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276479095,
+    "wof:lastmodified":1537077562,
+    "wof:name":"Ferme du Flamand",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.05,
+    50.15,
+    6.05,
+    50.15
+],
+  "geometry": {"coordinates":[6.05,50.15],"type":"Point"}
+}

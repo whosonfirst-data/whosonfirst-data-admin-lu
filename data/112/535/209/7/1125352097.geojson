@@ -1,0 +1,80 @@
+{
+  "id": 1125352097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.993471,50.120849,5.993471,50.120849",
+    "geom:latitude":50.120849,
+    "geom:longitude":5.993471,
+    "gn:gn_country":null,
+    "iso:country":"LU",
+    "lbl:latitude":50.120849,
+    "lbl:longitude":5.993471,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"LU",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Troisvierges",
+    "qs_pg:name_adm0":"Luxembourg",
+    "qs_pg:name_adm1":"Diekirch",
+    "qs_pg:photos":43,
+    "qs_pg:photos_1k":9,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":172,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":284944,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424881,
+    "qs_pg:woe_id":12591969,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424881,
+    "woe:name_adm0":"Luxembourg",
+    "woe:name_adm1":"Diekirch",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85633275,
+        85673865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12591969,
+        "qs_pg:id":284944
+    },
+    "wof:country":"LU",
+    "wof:created":1497046255,
+    "wof:geomhash":"502455a1b7338da2f28a0af9dc1727e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1125352097,
+            "region_id":85673865
+        }
+    ],
+    "wof:id":1125352097,
+    "wof:lastmodified":1509388873,
+    "wof:name":"Troisvierges",
+    "wof:parent_id":85673865,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-lu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.993471,
+    50.120849,
+    5.993471,
+    50.120849
+],
+  "geometry": {"coordinates":[5.993471,50.120849],"type":"Point"}
+}

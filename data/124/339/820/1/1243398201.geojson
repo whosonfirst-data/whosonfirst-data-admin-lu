@@ -1,0 +1,73 @@
+{
+  "id": 1243398201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.03389,49.7625,6.03389,49.7625",
+    "geom:latitude":49.7625,
+    "geom:longitude":6.03389,
+    "gn:admin1_code":"ME",
+    "gn:admin2_code":"3.0",
+    "gn:asciiname":"Grevenknapp",
+    "gn:cc2":"LU",
+    "gn:country_code":"LU",
+    "gn:dem":318,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2960517,
+    "gn:latitude":49.7625,
+    "gn:longitude":6.03389,
+    "gn:modification_date":"2017-10-02",
+    "gn:name":"Grevenknapp",
+    "gn:population":0,
+    "gn:timezone":"Europe/Luxembourg",
+    "iso:country":"LU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Groevenknapp",
+        "Grevenknopp",
+        "Grevenknapp"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633275,
+        85673875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2960517,
+        "wk:page":"Grevenknapp"
+    },
+    "wof:country":"LU",
+    "wof:geomhash":"efa33e764fc1886a36473b4ad5cf6d51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "locality_id":1243398201,
+            "region_id":85673875
+        }
+    ],
+    "wof:id":1243398201,
+    "wof:lastmodified":1537662997,
+    "wof:name":"Grevenknapp",
+    "wof:parent_id":85673875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.03389,
+    49.7625,
+    6.03389,
+    49.7625
+],
+  "geometry": {"coordinates":[6.03389,49.7625],"type":"Point"}
+}

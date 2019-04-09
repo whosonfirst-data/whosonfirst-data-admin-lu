@@ -1,0 +1,115 @@
+{
+  "id": 1125311551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.40583,49.60833,6.40583,49.60833",
+    "geom:latitude":49.60833,
+    "geom:longitude":6.40583,
+    "gn:gn_country":"LU",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":0,
+    "iso:country":"LU",
+    "lbl:latitude":49.60833,
+    "lbl:longitude":6.40583,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:als_x_preferred":[
+        "Wuermeldeng"
+    ],
+    "name:bel_x_preferred":[
+        "\u0412\u043e\u0440\u043c\u0435\u043b\u044c\u0434\u0430\u043d\u0436"
+    ],
+    "name:bul_x_preferred":[
+        "\u0412\u043e\u0440\u043c\u0435\u043b\u0434\u0430\u043d\u0436"
+    ],
+    "name:deu_x_preferred":[
+        "Wormeldingen"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u0648\u0631\u0645\u0644\u062f\u0627\u0646\u0698"
+    ],
+    "name:lit_x_preferred":[
+        "Vormeldan\u017eas"
+    ],
+    "name:ltz_x_preferred":[
+        "Gemeng Wuermeldeng"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u043e\u0440\u043c\u0435\u043b\u044c\u0434\u0430\u043d\u0436"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u043e\u0440\u043c\u0435\u043b\u044c\u0434\u0430\u043d\u0436"
+    ],
+    "qs_pg:aaroncc":"LU",
+    "qs_pg:gn_country":"LU",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":6693347,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Wormeldange",
+    "qs_pg:name_adm0":"Luxembourg",
+    "qs_pg:name_adm1":"Grevenmacher",
+    "qs_pg:photos":292,
+    "qs_pg:photos_1k":59,
+    "qs_pg:photos_9k":3,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":627,
+    "qs_pg:photos_sr":5,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":206884,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424881,
+    "qs_pg:woe_id":12591936,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424881,
+    "woe:name_adm0":"Luxembourg",
+    "woe:name_adm1":"Grevenmacher",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85633111,
+        85682491,
+        102063545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6693347,
+        "gp:id":12591936,
+        "qs_pg:id":206884
+    },
+    "wof:country":"LU",
+    "wof:created":1497044017,
+    "wof:geomhash":"5230d8b7d503afe69314de0d2bfde988",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063545,
+            "localadmin_id":1125311551,
+            "region_id":85682491
+        }
+    ],
+    "wof:id":1125311551,
+    "wof:lastmodified":1509387902,
+    "wof:name":"Wormeldange",
+    "wof:parent_id":102063545,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-lu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.40583,
+    49.60833,
+    6.40583,
+    49.60833
+],
+  "geometry": {"coordinates":[6.40583,49.60833],"type":"Point"}
+}

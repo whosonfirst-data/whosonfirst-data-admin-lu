@@ -1,0 +1,116 @@
+{
+  "id": 1125932147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.02389,50.14056,6.02389,50.14056",
+    "geom:latitude":50.14056,
+    "geom:longitude":6.02389,
+    "gn:gn_country":"LU",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":268,
+    "gn:population":268,
+    "iso:country":"LU",
+    "lbl:latitude":50.14056,
+    "lbl:longitude":6.02389,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Wilwerdange"
+    ],
+    "name:dut_x_preferred":[
+        "Wilwerdange"
+    ],
+    "name:eng_x_preferred":[
+        "Wilwerdange"
+    ],
+    "name:fre_x_preferred":[
+        "Wilwerdange"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30f4\u30a3\u30eb\u30f4\u30a7\u30eb\u30c0\u30f3\u30b8\u30e5"
+    ],
+    "name:ltz_x_preferred":[
+        "Wilwerdang"
+    ],
+    "name:pol_x_preferred":[
+        "Wilwerdange"
+    ],
+    "name:spa_x_preferred":[
+        "Wilwerdange"
+    ],
+    "name:swe_x_preferred":[
+        "Wilwerdange"
+    ],
+    "qs_pg:aaroncc":"LU",
+    "qs_pg:gn_country":"LU",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2959973,
+    "qs_pg:gn_pop":268,
+    "qs_pg:name":"Wilwerdange",
+    "qs_pg:name_adm0":"Luxembourg",
+    "qs_pg:name_adm1":"Diekirch",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":4,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":182528,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424881,
+    "qs_pg:woe_id":980008,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424881,
+    "woe:name_adm0":"Luxembourg",
+    "woe:name_adm1":"Diekirch",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633275,
+        85673865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2959973,
+        "gp:id":980008,
+        "qs_pg:id":182528,
+        "wd:id":"Q2123050"
+    },
+    "wof:country":"LU",
+    "wof:created":1497296841,
+    "wof:geomhash":"19a82389973d6d64e10bed173e097854",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "locality_id":1125932147,
+            "region_id":85673865
+        }
+    ],
+    "wof:id":1125932147,
+    "wof:lastmodified":1514483946,
+    "wof:name":"Wilwerdange",
+    "wof:parent_id":85673865,
+    "wof:placetype":"locality",
+    "wof:population":268,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-lu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.02389,
+    50.14056,
+    6.02389,
+    50.14056
+],
+  "geometry": {"coordinates":[6.02389,50.14056],"type":"Point"}
+}

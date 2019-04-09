@@ -1,0 +1,109 @@
+{
+  "id": 1125984587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.00028,49.65722,6.00028,49.65722",
+    "geom:latitude":49.65722,
+    "geom:longitude":6.00028,
+    "gn:gn_country":"LU",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1459,
+    "gn:population":1459,
+    "iso:country":"LU",
+    "lbl:latitude":49.65722,
+    "lbl:longitude":6.00028,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Olm"
+    ],
+    "name:dut_x_preferred":[
+        "Olm"
+    ],
+    "name:eng_x_preferred":[
+        "Olm"
+    ],
+    "name:fre_x_preferred":[
+        "Olm"
+    ],
+    "name:ltz_x_preferred":[
+        "Ollem"
+    ],
+    "name:swe_x_preferred":[
+        "Olm"
+    ],
+    "qs_pg:aaroncc":"LU",
+    "qs_pg:gn_country":"LU",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2960197,
+    "qs_pg:gn_pop":1459,
+    "qs_pg:name":"Olm",
+    "qs_pg:name_adm0":"Luxembourg",
+    "qs_pg:name_adm1":"Luxembourg",
+    "qs_pg:photos":320,
+    "qs_pg:photos_1k":65,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":320,
+    "qs_pg:photos_sr":5,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":884080,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424881,
+    "qs_pg:woe_id":979825,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424881,
+    "woe:name_adm0":"Luxembourg",
+    "woe:name_adm1":"Luxembourg",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633275,
+        85673875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2960197,
+        "gp:id":979825,
+        "qs_pg:id":884080,
+        "wd:id":"Q2674976"
+    },
+    "wof:country":"LU",
+    "wof:created":1497298742,
+    "wof:geomhash":"724e2951b0ccbdffcf1faf54cf706a1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "locality_id":1125984587,
+            "region_id":85673875
+        }
+    ],
+    "wof:id":1125984587,
+    "wof:lastmodified":1553816678,
+    "wof:name":"Olm",
+    "wof:parent_id":85673875,
+    "wof:placetype":"locality",
+    "wof:population":1459,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-lu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.00028,
+    49.65722,
+    6.00028,
+    49.65722
+],
+  "geometry": {"coordinates":[6.00028,49.65722],"type":"Point"}
+}

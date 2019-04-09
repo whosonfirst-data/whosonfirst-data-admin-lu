@@ -1,0 +1,105 @@
+{
+  "id": 85802091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":2271520.12258,
+    "geom:bbox":"6.15792,49.597063,6.15792,49.597063",
+    "geom:latitude":49.597063,
+    "geom:longitude":6.15792,
+    "gn:id":"",
+    "iso:country":"LU",
+    "lbl:latitude":49.597063,
+    "lbl:longitude":6.15792,
+    "mps:latitude":49.596732,
+    "mps:longitude":6.159297,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "mz:tier_locality":3,
+    "name:und_x_preferred":[
+        "Itzigerste"
+    ],
+    "name:unk_x_variant":[
+        "Itzigerste"
+    ],
+    "qs:gn_adm0_cc":"LU",
+    "qs:gn_id":0,
+    "qs:gn_local":2960316,
+    "qs:gn_nam_loc":"Luxembourg, Luxembourg, Luxembourg, Luxembourg, LU",
+    "qs:gn_namadm1":"03",
+    "qs:local_max":27921,
+    "qs:local_sum":40969,
+    "qs:localhoods":14,
+    "qs:name":"Itzigerste",
+    "qs:name_adm0":"Luxembourg",
+    "qs:name_adm1":"Luxembourg",
+    "qs:name_adm2":"Luxembourg",
+    "qs:name_lau":"Luxembourg",
+    "qs:name_local":"Luxembourg",
+    "qs:photo_max":9,
+    "qs:photo_sum":30,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":10,
+    "qs:woe_adm0":23424881,
+    "qs:woe_adm1":20070560,
+    "qs:woe_adm2":12591920,
+    "qs:woe_lau":20075347,
+    "qs:woe_local":979721,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191581,
+        85633275,
+        85673875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":979643,
+        "qs:id":36726,
+        "qs_pg:id":36726
+    },
+    "wof:country":"LU",
+    "wof:geomhash":"079ffcc9f96161d3a3b0c90c3658ca38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "locality_id":-1,
+            "neighbourhood_id":85802091,
+            "region_id":85673875
+        }
+    ],
+    "wof:id":85802091,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1531862129,
+    "wof:name":"Itzigerste",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-lu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.15792,
+    49.597063,
+    6.15792,
+    49.597063
+],
+  "geometry": {"coordinates":[6.15792,49.597063],"type":"Point"}
+}

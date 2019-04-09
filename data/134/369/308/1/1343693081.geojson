@@ -1,0 +1,66 @@
+{
+  "id": 1343693081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.95,49.81667,5.95,49.81667",
+    "geom:latitude":49.81667,
+    "geom:longitude":5.95,
+    "gn:admin1_code":"RD",
+    "gn:admin2_code":"7.0",
+    "gn:asciiname":"Jenkenhof",
+    "gn:country_code":"LU",
+    "gn:dem":340,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2960406,
+    "gn:latitude":49.81667,
+    "gn:longitude":5.95,
+    "gn:modification_date":"2017-01-28",
+    "gn:name":"Jenkenhof",
+    "gn:population":0,
+    "gn:timezone":"Europe/Luxembourg",
+    "iso:country":"LU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633275,
+        85673865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2960406
+    },
+    "wof:country":"LU",
+    "wof:geomhash":"0a43c9a8f57f2374fcd19476f147b524",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "locality_id":1343693081,
+            "region_id":85673865
+        }
+    ],
+    "wof:id":1343693081,
+    "wof:lastmodified":1536908367,
+    "wof:name":"Jenkenhof",
+    "wof:parent_id":85673865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.95,
+    49.81667,
+    5.95,
+    49.81667
+],
+  "geometry": {"coordinates":[5.95,49.81667],"type":"Point"}
+}

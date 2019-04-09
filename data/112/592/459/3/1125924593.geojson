@@ -1,0 +1,110 @@
+{
+  "id": 1125924593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.99083,49.645,5.99083,49.645",
+    "geom:latitude":49.645,
+    "geom:longitude":5.99083,
+    "gn:gn_country":"LU",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1330,
+    "gn:population":1330,
+    "iso:country":"LU",
+    "lbl:latitude":49.645,
+    "lbl:longitude":5.99083,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Capellen"
+    ],
+    "name:dut_x_preferred":[
+        "Capellen"
+    ],
+    "name:eng_x_preferred":[
+        "Capellen"
+    ],
+    "name:fre_x_preferred":[
+        "Capellen"
+    ],
+    "name:hun_x_preferred":[
+        "Capellen"
+    ],
+    "name:ltz_x_preferred":[
+        "Kapellen"
+    ],
+    "name:nob_x_preferred":[
+        "Capellen"
+    ],
+    "name:pol_x_preferred":[
+        "Capellen"
+    ],
+    "name:spa_x_preferred":[
+        "Capellen"
+    ],
+    "name:swe_x_preferred":[
+        "Capellen"
+    ],
+    "name:unk_x_variant":[
+        "Kapellen"
+    ],
+    "qs_pg:aaroncc":"LU",
+    "qs_pg:gn_country":"LU",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2960697,
+    "qs_pg:gn_pop":1330,
+    "qs_pg:name":"Capellen",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":1040390,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633275,
+        85673875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2960697,
+        "qs_pg:id":1040390,
+        "wd:id":"Q1988543"
+    },
+    "wof:country":"LU",
+    "wof:created":1497296597,
+    "wof:geomhash":"a97fd5fdd4633613ef97596df2180966",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "locality_id":1125924593,
+            "region_id":85673875
+        }
+    ],
+    "wof:id":1125924593,
+    "wof:lastmodified":1514483897,
+    "wof:name":"Capellen",
+    "wof:parent_id":85673875,
+    "wof:placetype":"locality",
+    "wof:population":1330,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-lu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.99083,
+    49.645,
+    5.99083,
+    49.645
+],
+  "geometry": {"coordinates":[5.99083,49.645],"type":"Point"}
+}

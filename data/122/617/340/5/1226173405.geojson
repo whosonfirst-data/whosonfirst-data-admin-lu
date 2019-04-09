@@ -1,0 +1,70 @@
+{
+  "id": 1226173405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.05,49.9,6.05,49.9",
+    "geom:latitude":49.9,
+    "geom:longitude":6.05,
+    "gn:admin1_code":"DI",
+    "gn:admin2_code":"3.0",
+    "gn:asciiname":"Asselborn",
+    "gn:country_code":"LU",
+    "gn:dem":464,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2960821,
+    "gn:latitude":49.9,
+    "gn:longitude":6.05,
+    "gn:modification_date":"2017-01-28",
+    "gn:name":"Asselborn",
+    "gn:population":0,
+    "gn:timezone":"Europe/Luxembourg",
+    "iso:country":"LU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Asselborn-l\u00e8s-Kehmen",
+        "Asselborn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633275,
+        85673865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2960821
+    },
+    "wof:country":"LU",
+    "wof:geomhash":"e77bc46bb58c15107d067412f7b0d548",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "locality_id":1226173405,
+            "region_id":85673865
+        }
+    ],
+    "wof:id":1226173405,
+    "wof:lastmodified":1537663000,
+    "wof:name":"Asselborn",
+    "wof:parent_id":85673865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.05,
+    49.9,
+    6.05,
+    49.9
+],
+  "geometry": {"coordinates":[6.05,49.9],"type":"Point"}
+}

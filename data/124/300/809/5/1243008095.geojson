@@ -1,0 +1,70 @@
+{
+  "id": 1243008095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.98333,49.7,5.98333,49.7",
+    "geom:latitude":49.7,
+    "geom:longitude":5.98333,
+    "gn:admin1_code":"CA",
+    "gn:admin2_code":"10.0",
+    "gn:asciiname":"Maisons Alteschmeltz",
+    "gn:country_code":"LU",
+    "gn:dem":255,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2960303,
+    "gn:latitude":49.7,
+    "gn:longitude":5.98333,
+    "gn:modification_date":"2017-01-28",
+    "gn:name":"Maisons Alteschmeltz",
+    "gn:population":0,
+    "gn:timezone":"Europe/Luxembourg",
+    "iso:country":"LU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Alteschmeltz",
+        "Maisons Alteschmeltz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633275,
+        85673875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2960303
+    },
+    "wof:country":"LU",
+    "wof:geomhash":"d111e24cec21594c480c9bf159ab1e9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "locality_id":1243008095,
+            "region_id":85673875
+        }
+    ],
+    "wof:id":1243008095,
+    "wof:lastmodified":1537662995,
+    "wof:name":"Maisons Alteschmeltz",
+    "wof:parent_id":85673875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.98333,
+    49.7,
+    5.98333,
+    49.7
+],
+  "geometry": {"coordinates":[5.98333,49.7],"type":"Point"}
+}

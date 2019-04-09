@@ -1,0 +1,111 @@
+{
+  "id": 1125951713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.83972,49.78944,5.83972,49.78944",
+    "geom:latitude":49.78944,
+    "geom:longitude":5.83972,
+    "gn:gn_country":"LU",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":113,
+    "gn:population":113,
+    "iso:country":"LU",
+    "lbl:latitude":49.78944,
+    "lbl:longitude":5.83972,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Lannen"
+    ],
+    "name:dut_x_preferred":[
+        "Lannen"
+    ],
+    "name:eng_x_preferred":[
+        "Lannen"
+    ],
+    "name:fre_x_preferred":[
+        "Lannen"
+    ],
+    "name:ltz_x_preferred":[
+        "Lannen"
+    ],
+    "name:pol_x_preferred":[
+        "Lannen"
+    ],
+    "name:swe_x_preferred":[
+        "Lannen"
+    ],
+    "name:unk_x_variant":[
+        "Maisons Pieschend"
+    ],
+    "qs_pg:aaroncc":"LU",
+    "qs_pg:gn_country":"LU",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2960352,
+    "qs_pg:gn_pop":113,
+    "qs_pg:name":"Lannen",
+    "qs_pg:name_adm0":"Luxembourg",
+    "qs_pg:name_adm1":"Diekirch",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":1287945,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424881,
+    "qs_pg:woe_id":979689,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424881,
+    "woe:name_adm0":"Luxembourg",
+    "woe:name_adm1":"Diekirch",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633275,
+        85673865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2960352,
+        "gp:id":979689,
+        "qs_pg:id":1287945,
+        "wd:id":"Q3112467"
+    },
+    "wof:country":"LU",
+    "wof:created":1497297483,
+    "wof:geomhash":"4a3a6780aac1e1020f909c764dd33ae7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "locality_id":1125951713,
+            "region_id":85673865
+        }
+    ],
+    "wof:id":1125951713,
+    "wof:lastmodified":1514483915,
+    "wof:name":"Lannen",
+    "wof:parent_id":85673865,
+    "wof:placetype":"locality",
+    "wof:population":113,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-lu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.83972,
+    49.78944,
+    5.83972,
+    49.78944
+],
+  "geometry": {"coordinates":[5.83972,49.78944],"type":"Point"}
+}

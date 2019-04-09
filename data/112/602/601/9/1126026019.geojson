@@ -1,0 +1,110 @@
+{
+  "id": 1126026019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.05083,49.71306,6.05083,49.71306",
+    "geom:latitude":49.71306,
+    "geom:longitude":6.05083,
+    "gn:gn_country":"LU",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":247,
+    "gn:population":247,
+    "iso:country":"LU",
+    "lbl:latitude":49.71306,
+    "lbl:longitude":6.05083,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Hollenfels"
+    ],
+    "name:dut_x_preferred":[
+        "Hollenfels"
+    ],
+    "name:eng_x_preferred":[
+        "Hollenfels"
+    ],
+    "name:fre_x_preferred":[
+        "Hollenfels"
+    ],
+    "name:ltz_x_preferred":[
+        "Huelmes"
+    ],
+    "name:pol_x_preferred":[
+        "Hollenfels"
+    ],
+    "name:swe_x_preferred":[
+        "Hollenfels"
+    ],
+    "qs_pg:aaroncc":"LU",
+    "qs_pg:gn_country":"LU",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2960441,
+    "qs_pg:gn_pop":247,
+    "qs_pg:name":"Hollenfels",
+    "qs_pg:name_adm0":"Luxembourg",
+    "qs_pg:name_adm1":"Luxembourg",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1021774,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424881,
+    "qs_pg:woe_id":979613,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424881,
+    "woe:name_adm0":"Luxembourg",
+    "woe:name_adm1":"Luxembourg",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633275,
+        85673875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2960441,
+        "gp:id":979613,
+        "qs_pg:id":1021774,
+        "wd:id":"Q3092783"
+    },
+    "wof:country":"LU",
+    "wof:created":1497301146,
+    "wof:geomhash":"bc33ab03b741123557c2be03dce54423",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "locality_id":1126026019,
+            "region_id":85673875
+        }
+    ],
+    "wof:id":1126026019,
+    "wof:lastmodified":1514483911,
+    "wof:name":"Hollenfels",
+    "wof:parent_id":85673875,
+    "wof:placetype":"locality",
+    "wof:population":247,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-lu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.05083,
+    49.71306,
+    6.05083,
+    49.71306
+],
+  "geometry": {"coordinates":[6.05083,49.71306],"type":"Point"}
+}

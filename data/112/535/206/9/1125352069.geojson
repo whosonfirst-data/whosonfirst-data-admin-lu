@@ -1,0 +1,80 @@
+{
+  "id": 1125352069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.920214,49.798565,5.920214,49.798565",
+    "geom:latitude":49.798565,
+    "geom:longitude":5.920214,
+    "gn:gn_country":null,
+    "iso:country":"LU",
+    "lbl:latitude":49.798565,
+    "lbl:longitude":5.920214,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"LU",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Bettborn",
+    "qs_pg:name_adm0":"Luxembourg",
+    "qs_pg:name_adm1":"Diekirch",
+    "qs_pg:photos":190,
+    "qs_pg:photos_1k":39,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":239,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":284929,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424881,
+    "qs_pg:woe_id":12591964,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424881,
+    "woe:name_adm0":"Luxembourg",
+    "woe:name_adm1":"Diekirch",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85633275,
+        85673865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12591964,
+        "qs_pg:id":284929
+    },
+    "wof:country":"LU",
+    "wof:created":1497046254,
+    "wof:geomhash":"ffaa50e5327fd54326df2158c363469f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1125352069,
+            "region_id":85673865
+        }
+    ],
+    "wof:id":1125352069,
+    "wof:lastmodified":1509388873,
+    "wof:name":"Bettborn",
+    "wof:parent_id":85673865,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-lu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.920214,
+    49.798565,
+    5.920214,
+    49.798565
+],
+  "geometry": {"coordinates":[5.920214,49.798565],"type":"Point"}
+}

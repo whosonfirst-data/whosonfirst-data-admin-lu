@@ -1,0 +1,109 @@
+{
+  "id": 1125951749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.8775,49.91,5.8775,49.91",
+    "geom:latitude":49.91,
+    "geom:longitude":5.8775,
+    "gn:gn_country":"LU",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":85,
+    "gn:population":85,
+    "iso:country":"LU",
+    "lbl:latitude":49.91,
+    "lbl:longitude":5.8775,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Liefrange"
+    ],
+    "name:dut_x_preferred":[
+        "Liefrange"
+    ],
+    "name:eng_x_preferred":[
+        "Liefrange"
+    ],
+    "name:fre_x_preferred":[
+        "Liefrange"
+    ],
+    "name:ger_x_preferred":[
+        "Liefringen"
+    ],
+    "name:ltz_x_preferred":[
+        "L\u00e9ifreg"
+    ],
+    "qs_pg:aaroncc":"LU",
+    "qs_pg:gn_country":"LU",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2960333,
+    "qs_pg:gn_pop":85,
+    "qs_pg:name":"Liefrange",
+    "qs_pg:name_adm0":"Luxembourg",
+    "qs_pg:name_adm1":"Diekirch",
+    "qs_pg:photos":952,
+    "qs_pg:photos_1k":193,
+    "qs_pg:photos_9k":4,
+    "qs_pg:photos_9r":6,
+    "qs_pg:photos_all":952,
+    "qs_pg:photos_sr":10,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":1287966,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424881,
+    "qs_pg:woe_id":979706,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424881,
+    "woe:name_adm0":"Luxembourg",
+    "woe:name_adm1":"Diekirch",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633275,
+        85673865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2960333,
+        "gp:id":979706,
+        "qs_pg:id":1287966,
+        "wd:id":"Q643863"
+    },
+    "wof:country":"LU",
+    "wof:created":1497297484,
+    "wof:geomhash":"fd0280a31f85e4141c754dde997a4cc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "locality_id":1125951749,
+            "region_id":85673865
+        }
+    ],
+    "wof:id":1125951749,
+    "wof:lastmodified":1514483916,
+    "wof:name":"Liefrange",
+    "wof:parent_id":85673865,
+    "wof:placetype":"locality",
+    "wof:population":85,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-lu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.8775,
+    49.91,
+    5.8775,
+    49.91
+],
+  "geometry": {"coordinates":[5.8775,49.91],"type":"Point"}
+}

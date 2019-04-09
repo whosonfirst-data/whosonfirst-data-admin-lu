@@ -1,0 +1,71 @@
+{
+  "id": 1293323581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.85583,49.82222,5.85583,49.82222",
+    "geom:latitude":49.82222,
+    "geom:longitude":5.85583,
+    "gn:admin1_code":"RD",
+    "gn:admin2_code":"6.0",
+    "gn:asciiname":"Goeldt",
+    "gn:cc2":"LU",
+    "gn:country_code":"LU",
+    "gn:dem":473,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":2960535,
+    "gn:latitude":49.82222,
+    "gn:longitude":5.85583,
+    "gn:modification_date":"2017-01-28",
+    "gn:name":"Goeldt",
+    "gn:population":0,
+    "gn:timezone":"Europe/Luxembourg",
+    "iso:country":"LU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Maison Goelt",
+        "Goeldt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633275,
+        85673865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2960535
+    },
+    "wof:country":"LU",
+    "wof:geomhash":"1af6c9114ec779e79a84c061ee544fd5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "locality_id":1293323581,
+            "region_id":85673865
+        }
+    ],
+    "wof:id":1293323581,
+    "wof:lastmodified":1537662997,
+    "wof:name":"Goeldt",
+    "wof:parent_id":85673865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.85583,
+    49.82222,
+    5.85583,
+    49.82222
+],
+  "geometry": {"coordinates":[5.85583,49.82222],"type":"Point"}
+}

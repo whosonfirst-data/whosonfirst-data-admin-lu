@@ -1,0 +1,113 @@
+{
+  "id": 1125885085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.95556,49.77417,5.95556,49.77417",
+    "geom:latitude":49.77417,
+    "geom:longitude":5.95556,
+    "gn:gn_country":"LU",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":370,
+    "gn:population":370,
+    "iso:country":"LU",
+    "lbl:latitude":49.77417,
+    "lbl:longitude":5.95556,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Everlange"
+    ],
+    "name:dut_x_preferred":[
+        "Everlange"
+    ],
+    "name:eng_x_preferred":[
+        "Everlange"
+    ],
+    "name:fre_x_preferred":[
+        "Everlange"
+    ],
+    "name:ger_x_preferred":[
+        "Everlingen"
+    ],
+    "name:ltz_x_preferred":[
+        "Iewerleng"
+    ],
+    "name:pol_x_preferred":[
+        "Everlange"
+    ],
+    "name:swe_x_preferred":[
+        "Everlange"
+    ],
+    "qs_pg:aaroncc":"LU",
+    "qs_pg:gn_country":"LU",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2960588,
+    "qs_pg:gn_pop":370,
+    "qs_pg:name":"Everlange",
+    "qs_pg:name_adm0":"Luxembourg",
+    "qs_pg:name_adm1":"Diekirch",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":14,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":978894,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424881,
+    "qs_pg:woe_id":20105132,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424881,
+    "woe:name_adm0":"Luxembourg",
+    "woe:name_adm1":"Diekirch",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633275,
+        85673865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2960588,
+        "gp:id":20105132,
+        "qs_pg:id":978894,
+        "wd:id":"Q2183322"
+    },
+    "wof:country":"LU",
+    "wof:created":1497295037,
+    "wof:geomhash":"5bf7f52a350c150f3e378c571d4aba18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "locality_id":1125885085,
+            "region_id":85673865
+        }
+    ],
+    "wof:id":1125885085,
+    "wof:lastmodified":1514483905,
+    "wof:name":"Everlange",
+    "wof:parent_id":85673865,
+    "wof:placetype":"locality",
+    "wof:population":370,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-lu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.95556,
+    49.77417,
+    5.95556,
+    49.77417
+],
+  "geometry": {"coordinates":[5.95556,49.77417],"type":"Point"}
+}

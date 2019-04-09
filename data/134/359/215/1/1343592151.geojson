@@ -1,0 +1,66 @@
+{
+  "id": 1343592151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.0,50.08333,6.0,50.08333",
+    "geom:latitude":50.08333,
+    "geom:longitude":6.0,
+    "gn:admin1_code":"CL",
+    "gn:admin2_code":"1.0",
+    "gn:asciiname":"Hondsjang",
+    "gn:country_code":"LU",
+    "gn:dem":506,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2960434,
+    "gn:latitude":50.08333,
+    "gn:longitude":6.0,
+    "gn:modification_date":"2017-01-28",
+    "gn:name":"Hondsjang",
+    "gn:population":0,
+    "gn:timezone":"Europe/Luxembourg",
+    "iso:country":"LU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633275,
+        85673865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2960434
+    },
+    "wof:country":"LU",
+    "wof:geomhash":"6ab39a8fcff947181a2ae6bc79b04e59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "locality_id":1343592151,
+            "region_id":85673865
+        }
+    ],
+    "wof:id":1343592151,
+    "wof:lastmodified":1537051585,
+    "wof:name":"Hondsjang",
+    "wof:parent_id":85673865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.0,
+    50.08333,
+    6.0,
+    50.08333
+],
+  "geometry": {"coordinates":[6.0,50.08333],"type":"Point"}
+}

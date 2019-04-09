@@ -1,0 +1,107 @@
+{
+  "id": 1126019823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.04667,50.07556,6.04667,50.07556",
+    "geom:latitude":50.07556,
+    "geom:longitude":6.04667,
+    "gn:gn_country":"LU",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":54,
+    "gn:population":54,
+    "iso:country":"LU",
+    "lbl:latitude":50.07556,
+    "lbl:longitude":6.04667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Urspelt"
+    ],
+    "name:dut_x_preferred":[
+        "Ischpelt"
+    ],
+    "name:eng_x_preferred":[
+        "Urspelt"
+    ],
+    "name:fre_x_preferred":[
+        "Urspelt"
+    ],
+    "name:ltz_x_preferred":[
+        "Ischpelt"
+    ],
+    "name:swe_x_preferred":[
+        "Urspelt"
+    ],
+    "qs_pg:aaroncc":"LU",
+    "qs_pg:gn_country":"LU",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2960023,
+    "qs_pg:gn_pop":54,
+    "qs_pg:name":"Urspelt",
+    "qs_pg:name_adm0":"Luxembourg",
+    "qs_pg:name_adm1":"Diekirch",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":942947,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424881,
+    "qs_pg:woe_id":979963,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424881,
+    "woe:name_adm0":"Luxembourg",
+    "woe:name_adm1":"Diekirch",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633275,
+        85673865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2960023,
+        "gp:id":979963,
+        "qs_pg:id":942947,
+        "wd:id":"Q2443753"
+    },
+    "wof:country":"LU",
+    "wof:created":1497300765,
+    "wof:geomhash":"b7cc1cf2d2a47c83e68323aeeca12a4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "locality_id":1126019823,
+            "region_id":85673865
+        }
+    ],
+    "wof:id":1126019823,
+    "wof:lastmodified":1514483941,
+    "wof:name":"Urspelt",
+    "wof:parent_id":85673865,
+    "wof:placetype":"locality",
+    "wof:population":54,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-lu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.04667,
+    50.07556,
+    6.04667,
+    50.07556
+],
+  "geometry": {"coordinates":[6.04667,50.07556],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1260324051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.13333,49.73333,6.13333,49.73333",
+    "geom:latitude":49.73333,
+    "geom:longitude":6.13333,
+    "gn:admin1_code":"ME",
+    "gn:admin2_code":"9.0",
+    "gn:asciiname":"Maisons Boussert",
+    "gn:country_code":"LU",
+    "gn:dem":358,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2960302,
+    "gn:latitude":49.73333,
+    "gn:longitude":6.13333,
+    "gn:modification_date":"2017-01-28",
+    "gn:name":"Maisons Boussert",
+    "gn:population":0,
+    "gn:timezone":"Europe/Luxembourg",
+    "iso:country":"LU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Boussert",
+        "Maisons Boussert"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633275,
+        85673875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2960302
+    },
+    "wof:country":"LU",
+    "wof:geomhash":"fd65a50aff3af6f75b4f233a7eb33ec7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "locality_id":1260324051,
+            "region_id":85673875
+        }
+    ],
+    "wof:id":1260324051,
+    "wof:lastmodified":1537662994,
+    "wof:name":"Maisons Boussert",
+    "wof:parent_id":85673875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.13333,
+    49.73333,
+    6.13333,
+    49.73333
+],
+  "geometry": {"coordinates":[6.13333,49.73333],"type":"Point"}
+}

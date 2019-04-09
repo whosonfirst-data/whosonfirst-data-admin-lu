@@ -1,0 +1,72 @@
+{
+  "id": 1343495129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.93333,49.56667,5.93333,49.56667",
+    "geom:latitude":49.56667,
+    "geom:longitude":5.93333,
+    "gn:admin1_code":"CA",
+    "gn:admin2_code":"8641865.0",
+    "gn:asciiname":"Hoerchen",
+    "gn:country_code":"LU",
+    "gn:dem":312,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2960451,
+    "gn:latitude":49.56667,
+    "gn:longitude":5.93333,
+    "gn:modification_date":"2017-01-28",
+    "gn:name":"Hoerchen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Luxembourg",
+    "iso:country":"LU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Neul\u00f6cher",
+        "Haertgen",
+        "Maison Hoerchen",
+        "Hoerchen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633275,
+        85673875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2960451
+    },
+    "wof:country":"LU",
+    "wof:geomhash":"813091428548754fd193c3d74b81bde1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "locality_id":1343495129,
+            "region_id":85673875
+        }
+    ],
+    "wof:id":1343495129,
+    "wof:lastmodified":1537662996,
+    "wof:name":"Hoerchen",
+    "wof:parent_id":85673875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.93333,
+    49.56667,
+    5.93333,
+    49.56667
+],
+  "geometry": {"coordinates":[5.93333,49.56667],"type":"Point"}
+}

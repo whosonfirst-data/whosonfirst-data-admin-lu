@@ -1,0 +1,104 @@
+{
+  "id": 1125410761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.14306,49.96083,6.14306,49.96083",
+    "geom:latitude":49.96083,
+    "geom:longitude":6.14306,
+    "gn:gn_country":"LU",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":0,
+    "iso:country":"LU",
+    "lbl:latitude":49.96083,
+    "lbl:longitude":6.14306,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:als_x_preferred":[
+        "P\u00ebtscht"
+    ],
+    "name:bel_x_preferred":[
+        "\u041f\u0443\u0442\u0448\u044d\u0439\u0434"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0648\u062a\u0634\u0627\u06cc\u062f"
+    ],
+    "name:ltz_x_preferred":[
+        "Gemeng P\u00ebtscht"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0443\u0442\u0448\u0430\u0439\u0434"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0443\u0442\u0448\u0430\u0439\u0434"
+    ],
+    "qs_pg:aaroncc":"LU",
+    "qs_pg:gn_country":"LU",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":6693332,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Putscheid",
+    "qs_pg:name_adm0":"Luxembourg",
+    "qs_pg:name_adm1":"Diekirch",
+    "qs_pg:photos":5,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":103,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":69392,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424881,
+    "qs_pg:woe_id":12591919,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424881,
+    "woe:name_adm0":"Luxembourg",
+    "woe:name_adm1":"Diekirch",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85633275,
+        85673865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6693332,
+        "gp:id":12591919,
+        "qs_pg:id":69392
+    },
+    "wof:country":"LU",
+    "wof:created":1497050080,
+    "wof:geomhash":"7af30171357f2e76d6a0825d06d6dfd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1125410761,
+            "region_id":85673865
+        }
+    ],
+    "wof:id":1125410761,
+    "wof:lastmodified":1509390253,
+    "wof:name":"Putscheid",
+    "wof:parent_id":85673865,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-lu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.14306,
+    49.96083,
+    6.14306,
+    49.96083
+],
+  "geometry": {"coordinates":[6.14306,49.96083],"type":"Point"}
+}

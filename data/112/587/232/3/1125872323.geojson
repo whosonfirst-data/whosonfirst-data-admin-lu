@@ -1,0 +1,115 @@
+{
+  "id": 1125872323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.05611,49.50917,6.05611,49.50917",
+    "geom:latitude":49.50917,
+    "geom:longitude":6.05611,
+    "gn:gn_country":"LU",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":999,
+    "gn:population":999,
+    "iso:country":"LU",
+    "lbl:latitude":49.50917,
+    "lbl:longitude":6.05611,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Noertzange"
+    ],
+    "name:dut_x_preferred":[
+        "Noertzange"
+    ],
+    "name:eng_x_preferred":[
+        "Noertzange"
+    ],
+    "name:fre_x_preferred":[
+        "Noertzange"
+    ],
+    "name:hun_x_preferred":[
+        "Noertzange"
+    ],
+    "name:ltz_x_preferred":[
+        "N\u00e4erzeng"
+    ],
+    "name:pol_x_preferred":[
+        "Noertzange"
+    ],
+    "name:swe_x_preferred":[
+        "Noertzange"
+    ],
+    "qs_pg:aaroncc":"LU",
+    "qs_pg:gn_country":"LU",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2960217,
+    "qs_pg:gn_pop":999,
+    "qs_pg:name":"Noertzange",
+    "qs_pg:name_adm0":"Luxembourg",
+    "qs_pg:name_adm1":"Luxembourg",
+    "qs_pg:photos":17,
+    "qs_pg:photos_1k":3,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":17,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":39798,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424881,
+    "qs_pg:woe_id":979808,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424881,
+    "woe:name_adm0":"Luxembourg",
+    "woe:name_adm1":"Luxembourg",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633275,
+        85673875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2960217,
+        "gp:id":979808,
+        "qs_pg:id":39798,
+        "wd:id":"Q2644202"
+    },
+    "wof:country":"LU",
+    "wof:created":1497294363,
+    "wof:geomhash":"3415ac1b350ca6ffe953e0fa457cf6ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "locality_id":1125872323,
+            "region_id":85673875
+        }
+    ],
+    "wof:id":1125872323,
+    "wof:lastmodified":1514483929,
+    "wof:name":"Noertzange",
+    "wof:parent_id":85673875,
+    "wof:placetype":"locality",
+    "wof:population":999,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-lu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.05611,
+    49.50917,
+    6.05611,
+    49.50917
+],
+  "geometry": {"coordinates":[6.05611,49.50917],"type":"Point"}
+}

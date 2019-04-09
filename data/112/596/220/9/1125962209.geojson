@@ -1,0 +1,110 @@
+{
+  "id": 1125962209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.35444,49.61917,6.35444,49.61917",
+    "geom:latitude":49.61917,
+    "geom:longitude":6.35444,
+    "gn:gn_country":"LU",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":342,
+    "gn:population":342,
+    "iso:country":"LU",
+    "lbl:latitude":49.61917,
+    "lbl:longitude":6.35444,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Gostingen"
+    ],
+    "name:dut_x_preferred":[
+        "Gostingen"
+    ],
+    "name:eng_x_preferred":[
+        "Gostingen"
+    ],
+    "name:fre_x_preferred":[
+        "Gostingen"
+    ],
+    "name:ltz_x_preferred":[
+        "Gouschteng"
+    ],
+    "name:pol_x_preferred":[
+        "Gostingen"
+    ],
+    "name:swe_x_preferred":[
+        "Gostingen"
+    ],
+    "qs_pg:aaroncc":"LU",
+    "qs_pg:gn_country":"LU",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2960530,
+    "qs_pg:gn_pop":342,
+    "qs_pg:name":"Gostingen",
+    "qs_pg:name_adm0":"Luxembourg",
+    "qs_pg:name_adm1":"Grevenmacher",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":11,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":187136,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424881,
+    "qs_pg:woe_id":979550,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424881,
+    "woe:name_adm0":"Luxembourg",
+    "woe:name_adm1":"Grevenmacher",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633275,
+        85673869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2960530,
+        "gp:id":979550,
+        "qs_pg:id":187136,
+        "wd:id":"Q3111462"
+    },
+    "wof:country":"LU",
+    "wof:created":1497297843,
+    "wof:geomhash":"bf694f6e85e22d20a9f775e8d159de76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "locality_id":1125962209,
+            "region_id":85673869
+        }
+    ],
+    "wof:id":1125962209,
+    "wof:lastmodified":1553816659,
+    "wof:name":"Gostingen",
+    "wof:parent_id":85673869,
+    "wof:placetype":"locality",
+    "wof:population":342,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-lu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.35444,
+    49.61917,
+    6.35444,
+    49.61917
+],
+  "geometry": {"coordinates":[6.35444,49.61917],"type":"Point"}
+}

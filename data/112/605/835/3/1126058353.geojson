@@ -1,0 +1,89 @@
+{
+  "id": 1126058353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.38833,49.69139,6.38833,49.69139",
+    "geom:latitude":49.69139,
+    "geom:longitude":6.38833,
+    "gn:gn_country":"LU",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":667,
+    "gn:population":667,
+    "iso:country":"LU",
+    "lbl:latitude":49.69139,
+    "lbl:longitude":6.38833,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Wecker"
+    ],
+    "qs_pg:aaroncc":"LU",
+    "qs_pg:gn_country":"LU",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2960003,
+    "qs_pg:gn_pop":667,
+    "qs_pg:name":"Wilsecker",
+    "qs_pg:name_adm0":"Deutschland",
+    "qs_pg:name_adm1":"Rheinland-Pfalz",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1070480,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424829,
+    "qs_pg:woe_id":706781,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424829,
+    "woe:name_adm0":"Deutschland",
+    "woe:name_adm1":"Rheinland-Pfalz",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633275,
+        85673869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2960003,
+        "gp:id":706781,
+        "qs_pg:id":1070480
+    },
+    "wof:country":"LU",
+    "wof:created":1497303599,
+    "wof:geomhash":"b467d4da75f8b1f807d39387cb548109",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "locality_id":1126058353,
+            "region_id":85673869
+        }
+    ],
+    "wof:id":1126058353,
+    "wof:lastmodified":1509409775,
+    "wof:name":"Wilsecker",
+    "wof:parent_id":85673869,
+    "wof:placetype":"locality",
+    "wof:population":667,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-lu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.38833,
+    49.69139,
+    6.38833,
+    49.69139
+],
+  "geometry": {"coordinates":[6.38833,49.69139],"type":"Point"}
+}

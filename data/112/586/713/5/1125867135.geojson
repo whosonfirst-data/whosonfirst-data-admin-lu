@@ -1,0 +1,110 @@
+{
+  "id": 1125867135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.24861,49.57278,6.24861,49.57278",
+    "geom:latitude":49.57278,
+    "geom:longitude":6.24861,
+    "gn:gn_country":"LU",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":102,
+    "gn:population":102,
+    "iso:country":"LU",
+    "lbl:latitude":49.57278,
+    "lbl:longitude":6.24861,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Medingen"
+    ],
+    "name:dut_x_preferred":[
+        "Medingen"
+    ],
+    "name:eng_x_preferred":[
+        "Medingen"
+    ],
+    "name:fre_x_preferred":[
+        "Medingen"
+    ],
+    "name:ltz_x_preferred":[
+        "M\u00e9ideng"
+    ],
+    "name:pol_x_preferred":[
+        "Medingen"
+    ],
+    "name:swe_x_preferred":[
+        "Medingen"
+    ],
+    "qs_pg:aaroncc":"LU",
+    "qs_pg:gn_country":"LU",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2960282,
+    "qs_pg:gn_pop":102,
+    "qs_pg:name":"Medingen",
+    "qs_pg:name_adm0":"Luxembourg",
+    "qs_pg:name_adm1":"Luxembourg",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":256336,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424881,
+    "qs_pg:woe_id":979747,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424881,
+    "woe:name_adm0":"Luxembourg",
+    "woe:name_adm1":"Luxembourg",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633275,
+        85673875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2960282,
+        "gp:id":979747,
+        "qs_pg:id":256336,
+        "wd:id":"Q2351743"
+    },
+    "wof:country":"LU",
+    "wof:created":1497294098,
+    "wof:geomhash":"c5821aa715598635e88195757851e28f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "locality_id":1125867135,
+            "region_id":85673875
+        }
+    ],
+    "wof:id":1125867135,
+    "wof:lastmodified":1553816584,
+    "wof:name":"Medingen",
+    "wof:parent_id":85673875,
+    "wof:placetype":"locality",
+    "wof:population":102,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-lu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.24861,
+    49.57278,
+    6.24861,
+    49.57278
+],
+  "geometry": {"coordinates":[6.24861,49.57278],"type":"Point"}
+}

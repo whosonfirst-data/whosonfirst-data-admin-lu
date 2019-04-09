@@ -1,0 +1,66 @@
+{
+  "id": 1209244267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.94889,49.99778,5.94889,49.99778",
+    "geom:latitude":49.99778,
+    "geom:longitude":5.94889,
+    "gn:admin1_code":"WI",
+    "gn:admin2_code":"11.0",
+    "gn:asciiname":"Eschweiler",
+    "gn:country_code":"LU",
+    "gn:dem":433,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2960594,
+    "gn:latitude":49.99778,
+    "gn:longitude":5.94889,
+    "gn:modification_date":"2017-10-02",
+    "gn:name":"Eschweiler",
+    "gn:population":205,
+    "gn:timezone":"Europe/Luxembourg",
+    "iso:country":"LU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2960594,
+        "wk:page":"Eschweiler,_Wiltz"
+    },
+    "wof:country":"LU",
+    "wof:geomhash":"a9f34d51a1287eba195e84dea1905557",
+    "wof:hierarchy":[
+        {
+            "country_id":85633275,
+            "locality_id":1209244267
+        }
+    ],
+    "wof:id":1209244267,
+    "wof:lastmodified":1537568185,
+    "wof:name":"Eschweiler",
+    "wof:parent_id":85633275,
+    "wof:placetype":"locality",
+    "wof:population":205,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-lu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.94889,
+    49.99778,
+    5.94889,
+    49.99778
+],
+  "geometry": {"coordinates":[5.94889,49.99778],"type":"Point"}
+}

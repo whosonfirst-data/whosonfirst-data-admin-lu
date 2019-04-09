@@ -1,0 +1,110 @@
+{
+  "id": 1125823799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.355,49.53083,6.355,49.53083",
+    "geom:latitude":49.53083,
+    "geom:longitude":6.355,
+    "gn:gn_country":"LU",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":593,
+    "gn:population":593,
+    "iso:country":"LU",
+    "lbl:latitude":49.53083,
+    "lbl:longitude":6.355,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Bech-Kleinmacher"
+    ],
+    "name:dut_x_preferred":[
+        "Bech-Kleinmacher"
+    ],
+    "name:eng_x_preferred":[
+        "Bech-Kleinmacher"
+    ],
+    "name:fre_x_preferred":[
+        "Bech-Kleinmacher"
+    ],
+    "name:ltz_x_preferred":[
+        "Bech-Maacher"
+    ],
+    "name:pol_x_preferred":[
+        "Bech-Kleinmacher"
+    ],
+    "name:swe_x_preferred":[
+        "Bech-Kleinmacher"
+    ],
+    "name:unk_x_variant":[
+        "Bech-Kleinmacher"
+    ],
+    "qs_pg:aaroncc":"LU",
+    "qs_pg:gn_country":"LU",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3283390,
+    "qs_pg:gn_pop":593,
+    "qs_pg:name":"Kleinmacher",
+    "qs_pg:name_adm0":"Luxembourg",
+    "qs_pg:name_adm1":"Grevenmacher",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":192591,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424881,
+    "qs_pg:woe_id":979670,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424881,
+    "woe:name_adm0":"Luxembourg",
+    "woe:name_adm1":"Grevenmacher",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3283390,
+        "gp:id":979670,
+        "qs_pg:id":192591,
+        "wd:id":"Q2893442"
+    },
+    "wof:country":"LU",
+    "wof:created":1497292184,
+    "wof:geomhash":"6feeb47c67eabb2c5a28175f81b53449",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "locality_id":1125823799,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1125823799,
+    "wof:lastmodified":1514483913,
+    "wof:name":"Kleinmacher",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":593,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-lu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.355,
+    49.53083,
+    6.355,
+    49.53083
+],
+  "geometry": {"coordinates":[6.355,49.53083],"type":"Point"}
+}

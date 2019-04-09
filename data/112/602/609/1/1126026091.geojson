@@ -1,0 +1,113 @@
+{
+  "id": 1126026091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.0375,50.05778,6.0375,50.05778",
+    "geom:latitude":50.05778,
+    "geom:longitude":6.0375,
+    "gn:gn_country":"LU",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":193,
+    "gn:population":193,
+    "iso:country":"LU",
+    "lbl:latitude":50.05778,
+    "lbl:longitude":6.0375,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Reuler"
+    ],
+    "name:dut_x_preferred":[
+        "Reuler"
+    ],
+    "name:eng_x_preferred":[
+        "Reuler"
+    ],
+    "name:fre_x_preferred":[
+        "Reuler"
+    ],
+    "name:ger_x_preferred":[
+        "Reuler"
+    ],
+    "name:ltz_x_preferred":[
+        "Reiler"
+    ],
+    "name:pol_x_preferred":[
+        "Reuler"
+    ],
+    "name:swe_x_preferred":[
+        "Reuler"
+    ],
+    "qs_pg:aaroncc":"LU",
+    "qs_pg:gn_country":"LU",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2960149,
+    "qs_pg:gn_pop":193,
+    "qs_pg:name":"Reuler",
+    "qs_pg:name_adm0":"Luxembourg",
+    "qs_pg:name_adm1":"Diekirch",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":2,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":1021784,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424881,
+    "qs_pg:woe_id":979863,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424881,
+    "woe:name_adm0":"Luxembourg",
+    "woe:name_adm1":"Diekirch",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633275,
+        85673865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2960149,
+        "gp:id":979863,
+        "qs_pg:id":1021784,
+        "wd:id":"Q2691811"
+    },
+    "wof:country":"LU",
+    "wof:created":1497301149,
+    "wof:geomhash":"68c01c0bc736ad33ef0406b2dbd84608",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "locality_id":1126026091,
+            "region_id":85673865
+        }
+    ],
+    "wof:id":1126026091,
+    "wof:lastmodified":1514483934,
+    "wof:name":"Reuler",
+    "wof:parent_id":85673865,
+    "wof:placetype":"locality",
+    "wof:population":193,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-lu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.0375,
+    50.05778,
+    6.0375,
+    50.05778
+],
+  "geometry": {"coordinates":[6.0375,50.05778],"type":"Point"}
+}

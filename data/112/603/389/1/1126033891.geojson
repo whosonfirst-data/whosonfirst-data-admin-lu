@@ -1,0 +1,113 @@
+{
+  "id": 1126033891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.91222,49.75528,5.91222,49.75528",
+    "geom:latitude":49.75528,
+    "geom:longitude":5.91222,
+    "gn:gn_country":"LU",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":374,
+    "gn:population":374,
+    "iso:country":"LU",
+    "lbl:latitude":49.75528,
+    "lbl:longitude":5.91222,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Niederpallen"
+    ],
+    "name:dut_x_preferred":[
+        "Niederpallen"
+    ],
+    "name:eng_x_preferred":[
+        "Niederpallen"
+    ],
+    "name:fre_x_preferred":[
+        "Niederpallen"
+    ],
+    "name:ger_x_preferred":[
+        "Niederpallen"
+    ],
+    "name:ltz_x_preferred":[
+        "Nidderpallen"
+    ],
+    "name:pol_x_preferred":[
+        "Niederpallen"
+    ],
+    "name:swe_x_preferred":[
+        "Niederpallen"
+    ],
+    "qs_pg:aaroncc":"LU",
+    "qs_pg:gn_country":"LU",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2960226,
+    "qs_pg:gn_pop":374,
+    "qs_pg:name":"Niederpallen",
+    "qs_pg:name_adm0":"Luxembourg",
+    "qs_pg:name_adm1":"Diekirch",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":116,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":259217,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424881,
+    "qs_pg:woe_id":979801,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424881,
+    "woe:name_adm0":"Luxembourg",
+    "woe:name_adm1":"Diekirch",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633275,
+        85673865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2960226,
+        "gp:id":979801,
+        "qs_pg:id":259217,
+        "wd:id":"Q1026530"
+    },
+    "wof:country":"LU",
+    "wof:created":1497301653,
+    "wof:geomhash":"791c54b687e0418aa0b645e61d07500e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "locality_id":1126033891,
+            "region_id":85673865
+        }
+    ],
+    "wof:id":1126033891,
+    "wof:lastmodified":1514483928,
+    "wof:name":"Niederpallen",
+    "wof:parent_id":85673865,
+    "wof:placetype":"locality",
+    "wof:population":374,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-lu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.91222,
+    49.75528,
+    5.91222,
+    49.75528
+],
+  "geometry": {"coordinates":[5.91222,49.75528],"type":"Point"}
+}

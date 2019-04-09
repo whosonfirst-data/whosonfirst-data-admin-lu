@@ -1,0 +1,108 @@
+{
+  "id": 1125951881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.23944,49.86778,6.23944,49.86778",
+    "geom:latitude":49.86778,
+    "geom:longitude":6.23944,
+    "gn:gn_country":"LU",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":418,
+    "gn:population":418,
+    "iso:country":"LU",
+    "lbl:latitude":49.86778,
+    "lbl:longitude":6.23944,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Moestroff"
+    ],
+    "name:dut_x_preferred":[
+        "Moestroff"
+    ],
+    "name:eng_x_preferred":[
+        "Moestroff"
+    ],
+    "name:fre_x_preferred":[
+        "Moestroff"
+    ],
+    "name:ltz_x_preferred":[
+        "M\u00e9ischtref"
+    ],
+    "name:pol_x_preferred":[
+        "Moestroff"
+    ],
+    "name:swe_x_preferred":[
+        "Moestroff"
+    ],
+    "qs_pg:aaroncc":"LU",
+    "qs_pg:gn_country":"LU",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2960260,
+    "qs_pg:gn_pop":418,
+    "qs_pg:name":"Moestroff",
+    "qs_pg:name_adm0":"Luxembourg",
+    "qs_pg:name_adm1":"Diekirch",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1287983,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424881,
+    "qs_pg:woe_id":979765,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424881,
+    "woe:name_adm0":"Luxembourg",
+    "woe:name_adm1":"Diekirch",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633275,
+        85673865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2960260,
+        "gp:id":979765,
+        "qs_pg:id":1287983,
+        "wd:id":"Q2238050"
+    },
+    "wof:country":"LU",
+    "wof:created":1497297489,
+    "wof:geomhash":"64e69a035b49698eb6a068819862b16d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "locality_id":1125951881,
+            "region_id":85673865
+        }
+    ],
+    "wof:id":1125951881,
+    "wof:lastmodified":1514483925,
+    "wof:name":"Moestroff",
+    "wof:parent_id":85673865,
+    "wof:placetype":"locality",
+    "wof:population":418,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-lu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.23944,
+    49.86778,
+    6.23944,
+    49.86778
+],
+  "geometry": {"coordinates":[6.23944,49.86778],"type":"Point"}
+}

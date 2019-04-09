@@ -1,0 +1,70 @@
+{
+  "id": 1343297791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.05372,49.92139,6.05372,49.92139",
+    "geom:latitude":49.92139,
+    "geom:longitude":6.05372,
+    "gn:admin1_code":"DI",
+    "gn:admin2_code":"3.0",
+    "gn:asciiname":"Goebelsmuhle",
+    "gn:country_code":"LU",
+    "gn:dem":260,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2960538,
+    "gn:latitude":49.92139,
+    "gn:longitude":6.05372,
+    "gn:modification_date":"2017-10-02",
+    "gn:name":"Goebelsmuhle",
+    "gn:population":0,
+    "gn:timezone":"Europe/Luxembourg",
+    "iso:country":"LU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Goebelsm\u00fchle"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633275,
+        85673865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2960538,
+        "wk:page":"Goebelsmuhle"
+    },
+    "wof:country":"LU",
+    "wof:geomhash":"0544e4516886264b57de64ee32f2774c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "locality_id":1343297791,
+            "region_id":85673865
+        }
+    ],
+    "wof:id":1343297791,
+    "wof:lastmodified":1537662997,
+    "wof:name":"Goebelsmuhle",
+    "wof:parent_id":85673865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.05372,
+    49.92139,
+    6.05372,
+    49.92139
+],
+  "geometry": {"coordinates":[6.05372,49.92139],"type":"Point"}
+}

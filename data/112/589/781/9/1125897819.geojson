@@ -1,0 +1,85 @@
+{
+  "id": 1125897819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.285,49.56778,6.285,49.56778",
+    "geom:latitude":49.56778,
+    "geom:longitude":6.285,
+    "gn:gn_country":"LU",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"LU",
+    "lbl:latitude":49.56778,
+    "lbl:longitude":6.285,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "R\u00f6dt"
+    ],
+    "qs_pg:aaroncc":"LU",
+    "qs_pg:gn_country":"LU",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2960136,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Roedt",
+    "qs_pg:name_adm0":"Luxembourg",
+    "qs_pg:name_adm1":"Grevenmacher",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":353880,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424881,
+    "qs_pg:woe_id":979875,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424881,
+    "woe:name_adm0":"Luxembourg",
+    "woe:name_adm1":"Grevenmacher",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633275,
+        85673869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2960136,
+        "gp:id":979875,
+        "qs_pg:id":353880
+    },
+    "wof:country":"LU",
+    "wof:created":1497295661,
+    "wof:geomhash":"77c28fe23b3203332164e5de9efc0416",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "locality_id":1125897819,
+            "region_id":85673869
+        }
+    ],
+    "wof:id":1125897819,
+    "wof:lastmodified":1509399225,
+    "wof:name":"Roedt",
+    "wof:parent_id":85673869,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.285,
+    49.56778,
+    6.285,
+    49.56778
+],
+  "geometry": {"coordinates":[6.285,49.56778],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1293718181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.9,49.88333,5.9,49.88333",
+    "geom:latitude":49.88333,
+    "geom:longitude":5.9,
+    "gn:admin1_code":"RD",
+    "gn:admin2_code":"13.0",
+    "gn:asciiname":"Moulin de Bascharage",
+    "gn:country_code":"LU",
+    "gn:dem":451,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2960287,
+    "gn:latitude":49.88333,
+    "gn:longitude":5.9,
+    "gn:modification_date":"2017-01-28",
+    "gn:name":"Moulin de Bascharage",
+    "gn:population":0,
+    "gn:timezone":"Europe/Luxembourg",
+    "iso:country":"LU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bascharage Moulin",
+        "Moulin de Bascharage"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633275,
+        85673865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2960287
+    },
+    "wof:country":"LU",
+    "wof:geomhash":"4da513a44389d105cd8442bc9457e538",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "locality_id":1293718181,
+            "region_id":85673865
+        }
+    ],
+    "wof:id":1293718181,
+    "wof:lastmodified":1537662994,
+    "wof:name":"Moulin de Bascharage",
+    "wof:parent_id":85673865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.9,
+    49.88333,
+    5.9,
+    49.88333
+],
+  "geometry": {"coordinates":[5.9,49.88333],"type":"Point"}
+}

@@ -1,0 +1,115 @@
+{
+  "id": 1126048949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.31917,49.85361,6.31917,49.85361",
+    "geom:latitude":49.85361,
+    "geom:longitude":6.31917,
+    "gn:gn_country":"LU",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":159,
+    "gn:population":159,
+    "iso:country":"LU",
+    "lbl:latitude":49.85361,
+    "lbl:longitude":6.31917,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Dillingen"
+    ],
+    "name:dut_x_preferred":[
+        "Dillingen"
+    ],
+    "name:eng_x_preferred":[
+        "Dillingen"
+    ],
+    "name:fre_x_preferred":[
+        "Dillingen"
+    ],
+    "name:ger_x_preferred":[
+        "Dillingen"
+    ],
+    "name:ltz_x_preferred":[
+        "D\u00e9iljen"
+    ],
+    "name:pol_x_preferred":[
+        "Dillingen"
+    ],
+    "name:swe_x_preferred":[
+        "Dillingen"
+    ],
+    "name:unk_x_variant":[
+        "Diligen"
+    ],
+    "qs_pg:aaroncc":"LU",
+    "qs_pg:gn_country":"LU",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2960649,
+    "qs_pg:gn_pop":159,
+    "qs_pg:name":"Dillingen",
+    "qs_pg:name_adm0":"Luxembourg",
+    "qs_pg:name_adm1":"Grevenmacher",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":2,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":265658,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424881,
+    "qs_pg:woe_id":20105020,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424881,
+    "woe:name_adm0":"Luxembourg",
+    "woe:name_adm1":"Grevenmacher",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2960649,
+        "gp:id":20105020,
+        "qs_pg:id":265658,
+        "wd:id":"Q1026551"
+    },
+    "wof:country":"LU",
+    "wof:created":1497302610,
+    "wof:geomhash":"6fafeea4f5f9d75322883f0865ea56c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "locality_id":1126048949,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1126048949,
+    "wof:lastmodified":1514483900,
+    "wof:name":"Dillingen",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":159,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-lu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.31917,
+    49.85361,
+    6.31917,
+    49.85361
+],
+  "geometry": {"coordinates":[6.31917,49.85361],"type":"Point"}
+}

@@ -1,0 +1,113 @@
+{
+  "id": 1125933643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.835092,49.523915,5.835092,49.523915",
+    "geom:latitude":49.523915,
+    "geom:longitude":5.835092,
+    "gn:gn_country":"LU",
+    "iso:country":"LU",
+    "lbl:latitude":49.523915,
+    "lbl:longitude":5.835092,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Lasauvage"
+    ],
+    "name:dut_x_preferred":[
+        "Lasauvage"
+    ],
+    "name:eng_x_preferred":[
+        "Lasauvage"
+    ],
+    "name:fre_x_preferred":[
+        "Lasauvage"
+    ],
+    "name:ger_x_preferred":[
+        "Lasauvage"
+    ],
+    "name:ltz_x_preferred":[
+        "Zowaasch"
+    ],
+    "name:pol_x_preferred":[
+        "Lasauvage"
+    ],
+    "name:swe_x_preferred":[
+        "Lasauvage"
+    ],
+    "qs_pg:aaroncc":"LU",
+    "qs_pg:gn_country":"LU",
+    "qs_pg:name":"Lasauvage",
+    "qs_pg:name_adm0":"Luxembourg",
+    "qs_pg:name_adm1":"Luxembourg",
+    "qs_pg:photos":121,
+    "qs_pg:photos_1k":25,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":121,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":228799,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424881,
+    "qs_pg:woe_id":979692,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424881,
+    "woe:name_adm0":"Luxembourg",
+    "woe:name_adm1":"Luxembourg",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85683343,
+        102191581,
+        85633147,
+        404227705,
+        1108826391,
+        136253037,
+        102069785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":979692,
+        "qs_pg:id":228799,
+        "wd:id":"Q1016078"
+    },
+    "wof:country":"LU",
+    "wof:created":1497296892,
+    "wof:geomhash":"30c726a8c76d833c1b1415744996f9ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102069785,
+            "empire_id":136253037,
+            "locality_id":1125933643,
+            "macrocounty_id":404227705,
+            "macroregion_id":1108826391,
+            "region_id":85683343
+        }
+    ],
+    "wof:id":1125933643,
+    "wof:lastmodified":1541015626,
+    "wof:name":"Lasauvage",
+    "wof:parent_id":102069785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.835092,
+    49.523915,
+    5.835092,
+    49.523915
+],
+  "geometry": {"coordinates":[5.835092,49.523915],"type":"Point"}
+}

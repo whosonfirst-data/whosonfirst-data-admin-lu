@@ -1,0 +1,111 @@
+{
+  "id": 1125861373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.11694,49.72639,6.11694,49.72639",
+    "geom:latitude":49.72639,
+    "geom:longitude":6.11694,
+    "gn:gn_country":"LU",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":458,
+    "gn:population":458,
+    "iso:country":"LU",
+    "lbl:latitude":49.72639,
+    "lbl:longitude":6.11694,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Gosseldange"
+    ],
+    "name:dut_x_preferred":[
+        "Gosseldange"
+    ],
+    "name:eng_x_preferred":[
+        "Gosseldange"
+    ],
+    "name:fre_x_preferred":[
+        "Gosseldange"
+    ],
+    "name:ger_x_preferred":[
+        "Gosseldingen"
+    ],
+    "name:ltz_x_preferred":[
+        "Gousseldeng"
+    ],
+    "name:pol_x_preferred":[
+        "Gosseldange"
+    ],
+    "name:swe_x_preferred":[
+        "Gosseldange"
+    ],
+    "qs_pg:aaroncc":"LU",
+    "qs_pg:gn_country":"LU",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2960531,
+    "qs_pg:gn_pop":458,
+    "qs_pg:name":"Gosseldange",
+    "qs_pg:name_adm0":"Luxembourg",
+    "qs_pg:name_adm1":"Luxembourg",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1287889,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424881,
+    "qs_pg:woe_id":979549,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424881,
+    "woe:name_adm0":"Luxembourg",
+    "woe:name_adm1":"Luxembourg",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633275,
+        85673875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2960531,
+        "gp:id":979549,
+        "qs_pg:id":1287889,
+        "wd:id":"Q1026539"
+    },
+    "wof:country":"LU",
+    "wof:created":1497293843,
+    "wof:geomhash":"4c2eab84ceb6a7560c1379025ce5d81b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "locality_id":1125861373,
+            "region_id":85673875
+        }
+    ],
+    "wof:id":1125861373,
+    "wof:lastmodified":1514483907,
+    "wof:name":"Gosseldange",
+    "wof:parent_id":85673875,
+    "wof:placetype":"locality",
+    "wof:population":458,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-lu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.11694,
+    49.72639,
+    6.11694,
+    49.72639
+],
+  "geometry": {"coordinates":[6.11694,49.72639],"type":"Point"}
+}
