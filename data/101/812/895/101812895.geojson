@@ -26,16 +26,16 @@
     "name:dan_x_preferred":[
         "Kehlen"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Kehlen"
     ],
     "name:eng_x_preferred":[
         "Kehlen"
     ],
-    "name:fre_x_preferred":[
-        "Kehlen"
+    "name:fas_x_preferred":[
+        "\u06a9\u0647\u0644\u0646"
     ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Kehlen"
     ],
     "name:gsw_x_preferred":[
@@ -47,17 +47,17 @@
     "name:ltz_x_preferred":[
         "Gemeng Kielen"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Kehlen"
     ],
     "name:nan_x_preferred":[
         "Kehlen"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Kehlen"
     ],
-    "name:per_x_preferred":[
-        "\u06a9\u0647\u0644\u0646"
+    "name:nob_x_preferred":[
+        "Kehlen"
     ],
     "name:pol_x_preferred":[
         "Kehlen"
@@ -68,7 +68,7 @@
     "name:rus_x_preferred":[
         "\u041a\u0435\u043b\u0435\u043d"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Kehlen"
     ],
     "name:swe_x_preferred":[
@@ -126,7 +126,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1514483913,
+    "wof:lastmodified":1561837516,
     "wof:name":"Kehlen",
     "wof:parent_id":85673875,
     "wof:placetype":"locality",

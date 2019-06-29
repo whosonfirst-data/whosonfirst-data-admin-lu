@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":17385760.211967,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.130096,49.658619,6.130096,49.658619",
     "geom:latitude":49.658619,
     "geom:longitude":6.130096,
@@ -29,19 +29,13 @@
     "name:ceb_x_preferred":[
         "Beggen"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Beggen"
     ],
     "name:eng_x_preferred":[
         "Beggen"
     ],
     "name:fra_x_preferred":[
-        "Beggen"
-    ],
-    "name:fre_x_preferred":[
-        "Beggen"
-    ],
-    "name:ger_x_preferred":[
         "Beggen"
     ],
     "name:ita_x_preferred":[
@@ -127,7 +121,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531862122,
+    "wof:lastmodified":1561837514,
     "wof:name":"Beggen",
     "wof:parent_id":101753071,
     "wof:placetype":"neighbourhood",

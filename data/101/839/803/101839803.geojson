@@ -23,9 +23,6 @@
     "name:ara_x_preferred":[
         "\u0625\u064a\u0633\u0634 \u0633\u0648\u0631 \u0623\u0644\u0632\u064a\u062a\u064a"
     ],
-    "name:baq_x_preferred":[
-        "Esch-sur-Alzette"
-    ],
     "name:bel_x_preferred":[
         "\u042d\u0448-\u0441\u044e\u0440-\u0410\u043b\u044c\u0437\u0435\u0442"
     ],
@@ -41,12 +38,6 @@
     "name:ces_x_preferred":[
         "Esch-sur-Alzette"
     ],
-    "name:chi_x_preferred":[
-        "\u963f\u5c14\u6cfd\u7279\u6cb3\u7554\u57c3\u65bd"
-    ],
-    "name:cze_x_preferred":[
-        "Esch-sur-Alzette"
-    ],
     "name:dan_x_preferred":[
         "Esch-sur-Alzette"
     ],
@@ -59,9 +50,6 @@
     "name:deu_x_variant":[
         "Esch-an-der-Alzig",
         "Esch-an-der-Alzette"
-    ],
-    "name:dut_x_preferred":[
-        "Esch-sur-Alzette"
     ],
     "name:ell_x_preferred":[
         "\u0395\u03c2-\u03c3\u03c5\u03c1-\u0391\u03bb\u03b6\u03ad\u03c4"
@@ -90,18 +78,6 @@
     "name:fra_x_preferred":[
         "Esch-sur-Alzette"
     ],
-    "name:fre_x_preferred":[
-        "Esch-sur-Alzette"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d4\u10e8-\u10e1\u10d8\u10e3\u10e0-\u10d0\u10da\u10d6\u10d4\u10e2\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Esch an der Alzette"
-    ],
-    "name:gre_x_preferred":[
-        "\u0395\u03c2-\u03c3\u03c5\u03c1-\u0391\u03bb\u03b6\u03ad\u03c4"
-    ],
     "name:gsw_x_preferred":[
         "Esch-Uelzecht"
     ],
@@ -126,6 +102,9 @@
     "name:jpn_x_preferred":[
         "\u30a8\u30b7\u30e5\uff1d\u30b7\u30e5\u30eb\uff1d\u30a2\u30eb\u30bc\u30c3\u30c8"
     ],
+    "name:kat_x_preferred":[
+        "\u10d4\u10e8-\u10e1\u10d8\u10e3\u10e0-\u10d0\u10da\u10d6\u10d4\u10e2\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\uc5d0\uc288\uc26c\ub974\uc54c\uc81c\ud2b8"
     ],
@@ -138,11 +117,8 @@
     "name:ltz_x_preferred":[
         "Esch-Uelzecht"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0415\u0448 \u043d\u0430 \u0410\u043b\u0437\u0435\u0442"
-    ],
-    "name:may_x_preferred":[
-        "Esch-sur-Alzette"
     ],
     "name:msa_x_preferred":[
         "Esch-sur-Alzette"
@@ -171,9 +147,6 @@
     "name:oci_x_preferred":[
         "Esch-sur-Alzette"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0634-\u0633\u0648\u0631-\u0622\u0644\u0632\u062a"
-    ],
     "name:pms_x_preferred":[
         "Esch-sur-Alzette"
     ],
@@ -186,9 +159,6 @@
     "name:ron_x_preferred":[
         "Esch-sur-Alzette"
     ],
-    "name:rum_x_preferred":[
-        "Esch-sur-Alzette"
-    ],
     "name:rus_x_preferred":[
         "\u042d\u0448-\u0441\u044e\u0440-\u0410\u043b\u044c\u0437\u0435\u0442\u0442"
     ],
@@ -199,9 +169,6 @@
         "Esch-sur-Alzette"
     ],
     "name:slk_x_preferred":[
-        "Esch-sur-Alzette"
-    ],
-    "name:slo_x_preferred":[
         "Esch-sur-Alzette"
     ],
     "name:spa_x_preferred":[
@@ -284,7 +251,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1527715393,
+    "wof:lastmodified":1561837517,
     "wof:name":"Esch-sur-Alzette",
     "wof:parent_id":85673875,
     "wof:placetype":"locality",

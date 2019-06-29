@@ -128,6 +128,9 @@
     "name:ces_x_preferred":[
         "Lucembursko"
     ],
+    "name:ces_x_variant":[
+        "Lucemburk"
+    ],
     "name:che_x_preferred":[
         "\u041b\u044e\u043a\u0441\u0435\u043c\u0431\u0443\u0440\u0433"
     ],
@@ -157,9 +160,6 @@
     ],
     "name:cym_x_preferred":[
         "Lwcsembwrg"
-    ],
-    "name:cze_x_preferred":[
-        "Lucemburk"
     ],
     "name:cze_x_variant":[
         "Lucembursko"
@@ -687,9 +687,6 @@
     "name:rue_x_preferred":[
         "\u041b\u0443\u043a\u0441\u0435\u043c\u0431\u0443\u0440\u044c\u0441\u043a\u043e"
     ],
-    "name:rum_x_preferred":[
-        "Luxemburg"
-    ],
     "name:run_x_preferred":[
         "Lukusamburu"
     ],
@@ -910,7 +907,6 @@
         "\u5362\u68ee\u5821"
     ],
     "name:zho_x_variant":[
-        "\u5362\u68ee\u5821",
         "\u76e7\u68ee\u5821"
     ],
     "name:zho_yue_x_preferred":[
@@ -1069,7 +1065,7 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1544059219,
+    "wof:lastmodified":1561837514,
     "wof:name":"Luxembourg",
     "wof:parent_id":102191581,
     "wof:placetype":"country",

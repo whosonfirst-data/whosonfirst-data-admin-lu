@@ -22,17 +22,17 @@
     "name:cat_x_preferred":[
         "Lieler"
     ],
-    "name:dut_x_preferred":[
-        "Lieler"
-    ],
     "name:eng_x_preferred":[
         "Lieler"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Lieler"
     ],
     "name:ltz_x_preferred":[
         "L\u00e9iler"
+    ],
+    "name:nld_x_preferred":[
+        "Lieler"
     ],
     "name:pol_x_preferred":[
         "Lieler"
@@ -90,7 +90,7 @@
         }
     ],
     "wof:id":1125994083,
-    "wof:lastmodified":1514483916,
+    "wof:lastmodified":1561837523,
     "wof:name":"Lieler",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

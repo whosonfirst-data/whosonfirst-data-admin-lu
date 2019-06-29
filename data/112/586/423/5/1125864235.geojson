@@ -22,17 +22,17 @@
     "name:cat_x_preferred":[
         "Rippig"
     ],
-    "name:dut_x_preferred":[
-        "Rippig"
-    ],
     "name:eng_x_preferred":[
         "Rippig"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Rippig"
     ],
     "name:ltz_x_preferred":[
         "Rippeg"
+    ],
+    "name:nld_x_preferred":[
+        "Rippig"
     ],
     "name:pol_x_preferred":[
         "Rippig"
@@ -89,7 +89,7 @@
         }
     ],
     "wof:id":1125864235,
-    "wof:lastmodified":1514483934,
+    "wof:lastmodified":1561837521,
     "wof:name":"Rippig",
     "wof:parent_id":85673869,
     "wof:placetype":"locality",

@@ -22,17 +22,17 @@
     "name:cat_x_preferred":[
         "Pintsch"
     ],
-    "name:dut_x_preferred":[
-        "Pintsch"
-    ],
     "name:eng_x_preferred":[
         "Pintsch"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Pintsch"
     ],
     "name:ltz_x_preferred":[
         "P\u00ebnsch"
+    ],
+    "name:nld_x_preferred":[
+        "Pintsch"
     ],
     "name:pol_x_preferred":[
         "Pintsch"
@@ -89,7 +89,7 @@
         }
     ],
     "wof:id":1125867191,
-    "wof:lastmodified":1553816584,
+    "wof:lastmodified":1561837521,
     "wof:name":"Pintsch",
     "wof:parent_id":85673865,
     "wof:placetype":"locality",

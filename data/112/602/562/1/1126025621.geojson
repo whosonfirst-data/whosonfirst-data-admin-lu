@@ -22,17 +22,17 @@
     "name:cat_x_preferred":[
         "Scheidgen"
     ],
-    "name:dut_x_preferred":[
-        "Scheidgen"
-    ],
     "name:eng_x_preferred":[
         "Scheidgen"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Scheidgen"
     ],
     "name:ltz_x_preferred":[
         "Scheedgen"
+    ],
+    "name:nld_x_preferred":[
+        "Scheidgen"
     ],
     "name:pol_x_preferred":[
         "Scheidgen"
@@ -89,7 +89,7 @@
         }
     ],
     "wof:id":1126025621,
-    "wof:lastmodified":1514483937,
+    "wof:lastmodified":1561837520,
     "wof:name":"Scheidgen",
     "wof:parent_id":85673869,
     "wof:placetype":"locality",

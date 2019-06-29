@@ -22,17 +22,17 @@
     "name:cat_x_preferred":[
         "Siebenaler"
     ],
-    "name:dut_x_preferred":[
-        "Siebenaler"
-    ],
     "name:eng_x_preferred":[
         "Siebenaler"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Siebenaler"
     ],
     "name:ltz_x_preferred":[
         "Siwwenaler"
+    ],
+    "name:nld_x_preferred":[
+        "Siebenaler"
     ],
     "qs_pg:aaroncc":"LU",
     "qs_pg:gn_country":"LU",
@@ -81,7 +81,7 @@
         }
     ],
     "wof:id":1125952309,
-    "wof:lastmodified":1514483939,
+    "wof:lastmodified":1561837519,
     "wof:name":"Siebenaler",
     "wof:parent_id":85673865,
     "wof:placetype":"locality",

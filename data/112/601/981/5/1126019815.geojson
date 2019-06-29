@@ -34,20 +34,17 @@
     "name:deu_x_preferred":[
         "Tuntange"
     ],
-    "name:dut_x_preferred":[
-        "Tuntange"
+    "name:deu_x_variant":[
+        "T\u00fcntingen"
     ],
     "name:eng_x_preferred":[
         "Tuntange"
     ],
+    "name:fas_x_preferred":[
+        "\u062a\u0648\u0646\u062a\u0627\u0646\u0698"
+    ],
     "name:fra_x_preferred":[
         "Tuntange"
-    ],
-    "name:fre_x_preferred":[
-        "Tuntange"
-    ],
-    "name:ger_x_preferred":[
-        "T\u00fcntingen"
     ],
     "name:gsw_x_preferred":[
         "T\u00ebnten"
@@ -58,7 +55,7 @@
     "name:ltz_x_preferred":[
         "T\u00ebnten"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Tuntange"
     ],
     "name:nld_x_preferred":[
@@ -66,9 +63,6 @@
     ],
     "name:nob_x_preferred":[
         "Tuntange"
-    ],
-    "name:per_x_preferred":[
-        "\u062a\u0648\u0646\u062a\u0627\u0646\u0698"
     ],
     "name:pol_x_preferred":[
         "Tuntange"
@@ -79,7 +73,7 @@
     "name:rus_x_preferred":[
         "\u0422\u0443\u043d\u0442\u0430\u043d\u0436"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Tuntange"
     ],
     "name:swe_x_preferred":[
@@ -140,7 +134,7 @@
         }
     ],
     "wof:id":1126019815,
-    "wof:lastmodified":1514483941,
+    "wof:lastmodified":1561837525,
     "wof:name":"Tuntange",
     "wof:parent_id":85673875,
     "wof:placetype":"locality",

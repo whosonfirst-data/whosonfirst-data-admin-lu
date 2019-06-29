@@ -25,16 +25,16 @@
     "name:cat_x_preferred":[
         "Findel"
     ],
-    "name:dut_x_preferred":[
-        "Findel"
-    ],
     "name:eng_x_preferred":[
         "Findel"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Findel"
     ],
     "name:ltz_x_preferred":[
+        "Findel"
+    ],
+    "name:nld_x_preferred":[
         "Findel"
     ],
     "name:pol_x_preferred":[
@@ -92,7 +92,7 @@
         }
     ],
     "wof:id":1125961415,
-    "wof:lastmodified":1514483905,
+    "wof:lastmodified":1561837524,
     "wof:name":"Findel",
     "wof:parent_id":85673875,
     "wof:placetype":"locality",

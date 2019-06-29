@@ -22,20 +22,20 @@
     "name:cat_x_preferred":[
         "Liefrange"
     ],
-    "name:dut_x_preferred":[
-        "Liefrange"
+    "name:deu_x_preferred":[
+        "Liefringen"
     ],
     "name:eng_x_preferred":[
         "Liefrange"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Liefrange"
-    ],
-    "name:ger_x_preferred":[
-        "Liefringen"
     ],
     "name:ltz_x_preferred":[
         "L\u00e9ifreg"
+    ],
+    "name:nld_x_preferred":[
+        "Liefrange"
     ],
     "qs_pg:aaroncc":"LU",
     "qs_pg:gn_country":"LU",
@@ -88,7 +88,7 @@
         }
     ],
     "wof:id":1125951749,
-    "wof:lastmodified":1514483916,
+    "wof:lastmodified":1561837519,
     "wof:name":"Liefrange",
     "wof:parent_id":85673865,
     "wof:placetype":"locality",

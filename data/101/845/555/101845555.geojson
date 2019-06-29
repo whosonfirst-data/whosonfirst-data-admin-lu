@@ -38,19 +38,10 @@
     "name:deu_x_preferred":[
         "Hosingen"
     ],
-    "name:dut_x_preferred":[
-        "Hosingen"
-    ],
     "name:eng_x_preferred":[
         "Hosingen"
     ],
     "name:fra_x_preferred":[
-        "Hosingen"
-    ],
-    "name:fre_x_preferred":[
-        "Hosingen"
-    ],
-    "name:ger_x_preferred":[
         "Hosingen"
     ],
     "name:gsw_x_preferred":[
@@ -90,9 +81,6 @@
         "\u0425\u043e\u0437\u0438\u043d\u0433\u0435\u043d"
     ],
     "name:slk_x_preferred":[
-        "Hosingen"
-    ],
-    "name:slo_x_preferred":[
         "Hosingen"
     ],
     "name:spa_x_preferred":[
@@ -154,7 +142,7 @@
         }
     ],
     "wof:id":101845555,
-    "wof:lastmodified":1527642315,
+    "wof:lastmodified":1561837515,
     "wof:name":"Hosingen",
     "wof:parent_id":85673865,
     "wof:placetype":"locality",

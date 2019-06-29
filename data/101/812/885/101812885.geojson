@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000123,
-    "geom:area_square_m":986777.921305,
+    "geom:area_square_m":986777.921306,
     "geom:bbox":"6.12196145004,49.7134122324,6.14608320096,49.7280609789",
     "geom:latitude":49.721675,
     "geom:longitude":6.130499,
@@ -35,9 +35,6 @@
     "name:deu_x_preferred":[
         "Lintgen"
     ],
-    "name:dut_x_preferred":[
-        "Lintgen"
-    ],
     "name:eng_x_preferred":[
         "Ferme Rouge"
     ],
@@ -45,12 +42,6 @@
         "\u0644\u06cc\u0646\u062a\u062c\u0646"
     ],
     "name:fra_x_preferred":[
-        "Lintgen"
-    ],
-    "name:fre_x_preferred":[
-        "Lintgen"
-    ],
-    "name:ger_x_preferred":[
         "Lintgen"
     ],
     "name:gsw_x_preferred":[
@@ -64,9 +55,6 @@
     ],
     "name:ltz_x_preferred":[
         "Gemeng L\u00ebntgen"
-    ],
-    "name:may_x_preferred":[
-        "Lintgen"
     ],
     "name:msa_x_preferred":[
         "Lintgen"
@@ -83,9 +71,6 @@
     "name:nor_x_preferred":[
         "Lintgen"
     ],
-    "name:per_x_preferred":[
-        "\u0644\u06cc\u0646\u062a\u062c\u0646"
-    ],
     "name:pol_x_preferred":[
         "Lintgen"
     ],
@@ -96,9 +81,6 @@
         "\u041b\u0438\u043d\u0442\u0433\u0435\u043d"
     ],
     "name:slk_x_preferred":[
-        "Lintgen"
-    ],
-    "name:slo_x_preferred":[
         "Lintgen"
     ],
     "name:swe_x_preferred":[
@@ -165,7 +147,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527714871,
+    "wof:lastmodified":1561837516,
     "wof:name":"Lintgen",
     "wof:parent_id":85673875,
     "wof:placetype":"locality",

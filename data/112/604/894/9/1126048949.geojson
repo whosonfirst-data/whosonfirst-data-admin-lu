@@ -22,20 +22,20 @@
     "name:cat_x_preferred":[
         "Dillingen"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Dillingen"
     ],
     "name:eng_x_preferred":[
         "Dillingen"
     ],
-    "name:fre_x_preferred":[
-        "Dillingen"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Dillingen"
     ],
     "name:ltz_x_preferred":[
         "D\u00e9iljen"
+    ],
+    "name:nld_x_preferred":[
+        "Dillingen"
     ],
     "name:pol_x_preferred":[
         "Dillingen"
@@ -94,7 +94,7 @@
         }
     ],
     "wof:id":1126048949,
-    "wof:lastmodified":1514483900,
+    "wof:lastmodified":1561837520,
     "wof:name":"Dillingen",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

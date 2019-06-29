@@ -21,17 +21,17 @@
     "name:cat_x_preferred":[
         "Itzig"
     ],
-    "name:dut_x_preferred":[
-        "Itzig"
-    ],
     "name:eng_x_preferred":[
         "Itzig"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Itzig"
     ],
     "name:ltz_x_preferred":[
         "Izeg"
+    ],
+    "name:nld_x_preferred":[
+        "Itzig"
     ],
     "name:pol_x_preferred":[
         "Itzig"
@@ -90,7 +90,7 @@
         }
     ],
     "wof:id":1125924523,
-    "wof:lastmodified":1514483912,
+    "wof:lastmodified":1561837518,
     "wof:name":"Itzig",
     "wof:parent_id":85673875,
     "wof:placetype":"locality",

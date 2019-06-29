@@ -22,13 +22,10 @@
     "name:cat_x_preferred":[
         "T\u00e9tange"
     ],
-    "name:dut_x_preferred":[
-        "T\u00e9tange"
-    ],
     "name:eng_x_preferred":[
         "T\u00e9tange"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "T\u00e9tange"
     ],
     "name:hun_x_preferred":[
@@ -39,6 +36,9 @@
     ],
     "name:ltz_x_preferred":[
         "T\u00e9iteng"
+    ],
+    "name:nld_x_preferred":[
+        "T\u00e9tange"
     ],
     "name:pol_x_preferred":[
         "Tetange"
@@ -98,7 +98,7 @@
         }
     ],
     "wof:id":1125822313,
-    "wof:lastmodified":1514483941,
+    "wof:lastmodified":1561837526,
     "wof:name":"T\u00e9tange",
     "wof:parent_id":85673875,
     "wof:placetype":"locality",

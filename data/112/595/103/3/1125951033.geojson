@@ -22,17 +22,17 @@
     "name:cat_x_preferred":[
         "Goetzingen"
     ],
-    "name:dut_x_preferred":[
-        "Goetzingen"
-    ],
     "name:eng_x_preferred":[
         "Goetzingen"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Goetzingen"
     ],
     "name:ltz_x_preferred":[
         "G\u00ebtzen"
+    ],
+    "name:nld_x_preferred":[
+        "Goetzingen"
     ],
     "name:pol_x_preferred":[
         "Goetzingen"
@@ -90,7 +90,7 @@
         }
     ],
     "wof:id":1125951033,
-    "wof:lastmodified":1514483907,
+    "wof:lastmodified":1561837518,
     "wof:name":"Goetzange",
     "wof:parent_id":85673875,
     "wof:placetype":"locality",

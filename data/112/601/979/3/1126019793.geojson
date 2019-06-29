@@ -31,19 +31,13 @@
     "name:deu_x_preferred":[
         "Saeul"
     ],
-    "name:dut_x_preferred":[
-        "Saeul"
-    ],
     "name:eng_x_preferred":[
         "Saeul"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u0627\u0626\u0648\u0644"
+    ],
     "name:fra_x_preferred":[
-        "Saeul"
-    ],
-    "name:fre_x_preferred":[
-        "Saeul"
-    ],
-    "name:ger_x_preferred":[
         "Saeul"
     ],
     "name:gsw_x_preferred":[
@@ -55,7 +49,7 @@
     "name:ltz_x_preferred":[
         "S\u00ebll"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Saeul"
     ],
     "name:nld_x_preferred":[
@@ -63,9 +57,6 @@
     ],
     "name:nob_x_preferred":[
         "Saeul"
-    ],
-    "name:per_x_preferred":[
-        "\u0633\u0627\u0626\u0648\u0644"
     ],
     "name:pol_x_preferred":[
         "Saeul"
@@ -76,7 +67,7 @@
     "name:rus_x_preferred":[
         "\u0421\u0438\u043e\u043b\u044c"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Saeul"
     ],
     "name:swe_x_preferred":[
@@ -134,7 +125,7 @@
         }
     ],
     "wof:id":1126019793,
-    "wof:lastmodified":1514483936,
+    "wof:lastmodified":1561837524,
     "wof:name":"Saeul",
     "wof:parent_id":85673875,
     "wof:placetype":"locality",

@@ -25,23 +25,20 @@
     "name:cat_x_preferred":[
         "Septfontaines"
     ],
-    "name:chi_x_preferred":[
-        "\u585e\u666e\u7279\u4e30\u6cf0\u5185"
-    ],
     "name:dan_x_preferred":[
         "Septfontaines"
     ],
-    "name:dut_x_preferred":[
-        "Septfontaines"
+    "name:deu_x_preferred":[
+        "Simmern"
     ],
     "name:eng_x_preferred":[
         "Septfontaines"
     ],
-    "name:fre_x_preferred":[
-        "Septfontaines"
+    "name:fas_x_preferred":[
+        "\u0633\u062a\u0641\u0648\u0646\u062a\u0646"
     ],
-    "name:ger_x_preferred":[
-        "Simmern"
+    "name:fra_x_preferred":[
+        "Septfontaines"
     ],
     "name:gsw_x_preferred":[
         "Simmer"
@@ -52,14 +49,14 @@
     "name:ltz_x_preferred":[
         "Gemeng Simmer"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Septfontaines"
+    ],
+    "name:nld_x_preferred":[
         "Septfontaines"
     ],
     "name:nob_x_preferred":[
         "Septfontaines"
-    ],
-    "name:per_x_preferred":[
-        "\u0633\u062a\u0641\u0648\u0646\u062a\u0646"
     ],
     "name:pol_x_preferred":[
         "Septfontaines"
@@ -70,7 +67,7 @@
     "name:rus_x_preferred":[
         "\u0421\u0435\u0442\u0444\u043e\u043d\u0442\u0435\u043d"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Septfontaines"
     ],
     "name:swe_x_preferred":[
@@ -81,6 +78,9 @@
     ],
     "name:unk_x_variant":[
         "Simmern"
+    ],
+    "name:zho_x_preferred":[
+        "\u585e\u666e\u7279\u4e30\u6cf0\u5185"
     ],
     "qs_pg:aaroncc":"LU",
     "qs_pg:gn_country":"LU",
@@ -133,7 +133,7 @@
         }
     ],
     "wof:id":1125885157,
-    "wof:lastmodified":1514483938,
+    "wof:lastmodified":1561837522,
     "wof:name":"Septfontaines",
     "wof:parent_id":85673875,
     "wof:placetype":"locality",

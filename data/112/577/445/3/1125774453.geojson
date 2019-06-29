@@ -28,16 +28,16 @@
     "name:dan_x_preferred":[
         "Grosbous"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Grosbous"
     ],
     "name:eng_x_preferred":[
         "Grosbous"
     ],
-    "name:fre_x_preferred":[
-        "Grosbous"
+    "name:fas_x_preferred":[
+        "\u06af\u0631\u0648\u0633\u0628\u0648\u0633"
     ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Grosbous"
     ],
     "name:gsw_x_preferred":[
@@ -49,17 +49,17 @@
     "name:ltz_x_preferred":[
         "Gemeng Groussbus"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Grosbous"
     ],
     "name:nan_x_preferred":[
         "Grosbous"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Grosbous"
     ],
-    "name:per_x_preferred":[
-        "\u06af\u0631\u0648\u0633\u0628\u0648\u0633"
+    "name:nob_x_preferred":[
+        "Grosbous"
     ],
     "name:pol_x_preferred":[
         "Grosbous"
@@ -70,7 +70,7 @@
     "name:rus_x_preferred":[
         "\u0413\u0440\u043e\u0441\u0431\u0443\u0441"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Grosbous"
     ],
     "name:swe_x_preferred":[
@@ -130,7 +130,7 @@
         }
     ],
     "wof:id":1125774453,
-    "wof:lastmodified":1553816526,
+    "wof:lastmodified":1561837528,
     "wof:name":"Grosbous",
     "wof:parent_id":85673865,
     "wof:placetype":"locality",

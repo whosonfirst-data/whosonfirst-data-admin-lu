@@ -26,16 +26,16 @@
     "name:dan_x_preferred":[
         "Lenningen"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Lenningen"
     ],
     "name:eng_x_preferred":[
         "Ihnen"
     ],
-    "name:fre_x_preferred":[
-        "Lenningen"
+    "name:fas_x_preferred":[
+        "\u0644\u0646\u06cc\u0646\u06af\u0646"
     ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Lenningen"
     ],
     "name:gsw_x_preferred":[
@@ -47,17 +47,17 @@
     "name:ltz_x_preferred":[
         "Gemeng Lenneng"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lenningen"
     ],
     "name:nan_x_preferred":[
         "Lenningen"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Lenningen"
     ],
-    "name:per_x_preferred":[
-        "\u0644\u0646\u06cc\u0646\u06af\u0646"
+    "name:nob_x_preferred":[
+        "Lenningen"
     ],
     "name:pol_x_preferred":[
         "Lenningen"
@@ -68,7 +68,7 @@
     "name:rus_x_preferred":[
         "\u041b\u0435\u043d\u043d\u0438\u043d\u0433\u0435\u043d"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Lenningen"
     ],
     "name:spa_x_preferred":[
@@ -130,7 +130,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1544742777,
+    "wof:lastmodified":1561837517,
     "wof:name":"Lenningen",
     "wof:parent_id":85673869,
     "wof:placetype":"locality",

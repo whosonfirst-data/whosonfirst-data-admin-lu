@@ -20,25 +20,16 @@
     "name:als_x_preferred":[
         "Wolz"
     ],
-    "name:baq_x_preferred":[
-        "Wiltz"
-    ],
     "name:bel_x_preferred":[
         "\u0412\u0456\u043b\u044c\u0446"
     ],
     "name:cat_x_preferred":[
         "Wiltz"
     ],
-    "name:chi_x_preferred":[
-        "\u7dad\u723e\u8328"
-    ],
     "name:dan_x_preferred":[
         "Wiltz"
     ],
     "name:deu_x_preferred":[
-        "Wiltz"
-    ],
-    "name:dut_x_preferred":[
         "Wiltz"
     ],
     "name:eng_x_preferred":[
@@ -47,19 +38,13 @@
     "name:eng_x_variant":[
         "Wiltz"
     ],
+    "name:eus_x_preferred":[
+        "Wiltz"
+    ],
     "name:fas_x_preferred":[
         "\u0648\u06cc\u0644\u062a\u0632"
     ],
     "name:fra_x_preferred":[
-        "Wiltz"
-    ],
-    "name:fre_x_preferred":[
-        "Wiltz"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d5\u10d8\u10da\u10ea\u10d8"
-    ],
-    "name:ger_x_preferred":[
         "Wiltz"
     ],
     "name:gsw_x_preferred":[
@@ -74,13 +59,16 @@
     "name:jpn_x_preferred":[
         "\u30f4\u30a3\u30eb\u30c4"
     ],
+    "name:kat_x_preferred":[
+        "\u10d5\u10d8\u10da\u10ea\u10d8"
+    ],
     "name:lit_x_preferred":[
         "Vilcas"
     ],
     "name:ltz_x_preferred":[
         "Wolz"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Wiltz"
     ],
     "name:nan_x_preferred":[
@@ -95,22 +83,19 @@
     "name:nob_x_preferred":[
         "Wiltz"
     ],
-    "name:per_x_preferred":[
-        "\u0648\u06cc\u0644\u062a\u0632"
-    ],
     "name:pol_x_preferred":[
         "Wiltz"
     ],
     "name:por_x_preferred":[
         "Wiltz"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Wiltz"
     ],
     "name:rus_x_preferred":[
         "\u0412\u0438\u043b\u044c\u0446"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Wiltz"
     ],
     "name:spa_x_preferred":[
@@ -133,6 +118,9 @@
     ],
     "name:vol_x_preferred":[
         "Wiltz"
+    ],
+    "name:zho_x_preferred":[
+        "\u7dad\u723e\u8328"
     ],
     "qs:a0":"Luxembourg",
     "qs:a1":"*",
@@ -180,7 +168,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1514483946,
+    "wof:lastmodified":1561837515,
     "wof:name":"Wiltz",
     "wof:parent_id":85673865,
     "wof:placetype":"locality",

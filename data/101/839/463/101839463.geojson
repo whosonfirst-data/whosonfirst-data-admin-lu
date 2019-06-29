@@ -29,31 +29,16 @@
     "name:ceb_x_preferred":[
         "Wasserbillig"
     ],
-    "name:chi_x_preferred":[
-        "\u74e6\u745f\u6bd4\u5229\u5e0c"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Wasserbillig"
     ],
     "name:deu_x_preferred":[
-        "Wasserbillig"
-    ],
-    "name:dut_x_preferred":[
         "Wasserbillig"
     ],
     "name:eng_x_preferred":[
         "Wasserbillig"
     ],
     "name:fra_x_preferred":[
-        "Wasserbillig"
-    ],
-    "name:fre_x_preferred":[
-        "Wasserbillig"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d5\u10d0\u10e1\u10d4\u10e0\u10d1\u10d8\u10da\u10d8\u10d2\u10d8"
-    ],
-    "name:ger_x_preferred":[
         "Wasserbillig"
     ],
     "name:hun_x_preferred":[
@@ -161,7 +146,7 @@
         }
     ],
     "wof:id":101839463,
-    "wof:lastmodified":1534379377,
+    "wof:lastmodified":1561837517,
     "wof:name":"Wasserbillig",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

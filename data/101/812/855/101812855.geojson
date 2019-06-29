@@ -29,17 +29,11 @@
     "name:ceb_x_preferred":[
         "Bourscheid"
     ],
-    "name:chi_x_preferred":[
-        "\u5e03\u5c14\u65af\u8c22"
-    ],
     "name:dan_x_preferred":[
         "Bourscheid"
     ],
     "name:deu_x_preferred":[
         "Burscheid"
-    ],
-    "name:dut_x_preferred":[
-        "Bourscheid"
     ],
     "name:eng_x_preferred":[
         "Bourscheid"
@@ -49,12 +43,6 @@
     ],
     "name:fra_x_preferred":[
         "Bourscheid"
-    ],
-    "name:fre_x_preferred":[
-        "Bourscheid"
-    ],
-    "name:ger_x_preferred":[
-        "Burscheid"
     ],
     "name:gsw_x_preferred":[
         "Buerschent"
@@ -71,9 +59,6 @@
     "name:ltz_x_preferred":[
         "Gemeng Buerschent"
     ],
-    "name:may_x_preferred":[
-        "Bourscheid"
-    ],
     "name:msa_x_preferred":[
         "Bourscheid"
     ],
@@ -89,9 +74,6 @@
     "name:nor_x_preferred":[
         "Bourscheid"
     ],
-    "name:per_x_preferred":[
-        "\u0628\u0648\u0631\u0634\u0627\u06cc\u062f\u060c \u0644\u0648\u06a9\u0632\u0627\u0645\u0628\u0648\u0631\u06af"
-    ],
     "name:pol_x_preferred":[
         "Bourscheid"
     ],
@@ -102,9 +84,6 @@
         "\u0411\u0443\u0440\u0448\u0435\u0439\u0434"
     ],
     "name:slk_x_preferred":[
-        "Bourscheid"
-    ],
-    "name:slo_x_preferred":[
         "Bourscheid"
     ],
     "name:spa_x_preferred":[
@@ -180,7 +159,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527714873,
+    "wof:lastmodified":1561837516,
     "wof:name":"Bourscheid",
     "wof:parent_id":85673865,
     "wof:placetype":"locality",

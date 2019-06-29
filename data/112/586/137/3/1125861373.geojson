@@ -22,20 +22,20 @@
     "name:cat_x_preferred":[
         "Gosseldange"
     ],
-    "name:dut_x_preferred":[
-        "Gosseldange"
+    "name:deu_x_preferred":[
+        "Gosseldingen"
     ],
     "name:eng_x_preferred":[
         "Gosseldange"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Gosseldange"
-    ],
-    "name:ger_x_preferred":[
-        "Gosseldingen"
     ],
     "name:ltz_x_preferred":[
         "Gousseldeng"
+    ],
+    "name:nld_x_preferred":[
+        "Gosseldange"
     ],
     "name:pol_x_preferred":[
         "Gosseldange"
@@ -90,7 +90,7 @@
         }
     ],
     "wof:id":1125861373,
-    "wof:lastmodified":1514483907,
+    "wof:lastmodified":1561837521,
     "wof:name":"Gosseldange",
     "wof:parent_id":85673875,
     "wof:placetype":"locality",

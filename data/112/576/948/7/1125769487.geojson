@@ -22,16 +22,13 @@
     "name:cat_x_preferred":[
         "Wilwerwiltz"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Wilwerwiltz"
     ],
     "name:eng_x_preferred":[
         "Wilwerwiltz"
     ],
-    "name:fre_x_preferred":[
-        "Wilwerwiltz"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Wilwerwiltz"
     ],
     "name:hun_x_preferred":[
@@ -39,6 +36,9 @@
     ],
     "name:ltz_x_preferred":[
         "W\u00eblwerwolz"
+    ],
+    "name:nld_x_preferred":[
+        "Wilwerwiltz"
     ],
     "name:pol_x_preferred":[
         "Wilwerwiltz"
@@ -103,7 +103,7 @@
         }
     ],
     "wof:id":1125769487,
-    "wof:lastmodified":1514483946,
+    "wof:lastmodified":1561837526,
     "wof:name":"Wilwerwiltz",
     "wof:parent_id":85673865,
     "wof:placetype":"locality",

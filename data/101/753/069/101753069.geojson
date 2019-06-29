@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000211,
-    "geom:area_square_m":1684928.529938,
+    "geom:area_square_m":1684928.529937,
     "geom:bbox":"6.11280936958,49.6654301177,6.13221330741,49.6856278364",
     "geom:latitude":49.674649,
     "geom:longitude":6.123536,
@@ -29,16 +29,16 @@
     "name:dan_x_preferred":[
         "Steinsel"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Steinsel"
     ],
     "name:eng_x_preferred":[
         "Steinsel"
     ],
-    "name:fre_x_preferred":[
-        "Steinsel"
+    "name:fas_x_preferred":[
+        "\u0627\u0634\u062a\u0627\u06cc\u0646\u0632\u0644"
     ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Steinsel"
     ],
     "name:gsw_x_preferred":[
@@ -53,14 +53,14 @@
     "name:ltz_x_preferred":[
         "Gemeng Steesel"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Steinsel"
+    ],
+    "name:nld_x_preferred":[
         "Steinsel"
     ],
     "name:nob_x_preferred":[
         "Steinsel"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0634\u062a\u0627\u06cc\u0646\u0632\u0644"
     ],
     "name:pol_x_preferred":[
         "Steinsel"
@@ -71,7 +71,7 @@
     "name:rus_x_preferred":[
         "\u0428\u0442\u0435\u0439\u043d\u0441\u0435\u043b\u044c"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Steinsel"
     ],
     "name:spa_x_preferred":[
@@ -132,7 +132,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1514483940,
+    "wof:lastmodified":1561837515,
     "wof:name":"Steinsel",
     "wof:parent_id":85673875,
     "wof:placetype":"locality",

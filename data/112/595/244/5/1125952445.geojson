@@ -33,17 +33,17 @@
     "name:dan_x_preferred":[
         "Wormeldange"
     ],
-    "name:dut_x_preferred":[
-        "Wormeldange"
+    "name:deu_x_preferred":[
+        "Wormeldingen"
     ],
     "name:eng_x_preferred":[
         "Wormeldange"
     ],
-    "name:fre_x_preferred":[
-        "Wormeldange"
+    "name:fas_x_preferred":[
+        "\u0648\u0648\u0631\u0645\u0644\u062f\u0627\u0646\u0698"
     ],
-    "name:ger_x_preferred":[
-        "Wormeldingen"
+    "name:fra_x_preferred":[
+        "Wormeldange"
     ],
     "name:gsw_x_preferred":[
         "Wuermeldeng"
@@ -57,17 +57,17 @@
     "name:ltz_x_preferred":[
         "Gemeng Wuermeldeng"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Wormeldange"
     ],
     "name:nan_x_preferred":[
         "Wormeldange"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Wormeldange"
     ],
-    "name:per_x_preferred":[
-        "\u0648\u0648\u0631\u0645\u0644\u062f\u0627\u0646\u0698"
+    "name:nob_x_preferred":[
+        "Wormeldange"
     ],
     "name:pol_x_preferred":[
         "Wormeldange"
@@ -78,7 +78,7 @@
     "name:rus_x_preferred":[
         "\u0412\u043e\u0440\u043c\u0435\u043b\u044c\u0434\u0430\u043d\u0436"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Wormeldange"
     ],
     "name:swe_x_preferred":[
@@ -140,7 +140,7 @@
         }
     ],
     "wof:id":1125952445,
-    "wof:lastmodified":1534379377,
+    "wof:lastmodified":1561837519,
     "wof:name":"Wormeldange",
     "wof:parent_id":102063545,
     "wof:placetype":"locality",

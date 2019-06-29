@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000104,
-    "geom:area_square_m":827287.928692,
+    "geom:area_square_m":827287.928693,
     "geom:bbox":"6.20623899962,49.7785931919,6.22607809951,49.7930511525",
     "geom:latitude":49.784744,
     "geom:longitude":6.215903,
@@ -26,17 +26,17 @@
     "name:dan_x_preferred":[
         "Larochette"
     ],
-    "name:dut_x_preferred":[
-        "Larochette"
+    "name:deu_x_preferred":[
+        "Fels"
     ],
     "name:eng_x_preferred":[
         "Larochette"
     ],
-    "name:fre_x_preferred":[
-        "Larochette"
+    "name:fas_x_preferred":[
+        "\u0644\u0627\u0631\u0648\u0634\u062a"
     ],
-    "name:ger_x_preferred":[
-        "Fels"
+    "name:fra_x_preferred":[
+        "Larochette"
     ],
     "name:gsw_x_preferred":[
         "Fiels"
@@ -47,17 +47,17 @@
     "name:ltz_x_preferred":[
         "Gemeng Fiels"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Larochette"
     ],
     "name:nan_x_preferred":[
         "Larochette"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Larochette"
     ],
-    "name:per_x_preferred":[
-        "\u0644\u0627\u0631\u0648\u0634\u062a"
+    "name:nob_x_preferred":[
+        "Larochette"
     ],
     "name:pol_x_preferred":[
         "Larochette"
@@ -68,7 +68,7 @@
     "name:rus_x_preferred":[
         "\u041b\u0430\u0440\u043e\u0448\u0435\u0442\u0442"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Larochette"
     ],
     "name:swe_x_preferred":[
@@ -129,7 +129,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1514483915,
+    "wof:lastmodified":1561837515,
     "wof:name":"Larochette",
     "wof:parent_id":85673875,
     "wof:placetype":"locality",

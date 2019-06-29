@@ -22,22 +22,22 @@
     "name:cat_x_preferred":[
         "Haller"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Haller"
     ],
     "name:eng_x_preferred":[
         "Haller"
     ],
-    "name:fre_x_preferred":[
-        "Haller"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Haller"
     ],
     "name:ltz_x_preferred":[
         "Haler"
     ],
     "name:nds_x_preferred":[
+        "Haller"
+    ],
+    "name:nld_x_preferred":[
         "Haller"
     ],
     "name:pol_x_preferred":[
@@ -97,7 +97,7 @@
         }
     ],
     "wof:id":1125774475,
-    "wof:lastmodified":1553816526,
+    "wof:lastmodified":1561837527,
     "wof:name":"Haller",
     "wof:parent_id":85673869,
     "wof:placetype":"locality",

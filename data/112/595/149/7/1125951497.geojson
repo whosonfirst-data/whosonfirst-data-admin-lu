@@ -22,17 +22,17 @@
     "name:cat_x_preferred":[
         "Hemstal"
     ],
-    "name:dut_x_preferred":[
-        "Hemstal"
-    ],
     "name:eng_x_preferred":[
         "Hemstal"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Hemstal"
     ],
     "name:ltz_x_preferred":[
         "Hemstel"
+    ],
+    "name:nld_x_preferred":[
+        "Hemstal"
     ],
     "qs_pg:aaroncc":"LU",
     "qs_pg:gn_country":"LU",
@@ -81,7 +81,7 @@
         }
     ],
     "wof:id":1125951497,
-    "wof:lastmodified":1514483910,
+    "wof:lastmodified":1561837519,
     "wof:name":"Hemstal",
     "wof:parent_id":85673869,
     "wof:placetype":"locality",

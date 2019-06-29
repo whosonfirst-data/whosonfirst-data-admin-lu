@@ -22,13 +22,10 @@
     "name:cat_x_preferred":[
         "Capellen"
     ],
-    "name:dut_x_preferred":[
-        "Capellen"
-    ],
     "name:eng_x_preferred":[
         "Capellen"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Capellen"
     ],
     "name:hun_x_preferred":[
@@ -36,6 +33,9 @@
     ],
     "name:ltz_x_preferred":[
         "Kapellen"
+    ],
+    "name:nld_x_preferred":[
+        "Capellen"
     ],
     "name:nob_x_preferred":[
         "Capellen"
@@ -89,7 +89,7 @@
         }
     ],
     "wof:id":1125924593,
-    "wof:lastmodified":1514483897,
+    "wof:lastmodified":1561837518,
     "wof:name":"Capellen",
     "wof:parent_id":85673875,
     "wof:placetype":"locality",

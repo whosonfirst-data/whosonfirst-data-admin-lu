@@ -19,20 +19,20 @@
     "name:cat_x_preferred":[
         "Lasauvage"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Lasauvage"
     ],
     "name:eng_x_preferred":[
         "Lasauvage"
     ],
-    "name:fre_x_preferred":[
-        "Lasauvage"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Lasauvage"
     ],
     "name:ltz_x_preferred":[
         "Zowaasch"
+    ],
+    "name:nld_x_preferred":[
+        "Lasauvage"
     ],
     "name:pol_x_preferred":[
         "Lasauvage"
@@ -94,7 +94,7 @@
         }
     ],
     "wof:id":1125933643,
-    "wof:lastmodified":1541015626,
+    "wof:lastmodified":1561837518,
     "wof:name":"Lasauvage",
     "wof:parent_id":102069785,
     "wof:placetype":"locality",

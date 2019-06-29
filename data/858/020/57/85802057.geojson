@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":9074674.374433,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.109444,49.580734,6.109444,49.580734",
     "geom:latitude":49.580734,
     "geom:longitude":6.109444,
@@ -32,20 +32,11 @@
     "name:deu_x_preferred":[
         "Zessingen"
     ],
-    "name:dut_x_preferred":[
-        "Cessange"
-    ],
     "name:eng_x_preferred":[
         "Cessange"
     ],
     "name:fra_x_preferred":[
         "Cessange"
-    ],
-    "name:fre_x_preferred":[
-        "Cessange"
-    ],
-    "name:ger_x_preferred":[
-        "Zessingen"
     ],
     "name:ita_x_preferred":[
         "Cessange"
@@ -127,7 +118,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531862124,
+    "wof:lastmodified":1561837514,
     "wof:name":"Cessange",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

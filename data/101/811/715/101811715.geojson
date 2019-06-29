@@ -23,16 +23,10 @@
     "name:ceb_x_preferred":[
         "Asselborn"
     ],
-    "name:dut_x_preferred":[
-        "Asselborn"
-    ],
     "name:eng_x_preferred":[
         "Asselborn"
     ],
     "name:fra_x_preferred":[
-        "Asselborn"
-    ],
-    "name:fre_x_preferred":[
         "Asselborn"
     ],
     "name:ltz_x_preferred":[
@@ -91,7 +85,7 @@
         }
     ],
     "wof:id":101811715,
-    "wof:lastmodified":1527642302,
+    "wof:lastmodified":1561837515,
     "wof:name":"Asselborn",
     "wof:parent_id":85673865,
     "wof:placetype":"locality",

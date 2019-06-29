@@ -29,16 +29,16 @@
     "name:dan_x_preferred":[
         "Bissen"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Bissen"
     ],
     "name:eng_x_preferred":[
         "Bissen"
     ],
-    "name:fre_x_preferred":[
-        "Bissen"
+    "name:fas_x_preferred":[
+        "\u0628\u06cc\u0633\u0646"
     ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Bissen"
     ],
     "name:gsw_x_preferred":[
@@ -53,17 +53,17 @@
     "name:ltz_x_preferred":[
         "Gemeng Biissen"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Bissen"
     ],
     "name:nan_x_preferred":[
         "Bissen"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Bissen"
     ],
-    "name:per_x_preferred":[
-        "\u0628\u06cc\u0633\u0646"
+    "name:nob_x_preferred":[
+        "Bissen"
     ],
     "name:pol_x_preferred":[
         "Bissen"
@@ -74,7 +74,7 @@
     "name:rus_x_preferred":[
         "\u0411\u0438\u0441\u0441\u0435\u043d"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Bissen"
     ],
     "name:swe_x_preferred":[
@@ -132,7 +132,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1553815520,
+    "wof:lastmodified":1561837516,
     "wof:name":"Bissen",
     "wof:parent_id":85673875,
     "wof:placetype":"locality",

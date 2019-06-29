@@ -22,19 +22,19 @@
     "name:cat_x_preferred":[
         "Holler"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Holler"
     ],
     "name:eng_x_preferred":[
         "Holler"
     ],
-    "name:fre_x_preferred":[
-        "Holler"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Holler"
     ],
     "name:ltz_x_preferred":[
+        "Holler"
+    ],
+    "name:nld_x_preferred":[
         "Holler"
     ],
     "qs_pg:aaroncc":"LU",
@@ -86,7 +86,7 @@
         }
     ],
     "wof:id":1126026029,
-    "wof:lastmodified":1514483911,
+    "wof:lastmodified":1561837520,
     "wof:name":"Holler",
     "wof:parent_id":85673865,
     "wof:placetype":"locality",

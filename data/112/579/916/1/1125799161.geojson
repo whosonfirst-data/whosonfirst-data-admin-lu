@@ -21,16 +21,13 @@
     "name:cat_x_preferred":[
         "Limpertsberg"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Limpertsberg"
     ],
     "name:eng_x_preferred":[
         "Limpertsberg"
     ],
-    "name:fre_x_preferred":[
-        "Limpertsberg"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Limpertsberg"
     ],
     "name:ita_x_preferred":[
@@ -38,6 +35,9 @@
     ],
     "name:ltz_x_preferred":[
         "Lampertsbierg"
+    ],
+    "name:nld_x_preferred":[
+        "Limpertsberg"
     ],
     "name:swe_x_preferred":[
         "Limpertsberg"
@@ -95,7 +95,7 @@
         }
     ],
     "wof:id":1125799161,
-    "wof:lastmodified":1514483916,
+    "wof:lastmodified":1561837527,
     "wof:name":"Limpertsberg",
     "wof:parent_id":85673875,
     "wof:placetype":"locality",

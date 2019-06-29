@@ -22,20 +22,20 @@
     "name:cat_x_preferred":[
         "Moutfort"
     ],
-    "name:dut_x_preferred":[
-        "Moutfort"
+    "name:deu_x_preferred":[
+        "Mutfort"
     ],
     "name:eng_x_preferred":[
         "Moutfort"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Moutfort"
-    ],
-    "name:ger_x_preferred":[
-        "Mutfort"
     ],
     "name:ltz_x_preferred":[
         "Mutfert"
+    ],
+    "name:nld_x_preferred":[
+        "Moutfort"
     ],
     "name:pol_x_preferred":[
         "Moutfort"
@@ -90,7 +90,7 @@
         }
     ],
     "wof:id":1126039137,
-    "wof:lastmodified":1514483926,
+    "wof:lastmodified":1561837521,
     "wof:name":"Moutfort",
     "wof:parent_id":85673875,
     "wof:placetype":"locality",

@@ -22,23 +22,23 @@
     "name:cat_x_preferred":[
         "Gonderange"
     ],
-    "name:dut_x_preferred":[
-        "Gonderange"
+    "name:deu_x_preferred":[
+        "Gonderingen"
     ],
     "name:eng_x_preferred":[
         "Gonderange"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Gonderange"
-    ],
-    "name:ger_x_preferred":[
-        "Gonderingen"
     ],
     "name:ita_x_preferred":[
         "Gonderange"
     ],
     "name:ltz_x_preferred":[
         "Gonnereng"
+    ],
+    "name:nld_x_preferred":[
+        "Gonderange"
     ],
     "name:pol_x_preferred":[
         "Gonderange"
@@ -97,7 +97,7 @@
         }
     ],
     "wof:id":1125811833,
-    "wof:lastmodified":1514483907,
+    "wof:lastmodified":1561837522,
     "wof:name":"Gonderange",
     "wof:parent_id":85673869,
     "wof:placetype":"locality",

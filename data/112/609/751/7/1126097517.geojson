@@ -21,13 +21,10 @@
     "name:cat_x_preferred":[
         "Eich"
     ],
-    "name:dut_x_preferred":[
-        "Eich"
-    ],
     "name:eng_x_preferred":[
         "Eich"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Eich"
     ],
     "name:ita_x_preferred":[
@@ -35,6 +32,9 @@
     ],
     "name:ltz_x_preferred":[
         "Eech"
+    ],
+    "name:nld_x_preferred":[
+        "Eich"
     ],
     "name:swe_x_preferred":[
         "Eich"
@@ -91,7 +91,7 @@
         }
     ],
     "wof:id":1126097517,
-    "wof:lastmodified":1553816734,
+    "wof:lastmodified":1561837525,
     "wof:name":"Eich",
     "wof:parent_id":101751765,
     "wof:placetype":"neighbourhood",

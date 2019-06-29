@@ -29,19 +29,10 @@
     "name:deu_x_preferred":[
         "Remerschen"
     ],
-    "name:dut_x_preferred":[
-        "Remerschen"
-    ],
     "name:eng_x_preferred":[
         "Remerschen"
     ],
     "name:fra_x_preferred":[
-        "Remerschen"
-    ],
-    "name:fre_x_preferred":[
-        "Remerschen"
-    ],
-    "name:ger_x_preferred":[
         "Remerschen"
     ],
     "name:ltz_x_preferred":[
@@ -129,7 +120,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1534379377,
+    "wof:lastmodified":1561837516,
     "wof:name":"Remerschen",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -38,9 +38,6 @@
     "name:deu_x_preferred":[
         "Rambruch"
     ],
-    "name:dut_x_preferred":[
-        "Rambrouch"
-    ],
     "name:eng_x_preferred":[
         "Rambrouch"
     ],
@@ -49,12 +46,6 @@
     ],
     "name:fra_x_preferred":[
         "Rambrouch"
-    ],
-    "name:fre_x_preferred":[
-        "Rambrouch"
-    ],
-    "name:ger_x_preferred":[
-        "Rambruch"
     ],
     "name:gsw_x_preferred":[
         "Rammerech"
@@ -67,9 +58,6 @@
     ],
     "name:ltz_x_preferred":[
         "Gemeng Rammerech"
-    ],
-    "name:may_x_preferred":[
-        "Rambrouch"
     ],
     "name:msa_x_preferred":[
         "Rambrouch"
@@ -86,9 +74,6 @@
     "name:nor_x_preferred":[
         "Rambrouch"
     ],
-    "name:per_x_preferred":[
-        "\u0631\u0627\u0645\u0628\u0631\u0648\u06a9"
-    ],
     "name:pol_x_preferred":[
         "Rambrouch"
     ],
@@ -99,9 +84,6 @@
         "\u0420\u0430\u043c\u0431\u0440\u0443\u0448"
     ],
     "name:slk_x_preferred":[
-        "Rambrouch"
-    ],
-    "name:slo_x_preferred":[
         "Rambrouch"
     ],
     "name:swe_x_preferred":[
@@ -167,7 +149,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527714864,
+    "wof:lastmodified":1561837516,
     "wof:name":"Rambrouch",
     "wof:parent_id":85673865,
     "wof:placetype":"locality",

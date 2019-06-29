@@ -22,20 +22,20 @@
     "name:cat_x_preferred":[
         "Brouch"
     ],
-    "name:dut_x_preferred":[
-        "Brouch"
+    "name:deu_x_preferred":[
+        "Bruch"
     ],
     "name:eng_x_preferred":[
         "Brouch"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Brouch"
-    ],
-    "name:ger_x_preferred":[
-        "Bruch"
     ],
     "name:ltz_x_preferred":[
         "Bruch"
+    ],
+    "name:nld_x_preferred":[
+        "Brouch"
     ],
     "name:pol_x_preferred":[
         "Brouch"
@@ -94,7 +94,7 @@
         }
     ],
     "wof:id":1125970387,
-    "wof:lastmodified":1553816665,
+    "wof:lastmodified":1561837523,
     "wof:name":"Brouch",
     "wof:parent_id":85673875,
     "wof:placetype":"locality",

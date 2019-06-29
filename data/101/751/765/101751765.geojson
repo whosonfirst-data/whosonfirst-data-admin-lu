@@ -21,9 +21,6 @@
     "name:afr_x_preferred":[
         "Luxemburg"
     ],
-    "name:alb_x_preferred":[
-        "Luksemburgu"
-    ],
     "name:als_x_preferred":[
         "Luxemburg"
     ],
@@ -36,17 +33,11 @@
     "name:arg_x_preferred":[
         "Luxemburgo"
     ],
-    "name:arm_x_preferred":[
-        "\u053c\u0575\u0578\u0582\u0584\u057d\u0565\u0574\u0562\u0578\u0582\u0580\u0563"
-    ],
     "name:ast_x_preferred":[
         "Luxemburgu"
     ],
     "name:aze_x_preferred":[
         "L\u00fcksemburq"
-    ],
-    "name:baq_x_preferred":[
-        "Luxenburgo"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041b\u044e\u043a\u0441\u0435\u043c\u0431\u0443\u0440\u0433"
@@ -85,9 +76,6 @@
     "name:che_x_preferred":[
         "\u041b\u044e\u043a\u0441\u0435\u043c\u0431\u0443\u0440\u0433"
     ],
-    "name:chi_x_preferred":[
-        "\u76e7\u68ee\u5821\u5e02"
-    ],
     "name:chv_x_preferred":[
         "\u041b\u044e\u043a\u0441\u0435\u043c\u0431\u0443\u0440\u0433"
     ],
@@ -99,9 +87,6 @@
     ],
     "name:cym_x_preferred":[
         "Dinas Lwcsembwrg"
-    ],
-    "name:cze_x_preferred":[
-        "Lucemburk"
     ],
     "name:dan_x_preferred":[
         "Luxembourg"
@@ -115,9 +100,6 @@
     ],
     "name:diq_x_preferred":[
         "Luksemburg"
-    ],
-    "name:dut_x_preferred":[
-        "Luxemburg"
     ],
     "name:ell_x_preferred":[
         "\u039b\u03bf\u03c5\u03be\u03b5\u03bc\u03b2\u03bf\u03cd\u03c1\u03b3\u03bf"
@@ -159,9 +141,6 @@
     "name:fra_x_variant":[
         "Ville de Luxembourg"
     ],
-    "name:fre_x_preferred":[
-        "Luxembourg"
-    ],
     "name:frp_x_preferred":[
         "Luxemb\u00f4rg"
     ],
@@ -170,12 +149,6 @@
     ],
     "name:fry_x_preferred":[
         "L\u00faksemboarch"
-    ],
-    "name:geo_x_preferred":[
-        "\u10da\u10e3\u10e5\u10e1\u10d4\u10db\u10d1\u10e3\u10e0\u10d2\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Luxemburg"
     ],
     "name:gla_x_preferred":[
         "Lucsamburg"
@@ -188,9 +161,6 @@
     ],
     "name:glv_x_preferred":[
         "Lucsemburg"
-    ],
-    "name:gre_x_preferred":[
-        "\u039b\u03bf\u03c5\u03be\u03b5\u03bc\u03b2\u03bf\u03cd\u03c1\u03b3\u03bf"
     ],
     "name:gsw_x_preferred":[
         "Luxeburg"
@@ -227,9 +197,6 @@
     ],
     "name:hye_x_preferred":[
         "\u053c\u0575\u0578\u0582\u0584\u057d\u0565\u0574\u0562\u0578\u0582\u0580\u0563"
-    ],
-    "name:ice_x_preferred":[
-        "L\u00faxemborg"
     ],
     "name:ido_x_preferred":[
         "Luxemburg"
@@ -304,17 +271,8 @@
     "name:ltz_x_variant":[
         "Stad L\u00ebtzebuerg"
     ],
-    "name:mac_x_preferred":[
-        "\u041b\u0443\u043a\u0441\u0435\u043c\u0431\u0443\u0440\u0433"
-    ],
-    "name:mao_x_preferred":[
-        "Rakapu\u014d"
-    ],
     "name:mar_x_preferred":[
         "\u0932\u0915\u094d\u091d\u0947\u0902\u092c\u0930\u094d\u0917"
-    ],
-    "name:may_x_preferred":[
-        "Bandar Luxembourg"
     ],
     "name:mkd_x_preferred":[
         "\u041b\u0443\u043a\u0441\u0435\u043c\u0431\u0443\u0440\u0433"
@@ -367,9 +325,6 @@
     "name:pan_x_preferred":[
         "\u0a32\u0a15\u0a38\u0a2e\u0a2c\u0a30\u0a17"
     ],
-    "name:per_x_preferred":[
-        "\u0644\u0648\u06a9\u0632\u0627\u0645\u0628\u0648\u0631\u06af"
-    ],
     "name:pms_x_preferred":[
         "Lussemborgh"
     ],
@@ -388,9 +343,6 @@
     "name:ron_x_preferred":[
         "Luxemburg"
     ],
-    "name:rum_x_preferred":[
-        "Luxemburg"
-    ],
     "name:rus_x_preferred":[
         "\u041b\u044e\u043a\u0441\u0435\u043c\u0431\u0443\u0440\u0433"
     ],
@@ -404,9 +356,6 @@
         "\u0dbd\u0d9a\u0dca\u0dc3\u0db8\u0dca\u0db6\u0dbb\u0dca\u0d9c\u0dba"
     ],
     "name:slk_x_preferred":[
-        "Luxemburg"
-    ],
-    "name:slo_x_preferred":[
         "Luxemburg"
     ],
     "name:slv_x_preferred":[
@@ -460,9 +409,6 @@
     "name:tha_x_preferred":[
         "\u0e25\u0e31\u0e01\u0e40\u0e0b\u0e21\u0e40\u0e1a\u0e34\u0e23\u0e4c\u0e01"
     ],
-    "name:tib_x_preferred":[
-        "\u0f63\u0f74\u0f0b\u0f66\u0f7a\u0f58\u0f0b\u0f56\u0f60\u0f74\u0f62\u0f42"
-    ],
     "name:tuk_x_preferred":[
         "Luksemburg"
     ],
@@ -504,9 +450,6 @@
     ],
     "name:war_x_preferred":[
         "Luxemburgo"
-    ],
-    "name:wel_x_preferred":[
-        "Dinas Lwcsembwrg"
     ],
     "name:wln_x_preferred":[
         "Lussimbork veye"
@@ -685,7 +628,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1536881195,
+    "wof:lastmodified":1561837516,
     "wof:megacity":0,
     "wof:name":"Luxembourg",
     "wof:parent_id":85673875,
