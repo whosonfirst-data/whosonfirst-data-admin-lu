@@ -25,25 +25,19 @@
     "name:cat_x_preferred":[
         "Reisdorf"
     ],
-    "name:chi_x_preferred":[
-        "\u8d56\u65af\u591a\u592b"
-    ],
     "name:dan_x_preferred":[
         "Reisdorf"
     ],
     "name:deu_x_preferred":[
         "Reisdorf"
     ],
-    "name:dut_x_preferred":[
-        "Reisdorf"
-    ],
     "name:eng_x_preferred":[
         "Reisdorf"
     ],
-    "name:fre_x_preferred":[
-        "Reisdorf"
+    "name:fas_x_preferred":[
+        "\u0631\u0627\u06cc\u0632\u062f\u0648\u0631\u0641"
     ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Reisdorf"
     ],
     "name:gsw_x_preferred":[
@@ -58,7 +52,7 @@
     "name:ltz_x_preferred":[
         "Reisduerf"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Reisdorf"
     ],
     "name:nld_x_preferred":[
@@ -66,9 +60,6 @@
     ],
     "name:nob_x_preferred":[
         "Reisdorf"
-    ],
-    "name:per_x_preferred":[
-        "\u0631\u0627\u06cc\u0632\u062f\u0648\u0631\u0641"
     ],
     "name:pol_x_preferred":[
         "Reisdorf"
@@ -79,7 +70,7 @@
     "name:rus_x_preferred":[
         "\u0420\u0435\u0439\u0441\u0434\u043e\u0440\u0444"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Reisdorf"
     ],
     "name:spa_x_preferred":[
@@ -90,6 +81,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0420\u0430\u0439\u0441\u0434\u043e\u0440\u0444"
+    ],
+    "name:zho_x_preferred":[
+        "\u8d56\u65af\u591a\u592b"
     ],
     "qs_pg:aaroncc":"LU",
     "qs_pg:gn_country":"LU",
@@ -141,7 +135,7 @@
         }
     ],
     "wof:id":1125799187,
-    "wof:lastmodified":1514483933,
+    "wof:lastmodified":1561837527,
     "wof:name":"Reisdorf",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

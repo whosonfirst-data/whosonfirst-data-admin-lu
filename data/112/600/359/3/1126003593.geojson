@@ -22,17 +22,17 @@
     "name:cat_x_preferred":[
         "Beyren"
     ],
-    "name:dut_x_preferred":[
-        "Beyren"
-    ],
     "name:eng_x_preferred":[
         "Beyren"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Beyren"
     ],
     "name:ltz_x_preferred":[
         "Beyeren"
+    ],
+    "name:nld_x_preferred":[
+        "Beyren"
     ],
     "name:pol_x_preferred":[
         "Beyren"
@@ -89,7 +89,7 @@
         }
     ],
     "wof:id":1126003593,
-    "wof:lastmodified":1514483894,
+    "wof:lastmodified":1561837525,
     "wof:name":"Beyren",
     "wof:parent_id":85673869,
     "wof:placetype":"locality",

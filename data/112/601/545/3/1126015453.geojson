@@ -31,20 +31,17 @@
     "name:deu_x_preferred":[
         "Schifflange"
     ],
-    "name:dut_x_preferred":[
-        "Schifflange"
+    "name:deu_x_variant":[
+        "Schifflingen"
     ],
     "name:eng_x_preferred":[
         "Schifflange"
     ],
+    "name:fas_x_preferred":[
+        "\u0634\u06cc\u0641\u0644\u0627\u0646\u0698"
+    ],
     "name:fra_x_preferred":[
         "Schifflange"
-    ],
-    "name:fre_x_preferred":[
-        "Schifflange"
-    ],
-    "name:ger_x_preferred":[
-        "Schifflingen"
     ],
     "name:gsw_x_preferred":[
         "Sch\u00ebffleng"
@@ -61,7 +58,7 @@
     "name:ltz_x_preferred":[
         "Sch\u00ebffleng"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Schifflange"
     ],
     "name:nan_x_preferred":[
@@ -73,22 +70,19 @@
     "name:nob_x_preferred":[
         "Schifflange"
     ],
-    "name:per_x_preferred":[
-        "\u0634\u06cc\u0641\u0644\u0627\u0646\u0698"
-    ],
     "name:pol_x_preferred":[
         "Schifflange"
     ],
     "name:por_x_preferred":[
         "Schifflange"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Schifflange"
     ],
     "name:rus_x_preferred":[
         "\u0428\u0438\u0444\u0444\u043b\u0430\u043d\u0436"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Schifflange"
     ],
     "name:spa_x_preferred":[
@@ -154,7 +148,7 @@
         }
     ],
     "wof:id":1126015453,
-    "wof:lastmodified":1514483937,
+    "wof:lastmodified":1561837525,
     "wof:name":"Schifflange",
     "wof:parent_id":85673875,
     "wof:placetype":"locality",

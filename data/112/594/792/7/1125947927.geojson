@@ -34,9 +34,6 @@
     "name:deu_x_preferred":[
         "Roeser"
     ],
-    "name:dut_x_preferred":[
-        "Roeser"
-    ],
     "name:eng_x_preferred":[
         "Roeser"
     ],
@@ -44,12 +41,6 @@
         "\u0631\u0648\u0632\u0631"
     ],
     "name:fra_x_preferred":[
-        "Roeser"
-    ],
-    "name:fre_x_preferred":[
-        "Roeser"
-    ],
-    "name:ger_x_preferred":[
         "Roeser"
     ],
     "name:gsw_x_preferred":[
@@ -64,7 +55,7 @@
     "name:ltz_x_preferred":[
         "Gemeng R\u00e9iser"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Roeser"
     ],
     "name:nan_x_preferred":[
@@ -76,9 +67,6 @@
     "name:nob_x_preferred":[
         "Roeser"
     ],
-    "name:per_x_preferred":[
-        "\u0631\u0648\u0632\u0631"
-    ],
     "name:pol_x_preferred":[
         "Roeser"
     ],
@@ -88,7 +76,7 @@
     "name:rus_x_preferred":[
         "\u0420\u0435\u0437\u0435\u0440"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Roeser"
     ],
     "name:swe_x_preferred":[
@@ -148,7 +136,7 @@
         }
     ],
     "wof:id":1125947927,
-    "wof:lastmodified":1514483935,
+    "wof:lastmodified":1561837518,
     "wof:name":"Roeser",
     "wof:parent_id":85673875,
     "wof:placetype":"locality",

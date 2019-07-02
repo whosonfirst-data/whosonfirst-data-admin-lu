@@ -31,20 +31,17 @@
     "name:deu_x_preferred":[
         "Sanem"
     ],
-    "name:dut_x_preferred":[
-        "Sanem"
+    "name:deu_x_variant":[
+        "Sassenheim"
     ],
     "name:eng_x_preferred":[
         "Sanem"
     ],
+    "name:fas_x_preferred":[
+        "\u0632\u0627\u0646\u0645"
+    ],
     "name:fra_x_preferred":[
         "Sanem"
-    ],
-    "name:fre_x_preferred":[
-        "Sanem"
-    ],
-    "name:ger_x_preferred":[
-        "Sassenheim"
     ],
     "name:gsw_x_preferred":[
         "Suessem"
@@ -61,7 +58,7 @@
     "name:ltz_x_preferred":[
         "Suessem"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Sanem"
     ],
     "name:nan_x_preferred":[
@@ -73,9 +70,6 @@
     "name:nob_x_preferred":[
         "Sanem"
     ],
-    "name:per_x_preferred":[
-        "\u0632\u0627\u0646\u0645"
-    ],
     "name:pol_x_preferred":[
         "Sanem"
     ],
@@ -85,7 +79,7 @@
     "name:rus_x_preferred":[
         "\u0421\u0430\u043d\u0435\u043c"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Sanem"
     ],
     "name:swa_x_preferred":[
@@ -151,7 +145,7 @@
         }
     ],
     "wof:id":1126007057,
-    "wof:lastmodified":1514483937,
+    "wof:lastmodified":1561837525,
     "wof:name":"Sanem",
     "wof:parent_id":85673875,
     "wof:placetype":"locality",

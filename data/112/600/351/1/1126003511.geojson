@@ -22,17 +22,17 @@
     "name:cat_x_preferred":[
         "Wahlhausen"
     ],
-    "name:dut_x_preferred":[
-        "Wahlhausen"
-    ],
     "name:eng_x_preferred":[
         "Wahlhausen"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Wahlhausen"
     ],
     "name:ltz_x_preferred":[
         "Wuelessen"
+    ],
+    "name:nld_x_preferred":[
+        "Wahlhausen"
     ],
     "name:pol_x_preferred":[
         "Wahlhausen"
@@ -92,7 +92,7 @@
         }
     ],
     "wof:id":1126003511,
-    "wof:lastmodified":1553816691,
+    "wof:lastmodified":1561837525,
     "wof:name":"Wahlhausen",
     "wof:parent_id":85673865,
     "wof:placetype":"locality",

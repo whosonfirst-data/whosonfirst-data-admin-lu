@@ -31,17 +31,17 @@
     "name:dan_x_preferred":[
         "Boulaide"
     ],
-    "name:dut_x_preferred":[
-        "Boulaide"
+    "name:deu_x_preferred":[
+        "Bauschleiden"
     ],
     "name:eng_x_preferred":[
         "Boulaide"
     ],
-    "name:fre_x_preferred":[
-        "Boulaide"
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u0644\u062f\u060c \u0644\u0648\u06a9\u0632\u0627\u0645\u0628\u0648\u0631\u06af"
     ],
-    "name:ger_x_preferred":[
-        "Bauschleiden"
+    "name:fra_x_preferred":[
+        "Boulaide"
     ],
     "name:gsw_x_preferred":[
         "Bauschelt"
@@ -55,17 +55,17 @@
     "name:ltz_x_preferred":[
         "Gemeng Bauschelt"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Boulaide"
     ],
     "name:nan_x_preferred":[
         "Boulaide"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Boulaide"
     ],
-    "name:per_x_preferred":[
-        "\u0628\u0648\u0644\u062f\u060c \u0644\u0648\u06a9\u0632\u0627\u0645\u0628\u0648\u0631\u06af"
+    "name:nob_x_preferred":[
+        "Boulaide"
     ],
     "name:pol_x_preferred":[
         "Boulaide"
@@ -76,7 +76,7 @@
     "name:rus_x_preferred":[
         "\u0411\u0443\u043b\u0435\u0434"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Boulaide"
     ],
     "name:swe_x_preferred":[
@@ -139,7 +139,7 @@
         }
     ],
     "wof:id":1125796641,
-    "wof:lastmodified":1553816538,
+    "wof:lastmodified":1561837527,
     "wof:name":"Boulaide",
     "wof:parent_id":85673865,
     "wof:placetype":"locality",

@@ -22,17 +22,17 @@
     "name:cat_x_preferred":[
         "Michelau"
     ],
-    "name:dut_x_preferred":[
-        "Michelau"
-    ],
     "name:eng_x_preferred":[
         "Michelau"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Michelau"
     ],
     "name:ltz_x_preferred":[
         "M\u00e9chela"
+    ],
+    "name:nld_x_preferred":[
+        "Michelau"
     ],
     "name:swe_x_preferred":[
         "Michelau"
@@ -88,7 +88,7 @@
         }
     ],
     "wof:id":1125794129,
-    "wof:lastmodified":1553816537,
+    "wof:lastmodified":1561837527,
     "wof:name":"Michelau",
     "wof:parent_id":85673865,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000047,
-    "geom:area_square_m":378766.38032,
+    "geom:area_square_m":378766.380321,
     "geom:bbox":"5.90864603988,49.6816780976,5.92386845946,49.6915521368",
     "geom:latitude":49.687206,
     "geom:longitude":5.915629,
@@ -29,19 +29,13 @@
     "name:deu_x_preferred":[
         "Hobscheid"
     ],
-    "name:dut_x_preferred":[
-        "Hobscheid"
-    ],
     "name:eng_x_preferred":[
         "Hobscheid"
     ],
+    "name:fas_x_preferred":[
+        "\u0647\u0648\u0628\u0634\u0627\u06cc\u062f"
+    ],
     "name:fra_x_preferred":[
-        "Hobscheid"
-    ],
-    "name:fre_x_preferred":[
-        "Hobscheid"
-    ],
-    "name:ger_x_preferred":[
         "Hobscheid"
     ],
     "name:gsw_x_preferred":[
@@ -56,7 +50,7 @@
     "name:ltz_x_preferred":[
         "Habscht"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Hobscheid"
     ],
     "name:nan_x_preferred":[
@@ -68,9 +62,6 @@
     "name:nob_x_preferred":[
         "Hobscheid"
     ],
-    "name:per_x_preferred":[
-        "\u0647\u0648\u0628\u0634\u0627\u06cc\u062f"
-    ],
     "name:pol_x_preferred":[
         "Hobscheid"
     ],
@@ -80,7 +71,7 @@
     "name:rus_x_preferred":[
         "\u0425\u043e\u0431\u0448\u0435\u0439\u0434"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Hobscheid"
     ],
     "name:swe_x_preferred":[
@@ -138,7 +129,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1514483910,
+    "wof:lastmodified":1561837515,
     "wof:name":"Hobscheid",
     "wof:parent_id":85673875,
     "wof:placetype":"locality",

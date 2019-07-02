@@ -19,13 +19,7 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:baq_x_preferred":[
-        "Rodershausen"
-    ],
-    "name:chi_x_preferred":[
-        "\u7f57\u5fb7\u5c14\u65af\u8c6a\u68ee"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Rodershausen"
     ],
     "name:eng_x_preferred":[
@@ -34,10 +28,13 @@
     "name:epo_x_preferred":[
         "Rodershausen"
     ],
-    "name:fre_x_preferred":[
+    "name:eus_x_preferred":[
         "Rodershausen"
     ],
-    "name:ger_x_preferred":[
+    "name:fas_x_preferred":[
+        "\u0631\u0648\u062f\u0631\u0633\u0647\u0627\u0648\u0632\u0646"
+    ],
+    "name:fra_x_preferred":[
         "Rodershausen"
     ],
     "name:hun_x_preferred":[
@@ -55,11 +52,11 @@
     "name:kir_x_preferred":[
         "\u0420\u043e\u0434\u0435\u0440\u0441\u0445\u0430\u0443\u0437\u0435\u043d"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Rodershausen"
     ],
-    "name:per_x_preferred":[
-        "\u0631\u0648\u062f\u0631\u0633\u0647\u0627\u0648\u0632\u0646"
+    "name:nld_x_preferred":[
+        "Rodershausen"
     ],
     "name:pol_x_preferred":[
         "Rodershausen"
@@ -67,7 +64,7 @@
     "name:por_x_preferred":[
         "Rodershausen"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Rodershausen"
     ],
     "name:rus_x_preferred":[
@@ -90,6 +87,9 @@
     ],
     "name:war_x_preferred":[
         "Rodershausen"
+    ],
+    "name:zho_x_preferred":[
+        "\u7f57\u5fb7\u5c14\u65af\u8c6a\u68ee"
     ],
     "qs_pg:aaroncc":"LU",
     "qs_pg:gn_country":"LU",
@@ -137,7 +137,7 @@
         }
     ],
     "wof:id":1125953061,
-    "wof:lastmodified":1514483934,
+    "wof:lastmodified":1561837518,
     "wof:name":"Rodershausen",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

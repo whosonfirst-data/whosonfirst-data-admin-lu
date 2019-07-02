@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000401,
-    "geom:area_square_m":3199451.509087,
+    "geom:area_square_m":3199451.509086,
     "geom:bbox":"6.12447088095,49.8476542647,6.18742954263,49.8729320764",
     "geom:latitude":49.863195,
     "geom:longitude":6.155726,
@@ -24,9 +24,6 @@
     "name:ara_x_preferred":[
         "\u062f\u064a\u0643\u064a\u0631\u0634"
     ],
-    "name:baq_x_preferred":[
-        "Diekirch"
-    ],
     "name:bel_x_preferred":[
         "\u0414\u0437\u0456\u043a\u0456\u0440\u0445"
     ],
@@ -42,16 +39,10 @@
     "name:ceb_x_preferred":[
         "District de Diekirch"
     ],
-    "name:chi_x_preferred":[
-        "\u8fea\u57fa\u5e0c"
-    ],
     "name:dan_x_preferred":[
         "Diekirch"
     ],
     "name:deu_x_preferred":[
-        "Diekirch"
-    ],
-    "name:dut_x_preferred":[
         "Diekirch"
     ],
     "name:eng_x_preferred":[
@@ -69,15 +60,6 @@
     "name:fra_x_preferred":[
         "Diekirch"
     ],
-    "name:fre_x_preferred":[
-        "Diekirch"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d3\u10d8\u10d9\u10d8\u10e0\u10ee\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Diekirch"
-    ],
     "name:gsw_x_preferred":[
         "Dikrech"
     ],
@@ -93,6 +75,9 @@
     "name:jpn_x_preferred":[
         "\u30c7\u30a3\u30fc\u30ad\u30eb\u30d2"
     ],
+    "name:kat_x_preferred":[
+        "\u10d3\u10d8\u10d9\u10d8\u10e0\u10ee\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\ub514\ud0a4\ub974\ud788"
     ],
@@ -104,9 +89,6 @@
     ],
     "name:ltz_x_preferred":[
         "Dikrech"
-    ],
-    "name:may_x_preferred":[
-        "Diekirch"
     ],
     "name:msa_x_preferred":[
         "Diekirch"
@@ -129,9 +111,6 @@
     "name:oci_x_preferred":[
         "Diekirch"
     ],
-    "name:per_x_preferred":[
-        "\u062f\u06cc\u06a9\u06cc\u0631\u0634"
-    ],
     "name:pol_x_preferred":[
         "Diekirch"
     ],
@@ -141,16 +120,10 @@
     "name:ron_x_preferred":[
         "Diekirch"
     ],
-    "name:rum_x_preferred":[
-        "Diekirch"
-    ],
     "name:rus_x_preferred":[
         "\u0414\u0438\u043a\u0438\u0440\u0445"
     ],
     "name:slk_x_preferred":[
-        "Diekirch"
-    ],
-    "name:slo_x_preferred":[
         "Diekirch"
     ],
     "name:spa_x_preferred":[
@@ -329,7 +302,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527714863,
+    "wof:lastmodified":1561837516,
     "wof:name":"Diekirch",
     "wof:parent_id":85673865,
     "wof:placetype":"locality",

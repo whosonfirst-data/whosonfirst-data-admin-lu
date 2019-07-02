@@ -22,13 +22,10 @@
     "name:cat_x_preferred":[
         "Olingen"
     ],
-    "name:dut_x_preferred":[
-        "Olingen"
-    ],
     "name:eng_x_preferred":[
         "Olingen"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Olingen"
     ],
     "name:glg_x_preferred":[
@@ -36,6 +33,9 @@
     ],
     "name:ltz_x_preferred":[
         "Ouljen"
+    ],
+    "name:nld_x_preferred":[
+        "Olingen"
     ],
     "name:pol_x_preferred":[
         "Olingen"
@@ -92,7 +92,7 @@
         }
     ],
     "wof:id":1126026067,
-    "wof:lastmodified":1553816708,
+    "wof:lastmodified":1561837520,
     "wof:name":"Olingen",
     "wof:parent_id":85673869,
     "wof:placetype":"locality",

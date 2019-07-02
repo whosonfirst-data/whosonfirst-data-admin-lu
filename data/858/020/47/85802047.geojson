@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3402978.255163,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.132483,49.600582,6.132483,49.600582",
     "geom:latitude":49.600582,
     "geom:longitude":6.132483,
@@ -23,29 +23,26 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":3,
-    "name:arm_x_preferred":[
-        "\u0532\u0578\u0576\u057e\u0578\u0582\u0561"
-    ],
     "name:bel_x_preferred":[
         "\u0411\u043e\u043d\u044d\u0432\u0430\u0456\u044d"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Bonnevoie"
     ],
     "name:deu_x_preferred":[
         "Bonneweg"
     ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03cc\u03bd\u03b5\u03b2\u03b5\u03b3\u03ba"
+    ],
     "name:eng_x_preferred":[
         "Bonnevoie"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Bonnevoie"
     ],
-    "name:ger_x_preferred":[
-        "Bonneweg"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c0\u03cc\u03bd\u03b5\u03b2\u03b5\u03b3\u03ba"
+    "name:hye_x_preferred":[
+        "\u0532\u0578\u0576\u057e\u0578\u0582\u0561"
     ],
     "name:ita_x_preferred":[
         "Bonnevoie"
@@ -129,7 +126,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531862122,
+    "wof:lastmodified":1561837514,
     "wof:name":"Bonnevoie",
     "wof:parent_id":101751765,
     "wof:placetype":"neighbourhood",

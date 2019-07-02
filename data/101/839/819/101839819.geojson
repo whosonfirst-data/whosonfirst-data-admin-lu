@@ -17,16 +17,7 @@
     "mps:longitude":6.442921,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Nittel"
-    ],
-    "name:chi_x_preferred":[
-        "\u5c3c\u7279\u5c14"
-    ],
     "name:deu_x_preferred":[
-        "Nittel"
-    ],
-    "name:dut_x_preferred":[
         "Nittel"
     ],
     "name:eng_x_preferred":[
@@ -39,12 +30,6 @@
         "Nittel"
     ],
     "name:fra_x_preferred":[
-        "Nittel"
-    ],
-    "name:fre_x_preferred":[
-        "Nittel"
-    ],
-    "name:ger_x_preferred":[
         "Nittel"
     ],
     "name:hbs_x_preferred":[
@@ -62,9 +47,6 @@
     "name:ltz_x_preferred":[
         "N\u00ebttel"
     ],
-    "name:may_x_preferred":[
-        "Nittel"
-    ],
     "name:msa_x_preferred":[
         "Nittel"
     ],
@@ -78,9 +60,6 @@
         "Nittel"
     ],
     "name:ron_x_preferred":[
-        "Nittel"
-    ],
-    "name:rum_x_preferred":[
         "Nittel"
     ],
     "name:rus_x_preferred":[
@@ -156,7 +135,7 @@
         }
     ],
     "wof:id":101839819,
-    "wof:lastmodified":1527715391,
+    "wof:lastmodified":1561837517,
     "wof:name":"Nittel",
     "wof:parent_id":102063545,
     "wof:placetype":"locality",

@@ -24,9 +24,6 @@
     "name:ara_x_preferred":[
         "\u0628\u0644\u062f\u064a\u0629 \u063a\u0631\u064a\u0641\u064a\u0646\u0645\u0627\u062a\u0634\u064a\u0631"
     ],
-    "name:baq_x_preferred":[
-        "Grevenmacher"
-    ],
     "name:bel_x_preferred":[
         "\u0413\u0440\u044d\u0432\u0435\u043d\u043c\u0430\u0445\u0435\u0440"
     ],
@@ -39,16 +36,10 @@
     "name:ceb_x_preferred":[
         "Grevenmacher"
     ],
-    "name:chi_x_preferred":[
-        "\u683c\u96f7\u6587\u9a6c\u8d6b"
-    ],
     "name:dan_x_preferred":[
         "Grevenmacher"
     ],
     "name:deu_x_preferred":[
-        "Grevenmacher"
-    ],
-    "name:dut_x_preferred":[
         "Grevenmacher"
     ],
     "name:eng_x_preferred":[
@@ -63,15 +54,6 @@
     "name:fra_x_preferred":[
         "Grevenmacher"
     ],
-    "name:fre_x_preferred":[
-        "Grevenmacher"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d2\u10e0\u10d4\u10d5\u10d4\u10dc\u10db\u10d0\u10ee\u10d4\u10e0\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Grevenmacher"
-    ],
     "name:gsw_x_preferred":[
         "Gr\u00e9ivemaacher"
     ],
@@ -83,6 +65,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30b0\u30ec\u30fc\u30f4\u30a7\u30f3\u30de\u30cf"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d2\u10e0\u10d4\u10d5\u10d4\u10dc\u10db\u10d0\u10ee\u10d4\u10e0\u10d8"
     ],
     "name:kaz_x_preferred":[
         "\u0413\u0440\u0435\u0432\u0435\u043d\u043c\u0430\u0445\u0435\u0440"
@@ -99,11 +84,8 @@
     "name:ltz_x_variant":[
         "Gr\u00e9iwemaacher"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0413\u0440\u0435\u0432\u0435\u043d\u043c\u0430\u0445\u0435\u0440"
-    ],
-    "name:may_x_preferred":[
-        "Grevenmacher"
     ],
     "name:msa_x_preferred":[
         "Grevenmacher"
@@ -123,9 +105,6 @@
     "name:nor_x_preferred":[
         "Grevenmacher"
     ],
-    "name:per_x_preferred":[
-        "\u06af\u0631\u0648\u0646\u0645\u0627\u062e\u0631"
-    ],
     "name:pol_x_preferred":[
         "Grevenmacher"
     ],
@@ -135,16 +114,10 @@
     "name:ron_x_preferred":[
         "Grevenmacher"
     ],
-    "name:rum_x_preferred":[
-        "Grevenmacher"
-    ],
     "name:rus_x_preferred":[
         "\u0413\u0440\u0435\u0432\u0435\u043d\u043c\u0430\u0445\u0435\u0440"
     ],
     "name:slk_x_preferred":[
-        "Grevenmacher"
-    ],
-    "name:slo_x_preferred":[
         "Grevenmacher"
     ],
     "name:srp_x_preferred":[
@@ -312,7 +285,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527715403,
+    "wof:lastmodified":1561837517,
     "wof:name":"Grevenmacher",
     "wof:parent_id":85673869,
     "wof:placetype":"locality",

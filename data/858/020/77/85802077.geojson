@@ -32,9 +32,6 @@
     "name:deu_x_preferred":[
         "Hamm"
     ],
-    "name:dut_x_preferred":[
-        "Hamm"
-    ],
     "name:eng_x_preferred":[
         "Hamm"
     ],
@@ -42,12 +39,6 @@
         "Hamm"
     ],
     "name:fra_x_preferred":[
-        "Hamm"
-    ],
-    "name:fre_x_preferred":[
-        "Hamm"
-    ],
-    "name:ger_x_preferred":[
         "Hamm"
     ],
     "name:ita_x_preferred":[
@@ -132,7 +123,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1553814901,
+    "wof:lastmodified":1561837514,
     "wof:name":"Hamm",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

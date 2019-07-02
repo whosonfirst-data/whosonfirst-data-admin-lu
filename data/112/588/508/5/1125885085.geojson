@@ -22,20 +22,20 @@
     "name:cat_x_preferred":[
         "Everlange"
     ],
-    "name:dut_x_preferred":[
-        "Everlange"
+    "name:deu_x_preferred":[
+        "Everlingen"
     ],
     "name:eng_x_preferred":[
         "Everlange"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Everlange"
-    ],
-    "name:ger_x_preferred":[
-        "Everlingen"
     ],
     "name:ltz_x_preferred":[
         "Iewerleng"
+    ],
+    "name:nld_x_preferred":[
+        "Everlange"
     ],
     "name:pol_x_preferred":[
         "Everlange"
@@ -92,7 +92,7 @@
         }
     ],
     "wof:id":1125885085,
-    "wof:lastmodified":1514483905,
+    "wof:lastmodified":1561837522,
     "wof:name":"Everlange",
     "wof:parent_id":85673865,
     "wof:placetype":"locality",

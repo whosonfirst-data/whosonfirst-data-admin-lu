@@ -17,17 +17,11 @@
     "mps:longitude":6.218436,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u0532\u0565\u057f\u057f\u0565\u0576\u0564\u0578\u0580\u0586"
-    ],
     "name:bel_x_preferred":[
         "\u0411\u0435\u0442\u044d\u043d\u0434\u043e\u0440\u0444"
     ],
     "name:cat_x_preferred":[
         "Bettendorf"
-    ],
-    "name:chi_x_preferred":[
-        "\u8d1d\u6ed5\u591a\u592b"
     ],
     "name:dan_x_preferred":[
         "Bettendorf"
@@ -35,23 +29,20 @@
     "name:deu_x_preferred":[
         "Bettendorf"
     ],
-    "name:dut_x_preferred":[
-        "Bettendorf"
-    ],
     "name:eng_x_preferred":[
         "Bettendorf"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u062a\u0646\u062f\u0648\u0631\u0641"
     ],
     "name:fra_x_preferred":[
         "Bettendorf"
     ],
-    "name:fre_x_preferred":[
-        "Bettendorf"
-    ],
-    "name:ger_x_preferred":[
-        "Bettendorf"
-    ],
     "name:gsw_x_preferred":[
         "Bettenduerf"
+    ],
+    "name:hye_x_preferred":[
+        "\u0532\u0565\u057f\u057f\u0565\u0576\u0564\u0578\u0580\u0586"
     ],
     "name:ita_x_preferred":[
         "Bettendorf"
@@ -62,7 +53,7 @@
     "name:ltz_x_preferred":[
         "Bettenduerf"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Bettendorf"
     ],
     "name:nan_x_preferred":[
@@ -74,9 +65,6 @@
     "name:nob_x_preferred":[
         "Bettendorf"
     ],
-    "name:per_x_preferred":[
-        "\u0628\u062a\u0646\u062f\u0648\u0631\u0641"
-    ],
     "name:pol_x_preferred":[
         "Bettendorf"
     ],
@@ -86,7 +74,7 @@
     "name:rus_x_preferred":[
         "\u0411\u0435\u0442\u0442\u0435\u043d\u0434\u043e\u0440\u0444"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Bettendorf"
     ],
     "name:spa_x_preferred":[
@@ -100,6 +88,9 @@
     ],
     "name:und_x_preferred":[
         "Bettendorf"
+    ],
+    "name:zho_x_preferred":[
+        "\u8d1d\u6ed5\u591a\u592b"
     ],
     "qs:a0":"Luxembourg",
     "qs:a1":"*",
@@ -147,7 +138,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1553815520,
+    "wof:lastmodified":1561837516,
     "wof:name":"Bettendorf",
     "wof:parent_id":85673865,
     "wof:placetype":"locality",

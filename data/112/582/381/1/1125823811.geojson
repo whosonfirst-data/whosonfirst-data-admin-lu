@@ -31,16 +31,16 @@
     "name:dan_x_preferred":[
         "Mompach"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Mompach"
     ],
     "name:eng_x_preferred":[
         "Mompach"
     ],
-    "name:fre_x_preferred":[
-        "Mompach"
+    "name:fas_x_preferred":[
+        "\u0645\u0648\u0645\u067e\u0627\u062e"
     ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Mompach"
     ],
     "name:gsw_x_preferred":[
@@ -52,17 +52,17 @@
     "name:ltz_x_preferred":[
         "Gemeng Mompech"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Mompach"
     ],
     "name:nan_x_preferred":[
         "Mompach"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Mompach"
     ],
-    "name:per_x_preferred":[
-        "\u0645\u0648\u0645\u067e\u0627\u062e"
+    "name:nob_x_preferred":[
+        "Mompach"
     ],
     "name:pol_x_preferred":[
         "Mompach"
@@ -73,7 +73,7 @@
     "name:rus_x_preferred":[
         "\u041c\u043e\u043c\u043f\u0430\u0445"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Mompach"
     ],
     "name:swe_x_preferred":[
@@ -132,7 +132,7 @@
         }
     ],
     "wof:id":1125823811,
-    "wof:lastmodified":1514483926,
+    "wof:lastmodified":1561837526,
     "wof:name":"Mompach",
     "wof:parent_id":85673869,
     "wof:placetype":"locality",

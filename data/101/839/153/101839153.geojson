@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000417,
-    "geom:area_square_m":3321802.47531,
+    "geom:area_square_m":3321802.475311,
     "geom:bbox":"6.07162734397,49.8231237322,6.11226279994,49.8623367041",
     "geom:latitude":49.844759,
     "geom:longitude":6.094975,
@@ -23,9 +23,6 @@
     "name:ara_x_preferred":[
         "\u0625\u064a\u062a\u0644\u0628\u0631\u0648\u0643"
     ],
-    "name:baq_x_preferred":[
-        "Ettelbruck"
-    ],
     "name:bel_x_preferred":[
         "\u042d\u0442\u044d\u043b\u044c\u0431\u0440\u0443\u043a"
     ],
@@ -35,9 +32,6 @@
     "name:ceb_x_preferred":[
         "Ettelbruck"
     ],
-    "name:chi_x_preferred":[
-        "\u57c3\u7279\u723e\u5e03\u9b6f\u514b"
-    ],
     "name:cym_x_preferred":[
         "Ettelbruck"
     ],
@@ -46,9 +40,6 @@
     ],
     "name:deu_x_preferred":[
         "Ettelbr\u00fcck"
-    ],
-    "name:dut_x_preferred":[
-        "Ettelbruck"
     ],
     "name:eng_x_preferred":[
         "Ettelbruck"
@@ -68,16 +59,7 @@
     "name:fra_x_preferred":[
         "Ettelbruck"
     ],
-    "name:fre_x_preferred":[
-        "Ettelbruck"
-    ],
     "name:fre_x_variant":[
-        "Ettelbr\u00fcck"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d4\u10e2\u10d4\u10da\u10d1\u10e0\u10d8\u10e3\u10d9\u10d8"
-    ],
-    "name:ger_x_preferred":[
         "Ettelbr\u00fcck"
     ],
     "name:gsw_x_preferred":[
@@ -95,6 +77,9 @@
     "name:jpn_x_preferred":[
         "\u30a8\u30c6\u30eb\u30d6\u30ea\u30e5\u30c3\u30af"
     ],
+    "name:kat_x_preferred":[
+        "\u10d4\u10e2\u10d4\u10da\u10d1\u10e0\u10d8\u10e3\u10d9\u10d8"
+    ],
     "name:lim_x_preferred":[
         "Ettelbruck"
     ],
@@ -103,9 +88,6 @@
     ],
     "name:ltz_x_preferred":[
         "Gemeng Ettelbr\u00e9ck"
-    ],
-    "name:may_x_preferred":[
-        "Ettelbruck"
     ],
     "name:msa_x_preferred":[
         "Ettelbruck"
@@ -125,9 +107,6 @@
     "name:nor_x_preferred":[
         "Ettelbruck"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u062a\u0644 \u0628\u0631\u0648\u06a9"
-    ],
     "name:pol_x_preferred":[
         "Ettelbruck"
     ],
@@ -137,16 +116,10 @@
     "name:ron_x_preferred":[
         "Ettelbruck"
     ],
-    "name:rum_x_preferred":[
-        "Ettelbruck"
-    ],
     "name:rus_x_preferred":[
         "\u042d\u0442\u0442\u0435\u043b\u044c\u0431\u0440\u044e\u043a"
     ],
     "name:slk_x_preferred":[
-        "Ettelbruck"
-    ],
-    "name:slo_x_preferred":[
         "Ettelbruck"
     ],
     "name:srp_x_preferred":[
@@ -176,11 +149,11 @@
     "name:vol_x_preferred":[
         "Ettelbruck"
     ],
-    "name:wel_x_preferred":[
-        "Ettelbruck"
-    ],
     "name:zho_min_nan_x_preferred":[
         "Ettelbruck"
+    ],
+    "name:zho_x_preferred":[
+        "\u57c3\u7279\u723e\u5e03\u9b6f\u514b"
     ],
     "qs:a0":"Luxembourg",
     "qs:a1":"*",
@@ -234,7 +207,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527715396,
+    "wof:lastmodified":1561837517,
     "wof:name":"Ettelbr\u00fcck",
     "wof:parent_id":85673865,
     "wof:placetype":"locality",

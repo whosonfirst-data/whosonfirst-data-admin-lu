@@ -22,17 +22,17 @@
     "name:cat_x_preferred":[
         "Reichlange"
     ],
-    "name:dut_x_preferred":[
-        "Reichlange"
-    ],
     "name:eng_x_preferred":[
         "Reichlange"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Reichlange"
     ],
     "name:ltz_x_preferred":[
         "R\u00e4ichel"
+    ],
+    "name:nld_x_preferred":[
+        "Reichlange"
     ],
     "name:pol_x_preferred":[
         "Reichlange"
@@ -87,7 +87,7 @@
         }
     ],
     "wof:id":1125952169,
-    "wof:lastmodified":1514483932,
+    "wof:lastmodified":1561837518,
     "wof:name":"Reichlange",
     "wof:parent_id":85673865,
     "wof:placetype":"locality",

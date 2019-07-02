@@ -28,16 +28,16 @@
     "name:dan_x_preferred":[
         "Heffingen"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Heffingen"
     ],
     "name:eng_x_preferred":[
         "Heffingen"
     ],
-    "name:fre_x_preferred":[
-        "Heffingen"
+    "name:fas_x_preferred":[
+        "\u0647\u0641\u06cc\u0646\u06af\u0646"
     ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Heffingen"
     ],
     "name:gsw_x_preferred":[
@@ -49,17 +49,17 @@
     "name:ltz_x_preferred":[
         "Gemeng Hiefenech"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Heffingen"
     ],
     "name:nan_x_preferred":[
         "Heffingen"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Heffingen"
     ],
-    "name:per_x_preferred":[
-        "\u0647\u0641\u06cc\u0646\u06af\u0646"
+    "name:nob_x_preferred":[
+        "Heffingen"
     ],
     "name:pol_x_preferred":[
         "Heffingen"
@@ -70,7 +70,7 @@
     "name:rus_x_preferred":[
         "\u0425\u0435\u0444\u0444\u0438\u043d\u0433\u0435\u043d"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Heffingen"
     ],
     "name:swe_x_preferred":[
@@ -130,7 +130,7 @@
         }
     ],
     "wof:id":1126008597,
-    "wof:lastmodified":1514483909,
+    "wof:lastmodified":1561837525,
     "wof:name":"Heffingen",
     "wof:parent_id":85673875,
     "wof:placetype":"locality",

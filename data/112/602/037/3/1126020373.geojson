@@ -25,20 +25,20 @@
     "name:cat_x_preferred":[
         "Fouhren"
     ],
-    "name:dut_x_preferred":[
-        "Fouhren"
+    "name:deu_x_preferred":[
+        "Fuhren"
     ],
     "name:eng_x_preferred":[
         "Fouhren"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Fouhren"
-    ],
-    "name:ger_x_preferred":[
-        "Fuhren"
     ],
     "name:ltz_x_preferred":[
         "Furen"
+    ],
+    "name:nld_x_preferred":[
+        "Fouhren"
     ],
     "name:pol_x_preferred":[
         "Fouhren"
@@ -98,7 +98,7 @@
         }
     ],
     "wof:id":1126020373,
-    "wof:lastmodified":1514483906,
+    "wof:lastmodified":1561837520,
     "wof:name":"Fouhren",
     "wof:parent_id":85673865,
     "wof:placetype":"locality",

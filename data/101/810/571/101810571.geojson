@@ -26,16 +26,16 @@
     "name:dan_x_preferred":[
         "Kopstal"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Kopstal"
     ],
     "name:eng_x_preferred":[
         "Kopstal"
     ],
-    "name:fre_x_preferred":[
-        "Kopstal"
+    "name:fas_x_preferred":[
+        "\u06a9\u0648\u067e\u0633\u062a\u0627\u0644"
     ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Kopstal"
     ],
     "name:gsw_x_preferred":[
@@ -47,17 +47,17 @@
     "name:ltz_x_preferred":[
         "Gemeng Koplescht"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Kopstal"
     ],
     "name:nan_x_preferred":[
         "Kopstal"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Kopstal"
     ],
-    "name:per_x_preferred":[
-        "\u06a9\u0648\u067e\u0633\u062a\u0627\u0644"
+    "name:nob_x_preferred":[
+        "Kopstal"
     ],
     "name:pol_x_preferred":[
         "Kopstal"
@@ -68,7 +68,7 @@
     "name:rus_x_preferred":[
         "\u041a\u043e\u043f\u0441\u0442\u0430\u043b\u044c"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Kopstal"
     ],
     "name:swe_x_preferred":[
@@ -126,7 +126,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1514483914,
+    "wof:lastmodified":1561837515,
     "wof:name":"Kopstal",
     "wof:parent_id":85673875,
     "wof:placetype":"locality",

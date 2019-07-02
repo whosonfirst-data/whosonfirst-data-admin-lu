@@ -22,17 +22,17 @@
     "name:cat_x_preferred":[
         "Bilsdorf"
     ],
-    "name:dut_x_preferred":[
-        "Bilsdorf"
-    ],
     "name:eng_x_preferred":[
         "Bilsdorf"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Bilsdorf"
     ],
     "name:ltz_x_preferred":[
         "Bilschdref"
+    ],
+    "name:nld_x_preferred":[
+        "Bilsdorf"
     ],
     "name:pol_x_preferred":[
         "Bilsdorf"
@@ -91,7 +91,7 @@
         }
     ],
     "wof:id":1125851477,
-    "wof:lastmodified":1514483894,
+    "wof:lastmodified":1561837526,
     "wof:name":"Bilsdorf",
     "wof:parent_id":85673865,
     "wof:placetype":"locality",

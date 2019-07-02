@@ -21,23 +21,23 @@
     "name:cat_x_preferred":[
         "Alzingen"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Alzingen"
     ],
     "name:eng_x_preferred":[
         "Alzingen"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Alzingen"
     ],
-    "name:geo_x_preferred":[
+    "name:kat_x_preferred":[
         "\u10d0\u10da\u10ea\u10d8\u10dc\u10d2\u10d4\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Alzingen"
     ],
     "name:ltz_x_preferred":[
         "Alzeng"
+    ],
+    "name:nld_x_preferred":[
+        "Alzingen"
     ],
     "name:pol_x_preferred":[
         "Alzingen"
@@ -96,7 +96,7 @@
         }
     ],
     "wof:id":1125877931,
-    "wof:lastmodified":1514483889,
+    "wof:lastmodified":1561837523,
     "wof:name":"Alzingen",
     "wof:parent_id":85673875,
     "wof:placetype":"locality",

@@ -22,17 +22,17 @@
     "name:cat_x_preferred":[
         "Bech-Kleinmacher"
     ],
-    "name:dut_x_preferred":[
-        "Bech-Kleinmacher"
-    ],
     "name:eng_x_preferred":[
         "Bech-Kleinmacher"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Bech-Kleinmacher"
     ],
     "name:ltz_x_preferred":[
         "Bech-Maacher"
+    ],
+    "name:nld_x_preferred":[
+        "Bech-Kleinmacher"
     ],
     "name:pol_x_preferred":[
         "Bech-Kleinmacher"
@@ -89,7 +89,7 @@
         }
     ],
     "wof:id":1125823799,
-    "wof:lastmodified":1514483913,
+    "wof:lastmodified":1561837525,
     "wof:name":"Kleinmacher",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

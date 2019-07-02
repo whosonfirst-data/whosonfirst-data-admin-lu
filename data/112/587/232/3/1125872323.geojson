@@ -22,13 +22,10 @@
     "name:cat_x_preferred":[
         "Noertzange"
     ],
-    "name:dut_x_preferred":[
-        "Noertzange"
-    ],
     "name:eng_x_preferred":[
         "Noertzange"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Noertzange"
     ],
     "name:hun_x_preferred":[
@@ -36,6 +33,9 @@
     ],
     "name:ltz_x_preferred":[
         "N\u00e4erzeng"
+    ],
+    "name:nld_x_preferred":[
+        "Noertzange"
     ],
     "name:pol_x_preferred":[
         "Noertzange"
@@ -94,7 +94,7 @@
         }
     ],
     "wof:id":1125872323,
-    "wof:lastmodified":1514483929,
+    "wof:lastmodified":1561837522,
     "wof:name":"Noertzange",
     "wof:parent_id":85673875,
     "wof:placetype":"locality",

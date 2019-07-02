@@ -22,17 +22,17 @@
     "name:cat_x_preferred":[
         "Holtz"
     ],
-    "name:dut_x_preferred":[
-        "Holtz"
-    ],
     "name:eng_x_preferred":[
         "Holtz"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Holtz"
     ],
     "name:ltz_x_preferred":[
         "Holz"
+    ],
+    "name:nld_x_preferred":[
+        "Holtz"
     ],
     "name:pol_x_preferred":[
         "Holtz"
@@ -94,7 +94,7 @@
         }
     ],
     "wof:id":1125794117,
-    "wof:lastmodified":1553816537,
+    "wof:lastmodified":1561837527,
     "wof:name":"Holtz",
     "wof:parent_id":85673865,
     "wof:placetype":"locality",

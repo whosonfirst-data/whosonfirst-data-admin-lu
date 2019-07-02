@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2938368.966992,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.115312,49.599588,6.115312,49.599588",
     "geom:latitude":49.599588,
     "geom:longitude":6.115312,
@@ -29,16 +29,10 @@
     "name:ceb_x_preferred":[
         "Gasperich"
     ],
-    "name:dut_x_preferred":[
-        "Gasperich"
-    ],
     "name:eng_x_preferred":[
         "Gasperich"
     ],
     "name:fra_x_preferred":[
-        "Gasperich"
-    ],
-    "name:fre_x_preferred":[
         "Gasperich"
     ],
     "name:ita_x_preferred":[
@@ -46,6 +40,9 @@
     ],
     "name:ltz_x_preferred":[
         "Gaasperech"
+    ],
+    "name:nld_x_preferred":[
+        "Gasperich"
     ],
     "name:spa_x_preferred":[
         "Gasperich"
@@ -121,7 +118,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531862127,
+    "wof:lastmodified":1561837514,
     "wof:name":"Gasperich",
     "wof:parent_id":101751765,
     "wof:placetype":"neighbourhood",

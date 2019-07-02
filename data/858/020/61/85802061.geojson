@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2854675.628773,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.135147,49.613637,6.135147,49.613637",
     "geom:latitude":49.613637,
     "geom:longitude":6.135147,
@@ -29,22 +29,19 @@
     "name:ceb_x_preferred":[
         "Clausen"
     ],
-    "name:dut_x_preferred":[
-        "Clausen"
-    ],
     "name:eng_x_preferred":[
         "Clausen"
     ],
     "name:fra_x_preferred":[
         "Clausen"
     ],
-    "name:fre_x_preferred":[
-        "Clausen"
-    ],
     "name:ita_x_preferred":[
         "Clausen"
     ],
     "name:ltz_x_preferred":[
+        "Clausen"
+    ],
+    "name:nld_x_preferred":[
         "Clausen"
     ],
     "name:swe_x_preferred":[
@@ -118,7 +115,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531862125,
+    "wof:lastmodified":1561837514,
     "wof:name":"Clausen",
     "wof:parent_id":101751765,
     "wof:placetype":"neighbourhood",

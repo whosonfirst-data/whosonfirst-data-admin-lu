@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":5382098.480384,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.138686,49.63248,6.138686,49.63248",
     "geom:latitude":49.63248,
     "geom:longitude":6.138686,
@@ -29,20 +29,14 @@
     "name:ceb_x_preferred":[
         "Dommeldange"
     ],
-    "name:dut_x_preferred":[
-        "Dommeldange"
+    "name:deu_x_preferred":[
+        "Dommeldingen"
     ],
     "name:eng_x_preferred":[
         "Dommeldange"
     ],
     "name:fra_x_preferred":[
         "Dommeldange"
-    ],
-    "name:fre_x_preferred":[
-        "Dommeldange"
-    ],
-    "name:ger_x_preferred":[
-        "Dommeldingen"
     ],
     "name:hun_x_preferred":[
         "Dommeldange"
@@ -52,6 +46,9 @@
     ],
     "name:ltz_x_preferred":[
         "Dummeldeng"
+    ],
+    "name:nld_x_preferred":[
+        "Dommeldange"
     ],
     "name:swe_x_preferred":[
         "Dommeldange"
@@ -124,7 +121,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531862125,
+    "wof:lastmodified":1561837514,
     "wof:name":"Dommeldange",
     "wof:parent_id":101751765,
     "wof:placetype":"neighbourhood",

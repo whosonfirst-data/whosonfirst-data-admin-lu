@@ -22,20 +22,20 @@
     "name:cat_x_preferred":[
         "Aspelt"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Aspelt"
     ],
     "name:eng_x_preferred":[
         "Aspelt"
     ],
-    "name:fre_x_preferred":[
-        "Aspelt"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Aspelt"
     ],
     "name:ltz_x_preferred":[
         "Uespelt"
+    ],
+    "name:nld_x_preferred":[
+        "Aspelt"
     ],
     "name:pol_x_preferred":[
         "Aspelt"
@@ -94,7 +94,7 @@
         }
     ],
     "wof:id":1126051113,
-    "wof:lastmodified":1514483890,
+    "wof:lastmodified":1561837520,
     "wof:name":"Aspelt",
     "wof:parent_id":85673875,
     "wof:placetype":"locality",

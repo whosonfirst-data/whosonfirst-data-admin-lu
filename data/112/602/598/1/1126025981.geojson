@@ -22,17 +22,17 @@
     "name:cat_x_preferred":[
         "Oberwampach"
     ],
-    "name:dut_x_preferred":[
-        "Oberwampach"
-    ],
     "name:eng_x_preferred":[
         "Oberwampach"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Oberwampach"
     ],
     "name:ltz_x_preferred":[
         "Uewerwampech"
+    ],
+    "name:nld_x_preferred":[
+        "Oberwampach"
     ],
     "name:swe_x_preferred":[
         "Oberwampach"
@@ -86,7 +86,7 @@
         }
     ],
     "wof:id":1126025981,
-    "wof:lastmodified":1514483929,
+    "wof:lastmodified":1561837520,
     "wof:name":"Oberwampach",
     "wof:parent_id":85673865,
     "wof:placetype":"locality",

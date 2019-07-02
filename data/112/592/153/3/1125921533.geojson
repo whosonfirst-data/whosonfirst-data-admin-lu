@@ -22,17 +22,17 @@
     "name:cat_x_preferred":[
         "Tarchamps"
     ],
-    "name:dut_x_preferred":[
-        "Tarchamps"
-    ],
     "name:eng_x_preferred":[
         "Tarchamps"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Tarchamps"
     ],
     "name:ltz_x_preferred":[
         "Iischpelt"
+    ],
+    "name:nld_x_preferred":[
+        "Tarchamps"
     ],
     "name:pol_x_preferred":[
         "Tarchamps"
@@ -94,7 +94,7 @@
         }
     ],
     "wof:id":1125921533,
-    "wof:lastmodified":1514483940,
+    "wof:lastmodified":1561837518,
     "wof:name":"Tarchamps",
     "wof:parent_id":85673865,
     "wof:placetype":"locality",

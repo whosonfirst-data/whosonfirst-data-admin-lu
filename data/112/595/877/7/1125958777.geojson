@@ -31,19 +31,13 @@
     "name:deu_x_preferred":[
         "Vichten"
     ],
-    "name:dut_x_preferred":[
-        "Vichten"
-    ],
     "name:eng_x_preferred":[
         "Vichten"
     ],
+    "name:fas_x_preferred":[
+        "\u0648\u06cc\u0634\u062a\u0646"
+    ],
     "name:fra_x_preferred":[
-        "Vichten"
-    ],
-    "name:fre_x_preferred":[
-        "Vichten"
-    ],
-    "name:ger_x_preferred":[
         "Vichten"
     ],
     "name:gsw_x_preferred":[
@@ -55,7 +49,7 @@
     "name:ltz_x_preferred":[
         "Viichten"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Vichten"
     ],
     "name:nan_x_preferred":[
@@ -67,9 +61,6 @@
     "name:nob_x_preferred":[
         "Vichten"
     ],
-    "name:per_x_preferred":[
-        "\u0648\u06cc\u0634\u062a\u0646"
-    ],
     "name:pol_x_preferred":[
         "Vichten"
     ],
@@ -79,7 +70,7 @@
     "name:rus_x_preferred":[
         "\u0412\u0438\u0445\u0442\u0435\u043d"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Vichten"
     ],
     "name:swe_x_preferred":[
@@ -137,7 +128,7 @@
         }
     ],
     "wof:id":1125958777,
-    "wof:lastmodified":1514483942,
+    "wof:lastmodified":1561837519,
     "wof:name":"Vichten",
     "wof:parent_id":85673865,
     "wof:placetype":"locality",

@@ -22,17 +22,17 @@
     "name:cat_x_preferred":[
         "Mullendorf"
     ],
-    "name:dut_x_preferred":[
-        "M\u00fcllendorf"
-    ],
     "name:eng_x_preferred":[
         "Mullendorf"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Mullendorf"
     ],
     "name:ltz_x_preferred":[
         "M\u00eblleref"
+    ],
+    "name:nld_x_preferred":[
+        "M\u00fcllendorf"
     ],
     "name:pol_x_preferred":[
         "Mullendorf"
@@ -90,7 +90,7 @@
         }
     ],
     "wof:id":1126039129,
-    "wof:lastmodified":1553816719,
+    "wof:lastmodified":1561837521,
     "wof:name":"M\u00fcllendorf",
     "wof:parent_id":85673875,
     "wof:placetype":"locality",

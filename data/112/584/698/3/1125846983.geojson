@@ -22,17 +22,17 @@
     "name:cat_x_preferred":[
         "Eschette"
     ],
-    "name:dut_x_preferred":[
-        "Eschette"
-    ],
     "name:eng_x_preferred":[
         "Eschette"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Eschette"
     ],
     "name:ltz_x_preferred":[
         "Eschent"
+    ],
+    "name:nld_x_preferred":[
+        "Eschette"
     ],
     "qs_pg:aaroncc":"LU",
     "qs_pg:gn_country":"LU",
@@ -71,7 +71,7 @@
         }
     ],
     "wof:id":1125846983,
-    "wof:lastmodified":1514483904,
+    "wof:lastmodified":1561837527,
     "wof:name":"Eschette",
     "wof:parent_id":85673865,
     "wof:placetype":"locality",

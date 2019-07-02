@@ -28,16 +28,13 @@
     "name:dan_x_preferred":[
         "Munshausen"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Munshausen"
     ],
     "name:eng_x_preferred":[
         "Munshausen"
     ],
-    "name:fre_x_preferred":[
-        "Munshausen"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Munshausen"
     ],
     "name:gsw_x_preferred":[
@@ -55,6 +52,9 @@
     "name:nan_x_preferred":[
         "Munshausen"
     ],
+    "name:nld_x_preferred":[
+        "Munshausen"
+    ],
     "name:nob_x_preferred":[
         "Munshausen"
     ],
@@ -67,7 +67,7 @@
     "name:rus_x_preferred":[
         "\u041c\u044e\u043d\u0441\u0445\u0430\u0443\u0437\u0435\u043d"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Munshausen"
     ],
     "name:swe_x_preferred":[
@@ -127,7 +127,7 @@
         }
     ],
     "wof:id":1125769439,
-    "wof:lastmodified":1514483927,
+    "wof:lastmodified":1561837526,
     "wof:name":"Munshausen",
     "wof:parent_id":85673865,
     "wof:placetype":"locality",

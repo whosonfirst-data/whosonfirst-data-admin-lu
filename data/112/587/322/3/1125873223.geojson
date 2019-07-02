@@ -22,17 +22,17 @@
     "name:cat_x_preferred":[
         "Kahler"
     ],
-    "name:dut_x_preferred":[
-        "Kahler"
-    ],
     "name:eng_x_preferred":[
         "Kahler"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Kahler"
     ],
     "name:ltz_x_preferred":[
         "Koler"
+    ],
+    "name:nld_x_preferred":[
+        "Kahler"
     ],
     "name:pol_x_preferred":[
         "Kahler"
@@ -91,7 +91,7 @@
         }
     ],
     "wof:id":1125873223,
-    "wof:lastmodified":1514483912,
+    "wof:lastmodified":1561837523,
     "wof:name":"Kahler",
     "wof:parent_id":85673875,
     "wof:placetype":"locality",

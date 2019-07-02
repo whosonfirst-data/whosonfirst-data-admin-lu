@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":1565690.927214,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.145803,49.622884,6.145803,49.622884",
     "geom:latitude":49.622884,
     "geom:longitude":6.145803,
@@ -24,9 +24,6 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":3,
-    "name:arm_x_preferred":[
-        "\u053f\u056b\u0580\u056d\u0562\u057f\u0580\u0563"
-    ],
     "name:cat_x_preferred":[
         "Kirchberg"
     ],
@@ -36,20 +33,14 @@
     "name:deu_x_preferred":[
         "Kirchberg-Plateau"
     ],
-    "name:dut_x_preferred":[
-        "Kirchberg"
-    ],
     "name:eng_x_preferred":[
         "Luxembourg-Kirchberg"
     ],
     "name:fra_x_preferred":[
         "Kirchberg"
     ],
-    "name:fre_x_preferred":[
-        "Kirchberg"
-    ],
-    "name:ger_x_preferred":[
-        "Kirchberg-Plateau"
+    "name:hye_x_preferred":[
+        "\u053f\u056b\u0580\u056d\u0562\u057f\u0580\u0563"
     ],
     "name:ita_x_preferred":[
         "Kirchberg"
@@ -61,9 +52,6 @@
         "Kirchberg"
     ],
     "name:ron_x_preferred":[
-        "Kirchberg"
-    ],
-    "name:rum_x_preferred":[
         "Kirchberg"
     ],
     "name:rus_x_preferred":[
@@ -146,7 +134,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531862130,
+    "wof:lastmodified":1561837514,
     "wof:name":"Kirchberg",
     "wof:parent_id":101751765,
     "wof:placetype":"neighbourhood",

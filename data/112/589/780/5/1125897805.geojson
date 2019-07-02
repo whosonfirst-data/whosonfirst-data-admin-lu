@@ -22,17 +22,17 @@
     "name:cat_x_preferred":[
         "Huncherange"
     ],
-    "name:dut_x_preferred":[
-        "Huncherange"
-    ],
     "name:eng_x_preferred":[
         "Huncherange"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Huncherange"
     ],
     "name:ltz_x_preferred":[
         "H\u00ebnchereng"
+    ],
+    "name:nld_x_preferred":[
+        "Huncherange"
     ],
     "name:pol_x_preferred":[
         "Huncherange"
@@ -89,7 +89,7 @@
         }
     ],
     "wof:id":1125897805,
-    "wof:lastmodified":1514483912,
+    "wof:lastmodified":1561837522,
     "wof:name":"Huncherange",
     "wof:parent_id":85673875,
     "wof:placetype":"locality",
