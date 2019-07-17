@@ -22,6 +22,12 @@
     "name:cat_x_preferred":[
         "Wolwelange"
     ],
+    "name:ceb_x_preferred":[
+        "Wolwelange"
+    ],
+    "name:deu_x_preferred":[
+        "Wolwelingen"
+    ],
     "name:eng_x_preferred":[
         "Wolwelange"
     ],
@@ -77,7 +83,7 @@
         }
     ],
     "wof:id":1125846579,
-    "wof:lastmodified":1561837527,
+    "wof:lastmodified":1563326762,
     "wof:name":"Wolwelange",
     "wof:parent_id":85673865,
     "wof:placetype":"locality",

@@ -59,6 +59,9 @@
     "name:nan_x_preferred":[
         "Koerich"
     ],
+    "name:nds_x_preferred":[
+        "Gemeen Koerich"
+    ],
     "name:nld_x_preferred":[
         "Koerich"
     ],
@@ -149,7 +152,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561837516,
+    "wof:lastmodified":1563326561,
     "wof:name":"Koerich",
     "wof:parent_id":85673875,
     "wof:placetype":"locality",

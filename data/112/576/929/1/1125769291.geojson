@@ -22,6 +22,9 @@
     "name:cat_x_preferred":[
         "Colpach-Haut"
     ],
+    "name:ceb_x_preferred":[
+        "Colpach-Haut"
+    ],
     "name:eng_x_preferred":[
         "Colpach-Haut"
     ],
@@ -30,6 +33,9 @@
     ],
     "name:ltz_x_preferred":[
         "Uewerkolpech"
+    ],
+    "name:msa_x_preferred":[
+        "Colpach-Haut"
     ],
     "name:nld_x_preferred":[
         "Colpach-Haut"
@@ -80,7 +86,7 @@
         }
     ],
     "wof:id":1125769291,
-    "wof:lastmodified":1561837526,
+    "wof:lastmodified":1563326739,
     "wof:name":"Colpach-Haut",
     "wof:parent_id":85673865,
     "wof:placetype":"locality",

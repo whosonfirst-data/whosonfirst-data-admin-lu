@@ -50,6 +50,9 @@
     "name:fra_x_preferred":[
         "Mertzig"
     ],
+    "name:gsw_x_preferred":[
+        "M\u00e4erzeg"
+    ],
     "name:ita_x_preferred":[
         "Mertzig"
     ],
@@ -65,7 +68,16 @@
     "name:msa_x_preferred":[
         "Mertzig"
     ],
+    "name:nan_x_preferred":[
+        "Mertzig"
+    ],
+    "name:nds_x_preferred":[
+        "Gemeen Mertzig"
+    ],
     "name:nld_x_preferred":[
+        "Mertzig"
+    ],
+    "name:nob_x_preferred":[
         "Mertzig"
     ],
     "name:nor_x_preferred":[
@@ -150,7 +162,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527714872,
+    "wof:lastmodified":1563326567,
     "wof:name":"Mertzig",
     "wof:parent_id":85673865,
     "wof:placetype":"locality",

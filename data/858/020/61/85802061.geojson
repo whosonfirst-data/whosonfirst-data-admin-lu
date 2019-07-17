@@ -29,6 +29,9 @@
     "name:ceb_x_preferred":[
         "Clausen"
     ],
+    "name:deu_x_preferred":[
+        "Clausen"
+    ],
     "name:eng_x_preferred":[
         "Clausen"
     ],
@@ -115,7 +118,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561837514,
+    "wof:lastmodified":1563326517,
     "wof:name":"Clausen",
     "wof:parent_id":101751765,
     "wof:placetype":"neighbourhood",

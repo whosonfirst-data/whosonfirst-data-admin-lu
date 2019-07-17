@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":16783070.644288,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.153625,49.567903,6.153625,49.567903",
     "geom:latitude":49.567903,
     "geom:longitude":6.153625,
@@ -28,6 +28,9 @@
         "Fentange"
     ],
     "name:ceb_x_preferred":[
+        "Fentange"
+    ],
+    "name:eng_x_preferred":[
         "Fentange"
     ],
     "name:fra_x_preferred":[
@@ -116,7 +119,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531862126,
+    "wof:lastmodified":1563326522,
     "wof:name":"Fentange",
     "wof:parent_id":101751765,
     "wof:placetype":"neighbourhood",

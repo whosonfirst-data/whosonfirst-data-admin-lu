@@ -30,6 +30,9 @@
     "name:ara_x_preferred":[
         "\u0644\u0648\u0643\u0633\u0645\u0628\u0648\u0631\u063a"
     ],
+    "name:ara_x_variant":[
+        "\u0645\u062f\u064a\u0646\u0629 \u0644\u0648\u0643\u0633\u0645\u0628\u0648\u0631\u063a"
+    ],
     "name:arg_x_preferred":[
         "Luxemburgo"
     ],
@@ -186,6 +189,9 @@
     "name:hin_x_preferred":[
         "\u0932\u0915\u094d\u091c\u093c\u092e\u092c\u0930\u094d\u0917"
     ],
+    "name:hin_x_variant":[
+        "\u0932\u0915\u094d\u091c\u093c\u092e\u092c\u0930\u094d\u0917 \u0928\u0917\u0930"
+    ],
     "name:hrv_x_preferred":[
         "Luxembourg"
     ],
@@ -256,6 +262,9 @@
     "name:lim_x_preferred":[
         "Luxemb\u00f6rg"
     ],
+    "name:lim_x_variant":[
+        "Luxemburg"
+    ],
     "name:lit_x_preferred":[
         "Liuksemburgas"
     ],
@@ -270,6 +279,9 @@
     ],
     "name:ltz_x_variant":[
         "Stad L\u00ebtzebuerg"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d32\u0d15\u0d4d\u0d38\u0d02\u0d2c\u0d7c\u0d17\u0d4d \u0d38\u0d3f\u0d31\u0d4d\u0d31\u0d3f"
     ],
     "name:mar_x_preferred":[
         "\u0932\u0915\u094d\u091d\u0947\u0902\u092c\u0930\u094d\u0917"
@@ -307,6 +319,9 @@
     "name:nob_x_preferred":[
         "Luxembourg"
     ],
+    "name:nob_x_variant":[
+        "Luxembourg by"
+    ],
     "name:nor_x_preferred":[
         "Luxembourg"
     ],
@@ -342,6 +357,9 @@
     ],
     "name:ron_x_preferred":[
         "Luxemburg"
+    ],
+    "name:rue_x_preferred":[
+        "\u041b\u0443\u043a\u0441\u0435\u043c\u0431\u0443\u0440\u0433"
     ],
     "name:rus_x_preferred":[
         "\u041b\u044e\u043a\u0441\u0435\u043c\u0431\u0443\u0440\u0433"
@@ -391,11 +409,17 @@
     "name:swe_x_preferred":[
         "Luxemburg"
     ],
+    "name:szl_x_preferred":[
+        "Luksymburg"
+    ],
     "name:tam_x_preferred":[
         "\u0bb2\u0b95\u0bcd\u0b9a\u0bae\u0bcd\u0baa\u0bb0\u0bcd\u0b95\u0bcd"
     ],
     "name:tat_x_preferred":[
         "\u041b\u044e\u043a\u0441\u0435\u043c\u0431\u0443\u0440\u0433"
+    ],
+    "name:tat_x_variant":[
+        "\u041b\u04af\u043a\u0441\u0438\u043c\u0431\u0443\u0440"
     ],
     "name:tel_x_preferred":[
         "\u0c32\u0c15\u0c4d\u0c38\u0c46\u0c02\u0c2c\u0c30\u0c4d\u0c17\u0c4d"
@@ -439,6 +463,9 @@
     "name:vep_x_preferred":[
         "L\u00fcksemburg"
     ],
+    "name:vep_x_variant":[
+        "L\u00fcksemburg-lidn"
+    ],
     "name:vie_x_preferred":[
         "Luxembourg"
     ],
@@ -474,7 +501,8 @@
     ],
     "name:zho_x_variant":[
         "\u76e7\u68ee\u5821\u57ce",
-        "\u5362\u68ee\u5821"
+        "\u5362\u68ee\u5821",
+        "\u5362\u68ee\u5821\u5e02"
     ],
     "name:zho_yue_x_preferred":[
         "\u76e7\u68ee\u5821\u57ce"
@@ -628,7 +656,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1561837516,
+    "wof:lastmodified":1563326552,
     "wof:megacity":0,
     "wof:name":"Luxembourg",
     "wof:parent_id":85673875,

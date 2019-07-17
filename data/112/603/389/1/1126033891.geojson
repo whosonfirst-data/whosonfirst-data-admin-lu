@@ -22,6 +22,9 @@
     "name:cat_x_preferred":[
         "Niederpallen"
     ],
+    "name:ceb_x_preferred":[
+        "Niederpallen"
+    ],
     "name:deu_x_preferred":[
         "Niederpallen"
     ],
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":1126033891,
-    "wof:lastmodified":1561837521,
+    "wof:lastmodified":1563326644,
     "wof:name":"Niederpallen",
     "wof:parent_id":85673865,
     "wof:placetype":"locality",

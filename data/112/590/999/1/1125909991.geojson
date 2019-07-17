@@ -22,6 +22,12 @@
     "name:cat_x_preferred":[
         "Koetschette"
     ],
+    "name:ceb_x_preferred":[
+        "Koetschette"
+    ],
+    "name:deu_x_preferred":[
+        "K\u00f6tscheid"
+    ],
     "name:eng_x_preferred":[
         "Koetschette"
     ],
@@ -77,7 +83,7 @@
         }
     ],
     "wof:id":1125909991,
-    "wof:lastmodified":1561837523,
+    "wof:lastmodified":1563326696,
     "wof:name":"Koetschette",
     "wof:parent_id":85673865,
     "wof:placetype":"locality",

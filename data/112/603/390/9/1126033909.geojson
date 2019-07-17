@@ -22,6 +22,9 @@
     "name:cat_x_preferred":[
         "Noerdange"
     ],
+    "name:ceb_x_preferred":[
+        "Noerdange"
+    ],
     "name:deu_x_preferred":[
         "Noerdingen"
     ],
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":1126033909,
-    "wof:lastmodified":1561837521,
+    "wof:lastmodified":1563326641,
     "wof:name":"Noerdange",
     "wof:parent_id":85673865,
     "wof:placetype":"locality",

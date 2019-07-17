@@ -22,6 +22,9 @@
     "name:cat_x_preferred":[
         "Munsbach"
     ],
+    "name:ceb_x_preferred":[
+        "M\u00fcnsbach"
+    ],
     "name:deu_x_preferred":[
         "M\u00fcnsbach"
     ],
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":1125781287,
-    "wof:lastmodified":1561837526,
+    "wof:lastmodified":1563326745,
     "wof:name":"M\u00fcsbach",
     "wof:parent_id":85673875,
     "wof:placetype":"locality",

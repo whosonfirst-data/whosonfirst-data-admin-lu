@@ -21,6 +21,9 @@
     "name:cat_x_preferred":[
         "Fentange"
     ],
+    "name:ceb_x_preferred":[
+        "Fentange"
+    ],
     "name:eng_x_preferred":[
         "Fentange"
     ],
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1125967531,
-    "wof:lastmodified":1561837524,
+    "wof:lastmodified":1563326708,
     "wof:name":"Fentange",
     "wof:parent_id":85673875,
     "wof:placetype":"locality",

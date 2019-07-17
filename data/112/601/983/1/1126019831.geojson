@@ -22,6 +22,12 @@
     "name:cat_x_preferred":[
         "Weicherdange"
     ],
+    "name:ceb_x_preferred":[
+        "Weicherdange"
+    ],
+    "name:deu_x_preferred":[
+        "Weicherdingen"
+    ],
     "name:eng_x_preferred":[
         "Weicherdange"
     ],
@@ -30,6 +36,9 @@
     ],
     "name:ltz_x_preferred":[
         "W\u00e4icherdang"
+    ],
+    "name:msa_x_preferred":[
+        "Weicherdange"
     ],
     "name:nld_x_preferred":[
         "Weicherdange"
@@ -89,7 +98,7 @@
         }
     ],
     "wof:id":1126019831,
-    "wof:lastmodified":1561837524,
+    "wof:lastmodified":1563326718,
     "wof:name":"Weicherdange",
     "wof:parent_id":85673865,
     "wof:placetype":"locality",

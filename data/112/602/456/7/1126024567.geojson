@@ -22,6 +22,9 @@
     "name:cat_x_preferred":[
         "Bergem"
     ],
+    "name:ceb_x_preferred":[
+        "Bergem"
+    ],
     "name:deu_x_preferred":[
         "Bergem"
     ],
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":1126024567,
-    "wof:lastmodified":1561837520,
+    "wof:lastmodified":1563326632,
     "wof:name":"Bergem",
     "wof:parent_id":85673875,
     "wof:placetype":"locality",

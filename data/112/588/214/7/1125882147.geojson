@@ -46,6 +46,9 @@
     "name:ita_x_preferred":[
         "Goesdorf"
     ],
+    "name:kat_x_preferred":[
+        "\u10d2\u10d4\u10dd\u10e1\u10d3\u10dd\u10e0\u10e4\u10d8"
+    ],
     "name:ltz_x_preferred":[
         "Gemeng G\u00e9isdref"
     ],
@@ -136,7 +139,7 @@
         }
     ],
     "wof:id":1125882147,
-    "wof:lastmodified":1561837522,
+    "wof:lastmodified":1563326667,
     "wof:name":"G\u0153sdorf",
     "wof:parent_id":85673865,
     "wof:placetype":"locality",

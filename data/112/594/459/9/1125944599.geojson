@@ -34,6 +34,9 @@
     "name:ltz_x_preferred":[
         "Rueder"
     ],
+    "name:msa_x_preferred":[
+        "Roder"
+    ],
     "name:nld_x_preferred":[
         "Roder"
     ],
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":1125944599,
-    "wof:lastmodified":1561837518,
+    "wof:lastmodified":1563326593,
     "wof:name":"Roder",
     "wof:parent_id":85673865,
     "wof:placetype":"locality",

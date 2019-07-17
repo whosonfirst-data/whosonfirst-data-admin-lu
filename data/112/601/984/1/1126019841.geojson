@@ -22,6 +22,12 @@
     "name:cat_x_preferred":[
         "Weiler"
     ],
+    "name:ceb_x_preferred":[
+        "Weiler-l\u00e8s-Putscheid"
+    ],
+    "name:deu_x_preferred":[
+        "Weiler"
+    ],
     "name:eng_x_preferred":[
         "Weiler"
     ],
@@ -29,6 +35,9 @@
         "Weiler"
     ],
     "name:ltz_x_preferred":[
+        "Weiler"
+    ],
+    "name:msa_x_preferred":[
         "Weiler"
     ],
     "name:nld_x_preferred":[
@@ -89,7 +98,7 @@
         }
     ],
     "wof:id":1126019841,
-    "wof:lastmodified":1561837524,
+    "wof:lastmodified":1563326718,
     "wof:name":"Weiler",
     "wof:parent_id":85673865,
     "wof:placetype":"locality",

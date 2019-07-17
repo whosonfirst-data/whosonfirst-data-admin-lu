@@ -22,6 +22,9 @@
     "name:cat_x_preferred":[
         "Steinheim"
     ],
+    "name:ceb_x_preferred":[
+        "Steinheim"
+    ],
     "name:deu_x_preferred":[
         "Steinheim"
     ],
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":1125836291,
-    "wof:lastmodified":1561837528,
+    "wof:lastmodified":1563326771,
     "wof:name":"Steinheim",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

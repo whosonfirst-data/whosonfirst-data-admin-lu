@@ -22,6 +22,9 @@
     "name:cat_x_preferred":[
         "Reuler"
     ],
+    "name:ceb_x_preferred":[
+        "Reuler"
+    ],
     "name:deu_x_preferred":[
         "Reuler"
     ],
@@ -33,6 +36,9 @@
     ],
     "name:ltz_x_preferred":[
         "Reiler"
+    ],
+    "name:msa_x_preferred":[
+        "Reuler"
     ],
     "name:nld_x_preferred":[
         "Reuler"
@@ -92,7 +98,7 @@
         }
     ],
     "wof:id":1126026091,
-    "wof:lastmodified":1561837520,
+    "wof:lastmodified":1563326636,
     "wof:name":"Reuler",
     "wof:parent_id":85673865,
     "wof:placetype":"locality",

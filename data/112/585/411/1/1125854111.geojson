@@ -22,6 +22,9 @@
     "name:cat_x_preferred":[
         "Basbellain"
     ],
+    "name:ceb_x_preferred":[
+        "Basbellain"
+    ],
     "name:eng_x_preferred":[
         "Basbellain"
     ],
@@ -33,6 +36,9 @@
     ],
     "name:ltz_x_preferred":[
         "Kierchen"
+    ],
+    "name:msa_x_preferred":[
+        "Basbellain"
     ],
     "name:nld_x_preferred":[
         "Basbellain"
@@ -95,7 +101,7 @@
         }
     ],
     "wof:id":1125854111,
-    "wof:lastmodified":1561837526,
+    "wof:lastmodified":1563326742,
     "wof:name":"Basbellain",
     "wof:parent_id":85673865,
     "wof:placetype":"locality",

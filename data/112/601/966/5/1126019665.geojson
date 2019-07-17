@@ -22,6 +22,9 @@
     "name:cat_x_preferred":[
         "Angelsberg"
     ],
+    "name:ceb_x_preferred":[
+        "Angelsberg"
+    ],
     "name:eng_x_preferred":[
         "Angelsberg"
     ],
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":1126019665,
-    "wof:lastmodified":1561837525,
+    "wof:lastmodified":1563326722,
     "wof:name":"Angelsberg",
     "wof:parent_id":85673875,
     "wof:placetype":"locality",

@@ -22,6 +22,9 @@
     "name:cat_x_preferred":[
         "Merscheid"
     ],
+    "name:ceb_x_preferred":[
+        "Merscheid-l\u00e8s-Heiderscheid"
+    ],
     "name:deu_x_preferred":[
         "Merscheid"
     ],
@@ -33,6 +36,9 @@
     ],
     "name:ltz_x_preferred":[
         "Merscheet"
+    ],
+    "name:msa_x_preferred":[
+        "Merscheid"
     ],
     "name:nld_x_preferred":[
         "Merscheid"
@@ -93,7 +99,7 @@
         }
     ],
     "wof:id":1125979431,
-    "wof:lastmodified":1561837524,
+    "wof:lastmodified":1563326699,
     "wof:name":"Merscheid-l\u00e8s-Heiderscheid",
     "wof:parent_id":85673865,
     "wof:placetype":"locality",

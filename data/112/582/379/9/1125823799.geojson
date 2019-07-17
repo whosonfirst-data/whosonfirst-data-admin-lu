@@ -22,6 +22,9 @@
     "name:cat_x_preferred":[
         "Bech-Kleinmacher"
     ],
+    "name:ceb_x_preferred":[
+        "Bech-Kleinmacher"
+    ],
     "name:eng_x_preferred":[
         "Bech-Kleinmacher"
     ],
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":1125823799,
-    "wof:lastmodified":1561837525,
+    "wof:lastmodified":1563326733,
     "wof:name":"Kleinmacher",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

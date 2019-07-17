@@ -28,6 +28,9 @@
     "name:cat_x_preferred":[
         "Hesperange"
     ],
+    "name:ceb_x_preferred":[
+        "Hesperange"
+    ],
     "name:dan_x_preferred":[
         "Hesperange"
     ],
@@ -46,6 +49,9 @@
     "name:gsw_x_preferred":[
         "Hesper"
     ],
+    "name:hun_x_preferred":[
+        "Hesperange"
+    ],
     "name:ita_x_preferred":[
         "Hesperange"
     ],
@@ -57,6 +63,9 @@
     ],
     "name:ltz_x_preferred":[
         "Gemeng Hesper"
+    ],
+    "name:ltz_x_variant":[
+        "Hesper"
     ],
     "name:msa_x_preferred":[
         "Hesperange"
@@ -148,7 +157,7 @@
         }
     ],
     "wof:id":1125957373,
-    "wof:lastmodified":1561837518,
+    "wof:lastmodified":1563326604,
     "wof:name":"Hesperange",
     "wof:parent_id":85673875,
     "wof:placetype":"locality",

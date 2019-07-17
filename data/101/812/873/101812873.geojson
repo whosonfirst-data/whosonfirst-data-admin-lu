@@ -26,6 +26,9 @@
     "name:als_x_preferred":[
         "Iechternach"
     ],
+    "name:aze_x_preferred":[
+        "Externax"
+    ],
     "name:bel_x_preferred":[
         "\u042d\u0445\u0442\u044d\u0440\u043d\u0430\u0445"
     ],
@@ -45,6 +48,9 @@
         "Echternach"
     ],
     "name:deu_x_preferred":[
+        "Echternach"
+    ],
+    "name:diq_x_preferred":[
         "Echternach"
     ],
     "name:eng_x_preferred":[
@@ -85,6 +91,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc5d0\ud788\ud130\ub098\ud750"
+    ],
+    "name:kor_x_variant":[
+        "\uc5d0\ud750\ud130\ub098\ud750"
     ],
     "name:lit_x_preferred":[
         "Echternachas"
@@ -132,6 +141,9 @@
         "\u0415\u0445\u0442\u0435\u0440\u043d\u0430\u0445"
     ],
     "name:swe_x_preferred":[
+        "Echternach"
+    ],
+    "name:tur_x_preferred":[
         "Echternach"
     ],
     "name:ukr_x_preferred":[
@@ -225,7 +237,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561837516,
+    "wof:lastmodified":1563326556,
     "wof:name":"Echternach",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -21,6 +21,9 @@
     "name:cat_x_preferred":[
         "Alzingen"
     ],
+    "name:ceb_x_preferred":[
+        "Alzingen"
+    ],
     "name:deu_x_preferred":[
         "Alzingen"
     ],
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":1125877931,
-    "wof:lastmodified":1561837523,
+    "wof:lastmodified":1563326679,
     "wof:name":"Alzingen",
     "wof:parent_id":85673875,
     "wof:placetype":"locality",

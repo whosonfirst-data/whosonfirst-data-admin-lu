@@ -22,6 +22,12 @@
     "name:cat_x_preferred":[
         "Ingeldorf"
     ],
+    "name:ceb_x_preferred":[
+        "Ingeldorf"
+    ],
+    "name:deu_x_preferred":[
+        "Ingeldorf"
+    ],
     "name:eng_x_preferred":[
         "Ingeldorf"
     ],
@@ -94,7 +100,7 @@
         }
     ],
     "wof:id":1125990865,
-    "wof:lastmodified":1561837523,
+    "wof:lastmodified":1563326695,
     "wof:name":"Ingeldord",
     "wof:parent_id":85673865,
     "wof:placetype":"locality",

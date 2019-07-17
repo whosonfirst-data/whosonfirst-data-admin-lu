@@ -22,6 +22,9 @@
     "name:cat_x_preferred":[
         "Holzem"
     ],
+    "name:ceb_x_preferred":[
+        "Holzem"
+    ],
     "name:eng_x_preferred":[
         "Holzem"
     ],
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":1125771919,
-    "wof:lastmodified":1561837528,
+    "wof:lastmodified":1563326769,
     "wof:name":"Holzem",
     "wof:parent_id":85673875,
     "wof:placetype":"locality",

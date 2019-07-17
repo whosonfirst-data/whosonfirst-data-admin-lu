@@ -22,6 +22,9 @@
     "name:cat_x_preferred":[
         "Keispelt"
     ],
+    "name:ceb_x_preferred":[
+        "Keispelt"
+    ],
     "name:eng_x_preferred":[
         "Keispelt"
     ],
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":1125867117,
-    "wof:lastmodified":1561837521,
+    "wof:lastmodified":1563326662,
     "wof:name":"Keispelt",
     "wof:parent_id":85673875,
     "wof:placetype":"locality",

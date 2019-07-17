@@ -22,6 +22,9 @@
     "name:cat_x_preferred":[
         "Mullendorf"
     ],
+    "name:ceb_x_preferred":[
+        "M\u00fcllendorf"
+    ],
     "name:eng_x_preferred":[
         "Mullendorf"
     ],
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1126039129,
-    "wof:lastmodified":1561837521,
+    "wof:lastmodified":1563326642,
     "wof:name":"M\u00fcllendorf",
     "wof:parent_id":85673875,
     "wof:placetype":"locality",

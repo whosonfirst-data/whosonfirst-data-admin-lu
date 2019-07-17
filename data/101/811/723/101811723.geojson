@@ -75,13 +75,17 @@
         "Gemeng Klierf"
     ],
     "name:ltz_x_variant":[
-        "Cli\u00e4rref"
+        "Cli\u00e4rref",
+        "Klierf"
     ],
     "name:msa_x_preferred":[
         "Clervaux"
     ],
     "name:nan_x_preferred":[
         "Clervaux"
+    ],
+    "name:nds_x_preferred":[
+        "Gemeen Clerf"
     ],
     "name:nld_x_preferred":[
         "Clervaux"
@@ -169,7 +173,7 @@
         }
     ],
     "wof:id":101811723,
-    "wof:lastmodified":1561837515,
+    "wof:lastmodified":1563326544,
     "wof:name":"Clervaux",
     "wof:parent_id":85673865,
     "wof:placetype":"locality",

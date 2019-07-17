@@ -65,6 +65,9 @@
     "name:eng_x_preferred":[
         "Morsche"
     ],
+    "name:eng_x_variant":[
+        "Mersch"
+    ],
     "name:epo_x_preferred":[
         "Mersch"
     ],
@@ -127,6 +130,9 @@
     ],
     "name:kon_x_preferred":[
         "Mersch"
+    ],
+    "name:kor_x_preferred":[
+        "\uba54\ub974\uc288"
     ],
     "name:lij_x_preferred":[
         "Mersch"
@@ -313,7 +319,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561837516,
+    "wof:lastmodified":1563326565,
     "wof:name":"Mersch",
     "wof:parent_id":85673875,
     "wof:placetype":"locality",

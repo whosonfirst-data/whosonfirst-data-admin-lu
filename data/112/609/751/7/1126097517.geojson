@@ -21,6 +21,12 @@
     "name:cat_x_preferred":[
         "Eich"
     ],
+    "name:ceb_x_preferred":[
+        "Eich"
+    ],
+    "name:deu_x_preferred":[
+        "Eich"
+    ],
     "name:eng_x_preferred":[
         "Eich"
     ],
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":1126097517,
-    "wof:lastmodified":1561837525,
+    "wof:lastmodified":1563326732,
     "wof:name":"Eich",
     "wof:parent_id":101751765,
     "wof:placetype":"neighbourhood",

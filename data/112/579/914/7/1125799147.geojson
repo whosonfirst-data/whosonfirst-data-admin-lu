@@ -25,6 +25,9 @@
     "name:cat_x_preferred":[
         "Heinerscheid"
     ],
+    "name:ceb_x_preferred":[
+        "Heinerscheid"
+    ],
     "name:dan_x_preferred":[
         "Heinerscheid"
     ],
@@ -40,6 +43,9 @@
     "name:gsw_x_preferred":[
         "Hengescht"
     ],
+    "name:heb_x_preferred":[
+        "\u05d4\u05d9\u05d9\u05e0\u05e8\u05e9\u05d9\u05d9\u05d3"
+    ],
     "name:ita_x_preferred":[
         "Heinerscheid"
     ],
@@ -48,6 +54,12 @@
     ],
     "name:ltz_x_preferred":[
         "Gemeng Hengescht"
+    ],
+    "name:ltz_x_variant":[
+        "Hengescht"
+    ],
+    "name:nan_x_preferred":[
+        "Heinerscheid"
     ],
     "name:nld_x_preferred":[
         "Heinerscheid"
@@ -124,7 +136,7 @@
         }
     ],
     "wof:id":1125799147,
-    "wof:lastmodified":1561837527,
+    "wof:lastmodified":1563326755,
     "wof:name":"Heinerscheid",
     "wof:parent_id":85673865,
     "wof:placetype":"locality",

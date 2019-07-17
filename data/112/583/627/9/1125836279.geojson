@@ -22,6 +22,9 @@
     "name:cat_x_preferred":[
         "Machtum"
     ],
+    "name:ceb_x_preferred":[
+        "Machtum"
+    ],
     "name:eng_x_preferred":[
         "Machtum"
     ],
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":1125836279,
-    "wof:lastmodified":1561837528,
+    "wof:lastmodified":1563326771,
     "wof:name":"Machtum",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

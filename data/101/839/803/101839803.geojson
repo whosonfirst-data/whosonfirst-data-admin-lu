@@ -51,6 +51,9 @@
         "Esch-an-der-Alzig",
         "Esch-an-der-Alzette"
     ],
+    "name:diq_x_preferred":[
+        "Esch-sur-Alzette"
+    ],
     "name:ell_x_preferred":[
         "\u0395\u03c2-\u03c3\u03c5\u03c1-\u0391\u03bb\u03b6\u03ad\u03c4"
     ],
@@ -183,6 +186,9 @@
     "name:swe_x_preferred":[
         "Esch-sur-Alzette"
     ],
+    "name:tur_x_preferred":[
+        "Esch-sur-Alzette"
+    ],
     "name:ukr_x_preferred":[
         "\u0415\u0448-\u0441\u044e\u0440-\u0410\u043b\u044c\u0437\u0435\u0442\u0442"
     ],
@@ -191,6 +197,9 @@
     ],
     "name:unk_x_variant":[
         "Esch"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0634-\u0633\u0648\u0631-\u0627\u0644\u0632\u06cc\u062a"
     ],
     "name:vol_x_preferred":[
         "Esch-sur-Alzette"
@@ -251,7 +260,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1561837517,
+    "wof:lastmodified":1563326583,
     "wof:name":"Esch-sur-Alzette",
     "wof:parent_id":85673875,
     "wof:placetype":"locality",

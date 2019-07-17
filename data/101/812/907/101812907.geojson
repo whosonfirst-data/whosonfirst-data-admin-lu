@@ -68,6 +68,9 @@
     "name:nan_x_preferred":[
         "Dippach"
     ],
+    "name:nds_x_preferred":[
+        "Gemeen Dippach"
+    ],
     "name:nld_x_preferred":[
         "Dippach"
     ],
@@ -159,7 +162,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561837516,
+    "wof:lastmodified":1563326554,
     "wof:name":"Dippach",
     "wof:parent_id":85673875,
     "wof:placetype":"locality",

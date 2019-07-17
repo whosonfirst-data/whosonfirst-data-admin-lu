@@ -22,6 +22,9 @@
     "name:cat_x_preferred":[
         "Ehlerange"
     ],
+    "name:ceb_x_preferred":[
+        "Ehlerange"
+    ],
     "name:eng_x_preferred":[
         "Ehlerange"
     ],
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1125924465,
-    "wof:lastmodified":1561837518,
+    "wof:lastmodified":1563326598,
     "wof:name":"Ehlerange",
     "wof:parent_id":85673875,
     "wof:placetype":"locality",

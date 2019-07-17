@@ -71,6 +71,9 @@
     "name:pol_x_preferred":[
         "Wasserbillig"
     ],
+    "name:ron_x_preferred":[
+        "Wasserbillig"
+    ],
     "name:rus_x_preferred":[
         "\u0412\u0430\u0441\u0441\u0435\u0440\u0431\u0438\u043b\u043b\u0438\u0433"
     ],
@@ -146,7 +149,7 @@
         }
     ],
     "wof:id":101839463,
-    "wof:lastmodified":1561837517,
+    "wof:lastmodified":1563326582,
     "wof:name":"Wasserbillig",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -22,6 +22,12 @@
     "name:cat_x_preferred":[
         "Welscheid"
     ],
+    "name:ceb_x_preferred":[
+        "Welscheid"
+    ],
+    "name:deu_x_preferred":[
+        "Welscheid"
+    ],
     "name:eng_x_preferred":[
         "Welscheid"
     ],
@@ -30,6 +36,9 @@
     ],
     "name:ltz_x_preferred":[
         "Welschent"
+    ],
+    "name:msa_x_preferred":[
+        "Welscheid"
     ],
     "name:nld_x_preferred":[
         "Welscheid"
@@ -86,7 +95,7 @@
         }
     ],
     "wof:id":1125932131,
-    "wof:lastmodified":1561837518,
+    "wof:lastmodified":1563326596,
     "wof:name":"Welscheid",
     "wof:parent_id":85673865,
     "wof:placetype":"locality",

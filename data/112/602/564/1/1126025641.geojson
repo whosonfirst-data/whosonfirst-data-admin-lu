@@ -22,6 +22,9 @@
     "name:cat_x_preferred":[
         "Stegen"
     ],
+    "name:ceb_x_preferred":[
+        "Stegen"
+    ],
     "name:eng_x_preferred":[
         "Stegen"
     ],
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":1126025641,
-    "wof:lastmodified":1561837520,
+    "wof:lastmodified":1563326630,
     "wof:name":"Stegen",
     "wof:parent_id":85673865,
     "wof:placetype":"locality",

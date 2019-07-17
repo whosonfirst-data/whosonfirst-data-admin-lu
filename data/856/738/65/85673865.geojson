@@ -21,11 +21,83 @@
     "mz:is_current":-1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":8.7,
+    "name:ara_x_preferred":[
+        "\u0645\u0642\u0627\u0637\u0639\u0629 \u062f\u064a\u0643\u0631\u0634"
+    ],
+    "name:bar_x_preferred":[
+        "Distrikt Diekirch"
+    ],
+    "name:bel_x_preferred":[
+        "\u0430\u043a\u0440\u0443\u0433\u0430 \u0414\u0437\u0456\u043a\u0456\u0440\u0445"
+    ],
+    "name:ben_x_preferred":[
+        "\u09a1\u09bf\u0995\u09bf\u09b0\u09cd\u0996 \u099c\u09c7\u09b2\u09be"
+    ],
+    "name:bul_x_preferred":[
+        "\u0414\u0438\u043a\u0438\u0440\u0445"
+    ],
+    "name:dan_x_preferred":[
+        "Diekirch"
+    ],
     "name:deu_x_preferred":[
         "Distrikt Diekirch"
     ],
+    "name:ell_x_preferred":[
+        "\u039d\u03c4\u03b9\u03b5\u03c1\u03ba\u03af\u03c1\u03c4\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Diekirch District"
+    ],
+    "name:epo_x_preferred":[
+        "Distrikto Diekirch"
+    ],
+    "name:eus_x_preferred":[
+        "Diekircheko barrutia"
+    ],
+    "name:fin_x_preferred":[
+        "Diekirchin kaupunginosa"
+    ],
     "name:fra_x_preferred":[
         "Diekirch"
+    ],
+    "name:gsw_x_preferred":[
+        "Distrikt Dikrech"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aa1\u0abe\u0aaf\u0a95\u0abf\u0ab0\u0a9a \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d7\u05d5\u05d6 \u05d3\u05d9\u05e7\u05d9\u05e8\u05da"
+    ],
+    "name:hin_x_preferred":[
+        "\u0926\u093e\u0907\u0915\u093f\u0930\u094d\u091a \u091c\u093f\u0932\u093e"
+    ],
+    "name:hye_x_preferred":[
+        "\u0534\u056b\u056f\u056b\u0580\u056d"
+    ],
+    "name:ind_x_preferred":[
+        "Distrik Diekirch"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c7\u30a3\u30fc\u30ad\u30eb\u30d2\u5e83\u57df\u884c\u653f\u533a"
+    ],
+    "name:kan_x_preferred":[
+        "\u0ca1\u0cc8\u0c95\u0cbf\u0cb0\u0ccd\u0c95\u0ccd \u0c9c\u0cbf\u0cb2\u0ccd\u0cb2\u0cc6"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0414\u0438\u043a\u0438\u0440\u0445"
+    ],
+    "name:kor_x_preferred":[
+        "\ub514\ud0a4\ub974\ud788 \uad6c"
+    ],
+    "name:lav_x_preferred":[
+        "D\u012bkirhes distrikts"
+    ],
+    "name:lim_x_preferred":[
+        "Diekirch"
+    ],
+    "name:lit_x_preferred":[
+        "Dykircho apygarda"
     ],
     "name:ltz_x_preferred":[
         "Dikrech"
@@ -33,8 +105,77 @@
     "name:ltz_x_variant":[
         "Distrikt Dikrech"
     ],
+    "name:mar_x_preferred":[
+        "\u0921\u0940\u090f\u0915\u0930\u0940\u0902\u091a \u091c\u093f\u0932\u094d\u0939\u093e"
+    ],
+    "name:msa_x_preferred":[
+        "Daerah Diekirch"
+    ],
+    "name:nan_x_preferred":[
+        "Diekirch Khu"
+    ],
+    "name:nld_x_preferred":[
+        "District Diekirch"
+    ],
+    "name:nno_x_preferred":[
+        "Diekirch distrikt"
+    ],
+    "name:nob_x_preferred":[
+        "Diekirch"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0636\u0644\u0639 \u062f\u0627\u0626\u06cc\u06a9\u0631\u062e"
+    ],
+    "name:pol_x_preferred":[
+        "Dystrykt Diekirch"
+    ],
+    "name:por_x_preferred":[
+        "Diekirch"
+    ],
+    "name:ron_x_preferred":[
+        "Diekirch"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0438\u043a\u0438\u0440\u0445"
+    ],
+    "name:sco_x_preferred":[
+        "Diekirch Destrict"
+    ],
+    "name:sin_x_preferred":[
+        "\u0da9\u0dba\u0dd2\u0d9a\u0dbb\u0dca\u0da0\u0dca \u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca\u0d9a\u0dba"
+    ],
+    "name:slk_x_preferred":[
+        "Diekirch"
+    ],
+    "name:swe_x_preferred":[
+        "Diekirch"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b9f\u0bbf\u0b8e\u0b95\u0bbf\u0bb1\u0bbf\u0b9a\u0bcd \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c21\u0c40\u0c15\u0c4d\u0c30\u0c3f\u0c1a\u0c4d \u0c1c\u0c3f\u0c32\u0c4d\u0c32\u0c3e"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e02\u0e15\u0e40\u0e14\u0e40\u0e04\u0e23\u0e34\u0e0a"
+    ],
+    "name:tur_x_preferred":[
+        "Diekirch ili"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0456\u043a\u0456\u0440\u0445"
+    ],
     "name:unk_x_variant":[
         "District de Diekirch"
+    ],
+    "name:urd_x_preferred":[
+        "\u062f\u06cc\u06cc\u06a9\u06cc\u0631\u0686 \u0636\u0644\u0639"
+    ],
+    "name:vie_x_preferred":[
+        "Qu\u1eadn Diekirch"
+    ],
+    "name:zho_x_preferred":[
+        "\u8fea\u57fa\u5e0c\u5340"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"LUX",
@@ -146,7 +287,7 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1553550470,
+    "wof:lastmodified":1563326513,
     "wof:name":"Diekirch",
     "wof:parent_id":85633275,
     "wof:placetype":"region",

@@ -22,6 +22,9 @@
     "name:cat_x_preferred":[
         "Greiveldange"
     ],
+    "name:ceb_x_preferred":[
+        "Greiveldange"
+    ],
     "name:eng_x_preferred":[
         "Greiveldange"
     ],
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1125929863,
-    "wof:lastmodified":1561837518,
+    "wof:lastmodified":1563326603,
     "wof:name":"Greiveldange",
     "wof:parent_id":85673869,
     "wof:placetype":"locality",

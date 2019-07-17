@@ -22,6 +22,9 @@
     "name:cat_x_preferred":[
         "Canach"
     ],
+    "name:ceb_x_preferred":[
+        "Canach"
+    ],
     "name:eng_x_preferred":[
         "Canach"
     ],
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":1125814189,
-    "wof:lastmodified":1561837522,
+    "wof:lastmodified":1563326664,
     "wof:name":"Canach",
     "wof:parent_id":85673869,
     "wof:placetype":"locality",

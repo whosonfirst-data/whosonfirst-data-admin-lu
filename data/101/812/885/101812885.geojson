@@ -29,6 +29,9 @@
     "name:ceb_x_preferred":[
         "Lintgen"
     ],
+    "name:ces_x_preferred":[
+        "Lintgen"
+    ],
     "name:dan_x_preferred":[
         "Lintgen"
     ],
@@ -37,6 +40,9 @@
     ],
     "name:eng_x_preferred":[
         "Ferme Rouge"
+    ],
+    "name:eng_x_variant":[
+        "Lintgen"
     ],
     "name:fas_x_preferred":[
         "\u0644\u06cc\u0646\u062a\u062c\u0646"
@@ -61,6 +67,9 @@
     ],
     "name:nan_x_preferred":[
         "Lintgen"
+    ],
+    "name:nds_x_preferred":[
+        "Gemeen Lintgen"
     ],
     "name:nld_x_preferred":[
         "Lintgen"
@@ -147,7 +156,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561837516,
+    "wof:lastmodified":1563326567,
     "wof:name":"Lintgen",
     "wof:parent_id":85673875,
     "wof:placetype":"locality",

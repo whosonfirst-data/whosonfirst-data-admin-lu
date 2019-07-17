@@ -25,6 +25,9 @@
     "name:cat_x_preferred":[
         "Fouhren"
     ],
+    "name:ceb_x_preferred":[
+        "Fouhren"
+    ],
     "name:deu_x_preferred":[
         "Fuhren"
     ],
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":1126020373,
-    "wof:lastmodified":1561837520,
+    "wof:lastmodified":1563326629,
     "wof:name":"Fouhren",
     "wof:parent_id":85673865,
     "wof:placetype":"locality",

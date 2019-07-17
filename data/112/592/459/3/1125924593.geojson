@@ -22,6 +22,9 @@
     "name:cat_x_preferred":[
         "Capellen"
     ],
+    "name:ceb_x_preferred":[
+        "Capellen"
+    ],
     "name:eng_x_preferred":[
         "Capellen"
     ],
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":1125924593,
-    "wof:lastmodified":1561837518,
+    "wof:lastmodified":1563326602,
     "wof:name":"Capellen",
     "wof:parent_id":85673875,
     "wof:placetype":"locality",
