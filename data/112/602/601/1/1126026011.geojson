@@ -22,6 +22,12 @@
     "name:cat_x_preferred":[
         "Hoesdorf"
     ],
+    "name:ceb_x_preferred":[
+        "Hoesdorf"
+    ],
+    "name:deu_x_preferred":[
+        "Hoesdorf"
+    ],
     "name:eng_x_preferred":[
         "Hoesdorf"
     ],
@@ -30,6 +36,9 @@
     ],
     "name:ltz_x_preferred":[
         "H\u00e9ischdref"
+    ],
+    "name:msa_x_preferred":[
+        "Hoesdorf"
     ],
     "name:nld_x_preferred":[
         "Hoesdorf"
@@ -88,7 +97,7 @@
         }
     ],
     "wof:id":1126026011,
-    "wof:lastmodified":1561837520,
+    "wof:lastmodified":1563326635,
     "wof:name":"Hoesdorf",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

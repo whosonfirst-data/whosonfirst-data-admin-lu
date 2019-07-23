@@ -95,6 +95,9 @@
     "name:zho_min_nan_x_preferred":[
         "Hosingen"
     ],
+    "name:zho_x_preferred":[
+        "\u8d6b\u8f9b\u6839"
+    ],
     "qs:a0":"Luxembourg",
     "qs:a1":"*",
     "qs:a1r":"0",
@@ -142,7 +145,7 @@
         }
     ],
     "wof:id":101845555,
-    "wof:lastmodified":1561837515,
+    "wof:lastmodified":1563326547,
     "wof:name":"Hosingen",
     "wof:parent_id":85673865,
     "wof:placetype":"locality",

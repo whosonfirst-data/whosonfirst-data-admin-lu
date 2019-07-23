@@ -38,6 +38,12 @@
     "name:fra_x_preferred":[
         "Beggen"
     ],
+    "name:hye_x_preferred":[
+        "\u0532\u0565\u0563\u0563\u0565\u0576"
+    ],
+    "name:hyw_x_preferred":[
+        "\u054a\u0565\u056f\u056f\u0567\u0576"
+    ],
     "name:ita_x_preferred":[
         "Beggen"
     ],
@@ -121,7 +127,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561837514,
+    "wof:lastmodified":1563326520,
     "wof:name":"Beggen",
     "wof:parent_id":101753071,
     "wof:placetype":"neighbourhood",

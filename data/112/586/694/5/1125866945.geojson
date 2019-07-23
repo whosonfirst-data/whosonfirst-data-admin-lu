@@ -34,6 +34,9 @@
     "name:ltz_x_preferred":[
         "Haastert"
     ],
+    "name:msa_x_preferred":[
+        "Hagelsdorf"
+    ],
     "name:nld_x_preferred":[
         "Hagelsdorf"
     ],
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":1125866945,
-    "wof:lastmodified":1561837521,
+    "wof:lastmodified":1563326659,
     "wof:name":"Hagelsdorf",
     "wof:parent_id":85673869,
     "wof:placetype":"locality",

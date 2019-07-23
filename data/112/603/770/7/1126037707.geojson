@@ -25,6 +25,9 @@
     "name:cat_x_preferred":[
         "Stadtbredimus"
     ],
+    "name:ceb_x_preferred":[
+        "Stadtbredimus"
+    ],
     "name:dan_x_preferred":[
         "Stadtbredimus"
     ],
@@ -51,6 +54,12 @@
     ],
     "name:msa_x_preferred":[
         "Stadtbredimus"
+    ],
+    "name:nan_x_preferred":[
+        "Stadtbredimus"
+    ],
+    "name:nds_x_preferred":[
+        "Gemeen Stadtbredimus"
     ],
     "name:nld_x_preferred":[
         "Stadtbredimus"
@@ -126,7 +135,7 @@
         }
     ],
     "wof:id":1126037707,
-    "wof:lastmodified":1561837521,
+    "wof:lastmodified":1563326643,
     "wof:name":"Stadtbredimus",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

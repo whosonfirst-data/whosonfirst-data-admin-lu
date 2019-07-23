@@ -22,6 +22,9 @@
     "name:cat_x_preferred":[
         "Hivange"
     ],
+    "name:ceb_x_preferred":[
+        "Hivange"
+    ],
     "name:deu_x_preferred":[
         "Hivingen"
     ],
@@ -36,6 +39,9 @@
     ],
     "name:ltz_x_preferred":[
         "H\u00e9iweng"
+    ],
+    "name:msa_x_preferred":[
+        "Hivange"
     ],
     "name:nld_x_preferred":[
         "Hivange"
@@ -98,7 +104,7 @@
         }
     ],
     "wof:id":1126019699,
-    "wof:lastmodified":1561837525,
+    "wof:lastmodified":1563326723,
     "wof:name":"Hivange",
     "wof:parent_id":85673875,
     "wof:placetype":"locality",

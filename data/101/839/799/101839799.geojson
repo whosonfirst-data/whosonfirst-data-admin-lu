@@ -23,6 +23,9 @@
     "name:cat_x_preferred":[
         "Mertert"
     ],
+    "name:ceb_x_preferred":[
+        "Mertert"
+    ],
     "name:dan_x_preferred":[
         "Mertert"
     ],
@@ -138,7 +141,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561837517,
+    "wof:lastmodified":1563326579,
     "wof:name":"Mertert",
     "wof:parent_id":85673869,
     "wof:placetype":"locality",

@@ -22,6 +22,12 @@
     "name:cat_x_preferred":[
         "Holtz"
     ],
+    "name:ceb_x_preferred":[
+        "Holtz"
+    ],
+    "name:deu_x_preferred":[
+        "Holtz"
+    ],
     "name:eng_x_preferred":[
         "Holtz"
     ],
@@ -39,6 +45,9 @@
     ],
     "name:swe_x_preferred":[
         "Holtz"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u043e\u043b\u044c\u0446"
     ],
     "name:unk_x_variant":[
         "Holtzburg"
@@ -94,7 +103,7 @@
         }
     ],
     "wof:id":1125794117,
-    "wof:lastmodified":1561837527,
+    "wof:lastmodified":1563326756,
     "wof:name":"Holtz",
     "wof:parent_id":85673865,
     "wof:placetype":"locality",

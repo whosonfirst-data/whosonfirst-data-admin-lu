@@ -22,6 +22,9 @@
     "name:cat_x_preferred":[
         "Roedgen"
     ],
+    "name:ceb_x_preferred":[
+        "Roedgen"
+    ],
     "name:eng_x_preferred":[
         "Roedgen"
     ],
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":1125952207,
-    "wof:lastmodified":1561837519,
+    "wof:lastmodified":1563326606,
     "wof:name":"Roedgen",
     "wof:parent_id":85673875,
     "wof:placetype":"locality",

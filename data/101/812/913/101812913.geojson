@@ -23,6 +23,9 @@
     "name:cat_x_preferred":[
         "Dalheim"
     ],
+    "name:ceb_x_preferred":[
+        "Dalheim"
+    ],
     "name:dan_x_preferred":[
         "Dalheim"
     ],
@@ -47,14 +50,23 @@
     "name:ita_x_preferred":[
         "Dalheim"
     ],
+    "name:lat_x_preferred":[
+        "Ricciacum"
+    ],
     "name:ltz_x_preferred":[
         "Gemeng Duelem"
+    ],
+    "name:ltz_x_variant":[
+        "Duelem"
     ],
     "name:msa_x_preferred":[
         "Dalheim"
     ],
     "name:nan_x_preferred":[
         "Dalheim"
+    ],
+    "name:nds_x_preferred":[
+        "Gemeen Dalheim"
     ],
     "name:nld_x_preferred":[
         "Dalheim"
@@ -135,7 +147,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561837516,
+    "wof:lastmodified":1563326563,
     "wof:name":"Dalheim",
     "wof:parent_id":85673869,
     "wof:placetype":"locality",

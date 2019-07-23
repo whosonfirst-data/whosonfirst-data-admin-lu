@@ -22,6 +22,9 @@
     "name:cat_x_preferred":[
         "Soleuvre"
     ],
+    "name:ceb_x_preferred":[
+        "Soleuvre"
+    ],
     "name:deu_x_preferred":[
         "Zolwer"
     ],
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":1125984577,
-    "wof:lastmodified":1561837524,
+    "wof:lastmodified":1563326714,
     "wof:name":"Soleuvre",
     "wof:parent_id":85673875,
     "wof:placetype":"locality",

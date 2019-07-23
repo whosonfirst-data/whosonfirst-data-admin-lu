@@ -22,11 +22,77 @@
     "mz:is_current":-1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":8.7,
+    "name:ara_x_preferred":[
+        "\u0645\u0642\u0627\u0637\u0639\u0629 \u063a\u0631\u064a\u0641\u0646\u0645\u0627\u0643\u0631"
+    ],
+    "name:bar_x_preferred":[
+        "Distrikt Grevenmacher"
+    ],
+    "name:bel_x_preferred":[
+        "\u0410\u043a\u0440\u0443\u0433\u0430 \u0413\u0440\u044d\u0432\u0435\u043d\u043c\u0430\u0445\u0435\u0440"
+    ],
+    "name:ben_x_preferred":[
+        "\u0997\u09cd\u09b0\u09c7\u09ad\u09c7\u09a8\u09ae\u09be\u0995\u09c7\u09b0 \u099c\u09c7\u09b2\u09be"
+    ],
+    "name:bul_x_preferred":[
+        "\u0413\u0440\u0435\u0432\u0435\u043d\u043c\u0430\u0445\u0435\u0440"
+    ],
+    "name:dan_x_preferred":[
+        "Grevenmacher"
+    ],
     "name:deu_x_preferred":[
         "Distrikt Grevenmacher"
     ],
+    "name:ell_x_preferred":[
+        "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u0393\u03ba\u03c1\u03b5\u03b2\u03b5\u03bd\u03bc\u03ac\u03c7\u03b5\u03c1"
+    ],
+    "name:eng_x_preferred":[
+        "Grevenmacher District"
+    ],
+    "name:epo_x_preferred":[
+        "Distrikto Grevenmacher"
+    ],
+    "name:eus_x_preferred":[
+        "Grevenmacherreko barrutia"
+    ],
+    "name:fin_x_preferred":[
+        "Grevenmacherin kaupunginosa"
+    ],
     "name:fra_x_preferred":[
         "Grevenmacher"
+    ],
+    "name:gsw_x_preferred":[
+        "Distrikt Gr\u00e9ivemaacher"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a97\u0acd\u0ab0\u0ac7\u0ab5\u0ac7\u0aa8\u0aae\u0ac7\u0a9a\u0ab0 \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d7\u05d5\u05d6 \u05d2\u05e8\u05d1\u05e0\u05de\u05db\u05e8"
+    ],
+    "name:hin_x_preferred":[
+        "\u0917\u094d\u0930\u0947\u0935\u0947\u0928\u092e\u0947\u091a\u0930 \u091c\u093f\u0932\u093e"
+    ],
+    "name:ind_x_preferred":[
+        "Distrik Grevenmacher"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b0\u30ec\u30fc\u30f4\u30a7\u30f3\u30de\u30cf\u5e83\u57df\u884c\u653f\u533a"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c97\u0ccd\u0cb0\u0cc7\u0cb5\u0cc6\u0ca8\u0ccd\u0cae\u0c9a\u0cc6\u0cb0\u0ccd \u0c9c\u0cbf\u0cb2\u0ccd\u0cb2\u0cc6"
+    ],
+    "name:kor_x_preferred":[
+        "\uadf8\ub808\ubca4\ub9c8\ud5c8 \uad6c"
+    ],
+    "name:lav_x_preferred":[
+        "Gr\u0113venmaheres distrikts"
+    ],
+    "name:lim_x_preferred":[
+        "Grevenmacher"
+    ],
+    "name:lit_x_preferred":[
+        "Gr\u0117venmacherio apygarda"
     ],
     "name:ltz_x_preferred":[
         "Gr\u00e9iwemaacher"
@@ -34,8 +100,74 @@
     "name:ltz_x_variant":[
         "Distrikt Gr\u00e9iwemaacher"
     ],
+    "name:mar_x_preferred":[
+        "\u0917\u094d\u0930\u0940\u0935\u0947\u092e\u0947\u0928\u092e\u0947\u0915\u0930 \u091c\u093f\u0932\u094d\u0939\u093e"
+    ],
+    "name:msa_x_preferred":[
+        "Grevenmacher District"
+    ],
+    "name:nan_x_preferred":[
+        "Grevenmacher Khu"
+    ],
+    "name:nld_x_preferred":[
+        "District Grevenmacher"
+    ],
+    "name:nno_x_preferred":[
+        "Grevenmacher distrikt"
+    ],
+    "name:nob_x_preferred":[
+        "Grevenmacher"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0636\u0644\u0639 \u06af\u0631\u06cc\u0648\u0646\u0645\u0627\u062e\u0631"
+    ],
+    "name:pol_x_preferred":[
+        "Dystrykt Grevenmacher"
+    ],
+    "name:por_x_preferred":[
+        "Grevenmacher"
+    ],
+    "name:ron_x_preferred":[
+        "Grevenmacher"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0440\u0435\u0432\u0435\u043d\u043c\u0430\u0445\u0435\u0440"
+    ],
+    "name:sco_x_preferred":[
+        "Grevenmacher Destrict"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d9c\u0dca\u0dbb\u0dca\u0dc0\u0dda\u0db1\u0dca\u0db8\u0da0\u0dbb\u0dca \u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca\u0d9a\u0dba"
+    ],
+    "name:slk_x_preferred":[
+        "Grevenmacher"
+    ],
+    "name:swe_x_preferred":[
+        "Grevenmacher"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c17\u0c4d\u0c30\u0c46\u0c35\u0c46\u0c28\u0c4d\u0c2e\u0c3e\u0c15\u0c30\u0c4d \u0c1c\u0c3f\u0c32\u0c4d\u0c32\u0c3e"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e02\u0e15\u0e40\u0e01\u0e23\u0e40\u0e27\u0e34\u0e19\u0e21\u0e31\u0e04\u0e40\u0e04\u0e2d\u0e23\u0e4c"
+    ],
+    "name:tur_x_preferred":[
+        "Grevenmacher ili"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0440\u0435\u0432\u0435\u043d\u043c\u0430\u0445\u0435\u0440"
+    ],
     "name:unk_x_variant":[
         "District de Grevenmacher"
+    ],
+    "name:urd_x_preferred":[
+        "\u062c\u0631\u06cc\u0648\u06cc\u0646\u0645\u0627\u0686\u06cc\u0631 \u0688\u0633\u0679\u0631\u06a9"
+    ],
+    "name:vie_x_preferred":[
+        "Qu\u1eadn Grevenmacher"
+    ],
+    "name:zho_x_preferred":[
+        "\u683c\u96f7\u6587\u99ac\u8d6b\u5340"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"LUX",
@@ -148,7 +280,7 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1553550470,
+    "wof:lastmodified":1563326511,
     "wof:name":"Grevenmacher",
     "wof:parent_id":85633275,
     "wof:placetype":"region",

@@ -45,6 +45,9 @@
     "name:deu_x_preferred":[
         "Diekirch"
     ],
+    "name:diq_x_preferred":[
+        "Diekirch"
+    ],
     "name:eng_x_preferred":[
         "Diekirch"
     ],
@@ -95,6 +98,9 @@
     ],
     "name:nan_x_preferred":[
         "Diekirch"
+    ],
+    "name:nds_x_preferred":[
+        "Gemeen Diekirch"
     ],
     "name:nld_x_preferred":[
         "Diekirch"
@@ -302,7 +308,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561837516,
+    "wof:lastmodified":1563326559,
     "wof:name":"Diekirch",
     "wof:parent_id":85673865,
     "wof:placetype":"locality",

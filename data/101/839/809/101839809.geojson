@@ -40,6 +40,9 @@
     "name:deu_x_preferred":[
         "R\u00fcmelingen"
     ],
+    "name:diq_x_preferred":[
+        "Rumelange"
+    ],
     "name:eng_x_preferred":[
         "Rumelange"
     ],
@@ -78,6 +81,9 @@
     ],
     "name:ltz_x_preferred":[
         "Gemeng R\u00ebmeleng"
+    ],
+    "name:ltz_x_variant":[
+        "R\u00ebmeleng"
     ],
     "name:msa_x_preferred":[
         "Rumelange"
@@ -180,7 +186,7 @@
         }
     ],
     "wof:id":101839809,
-    "wof:lastmodified":1561837517,
+    "wof:lastmodified":1563326587,
     "wof:name":"Rumelange",
     "wof:parent_id":85673875,
     "wof:placetype":"locality",

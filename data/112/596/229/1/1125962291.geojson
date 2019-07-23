@@ -22,6 +22,9 @@
     "name:cat_x_preferred":[
         "Oberanven"
     ],
+    "name:ceb_x_preferred":[
+        "Oberanven"
+    ],
     "name:eng_x_preferred":[
         "Oberanven"
     ],
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":1125962291,
-    "wof:lastmodified":1561837524,
+    "wof:lastmodified":1563326708,
     "wof:name":"Oberanven",
     "wof:parent_id":85673875,
     "wof:placetype":"locality",

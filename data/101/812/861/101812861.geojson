@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000089,
-    "geom:area_square_m":707668.626222,
+    "geom:area_square_m":707668.626223,
     "geom:bbox":"6.03485636974,49.8492701733,6.05481616435,49.8592898868",
     "geom:latitude":49.855202,
     "geom:longitude":6.044639,
@@ -23,11 +23,15 @@
     "name:ceb_x_preferred":[
         "Niederfeulen"
     ],
+    "name:deu_x_preferred":[
+        "Niederfeulen"
+    ],
     "name:eng_x_preferred":[
         "Eschweiler"
     ],
     "name:eng_x_variant":[
-        "Neiderfeulen"
+        "Neiderfeulen",
+        "Niederfeulen"
     ],
     "name:fra_x_preferred":[
         "Niederfeulen"
@@ -104,7 +108,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527714863,
+    "wof:lastmodified":1563326560,
     "wof:name":"Niederfeulen",
     "wof:parent_id":85673865,
     "wof:placetype":"locality",

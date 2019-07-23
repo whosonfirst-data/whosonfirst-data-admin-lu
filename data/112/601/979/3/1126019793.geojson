@@ -25,6 +25,9 @@
     "name:cat_x_preferred":[
         "Saeul"
     ],
+    "name:ceb_x_preferred":[
+        "Saeul"
+    ],
     "name:dan_x_preferred":[
         "Saeul"
     ],
@@ -49,8 +52,17 @@
     "name:ltz_x_preferred":[
         "S\u00ebll"
     ],
+    "name:ltz_x_variant":[
+        "Gemeng S\u00ebll"
+    ],
     "name:msa_x_preferred":[
         "Saeul"
+    ],
+    "name:nan_x_preferred":[
+        "Saeul"
+    ],
+    "name:nds_x_preferred":[
+        "Gemeen Saeul"
     ],
     "name:nld_x_preferred":[
         "Saeul"
@@ -125,7 +137,7 @@
         }
     ],
     "wof:id":1126019793,
-    "wof:lastmodified":1561837524,
+    "wof:lastmodified":1563326719,
     "wof:name":"Saeul",
     "wof:parent_id":85673875,
     "wof:placetype":"locality",

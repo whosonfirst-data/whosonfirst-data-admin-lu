@@ -22,6 +22,12 @@
     "name:cat_x_preferred":[
         "Moersdorf"
     ],
+    "name:ceb_x_preferred":[
+        "Moersdorf"
+    ],
+    "name:deu_x_preferred":[
+        "Moersdorf"
+    ],
     "name:eng_x_preferred":[
         "Moersdorf"
     ],
@@ -36,6 +42,9 @@
     ],
     "name:pol_x_preferred":[
         "Moersdorf"
+    ],
+    "name:pol_x_variant":[
+        "Rohlingen"
     ],
     "name:swe_x_preferred":[
         "Moersdorf"
@@ -91,7 +100,7 @@
         }
     ],
     "wof:id":1126019735,
-    "wof:lastmodified":1561837525,
+    "wof:lastmodified":1563326724,
     "wof:name":"Moersdorf",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

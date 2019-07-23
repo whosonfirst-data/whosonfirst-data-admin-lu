@@ -34,6 +34,9 @@
     "name:ltz_x_preferred":[
         "Alschent"
     ],
+    "name:msa_x_preferred":[
+        "Alscheid"
+    ],
     "name:nld_x_preferred":[
         "Alscheid"
     ],
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":1126019659,
-    "wof:lastmodified":1561837524,
+    "wof:lastmodified":1563326716,
     "wof:name":"Alscheid",
     "wof:parent_id":85673865,
     "wof:placetype":"locality",

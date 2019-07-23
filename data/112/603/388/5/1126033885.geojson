@@ -22,6 +22,12 @@
     "name:cat_x_preferred":[
         "Hoffelt"
     ],
+    "name:ceb_x_preferred":[
+        "Hoffelt"
+    ],
+    "name:deu_x_preferred":[
+        "Hoffelt"
+    ],
     "name:eng_x_preferred":[
         "Hoffelt"
     ],
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":1126033885,
-    "wof:lastmodified":1561837521,
+    "wof:lastmodified":1563326645,
     "wof:name":"Hoffelt",
     "wof:parent_id":85673865,
     "wof:placetype":"locality",

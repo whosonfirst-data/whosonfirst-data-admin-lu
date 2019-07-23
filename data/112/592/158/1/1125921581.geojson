@@ -22,6 +22,9 @@
     "name:cat_x_preferred":[
         "Wintrange"
     ],
+    "name:ceb_x_preferred":[
+        "Wintrange"
+    ],
     "name:deu_x_preferred":[
         "Wintringen"
     ],
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":1125921581,
-    "wof:lastmodified":1561837518,
+    "wof:lastmodified":1563326598,
     "wof:name":"Wintrange",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

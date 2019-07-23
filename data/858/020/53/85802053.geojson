@@ -35,6 +35,9 @@
     "name:deu_x_preferred":[
         "Cent"
     ],
+    "name:deu_x_variant":[
+        "Cents"
+    ],
     "name:eng_x_preferred":[
         "Cents"
     ],
@@ -52,6 +55,9 @@
     ],
     "name:ita_x_preferred":[
         "Cent"
+    ],
+    "name:ita_x_variant":[
+        "Cents"
     ],
     "name:jpn_x_preferred":[
         "\u30bb\u30f3\u30c8"
@@ -163,7 +169,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561837514,
+    "wof:lastmodified":1563326520,
     "wof:name":"Cents",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

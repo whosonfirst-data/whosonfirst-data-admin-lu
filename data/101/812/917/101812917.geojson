@@ -26,6 +26,9 @@
     "name:cat_x_preferred":[
         "Bettembourg"
     ],
+    "name:ceb_x_preferred":[
+        "Bettembourg"
+    ],
     "name:dan_x_preferred":[
         "Bettemburg"
     ],
@@ -59,6 +62,9 @@
     "name:ltz_x_preferred":[
         "Gemeng Beetebuerg"
     ],
+    "name:ltz_x_variant":[
+        "Beetebuerg"
+    ],
     "name:msa_x_preferred":[
         "Bettembourg"
     ],
@@ -83,7 +89,13 @@
     "name:rus_x_preferred":[
         "\u0411\u0435\u0442\u0442\u0430\u043c\u0431\u0443\u0440"
     ],
+    "name:rus_x_variant":[
+        "\u0411\u0435\u0442\u0442\u0435\u043c\u0431\u0443\u0440"
+    ],
     "name:slk_x_preferred":[
+        "Bettembourg"
+    ],
+    "name:spa_x_preferred":[
         "Bettembourg"
     ],
     "name:swa_x_preferred":[
@@ -137,7 +149,7 @@
         }
     ],
     "wof:id":101812917,
-    "wof:lastmodified":1561837517,
+    "wof:lastmodified":1563326573,
     "wof:name":"Bettembourg",
     "wof:parent_id":85673875,
     "wof:placetype":"locality",

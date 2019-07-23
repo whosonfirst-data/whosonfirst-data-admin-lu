@@ -22,6 +22,9 @@
     "name:cat_x_preferred":[
         "Buschrodt"
     ],
+    "name:ceb_x_preferred":[
+        "Buschrodt"
+    ],
     "name:eng_x_preferred":[
         "Buschrodt"
     ],
@@ -30,6 +33,9 @@
     ],
     "name:ltz_x_preferred":[
         "B\u00ebschrued"
+    ],
+    "name:msa_x_preferred":[
+        "Buschrodt"
     ],
     "name:nld_x_preferred":[
         "Buschrodt"
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":1125765985,
-    "wof:lastmodified":1561837526,
+    "wof:lastmodified":1563326738,
     "wof:name":"Buschrodt",
     "wof:parent_id":85673865,
     "wof:placetype":"locality",

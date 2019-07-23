@@ -83,6 +83,9 @@
     "name:slk_x_preferred":[
         "Contern"
     ],
+    "name:spa_x_preferred":[
+        "Contern"
+    ],
     "name:swe_x_preferred":[
         "Contern"
     ],
@@ -147,7 +150,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561837516,
+    "wof:lastmodified":1563326554,
     "wof:name":"Contern",
     "wof:parent_id":85673875,
     "wof:placetype":"locality",

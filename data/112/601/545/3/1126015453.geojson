@@ -25,6 +25,9 @@
     "name:cat_x_preferred":[
         "Schifflange"
     ],
+    "name:ceb_x_preferred":[
+        "Schifflange"
+    ],
     "name:dan_x_preferred":[
         "Schifflange"
     ],
@@ -148,7 +151,7 @@
         }
     ],
     "wof:id":1126015453,
-    "wof:lastmodified":1561837525,
+    "wof:lastmodified":1563326721,
     "wof:name":"Schifflange",
     "wof:parent_id":85673875,
     "wof:placetype":"locality",

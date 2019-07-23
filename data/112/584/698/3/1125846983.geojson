@@ -22,6 +22,9 @@
     "name:cat_x_preferred":[
         "Eschette"
     ],
+    "name:deu_x_preferred":[
+        "Escheid"
+    ],
     "name:eng_x_preferred":[
         "Eschette"
     ],
@@ -30,6 +33,9 @@
     ],
     "name:ltz_x_preferred":[
         "Eschent"
+    ],
+    "name:msa_x_preferred":[
+        "Eschette"
     ],
     "name:nld_x_preferred":[
         "Eschette"
@@ -71,7 +77,7 @@
         }
     ],
     "wof:id":1125846983,
-    "wof:lastmodified":1561837527,
+    "wof:lastmodified":1563326766,
     "wof:name":"Eschette",
     "wof:parent_id":85673865,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":6408011.133276,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.172668,49.558355,6.172668,49.558355",
     "geom:latitude":49.558355,
     "geom:longitude":6.172668,
@@ -31,6 +31,9 @@
         "Alzingen"
     ],
     "name:deu_x_preferred":[
+        "Alzingen"
+    ],
+    "name:eng_x_preferred":[
         "Alzingen"
     ],
     "name:fra_x_preferred":[
@@ -122,7 +125,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531862121,
+    "wof:lastmodified":1563326521,
     "wof:name":"Alzingen",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -31,6 +31,9 @@
     "name:cat_x_preferred":[
         "Troisvierges"
     ],
+    "name:ceb_x_preferred":[
+        "Troisvierges"
+    ],
     "name:dan_x_preferred":[
         "Troisvierges"
     ],
@@ -70,6 +73,9 @@
     "name:nan_x_preferred":[
         "Troisvierges"
     ],
+    "name:nds_x_preferred":[
+        "Gemeen Ulflingen"
+    ],
     "name:nld_x_preferred":[
         "Troisvierges"
     ],
@@ -102,6 +108,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0422\u0440\u0443\u0430\u0432\u0454\u0440\u0436"
+    ],
+    "name:ukr_x_variant":[
+        "\u0422\u0440\u0443\u0430\u0432'\u0454\u0440\u0436"
     ],
     "name:unk_x_variant":[
         "Ulflingen"
@@ -157,7 +166,7 @@
         }
     ],
     "wof:id":1125811873,
-    "wof:lastmodified":1561837522,
+    "wof:lastmodified":1563326663,
     "wof:name":"Troisvierges",
     "wof:parent_id":85673865,
     "wof:placetype":"locality",

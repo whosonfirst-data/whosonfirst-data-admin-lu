@@ -28,6 +28,9 @@
     "name:cat_x_preferred":[
         "Steinfort"
     ],
+    "name:ceb_x_preferred":[
+        "Steinfort"
+    ],
     "name:ces_x_preferred":[
         "Steinfort"
     ],
@@ -42,6 +45,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0627\u0634\u062a\u0627\u06cc\u0646\u0641\u0648\u0631\u062a\u060c \u0644\u0648\u06a9\u0632\u0627\u0645\u0628\u0648\u0631\u06af"
+    ],
+    "name:fas_x_variant":[
+        "\u0627\u0634\u062a\u0627\u06cc\u0646\u0641\u0648\u0631\u062a"
     ],
     "name:fra_x_preferred":[
         "Steinfort"
@@ -61,8 +67,17 @@
     "name:ltz_x_preferred":[
         "Stengefort"
     ],
+    "name:ltz_x_variant":[
+        "Gemeng Stengefort"
+    ],
     "name:msa_x_preferred":[
         "Steinfort"
+    ],
+    "name:nan_x_preferred":[
+        "Steinfort"
+    ],
+    "name:nds_x_preferred":[
+        "Gemeen Steinfort"
     ],
     "name:nld_x_preferred":[
         "Steinfort"
@@ -80,6 +95,9 @@
         "\u0428\u0442\u0435\u0439\u043d\u0444\u043e\u0440\u0442"
     ],
     "name:slk_x_preferred":[
+        "Steinfort"
+    ],
+    "name:spa_x_preferred":[
         "Steinfort"
     ],
     "name:swe_x_preferred":[
@@ -139,7 +157,7 @@
         }
     ],
     "wof:id":1125777823,
-    "wof:lastmodified":1561837528,
+    "wof:lastmodified":1563326768,
     "wof:name":"Steinfort",
     "wof:parent_id":85673875,
     "wof:placetype":"locality",

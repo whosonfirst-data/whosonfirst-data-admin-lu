@@ -41,6 +41,9 @@
     "name:deu_x_preferred":[
         "Niederanven"
     ],
+    "name:ell_x_preferred":[
+        "\u039d\u03b9\u03bd\u03c4\u03b5\u03c1\u03ac\u03bd\u03b2\u03b5\u03bd"
+    ],
     "name:eng_x_preferred":[
         "Niederanven"
     ],
@@ -64,6 +67,9 @@
     ],
     "name:ltz_x_preferred":[
         "Gemeng Nidderaanwen"
+    ],
+    "name:ltz_x_variant":[
+        "Nidderaanwen"
     ],
     "name:msa_x_preferred":[
         "Niederanven"
@@ -166,7 +172,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561837515,
+    "wof:lastmodified":1563326540,
     "wof:name":"Niederanven",
     "wof:parent_id":85673875,
     "wof:placetype":"locality",

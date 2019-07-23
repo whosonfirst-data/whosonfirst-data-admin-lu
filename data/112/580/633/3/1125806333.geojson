@@ -22,6 +22,9 @@
     "name:cat_x_preferred":[
         "Oberfeulen"
     ],
+    "name:ceb_x_preferred":[
+        "Oberfeulen"
+    ],
     "name:eng_x_preferred":[
         "Oberfeulen"
     ],
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":1125806333,
-    "wof:lastmodified":1561837522,
+    "wof:lastmodified":1563326675,
     "wof:name":"Oberfeulen",
     "wof:parent_id":85673865,
     "wof:placetype":"locality",

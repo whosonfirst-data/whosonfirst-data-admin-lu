@@ -25,6 +25,9 @@
     "name:cat_x_preferred":[
         "Medernach"
     ],
+    "name:ceb_x_preferred":[
+        "Medernach"
+    ],
     "name:dan_x_preferred":[
         "Medernach"
     ],
@@ -122,7 +125,7 @@
         }
     ],
     "wof:id":1125967047,
-    "wof:lastmodified":1561837524,
+    "wof:lastmodified":1563326710,
     "wof:name":"Medernach",
     "wof:parent_id":85673865,
     "wof:placetype":"locality",

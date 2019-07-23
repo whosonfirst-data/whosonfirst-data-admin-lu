@@ -22,6 +22,12 @@
     "name:cat_x_preferred":[
         "Bastendorf"
     ],
+    "name:ceb_x_preferred":[
+        "Bastendorf"
+    ],
+    "name:deu_x_preferred":[
+        "Bastendorf"
+    ],
     "name:eng_x_preferred":[
         "Bastendorf"
     ],
@@ -92,7 +98,7 @@
         }
     ],
     "wof:id":1125814179,
-    "wof:lastmodified":1561837522,
+    "wof:lastmodified":1563326664,
     "wof:name":"Bastendorf",
     "wof:parent_id":85673865,
     "wof:placetype":"locality",

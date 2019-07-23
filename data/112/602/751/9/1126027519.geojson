@@ -22,6 +22,9 @@
     "name:cat_x_preferred":[
         "Bavigne"
     ],
+    "name:ceb_x_preferred":[
+        "Bavigne"
+    ],
     "name:eng_x_preferred":[
         "Bavigne"
     ],
@@ -30,6 +33,9 @@
     ],
     "name:ltz_x_preferred":[
         "B\u00e9iwen"
+    ],
+    "name:msa_x_preferred":[
+        "Bavigne"
     ],
     "name:nld_x_preferred":[
         "Bavigne"
@@ -80,7 +86,7 @@
         }
     ],
     "wof:id":1126027519,
-    "wof:lastmodified":1561837520,
+    "wof:lastmodified":1563326630,
     "wof:name":"Bavigne",
     "wof:parent_id":85673865,
     "wof:placetype":"locality",

@@ -22,11 +22,20 @@
     "name:cat_x_preferred":[
         "Belvaux"
     ],
+    "name:ceb_x_preferred":[
+        "Belvaux"
+    ],
+    "name:deu_x_preferred":[
+        "Beles"
+    ],
     "name:eng_x_preferred":[
         "Belvaux"
     ],
     "name:fra_x_preferred":[
         "Belvaux"
+    ],
+    "name:lav_x_preferred":[
+        "Belvo"
     ],
     "name:lit_x_preferred":[
         "Belvo"
@@ -41,6 +50,9 @@
         "Belvaux"
     ],
     "name:swe_x_preferred":[
+        "Belvaux"
+    ],
+    "name:szl_x_preferred":[
         "Belvaux"
     ],
     "name:unk_x_variant":[
@@ -95,7 +107,7 @@
         }
     ],
     "wof:id":1125895395,
-    "wof:lastmodified":1561837522,
+    "wof:lastmodified":1563326673,
     "wof:name":"Belvaux",
     "wof:parent_id":85673875,
     "wof:placetype":"locality",

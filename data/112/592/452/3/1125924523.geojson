@@ -21,6 +21,9 @@
     "name:cat_x_preferred":[
         "Itzig"
     ],
+    "name:ceb_x_preferred":[
+        "Itzig"
+    ],
     "name:eng_x_preferred":[
         "Itzig"
     ],
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1125924523,
-    "wof:lastmodified":1561837518,
+    "wof:lastmodified":1563326599,
     "wof:name":"Itzig",
     "wof:parent_id":85673875,
     "wof:placetype":"locality",

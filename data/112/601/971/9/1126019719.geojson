@@ -40,6 +40,9 @@
     "name:ltz_x_preferred":[
         "M\u00e4erkels"
     ],
+    "name:msa_x_preferred":[
+        "Merkholtz"
+    ],
     "name:nld_x_preferred":[
         "Merkholtz"
     ],
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":1126019719,
-    "wof:lastmodified":1561837524,
+    "wof:lastmodified":1563326720,
     "wof:name":"Merkholz",
     "wof:parent_id":85673865,
     "wof:placetype":"locality",

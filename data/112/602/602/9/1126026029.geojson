@@ -34,6 +34,9 @@
     "name:ltz_x_preferred":[
         "Holler"
     ],
+    "name:msa_x_preferred":[
+        "Holler"
+    ],
     "name:nld_x_preferred":[
         "Holler"
     ],
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":1126026029,
-    "wof:lastmodified":1561837520,
+    "wof:lastmodified":1563326627,
     "wof:name":"Holler",
     "wof:parent_id":85673865,
     "wof:placetype":"locality",

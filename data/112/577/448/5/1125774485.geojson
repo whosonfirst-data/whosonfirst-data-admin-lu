@@ -37,6 +37,9 @@
     "name:ltz_x_preferred":[
         "Bierg"
     ],
+    "name:msa_x_preferred":[
+        "Berg"
+    ],
     "name:nld_x_preferred":[
         "Berg"
     ],
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":1125774485,
-    "wof:lastmodified":1561837528,
+    "wof:lastmodified":1563326767,
     "wof:name":"Berg-sur-Syre",
     "wof:parent_id":85673869,
     "wof:placetype":"locality",

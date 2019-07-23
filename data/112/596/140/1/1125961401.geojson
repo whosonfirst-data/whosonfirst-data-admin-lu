@@ -30,6 +30,9 @@
     "name:ltz_x_preferred":[
         "Bierschbech"
     ],
+    "name:msa_x_preferred":[
+        "Berschbach"
+    ],
     "name:nld_x_preferred":[
         "Berschbach"
     ],
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":1125961401,
-    "wof:lastmodified":1561837524,
+    "wof:lastmodified":1563326712,
     "wof:name":"Berschbach",
     "wof:parent_id":85673875,
     "wof:placetype":"locality",

@@ -36,11 +36,17 @@
     "name:eng_x_preferred":[
         "Luxembourg-Kirchberg"
     ],
+    "name:eng_x_variant":[
+        "Kirchberg"
+    ],
     "name:fra_x_preferred":[
         "Kirchberg"
     ],
     "name:hye_x_preferred":[
         "\u053f\u056b\u0580\u056d\u0562\u057f\u0580\u0563"
+    ],
+    "name:ind_x_preferred":[
+        "Kirchberg"
     ],
     "name:ita_x_preferred":[
         "Kirchberg"
@@ -134,7 +140,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561837514,
+    "wof:lastmodified":1563326518,
     "wof:name":"Kirchberg",
     "wof:parent_id":101751765,
     "wof:placetype":"neighbourhood",

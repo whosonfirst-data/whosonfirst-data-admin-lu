@@ -23,20 +23,32 @@
     "name:cat_x_preferred":[
         "Hobscheid"
     ],
+    "name:ceb_x_preferred":[
+        "Hobscheid"
+    ],
     "name:dan_x_preferred":[
         "Hobscheid"
     ],
     "name:deu_x_preferred":[
         "Hobscheid"
     ],
+    "name:deu_x_variant":[
+        "Habscht"
+    ],
     "name:eng_x_preferred":[
         "Hobscheid"
+    ],
+    "name:eng_x_variant":[
+        "Habscht"
     ],
     "name:fas_x_preferred":[
         "\u0647\u0648\u0628\u0634\u0627\u06cc\u062f"
     ],
     "name:fra_x_preferred":[
         "Hobscheid"
+    ],
+    "name:fra_x_variant":[
+        "Habscht"
     ],
     "name:gsw_x_preferred":[
         "Habscht"
@@ -50,14 +62,23 @@
     "name:ltz_x_preferred":[
         "Habscht"
     ],
+    "name:ltz_x_variant":[
+        "Gemeng Habscht"
+    ],
     "name:msa_x_preferred":[
         "Hobscheid"
     ],
     "name:nan_x_preferred":[
         "Hobscheid"
     ],
+    "name:nds_x_preferred":[
+        "Gemeen Hobscheid"
+    ],
     "name:nld_x_preferred":[
         "Hobscheid"
+    ],
+    "name:nld_x_variant":[
+        "Habscht"
     ],
     "name:nob_x_preferred":[
         "Hobscheid"
@@ -129,7 +150,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561837515,
+    "wof:lastmodified":1563326548,
     "wof:name":"Hobscheid",
     "wof:parent_id":85673875,
     "wof:placetype":"locality",

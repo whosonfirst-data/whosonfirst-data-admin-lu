@@ -22,6 +22,9 @@
     "name:cat_x_preferred":[
         "Beyren"
     ],
+    "name:ceb_x_preferred":[
+        "Beyren"
+    ],
     "name:eng_x_preferred":[
         "Beyren"
     ],
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":1126003593,
-    "wof:lastmodified":1561837525,
+    "wof:lastmodified":1563326730,
     "wof:name":"Beyren",
     "wof:parent_id":85673869,
     "wof:placetype":"locality",

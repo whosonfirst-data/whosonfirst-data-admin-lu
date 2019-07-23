@@ -19,6 +19,9 @@
     "name:afr_x_preferred":[
         "Perl"
     ],
+    "name:ara_x_preferred":[
+        "\u0628\u0644\u062f\u0629 \u0628\u064a\u0631\u0644"
+    ],
     "name:arg_x_preferred":[
         "Perl"
     ],
@@ -32,6 +35,9 @@
         "Perl"
     ],
     "name:cat_x_preferred":[
+        "Perl"
+    ],
+    "name:ceb_x_preferred":[
         "Perl"
     ],
     "name:ces_x_preferred":[
@@ -275,7 +281,7 @@
         }
     ],
     "wof:id":101813653,
-    "wof:lastmodified":1561837517,
+    "wof:lastmodified":1563326575,
     "wof:name":"Perl",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

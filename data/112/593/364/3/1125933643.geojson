@@ -16,7 +16,13 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0644\u0627\u0633\u0648\u0641\u0627\u062c"
+    ],
     "name:cat_x_preferred":[
+        "Lasauvage"
+    ],
+    "name:ceb_x_preferred":[
         "Lasauvage"
     ],
     "name:deu_x_preferred":[
@@ -94,7 +100,7 @@
         }
     ],
     "wof:id":1125933643,
-    "wof:lastmodified":1561837518,
+    "wof:lastmodified":1563326594,
     "wof:name":"Lasauvage",
     "wof:parent_id":102069785,
     "wof:placetype":"locality",

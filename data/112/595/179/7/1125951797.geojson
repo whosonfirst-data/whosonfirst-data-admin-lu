@@ -22,6 +22,9 @@
     "name:cat_x_preferred":[
         "Limpach"
     ],
+    "name:ceb_x_preferred":[
+        "Limpach"
+    ],
     "name:eng_x_preferred":[
         "Limpach"
     ],
@@ -30,6 +33,9 @@
     ],
     "name:ltz_x_preferred":[
         "Lampech"
+    ],
+    "name:msa_x_preferred":[
+        "Limpach"
     ],
     "name:nld_x_preferred":[
         "Limpach"
@@ -87,7 +93,7 @@
         }
     ],
     "wof:id":1125951797,
-    "wof:lastmodified":1561837519,
+    "wof:lastmodified":1563326616,
     "wof:name":"Limpach",
     "wof:parent_id":85673875,
     "wof:placetype":"locality",

@@ -26,10 +26,19 @@
     "name:cat_x_preferred":[
         "Wiltz"
     ],
+    "name:ceb_x_preferred":[
+        "Wiltz"
+    ],
+    "name:ces_x_preferred":[
+        "Wiltz"
+    ],
     "name:dan_x_preferred":[
         "Wiltz"
     ],
     "name:deu_x_preferred":[
+        "Wiltz"
+    ],
+    "name:diq_x_preferred":[
         "Wiltz"
     ],
     "name:eng_x_preferred":[
@@ -61,6 +70,9 @@
     ],
     "name:kat_x_preferred":[
         "\u10d5\u10d8\u10da\u10ea\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\ube4c\uce20"
     ],
     "name:lit_x_preferred":[
         "Vilcas"
@@ -168,7 +180,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561837515,
+    "wof:lastmodified":1563326543,
     "wof:name":"Wiltz",
     "wof:parent_id":85673865,
     "wof:placetype":"locality",

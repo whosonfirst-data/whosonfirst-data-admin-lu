@@ -22,6 +22,9 @@
     "name:cat_x_preferred":[
         "Bettborn"
     ],
+    "name:ceb_x_preferred":[
+        "Bettborn"
+    ],
     "name:deu_x_preferred":[
         "Bettborn"
     ],
@@ -33,6 +36,9 @@
     ],
     "name:ltz_x_preferred":[
         "Bieberech"
+    ],
+    "name:msa_x_preferred":[
+        "Bettborn"
     ],
     "name:nld_x_preferred":[
         "Bettborn"
@@ -103,7 +109,7 @@
         }
     ],
     "wof:id":1125906815,
-    "wof:lastmodified":1561837523,
+    "wof:lastmodified":1563326696,
     "wof:name":"Bettborn",
     "wof:parent_id":85673865,
     "wof:placetype":"locality",

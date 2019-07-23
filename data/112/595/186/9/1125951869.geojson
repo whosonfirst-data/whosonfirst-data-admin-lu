@@ -22,6 +22,9 @@
     "name:cat_x_preferred":[
         "Moesdorf"
     ],
+    "name:ceb_x_preferred":[
+        "Moesdorf"
+    ],
     "name:eng_x_preferred":[
         "Moesdorf"
     ],
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":1125951869,
-    "wof:lastmodified":1561837519,
+    "wof:lastmodified":1563326611,
     "wof:name":"Moesdorf",
     "wof:parent_id":85673875,
     "wof:placetype":"locality",

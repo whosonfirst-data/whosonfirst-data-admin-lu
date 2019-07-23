@@ -22,6 +22,9 @@
     "name:cat_x_preferred":[
         "Huldange"
     ],
+    "name:ceb_x_preferred":[
+        "Huldange"
+    ],
     "name:deu_x_preferred":[
         "Huldingen"
     ],
@@ -50,6 +53,9 @@
         "Huldange"
     ],
     "name:swe_x_preferred":[
+        "Huldange"
+    ],
+    "name:szl_x_preferred":[
         "Huldange"
     ],
     "name:unk_x_variant":[
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1125990853,
-    "wof:lastmodified":1561837523,
+    "wof:lastmodified":1563326693,
     "wof:name":"Huldange",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

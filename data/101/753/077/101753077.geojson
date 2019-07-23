@@ -65,11 +65,17 @@
     "name:ltz_x_preferred":[
         "Gemeng Mamer"
     ],
+    "name:ltz_x_variant":[
+        "Mamer"
+    ],
     "name:msa_x_preferred":[
         "Mamer"
     ],
     "name:nan_x_preferred":[
         "Mamer"
+    ],
+    "name:nds_x_preferred":[
+        "Gemeen Mamer"
     ],
     "name:nld_x_preferred":[
         "Mamer"
@@ -171,7 +177,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561837515,
+    "wof:lastmodified":1563326539,
     "wof:name":"Mamer",
     "wof:parent_id":85673875,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":10207246.036218,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.187351,49.598227,6.187351,49.598227",
     "geom:latitude":49.598227,
     "geom:longitude":6.187351,
@@ -28,6 +28,9 @@
         "Itzig"
     ],
     "name:ceb_x_preferred":[
+        "Itzig"
+    ],
+    "name:eng_x_preferred":[
         "Itzig"
     ],
     "name:fra_x_preferred":[
@@ -115,7 +118,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531862129,
+    "wof:lastmodified":1563326519,
     "wof:name":"Itzig",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

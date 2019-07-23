@@ -22,6 +22,9 @@
     "name:cat_x_preferred":[
         "Crauthem"
     ],
+    "name:ceb_x_preferred":[
+        "Crauthem"
+    ],
     "name:eng_x_preferred":[
         "Crauthem"
     ],
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":1125924555,
-    "wof:lastmodified":1561837518,
+    "wof:lastmodified":1563326599,
     "wof:name":"Crauthem",
     "wof:parent_id":85673875,
     "wof:placetype":"locality",

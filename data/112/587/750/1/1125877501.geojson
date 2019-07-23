@@ -22,6 +22,9 @@
     "name:cat_x_preferred":[
         "Altwies"
     ],
+    "name:ceb_x_preferred":[
+        "Altwies"
+    ],
     "name:eng_x_preferred":[
         "Altwies"
     ],
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":1125877501,
-    "wof:lastmodified":1561837523,
+    "wof:lastmodified":1563326680,
     "wof:name":"Altwies",
     "wof:parent_id":85673869,
     "wof:placetype":"locality",

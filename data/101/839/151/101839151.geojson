@@ -35,14 +35,29 @@
     "name:deu_x_preferred":[
         "Erpeldingen an der Sauer"
     ],
+    "name:deu_x_variant":[
+        "Erpeldingen"
+    ],
+    "name:eng_x_preferred":[
+        "Erpeldange"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u0631\u067e\u0644\u062f\u0627\u0646\u0698"
     ],
     "name:fra_x_preferred":[
         "Erpeldange"
     ],
+    "name:fra_x_variant":[
+        "Erpeldange-sur-S\u00fbre"
+    ],
+    "name:gsw_x_preferred":[
+        "Ierpeldeng"
+    ],
     "name:ita_x_preferred":[
         "Erpeldange"
+    ],
+    "name:kor_x_preferred":[
+        "\uc5d0\ub974\ud3a0\ub2f9\uc8fc"
     ],
     "name:lim_x_preferred":[
         "Erpeldange"
@@ -53,7 +68,13 @@
     "name:msa_x_preferred":[
         "Erpeldange"
     ],
+    "name:nan_x_preferred":[
+        "Erpeldange"
+    ],
     "name:nld_x_preferred":[
+        "Erpeldange"
+    ],
+    "name:nob_x_preferred":[
         "Erpeldange"
     ],
     "name:nor_x_preferred":[
@@ -138,7 +159,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527715389,
+    "wof:lastmodified":1563326579,
     "wof:name":"Erpeldange",
     "wof:parent_id":85673865,
     "wof:placetype":"locality",

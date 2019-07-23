@@ -22,6 +22,9 @@
     "name:cat_x_preferred":[
         "Rameldange"
     ],
+    "name:ceb_x_preferred":[
+        "Rameldange"
+    ],
     "name:eng_x_preferred":[
         "Rameldange"
     ],
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1125952147,
-    "wof:lastmodified":1561837519,
+    "wof:lastmodified":1563326613,
     "wof:name":"Rammeldange",
     "wof:parent_id":85673875,
     "wof:placetype":"locality",

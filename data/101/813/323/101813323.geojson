@@ -29,6 +29,9 @@
     "name:cat_x_preferred":[
         "Wormeldange"
     ],
+    "name:ceb_x_preferred":[
+        "Wormeldange"
+    ],
     "name:dan_x_preferred":[
         "Wormeldange"
     ],
@@ -152,7 +155,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561837517,
+    "wof:lastmodified":1563326574,
     "wof:name":"Wormeldange",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

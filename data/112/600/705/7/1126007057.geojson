@@ -25,6 +25,9 @@
     "name:cat_x_preferred":[
         "Sanem"
     ],
+    "name:ceb_x_preferred":[
+        "Sanem"
+    ],
     "name:dan_x_preferred":[
         "Sanem"
     ],
@@ -145,7 +148,7 @@
         }
     ],
     "wof:id":1126007057,
-    "wof:lastmodified":1561837525,
+    "wof:lastmodified":1563326729,
     "wof:name":"Sanem",
     "wof:parent_id":85673875,
     "wof:placetype":"locality",

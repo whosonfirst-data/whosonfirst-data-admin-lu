@@ -22,6 +22,9 @@
     "name:cat_x_preferred":[
         "Mensdorf"
     ],
+    "name:ceb_x_preferred":[
+        "Mensdorf"
+    ],
     "name:eng_x_preferred":[
         "Mensdorf"
     ],
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1125999913,
-    "wof:lastmodified":1561837523,
+    "wof:lastmodified":1563326692,
     "wof:name":"Mensdorf",
     "wof:parent_id":85673869,
     "wof:placetype":"locality",

@@ -22,6 +22,9 @@
     "name:cat_x_preferred":[
         "Wilwerdange"
     ],
+    "name:ceb_x_preferred":[
+        "Wilwerdange"
+    ],
     "name:eng_x_preferred":[
         "Wilwerdange"
     ],
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":1125932147,
-    "wof:lastmodified":1561837518,
+    "wof:lastmodified":1563326596,
     "wof:name":"Wilwerdange",
     "wof:parent_id":85673865,
     "wof:placetype":"locality",

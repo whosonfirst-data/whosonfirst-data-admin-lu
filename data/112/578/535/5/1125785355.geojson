@@ -22,6 +22,12 @@
     "name:cat_x_preferred":[
         "Berbourg"
     ],
+    "name:ceb_x_preferred":[
+        "Berbourg"
+    ],
+    "name:deu_x_preferred":[
+        "Berburg"
+    ],
     "name:eng_x_preferred":[
         "Berbourg"
     ],
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":1125785355,
-    "wof:lastmodified":1561837526,
+    "wof:lastmodified":1563326743,
     "wof:name":"Berbourg",
     "wof:parent_id":85673869,
     "wof:placetype":"locality",

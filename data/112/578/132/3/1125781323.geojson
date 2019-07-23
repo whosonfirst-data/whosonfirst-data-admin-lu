@@ -24,6 +24,12 @@
     "name:cat_x_preferred":[
         "Senningerberg"
     ],
+    "name:ceb_x_preferred":[
+        "Senningerberg"
+    ],
+    "name:deu_x_preferred":[
+        "Senningerberg"
+    ],
     "name:eng_x_preferred":[
         "Senningerberg"
     ],
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":1125781323,
-    "wof:lastmodified":1561837526,
+    "wof:lastmodified":1563326743,
     "wof:name":"Senningerberg",
     "wof:parent_id":85673875,
     "wof:placetype":"locality",

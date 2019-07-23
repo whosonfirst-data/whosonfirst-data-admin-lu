@@ -25,6 +25,9 @@
     "name:cat_x_preferred":[
         "Boevange-sur-Attert"
     ],
+    "name:ceb_x_preferred":[
+        "Boevange-sur-Attert"
+    ],
     "name:dan_x_preferred":[
         "Boevange-sur-Attert"
     ],
@@ -42,6 +45,9 @@
     ],
     "name:gsw_x_preferred":[
         "B\u00e9iwen-Atert"
+    ],
+    "name:hun_x_preferred":[
+        "Boevange-sur-Attert"
     ],
     "name:hye_x_preferred":[
         "\u0532\u0575\u0578\u057e\u0561\u0576\u056a \u057d\u0575\u0578\u0582\u0580 \u0531\u057f\u057f\u0565\u0580"
@@ -134,7 +140,7 @@
         }
     ],
     "wof:id":1125798865,
-    "wof:lastmodified":1561837527,
+    "wof:lastmodified":1563326753,
     "wof:name":"Boevange-sur-Attert",
     "wof:parent_id":85673875,
     "wof:placetype":"locality",
