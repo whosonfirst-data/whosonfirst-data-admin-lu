@@ -21,17 +21,39 @@
     "name:als_x_preferred":[
         "Kanton Gr\u00e9ivemaacher"
     ],
+    "name:als_x_variant":[
+        "Gr\u00e9ivemaacher"
+    ],
+    "name:bel_x_preferred":[
+        "\u0413\u0440\u044d\u0432\u0435\u043d\u043c\u0430\u0445\u0435\u0440"
+    ],
     "name:cat_x_preferred":[
         "Cant\u00f3 de Grevenmacher"
+    ],
+    "name:cat_x_variant":[
+        "Grevenmacher"
+    ],
+    "name:ceb_x_preferred":[
+        "Grevenmacher"
+    ],
+    "name:dan_x_preferred":[
+        "Grevenmacher"
     ],
     "name:deu_x_preferred":[
         "Gemeinde Grevenmacher"
     ],
     "name:deu_x_variant":[
-        "Kanton Grevenmacher"
+        "Kanton Grevenmacher",
+        "Grevenmacher"
+    ],
+    "name:diq_x_preferred":[
+        "Grevenmacher"
     ],
     "name:epo_x_preferred":[
         "Kantono Grevenmacher"
+    ],
+    "name:eus_x_preferred":[
+        "Grevenmacher"
     ],
     "name:fas_x_preferred":[
         "\u06af\u0631\u0648\u0646\u0645\u0627\u062e\u0631"
@@ -40,7 +62,11 @@
         "Ville de Grevenmacher"
     ],
     "name:fra_x_variant":[
-        "Canton de Grevenmacher"
+        "Canton de Grevenmacher",
+        "Grevenmacher"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d2\u05e8\u05d1\u05e0\u05de\u05db\u05e8"
     ],
     "name:ind_x_preferred":[
         "Kanton Grevenmacher"
@@ -48,30 +74,79 @@
     "name:ita_x_preferred":[
         "Cantone di Grevenmacher"
     ],
+    "name:ita_x_variant":[
+        "Grevenmacher"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b0\u30ec\u30fc\u30f4\u30a7\u30f3\u30de\u30cf"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d2\u10e0\u10d4\u10d5\u10d4\u10dc\u10db\u10d0\u10ee\u10d4\u10e0\u10d8"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0413\u0440\u0435\u0432\u0435\u043d\u043c\u0430\u0445\u0435\u0440"
+    ],
     "name:kor_x_preferred":[
         "\uadf8\ub808\ubca4\ub9c8\ud5c8 \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\uadf8\ub808\ubca4\ub9c8\ud5c8"
+    ],
     "name:lit_x_preferred":[
         "Gr\u0117venmacherio kantonas"
+    ],
+    "name:lit_x_variant":[
+        "Gr\u0117venmacheris"
     ],
     "name:ltz_x_preferred":[
         "Gr\u00e9iwemaacher"
     ],
     "name:ltz_x_variant":[
         "Stad Gr\u00e9iwemaacher",
-        "Kanton Gr\u00e9iwemaacher"
+        "Kanton Gr\u00e9iwemaacher",
+        "Gemeng Gr\u00e9iwemaacher"
+    ],
+    "name:msa_x_preferred":[
+        "Grevenmacher"
     ],
     "name:nld_x_preferred":[
         "Kanton Grevenmacher"
     ],
+    "name:nld_x_variant":[
+        "Grevenmacher"
+    ],
+    "name:nno_x_preferred":[
+        "Grevenmacher"
+    ],
+    "name:nor_x_preferred":[
+        "Grevenmacher"
+    ],
     "name:pol_x_preferred":[
         "Kanton Grevenmacher"
+    ],
+    "name:pol_x_variant":[
+        "Grevenmacher"
+    ],
+    "name:por_x_preferred":[
+        "Grevenmacher"
+    ],
+    "name:ron_x_preferred":[
+        "Grevenmacher"
     ],
     "name:rus_x_preferred":[
         "\u0413\u0440\u0435\u0432\u0435\u043d\u043c\u0430\u0445\u0435\u0440"
     ],
+    "name:slk_x_preferred":[
+        "Grevenmacher"
+    ],
     "name:spa_x_preferred":[
         "Cant\u00f3n de Grevenmacher"
+    ],
+    "name:srp_x_preferred":[
+        "\u0413\u0440\u0435\u0432\u0435\u043d\u043c\u0430\u0445\u0435\u0440"
+    ],
+    "name:swe_x_preferred":[
+        "Grevenmacher"
     ],
     "name:tur_x_preferred":[
         "Grevenmacher kantonu"
@@ -81,6 +156,12 @@
     ],
     "name:urd_x_preferred":[
         "\u06af\u0631\u0648\u0646\u0645\u0627\u062e\u0631"
+    ],
+    "name:vol_x_preferred":[
+        "Grevenmacher"
+    ],
+    "name:zho_x_preferred":[
+        "\u683c\u96f7\u6587\u9a6c\u8d6b"
     ],
     "qs_pg:aaroncc":"LU",
     "qs_pg:gn_country":"LU",
@@ -130,7 +211,7 @@
         }
     ],
     "wof:id":1125415535,
-    "wof:lastmodified":1509390356,
+    "wof:lastmodified":1564200539,
     "wof:name":"Grevenmacher",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

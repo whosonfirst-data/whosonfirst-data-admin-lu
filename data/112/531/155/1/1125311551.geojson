@@ -27,11 +27,26 @@
     "name:bul_x_preferred":[
         "\u0412\u043e\u0440\u043c\u0435\u043b\u0434\u0430\u043d\u0436"
     ],
+    "name:cat_x_preferred":[
+        "Wormeldange"
+    ],
+    "name:ceb_x_preferred":[
+        "Wormeldange"
+    ],
+    "name:dan_x_preferred":[
+        "Wormeldange"
+    ],
     "name:deu_x_preferred":[
         "Wormeldingen"
     ],
     "name:fas_x_preferred":[
         "\u0648\u0648\u0631\u0645\u0644\u062f\u0627\u0646\u0698"
+    ],
+    "name:fra_x_preferred":[
+        "Wormeldange"
+    ],
+    "name:ita_x_preferred":[
+        "Wormeldange"
     ],
     "name:lit_x_preferred":[
         "Vormeldan\u017eas"
@@ -39,8 +54,29 @@
     "name:ltz_x_preferred":[
         "Gemeng Wuermeldeng"
     ],
+    "name:msa_x_preferred":[
+        "Wormeldange"
+    ],
+    "name:nld_x_preferred":[
+        "Wormeldange"
+    ],
+    "name:nor_x_preferred":[
+        "Wormeldange"
+    ],
+    "name:pol_x_preferred":[
+        "Wormeldange"
+    ],
+    "name:por_x_preferred":[
+        "Wormeldange"
+    ],
     "name:rus_x_preferred":[
         "\u0412\u043e\u0440\u043c\u0435\u043b\u044c\u0434\u0430\u043d\u0436"
+    ],
+    "name:slk_x_preferred":[
+        "Wormeldange"
+    ],
+    "name:swe_x_preferred":[
+        "Wormeldange"
     ],
     "name:ukr_x_preferred":[
         "\u0412\u043e\u0440\u043c\u0435\u043b\u044c\u0434\u0430\u043d\u0436"
@@ -96,7 +132,7 @@
         }
     ],
     "wof:id":1125311551,
-    "wof:lastmodified":1509387902,
+    "wof:lastmodified":1564200521,
     "wof:name":"Wormeldange",
     "wof:parent_id":102063545,
     "wof:placetype":"localadmin",

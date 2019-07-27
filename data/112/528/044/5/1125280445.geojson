@@ -16,6 +16,126 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:als_x_preferred":[
+        "D\u00e9ifferdeng"
+    ],
+    "name:ara_x_preferred":[
+        "\u062f\u064a\u0641\u0631\u062f\u0627\u0646\u062c"
+    ],
+    "name:bel_x_preferred":[
+        "\u0414\u0437\u0456\u0444\u0435\u0440\u0434\u0430\u043d\u0436"
+    ],
+    "name:bul_x_preferred":[
+        "\u0414\u0438\u0444\u0435\u0440\u0434\u0430\u043d\u0436"
+    ],
+    "name:cat_x_preferred":[
+        "Differdange"
+    ],
+    "name:ceb_x_preferred":[
+        "Differdange"
+    ],
+    "name:ces_x_preferred":[
+        "Differdange"
+    ],
+    "name:dan_x_preferred":[
+        "Differdange"
+    ],
+    "name:deu_x_preferred":[
+        "Differdingen"
+    ],
+    "name:diq_x_preferred":[
+        "Differdange"
+    ],
+    "name:eus_x_preferred":[
+        "Differdange"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u06cc\u0641\u0631\u062f\u0627\u0646\u0698"
+    ],
+    "name:fin_x_preferred":[
+        "Differdange"
+    ],
+    "name:fra_x_preferred":[
+        "Differdange"
+    ],
+    "name:hun_x_preferred":[
+        "Differdange"
+    ],
+    "name:ile_x_preferred":[
+        "Differdange"
+    ],
+    "name:ind_x_preferred":[
+        "Differdange"
+    ],
+    "name:ita_x_preferred":[
+        "Differdange"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d3\u10d8\u10e4\u10d4\u10e0\u10d3\u10d0\u10dc\u10df\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\ub514\ud398\ub974\ub2f9\uc8fc"
+    ],
+    "name:lit_x_preferred":[
+        "Diferdan\u017eas"
+    ],
+    "name:ltz_x_preferred":[
+        "Gemeng D\u00e9ifferdeng"
+    ],
+    "name:msa_x_preferred":[
+        "Differdange"
+    ],
+    "name:nld_x_preferred":[
+        "Differdange"
+    ],
+    "name:nno_x_preferred":[
+        "Differdange"
+    ],
+    "name:nor_x_preferred":[
+        "Differdange"
+    ],
+    "name:pol_x_preferred":[
+        "Differdange"
+    ],
+    "name:por_x_preferred":[
+        "Differdange"
+    ],
+    "name:ron_x_preferred":[
+        "Differdange"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0438\u0444\u0444\u0435\u0440\u0434\u0430\u043d\u0436"
+    ],
+    "name:slk_x_preferred":[
+        "Differdange"
+    ],
+    "name:spa_x_preferred":[
+        "Differdange"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u0438\u0444\u0435\u0440\u0434\u0430\u043d\u0436"
+    ],
+    "name:swa_x_preferred":[
+        "Differdange"
+    ],
+    "name:swe_x_preferred":[
+        "Differdange"
+    ],
+    "name:tur_x_preferred":[
+        "Differdange"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0456\u0444\u0444\u0435\u0440\u0434\u0430\u043d\u0436"
+    ],
+    "name:vie_x_preferred":[
+        "Differdange"
+    ],
+    "name:vol_x_preferred":[
+        "Differdange"
+    ],
+    "name:zho_x_preferred":[
+        "\u8fea\u5f17\u7576\u65e5"
+    ],
     "qs_pg:aaroncc":"LU",
     "qs_pg:gn_country":null,
     "qs_pg:name":"Differdange",
@@ -61,7 +181,7 @@
         }
     ],
     "wof:id":1125280445,
-    "wof:lastmodified":1509387279,
+    "wof:lastmodified":1564200497,
     "wof:name":"Differdange",
     "wof:parent_id":85673875,
     "wof:placetype":"localadmin",

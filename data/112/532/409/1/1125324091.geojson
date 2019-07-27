@@ -16,6 +16,63 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:als_x_preferred":[
+        "R\u00e9iser"
+    ],
+    "name:bel_x_preferred":[
+        "\u0420\u044d\u0437\u0435\u0440"
+    ],
+    "name:cat_x_preferred":[
+        "Roeser"
+    ],
+    "name:ceb_x_preferred":[
+        "Roeser"
+    ],
+    "name:dan_x_preferred":[
+        "Roeser"
+    ],
+    "name:deu_x_preferred":[
+        "Roeser"
+    ],
+    "name:fas_x_preferred":[
+        "\u0631\u0648\u0632\u0631"
+    ],
+    "name:fra_x_preferred":[
+        "Roeser"
+    ],
+    "name:ita_x_preferred":[
+        "Roeser"
+    ],
+    "name:ltz_x_preferred":[
+        "Gemeng R\u00e9iser"
+    ],
+    "name:msa_x_preferred":[
+        "Roeser"
+    ],
+    "name:nld_x_preferred":[
+        "Roeser"
+    ],
+    "name:nor_x_preferred":[
+        "Roeser"
+    ],
+    "name:pol_x_preferred":[
+        "Roeser"
+    ],
+    "name:por_x_preferred":[
+        "Roeser"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0435\u0437\u0435\u0440"
+    ],
+    "name:slk_x_preferred":[
+        "Roeser"
+    ],
+    "name:swe_x_preferred":[
+        "Roeser"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0435\u0437\u0435\u0440"
+    ],
     "qs_pg:aaroncc":"LU",
     "qs_pg:gn_country":null,
     "qs_pg:name":"Roeser",
@@ -61,7 +118,7 @@
         }
     ],
     "wof:id":1125324091,
-    "wof:lastmodified":1509388191,
+    "wof:lastmodified":1564200482,
     "wof:name":"Roeser",
     "wof:parent_id":85673875,
     "wof:placetype":"localadmin",

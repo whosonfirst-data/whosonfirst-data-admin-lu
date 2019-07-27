@@ -27,6 +27,24 @@
     "iso:country":"LU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Rumlange"
+    ],
+    "name:deu_x_preferred":[
+        "R\u00fcmlingen"
+    ],
+    "name:fra_x_preferred":[
+        "Rumlange"
+    ],
+    "name:ltz_x_preferred":[
+        "R\u00ebmeljen"
+    ],
+    "name:msa_x_preferred":[
+        "Rumlange"
+    ],
+    "name:pol_x_preferred":[
+        "Rumlange"
+    ],
     "name:und_x_variant":[
         "Rimlingen",
         "Rumlange"
@@ -53,7 +71,7 @@
         }
     ],
     "wof:id":1327165211,
-    "wof:lastmodified":1537662993,
+    "wof:lastmodified":1564200443,
     "wof:name":"Rumlange",
     "wof:parent_id":85673865,
     "wof:placetype":"locality",

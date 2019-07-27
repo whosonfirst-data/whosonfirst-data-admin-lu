@@ -19,6 +19,21 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Bettange-sur-Mess"
+    ],
+    "name:ceb_x_preferred":[
+        "Bettange-sur-Mess"
+    ],
+    "name:fra_x_preferred":[
+        "Bettange-sur-Mess"
+    ],
+    "name:pol_x_preferred":[
+        "Bettange-sur-Mess"
+    ],
+    "name:swe_x_preferred":[
+        "Bettange-sur-Mess"
+    ],
     "name:unk_x_variant":[
         "Bettange"
     ],
@@ -70,7 +85,7 @@
         }
     ],
     "wof:id":1126005101,
-    "wof:lastmodified":1509406373,
+    "wof:lastmodified":1564200530,
     "wof:name":"Bettange-sur-Mess",
     "wof:parent_id":85673875,
     "wof:placetype":"locality",

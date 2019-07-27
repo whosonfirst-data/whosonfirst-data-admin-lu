@@ -26,6 +26,12 @@
     "iso:country":"LU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Birel"
+    ],
+    "name:swe_x_preferred":[
+        "Birel"
+    ],
     "name:und_x_variant":[
         "Birelergrund",
         "Birelerhof",
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1293135099,
-    "wof:lastmodified":1537663000,
+    "wof:lastmodified":1564200451,
     "wof:name":"Birel",
     "wof:parent_id":85673875,
     "wof:placetype":"locality",

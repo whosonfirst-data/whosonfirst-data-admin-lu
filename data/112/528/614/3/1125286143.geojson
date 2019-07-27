@@ -21,17 +21,41 @@
     "name:als_x_preferred":[
         "Kanton Miersch"
     ],
+    "name:als_x_variant":[
+        "Miersch"
+    ],
+    "name:bel_x_preferred":[
+        "\u041c\u0435\u0440\u0448"
+    ],
     "name:cat_x_preferred":[
         "Cant\u00f3 de Mersch"
+    ],
+    "name:cat_x_variant":[
+        "Mersch"
+    ],
+    "name:ceb_x_preferred":[
+        "Mersch"
+    ],
+    "name:dan_x_preferred":[
+        "Mersch"
     ],
     "name:deu_x_preferred":[
         "Kanton Mersch"
     ],
+    "name:deu_x_variant":[
+        "Mersch"
+    ],
     "name:epo_x_preferred":[
         "Kantono Mersch"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u0631\u0634"
+    ],
     "name:fra_x_preferred":[
         "Canton de Mersch"
+    ],
+    "name:fra_x_variant":[
+        "Mersch"
     ],
     "name:ind_x_preferred":[
         "Kanton Mersch"
@@ -39,32 +63,77 @@
     "name:ita_x_preferred":[
         "Cantone di Mersch"
     ],
+    "name:ita_x_variant":[
+        "Mersch"
+    ],
     "name:kor_x_preferred":[
         "\uba54\ub974\uc288 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uba54\ub974\uc288"
     ],
     "name:lit_x_preferred":[
         "Mer\u0161o kantonas"
     ],
+    "name:lit_x_variant":[
+        "Mer\u0161as"
+    ],
     "name:ltz_x_preferred":[
         "Kanton Miersch"
+    ],
+    "name:ltz_x_variant":[
+        "Gemeng Miersch"
+    ],
+    "name:msa_x_preferred":[
+        "Mersch"
+    ],
+    "name:nds_x_preferred":[
+        "Gemeen Mersch"
     ],
     "name:nld_x_preferred":[
         "Kanton Mersch"
     ],
+    "name:nld_x_variant":[
+        "Mersch"
+    ],
+    "name:nor_x_preferred":[
+        "Mersch"
+    ],
     "name:pol_x_preferred":[
         "Kanton Mersch"
+    ],
+    "name:pol_x_variant":[
+        "Mersch"
+    ],
+    "name:por_x_preferred":[
+        "Mersch"
     ],
     "name:rus_x_preferred":[
         "\u041c\u0435\u0440\u0448"
     ],
+    "name:slk_x_preferred":[
+        "Mersch"
+    ],
     "name:spa_x_preferred":[
         "Cant\u00f3n de Mersch"
+    ],
+    "name:swa_x_preferred":[
+        "Mersch"
+    ],
+    "name:swe_x_preferred":[
+        "Mersch"
     ],
     "name:tur_x_preferred":[
         "Mersch kantonu"
     ],
     "name:ukr_x_preferred":[
         "\u041b\u044e\u043a\u0441\u0435\u043c\u0431\u0443\u0440\u0433"
+    ],
+    "name:ukr_x_variant":[
+        "\u041c\u0435\u0440\u0448"
+    ],
+    "name:zho_x_preferred":[
+        "\u6885\u5c14\u65bd"
     ],
     "qs_pg:aaroncc":"LU",
     "qs_pg:gn_country":"LU",
@@ -115,7 +184,7 @@
         }
     ],
     "wof:id":1125286143,
-    "wof:lastmodified":1509387426,
+    "wof:lastmodified":1564200495,
     "wof:name":"Mersch",
     "wof:parent_id":85673875,
     "wof:placetype":"localadmin",

@@ -27,6 +27,12 @@
     "iso:country":"LU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Roost"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30eb\u30fc\u30b9\u30c8"
+    ],
     "name:und_x_variant":[
         "Rost",
         "Roost",
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1292934305,
-    "wof:lastmodified":1537662993,
+    "wof:lastmodified":1564200450,
     "wof:name":"Roost",
     "wof:parent_id":85673875,
     "wof:placetype":"locality",

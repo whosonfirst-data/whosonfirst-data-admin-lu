@@ -27,6 +27,21 @@
     "iso:country":"LU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Deiffelt"
+    ],
+    "name:fra_x_preferred":[
+        "Deiffelt"
+    ],
+    "name:ltz_x_preferred":[
+        "Deewelt"
+    ],
+    "name:msa_x_preferred":[
+        "Deiffelt"
+    ],
+    "name:pol_x_preferred":[
+        "Deiffelt"
+    ],
     "name:und_x_variant":[
         "Deifelt",
         "Deiffelt"
@@ -53,7 +68,7 @@
         }
     ],
     "wof:id":1210051059,
-    "wof:lastmodified":1537662999,
+    "wof:lastmodified":1564200460,
     "wof:name":"Deiffelt",
     "wof:parent_id":85673865,
     "wof:placetype":"locality",

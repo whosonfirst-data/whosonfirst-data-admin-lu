@@ -24,14 +24,62 @@
     "name:bel_x_preferred":[
         "\u0414\u0437\u0456\u043f\u0430\u0445"
     ],
+    "name:cat_x_preferred":[
+        "Dippach"
+    ],
+    "name:ceb_x_preferred":[
+        "Dippach"
+    ],
+    "name:ces_x_preferred":[
+        "Dippach"
+    ],
+    "name:dan_x_preferred":[
+        "Dippach"
+    ],
+    "name:deu_x_preferred":[
+        "Dippach"
+    ],
     "name:fas_x_preferred":[
         "\u062f\u06cc\u067e\u0627\u062e"
+    ],
+    "name:fra_x_preferred":[
+        "Dippach"
+    ],
+    "name:ita_x_preferred":[
+        "Dippach"
     ],
     "name:ltz_x_preferred":[
         "Gemeng Dippech"
     ],
+    "name:msa_x_preferred":[
+        "Dippach"
+    ],
+    "name:nds_x_preferred":[
+        "Gemeen Dippach"
+    ],
+    "name:nld_x_preferred":[
+        "Dippach"
+    ],
+    "name:nor_x_preferred":[
+        "Dippach"
+    ],
+    "name:pol_x_preferred":[
+        "Dippach"
+    ],
+    "name:por_x_preferred":[
+        "Dippach"
+    ],
     "name:rus_x_preferred":[
         "\u0414\u0438\u043f\u043f\u0430\u0445"
+    ],
+    "name:slk_x_preferred":[
+        "Dippach"
+    ],
+    "name:spa_x_preferred":[
+        "Dippach"
+    ],
+    "name:swe_x_preferred":[
+        "Dippach"
     ],
     "name:ukr_x_preferred":[
         "\u0414\u0456\u043f\u043f\u0430\u0445"
@@ -88,7 +136,7 @@
         }
     ],
     "wof:id":1125285649,
-    "wof:lastmodified":1509387414,
+    "wof:lastmodified":1564200494,
     "wof:name":"Dippach",
     "wof:parent_id":85673875,
     "wof:placetype":"localadmin",

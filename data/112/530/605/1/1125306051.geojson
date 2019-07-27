@@ -18,20 +18,119 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:afr_x_preferred":[
+        "El"
+    ],
     "name:bel_x_preferred":[
         "\u042d\u043b\u044c"
+    ],
+    "name:bel_x_variant":[
+        "\u041b\u043e\u043a\u0430\u0446\u044c"
+    ],
+    "name:bre_x_preferred":[
+        "Gwalenn"
+    ],
+    "name:ces_x_preferred":[
+        "Loket"
+    ],
+    "name:dan_x_preferred":[
+        "Alen"
+    ],
+    "name:deu_x_preferred":[
+        "Elle"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03c1\u03c3\u03af\u03bd"
+    ],
+    "name:est_x_preferred":[
+        "K\u00fc\u00fcnar"
     ],
     "name:fas_x_preferred":[
         "\u0627\u0644\u060c \u0644\u0648\u06a9\u0632\u0627\u0645\u0628\u0648\u0631\u06af"
     ],
+    "name:fas_x_variant":[
+        "\u0627\u0644"
+    ],
+    "name:fin_x_preferred":[
+        "Kyyn\u00e4r\u00e4"
+    ],
+    "name:fra_x_preferred":[
+        "Aune"
+    ],
+    "name:fry_x_preferred":[
+        "Jellen"
+    ],
+    "name:hun_x_preferred":[
+        "R\u0151f"
+    ],
+    "name:hye_x_preferred":[
+        "\u053f\u0561\u0576\u0563\u0578\u0582\u0576"
+    ],
+    "name:isl_x_preferred":[
+        "Alin"
+    ],
+    "name:ita_x_preferred":[
+        "Auna"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a8\u30eb"
+    ],
+    "name:kor_x_preferred":[
+        "\uc5d8"
+    ],
+    "name:lit_x_preferred":[
+        "Uolektis"
+    ],
     "name:ltz_x_preferred":[
         "Gemeng Ell"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041b\u0430\u043a\u043e\u0442"
+    ],
+    "name:nld_x_preferred":[
+        "El"
+    ],
+    "name:nno_x_preferred":[
+        "Alen"
+    ],
+    "name:nor_x_preferred":[
+        "Alen"
+    ],
+    "name:pol_x_preferred":[
+        "\u0141okie\u0107"
     ],
     "name:rus_x_preferred":[
         "\u042d\u043b\u043b\u044c"
     ],
+    "name:rus_x_variant":[
+        "\u041b\u043e\u043a\u043e\u0442\u044c"
+    ],
+    "name:slv_x_preferred":[
+        "Vatel"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u0430\u043a\u0430\u0442"
+    ],
+    "name:stq_x_preferred":[
+        "\u00c4\u00e4lne"
+    ],
+    "name:swa_x_preferred":[
+        "Dhiraa"
+    ],
+    "name:swe_x_preferred":[
+        "Aln"
+    ],
     "name:ukr_x_preferred":[
         "\u0415\u043b\u043b\u044c"
+    ],
+    "name:ukr_x_variant":[
+        "\u041b\u0456\u043a\u043e\u0442\u044c"
+    ],
+    "name:uzb_x_preferred":[
+        "Tirsak"
+    ],
+    "name:vie_x_preferred":[
+        "Ell"
     ],
     "qs_pg:aaroncc":"LU",
     "qs_pg:gn_country":"LU",
@@ -82,7 +181,7 @@
         }
     ],
     "wof:id":1125306051,
-    "wof:lastmodified":1509387804,
+    "wof:lastmodified":1564200512,
     "wof:name":"Ell",
     "wof:parent_id":85673865,
     "wof:placetype":"localadmin",

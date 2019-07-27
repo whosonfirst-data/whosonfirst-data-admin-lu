@@ -26,6 +26,21 @@
     "iso:country":"LU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Clairefontaine"
+    ],
+    "name:fra_x_preferred":[
+        "Clairefontaine"
+    ],
+    "name:hun_x_preferred":[
+        "Clairefontaine"
+    ],
+    "name:ltz_x_preferred":[
+        "Clairefontaine"
+    ],
+    "name:pol_x_preferred":[
+        "Clairefontaine"
+    ],
     "name:und_x_variant":[
         "Claire",
         "Clairefontaines",
@@ -52,7 +67,7 @@
         }
     ],
     "wof:id":1276580605,
-    "wof:lastmodified":1537662999,
+    "wof:lastmodified":1564200454,
     "wof:name":"Clairefontaine",
     "wof:parent_id":85673865,
     "wof:placetype":"locality",

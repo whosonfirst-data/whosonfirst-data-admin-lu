@@ -27,6 +27,15 @@
     "iso:country":"LU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Belval"
+    ],
+    "name:fra_x_preferred":[
+        "Esch-Belval"
+    ],
+    "name:ltz_x_preferred":[
+        "Belval"
+    ],
     "name:und_x_variant":[
         "Ernshof",
         "Belval"
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1276152239,
-    "wof:lastmodified":1537663000,
+    "wof:lastmodified":1564200455,
     "wof:name":"Belval",
     "wof:parent_id":85673875,
     "wof:placetype":"locality",

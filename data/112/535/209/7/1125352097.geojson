@@ -16,6 +16,81 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:als_x_preferred":[
+        "\u00cblwen"
+    ],
+    "name:bel_x_preferred":[
+        "\u0422\u0440\u0443\u0430\u0432\u2019\u0435\u0440\u0436"
+    ],
+    "name:bre_x_preferred":[
+        "Troisvierges"
+    ],
+    "name:cat_x_preferred":[
+        "Troisvierges"
+    ],
+    "name:ceb_x_preferred":[
+        "Troisvierges"
+    ],
+    "name:dan_x_preferred":[
+        "Troisvierges"
+    ],
+    "name:deu_x_preferred":[
+        "Ulflingen"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u0631\u0648\u0627\u0648\u06cc\u0631\u0698"
+    ],
+    "name:fra_x_preferred":[
+        "Troisvierges"
+    ],
+    "name:ita_x_preferred":[
+        "Troisvierges"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c8\u30ed\u30ef\u30f4\u30a3\u30a8\u30eb\u30b8\u30e5"
+    ],
+    "name:lim_x_preferred":[
+        "Troisvierges"
+    ],
+    "name:ltz_x_preferred":[
+        "Gemeng \u00cblwen"
+    ],
+    "name:msa_x_preferred":[
+        "Troisvierges"
+    ],
+    "name:nds_x_preferred":[
+        "Gemeen Ulflingen"
+    ],
+    "name:nld_x_preferred":[
+        "Troisvierges"
+    ],
+    "name:nor_x_preferred":[
+        "Troisvierges"
+    ],
+    "name:pol_x_preferred":[
+        "Troisvierges"
+    ],
+    "name:por_x_preferred":[
+        "Troisvierges"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0440\u0443\u0430\u0432\u044c\u0435\u0440\u0436"
+    ],
+    "name:slk_x_preferred":[
+        "Troisvierges"
+    ],
+    "name:spa_x_preferred":[
+        "Troisvierges"
+    ],
+    "name:srp_x_preferred":[
+        "\u0422\u0440\u043e\u0430\u0432\u0458\u0435\u0440\u0436"
+    ],
+    "name:swe_x_preferred":[
+        "Troisvierges"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0440\u0443\u0430\u0432'\u0454\u0440\u0436"
+    ],
     "qs_pg:aaroncc":"LU",
     "qs_pg:gn_country":null,
     "qs_pg:name":"Troisvierges",
@@ -61,7 +136,7 @@
         }
     ],
     "wof:id":1125352097,
-    "wof:lastmodified":1509388873,
+    "wof:lastmodified":1564200480,
     "wof:name":"Troisvierges",
     "wof:parent_id":85673865,
     "wof:placetype":"localadmin",

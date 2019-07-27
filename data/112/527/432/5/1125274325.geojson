@@ -18,6 +18,66 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:als_x_preferred":[
+        "Simmer"
+    ],
+    "name:bel_x_preferred":[
+        "\u0421\u0435\u0442\u0444\u0430\u043d\u0442\u044d\u043d"
+    ],
+    "name:cat_x_preferred":[
+        "Septfontaines"
+    ],
+    "name:ceb_x_preferred":[
+        "Septfontaines"
+    ],
+    "name:dan_x_preferred":[
+        "Septfontaines"
+    ],
+    "name:deu_x_preferred":[
+        "Simmern"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u062a\u0641\u0648\u0646\u062a\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Septfontaines"
+    ],
+    "name:ita_x_preferred":[
+        "Septfontaines"
+    ],
+    "name:ltz_x_preferred":[
+        "Gemeng Simmer"
+    ],
+    "name:msa_x_preferred":[
+        "Septfontaines"
+    ],
+    "name:nld_x_preferred":[
+        "Septfontaines"
+    ],
+    "name:nor_x_preferred":[
+        "Septfontaines"
+    ],
+    "name:pol_x_preferred":[
+        "Septfontaines"
+    ],
+    "name:por_x_preferred":[
+        "Septfontaines"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0435\u0442\u0444\u043e\u043d\u0442\u0435\u043d"
+    ],
+    "name:slk_x_preferred":[
+        "Septfontaines"
+    ],
+    "name:swe_x_preferred":[
+        "Septfontaines"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0435\u0442\u0444\u043e\u043d\u0442\u0435\u043d"
+    ],
+    "name:zho_x_preferred":[
+        "\u585e\u65b9\u4e39"
+    ],
     "qs_pg:aaroncc":"LU",
     "qs_pg:gn_country":"LU",
     "qs_pg:gn_fcode":"ADM3",
@@ -67,7 +127,7 @@
         }
     ],
     "wof:id":1125274325,
-    "wof:lastmodified":1509387115,
+    "wof:lastmodified":1564200502,
     "wof:name":"Septfontaines",
     "wof:parent_id":85673875,
     "wof:placetype":"localadmin",
