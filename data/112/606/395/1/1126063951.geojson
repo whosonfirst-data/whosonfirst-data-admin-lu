@@ -19,6 +19,30 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Lasauvage"
+    ],
+    "name:ceb_x_preferred":[
+        "Lasauvage"
+    ],
+    "name:deu_x_preferred":[
+        "Lasauvage"
+    ],
+    "name:fra_x_preferred":[
+        "Lasauvage"
+    ],
+    "name:ltz_x_preferred":[
+        "Zowaasch"
+    ],
+    "name:nld_x_preferred":[
+        "Lasauvage"
+    ],
+    "name:pol_x_preferred":[
+        "Lasauvage"
+    ],
+    "name:swe_x_preferred":[
+        "Lasauvage"
+    ],
     "qs_pg:aaroncc":"LU",
     "qs_pg:gn_country":"LU",
     "qs_pg:gn_fcode":"PPLX",
@@ -56,7 +80,7 @@
         }
     ],
     "wof:id":1126063951,
-    "wof:lastmodified":1509410333,
+    "wof:lastmodified":1564200529,
     "wof:name":"Lasauvage",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

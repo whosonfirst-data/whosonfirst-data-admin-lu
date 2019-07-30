@@ -16,6 +16,66 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:als_x_preferred":[
+        "Leideleng"
+    ],
+    "name:bel_x_preferred":[
+        "\u041b\u0451\u0434\u044d\u043b\u0430\u043d\u0436"
+    ],
+    "name:cat_x_preferred":[
+        "Leudelange"
+    ],
+    "name:ceb_x_preferred":[
+        "Leudelange"
+    ],
+    "name:dan_x_preferred":[
+        "Leudelange"
+    ],
+    "name:deu_x_preferred":[
+        "Leudelingen"
+    ],
+    "name:epo_x_preferred":[
+        "Leudelange"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u0648\u062f\u0644\u0627\u0646\u0698"
+    ],
+    "name:fra_x_preferred":[
+        "Leudelange"
+    ],
+    "name:ita_x_preferred":[
+        "Leudelange"
+    ],
+    "name:ltz_x_preferred":[
+        "Gemeng Leideleng"
+    ],
+    "name:msa_x_preferred":[
+        "Leudelange"
+    ],
+    "name:nld_x_preferred":[
+        "Leudelange"
+    ],
+    "name:nor_x_preferred":[
+        "Leudelange"
+    ],
+    "name:pol_x_preferred":[
+        "Leudelange"
+    ],
+    "name:por_x_preferred":[
+        "Leudelange"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0451\u0434\u0435\u043b\u0430\u043d\u0436"
+    ],
+    "name:slk_x_preferred":[
+        "Leudelange"
+    ],
+    "name:swe_x_preferred":[
+        "Leudelange"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u044c\u043e\u0434\u0435\u043b\u0430\u043d\u0436"
+    ],
     "qs_pg:aaroncc":"LU",
     "qs_pg:gn_country":null,
     "qs_pg:name":"Leudelange",
@@ -61,7 +121,7 @@
         }
     ],
     "wof:id":1125396325,
-    "wof:lastmodified":1509389960,
+    "wof:lastmodified":1564200517,
     "wof:name":"Leudelange",
     "wof:parent_id":85673875,
     "wof:placetype":"localadmin",

@@ -18,6 +18,63 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:als_x_preferred":[
+        "Wanseler"
+    ],
+    "name:bel_x_preferred":[
+        "\u0412\u0456\u043d\u0441\u0435\u043b\u0435\u0440"
+    ],
+    "name:cat_x_preferred":[
+        "Winseler"
+    ],
+    "name:ceb_x_preferred":[
+        "Winseler"
+    ],
+    "name:dan_x_preferred":[
+        "Winseler"
+    ],
+    "name:deu_x_preferred":[
+        "Winseler"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u06cc\u0646\u0632\u0644\u0631"
+    ],
+    "name:fra_x_preferred":[
+        "Winseler"
+    ],
+    "name:ita_x_preferred":[
+        "Winseler"
+    ],
+    "name:ltz_x_preferred":[
+        "Gemeng Wanseler"
+    ],
+    "name:msa_x_preferred":[
+        "Winseler"
+    ],
+    "name:nld_x_preferred":[
+        "Winseler"
+    ],
+    "name:nor_x_preferred":[
+        "Winseler"
+    ],
+    "name:pol_x_preferred":[
+        "Winseler"
+    ],
+    "name:por_x_preferred":[
+        "Winseler"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0438\u043d\u0437\u0435\u043b\u0435\u0440"
+    ],
+    "name:slk_x_preferred":[
+        "Winseler"
+    ],
+    "name:swe_x_preferred":[
+        "Winseler"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0456\u043d\u0441\u0435\u043b\u0435\u0440"
+    ],
     "qs_pg:aaroncc":"LU",
     "qs_pg:gn_country":"LU",
     "qs_pg:gn_fcode":"ADM3",
@@ -67,7 +124,7 @@
         }
     ],
     "wof:id":1125284497,
-    "wof:lastmodified":1509387386,
+    "wof:lastmodified":1564200488,
     "wof:name":"Winseler",
     "wof:parent_id":85673865,
     "wof:placetype":"localadmin",

@@ -18,6 +18,69 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:als_x_preferred":[
+        "Esch-Sauer"
+    ],
+    "name:bel_x_preferred":[
+        "\u042d\u0448-\u0441\u044e\u0440-\u0421\u044e\u0440"
+    ],
+    "name:cat_x_preferred":[
+        "Esch-sur-S\u00fbre"
+    ],
+    "name:ceb_x_preferred":[
+        "Esch-sur-S\u00fbre"
+    ],
+    "name:dan_x_preferred":[
+        "Esch-sur-S\u00fbre"
+    ],
+    "name:deu_x_preferred":[
+        "Esch-Sauer"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0634-\u0633\u0648\u0631-\u0633\u0648\u0631"
+    ],
+    "name:fra_x_preferred":[
+        "Esch-sur-S\u00fbre"
+    ],
+    "name:ita_x_preferred":[
+        "Esch-sur-S\u00fbre"
+    ],
+    "name:ltz_x_preferred":[
+        "Gemeng Esch-Sauer"
+    ],
+    "name:msa_x_preferred":[
+        "Esch-sur-S\u00fbre"
+    ],
+    "name:nds_x_preferred":[
+        "Gemeen Esch-Sauer"
+    ],
+    "name:nld_x_preferred":[
+        "Esch-sur-S\u00fbre"
+    ],
+    "name:nor_x_preferred":[
+        "Esch-sur-S\u00fbre"
+    ],
+    "name:pol_x_preferred":[
+        "Esch-sur-S\u00fbre"
+    ],
+    "name:por_x_preferred":[
+        "Esch-sur-S\u00fbre"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u0448-\u0441\u044e\u0440-\u0421\u044e\u0440"
+    ],
+    "name:slk_x_preferred":[
+        "Esch-sur-S\u00fbre"
+    ],
+    "name:spa_x_preferred":[
+        "Esch-sur-S\u00fbre"
+    ],
+    "name:swe_x_preferred":[
+        "Esch-sur-S\u00fbre"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0415\u0448-\u0441\u044e\u0440-\u0421\u0443\u0440"
+    ],
     "qs_pg:aaroncc":"LU",
     "qs_pg:gn_country":"LU",
     "qs_pg:gn_fcode":"ADM3",
@@ -67,7 +130,7 @@
         }
     ],
     "wof:id":1125333105,
-    "wof:lastmodified":1509388431,
+    "wof:lastmodified":1564200469,
     "wof:name":"Esch-sur-S\u00fbre",
     "wof:parent_id":85673865,
     "wof:placetype":"localadmin",

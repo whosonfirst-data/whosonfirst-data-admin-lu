@@ -16,6 +16,30 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Bettborn"
+    ],
+    "name:ceb_x_preferred":[
+        "Bettborn"
+    ],
+    "name:fra_x_preferred":[
+        "Bettborn"
+    ],
+    "name:ltz_x_preferred":[
+        "Bieberech"
+    ],
+    "name:msa_x_preferred":[
+        "Bettborn"
+    ],
+    "name:pol_x_preferred":[
+        "Bettborn"
+    ],
+    "name:swe_x_preferred":[
+        "Bettborn"
+    ],
+    "name:zho_x_preferred":[
+        "\u8d1d\u7279\u535a\u5c14\u6069"
+    ],
     "qs_pg:aaroncc":"LU",
     "qs_pg:gn_country":null,
     "qs_pg:name":"Bettborn",
@@ -61,7 +85,7 @@
         }
     ],
     "wof:id":1125352069,
-    "wof:lastmodified":1509388873,
+    "wof:lastmodified":1564200480,
     "wof:name":"Bettborn",
     "wof:parent_id":85673865,
     "wof:placetype":"localadmin",

@@ -21,20 +21,45 @@
     "name:als_x_preferred":[
         "Kanton Wolz"
     ],
+    "name:als_x_variant":[
+        "Wolz"
+    ],
+    "name:bel_x_preferred":[
+        "\u0412\u0456\u043b\u044c\u0446"
+    ],
     "name:cat_x_preferred":[
         "Cant\u00f3 de Wiltz"
     ],
+    "name:cat_x_variant":[
+        "Wiltz"
+    ],
     "name:ceb_x_preferred":[
         "Canton de Wiltz"
+    ],
+    "name:ceb_x_variant":[
+        "Wiltz"
+    ],
+    "name:ces_x_preferred":[
+        "Wiltz"
+    ],
+    "name:dan_x_preferred":[
+        "Wiltz"
     ],
     "name:deu_x_preferred":[
         "Gemeinde Wiltz"
     ],
     "name:deu_x_variant":[
-        "Kanton Wiltz"
+        "Kanton Wiltz",
+        "Wiltz"
+    ],
+    "name:diq_x_preferred":[
+        "Wiltz"
     ],
     "name:epo_x_preferred":[
         "Kantono Wiltz"
+    ],
+    "name:eus_x_preferred":[
+        "Wiltz"
     ],
     "name:fas_x_preferred":[
         "\u0648\u06cc\u0644\u062a\u0632"
@@ -44,7 +69,8 @@
     ],
     "name:fra_x_variant":[
         "Ville de Wiltz",
-        "Canton de Wiltz"
+        "Canton de Wiltz",
+        "Wiltz"
     ],
     "name:ind_x_preferred":[
         "Kanton Wiltz"
@@ -52,11 +78,20 @@
     "name:ita_x_preferred":[
         "Cantone di Wiltz"
     ],
+    "name:ita_x_variant":[
+        "Wiltz"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d5\u10d8\u10da\u10ea\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\ube4c\uce20 \uc8fc"
     ],
     "name:lit_x_preferred":[
         "Vilco kantonas"
+    ],
+    "name:lit_x_variant":[
+        "Vilcas"
     ],
     "name:ltz_x_preferred":[
         "Wooltz"
@@ -66,14 +101,50 @@
         "Gemeng Wolz",
         "Kanton Wolz"
     ],
+    "name:msa_x_preferred":[
+        "Wiltz"
+    ],
     "name:nld_x_preferred":[
         "Kanton Wiltz"
+    ],
+    "name:nld_x_variant":[
+        "Wiltz"
+    ],
+    "name:nno_x_preferred":[
+        "Wiltz"
+    ],
+    "name:nor_x_preferred":[
+        "Wiltz"
     ],
     "name:pol_x_preferred":[
         "Kanton Wiltz"
     ],
+    "name:pol_x_variant":[
+        "Wiltz"
+    ],
+    "name:por_x_preferred":[
+        "Wiltz"
+    ],
+    "name:ron_x_preferred":[
+        "Wiltz"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0438\u043b\u044c\u0446"
+    ],
+    "name:slk_x_preferred":[
+        "Wiltz"
+    ],
     "name:spa_x_preferred":[
         "Cant\u00f3n de Wiltz"
+    ],
+    "name:spa_x_variant":[
+        "Wiltz"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0438\u043b\u0446"
+    ],
+    "name:swe_x_preferred":[
+        "Wiltz"
     ],
     "name:tur_x_preferred":[
         "Wiltz kantonu"
@@ -83,6 +154,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0648\u0644\u062a\u0632"
+    ],
+    "name:vol_x_preferred":[
+        "Wiltz"
     ],
     "qs_pg:aaroncc":"LU",
     "qs_pg:gn_country":"LU",
@@ -133,7 +207,7 @@
         }
     ],
     "wof:id":1125390667,
-    "wof:lastmodified":1509389807,
+    "wof:lastmodified":1564200518,
     "wof:name":"Wiltz",
     "wof:parent_id":85673865,
     "wof:placetype":"localadmin",

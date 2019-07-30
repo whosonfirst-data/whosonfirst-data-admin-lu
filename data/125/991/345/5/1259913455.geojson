@@ -27,6 +27,12 @@
     "iso:country":"LU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Beil"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u0439\u043b\u044c"
+    ],
     "name:und_x_variant":[
         "Bihl",
         "B\u00e9il"
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1259913455,
-    "wof:lastmodified":1537663000,
+    "wof:lastmodified":1564200548,
     "wof:name":"Beil",
     "wof:parent_id":85673875,
     "wof:placetype":"locality",

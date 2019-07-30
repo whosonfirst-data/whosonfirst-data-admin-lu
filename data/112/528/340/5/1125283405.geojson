@@ -16,6 +16,84 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:als_x_preferred":[
+        "P\u00e9iteng"
+    ],
+    "name:bel_x_preferred":[
+        "\u041f\u0435\u0442\u0430\u043d\u0436"
+    ],
+    "name:cat_x_preferred":[
+        "P\u00e9tange"
+    ],
+    "name:dan_x_preferred":[
+        "P\u00e9tange"
+    ],
+    "name:deu_x_preferred":[
+        "Petingen"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u062a\u0627\u0646\u0698"
+    ],
+    "name:fra_x_preferred":[
+        "P\u00e9tange"
+    ],
+    "name:hun_x_preferred":[
+        "P\u00e9tange"
+    ],
+    "name:ita_x_preferred":[
+        "P\u00e9tange"
+    ],
+    "name:kor_x_preferred":[
+        "\ud398\ud0d5\uc8fc"
+    ],
+    "name:lit_x_preferred":[
+        "Petan\u017eas"
+    ],
+    "name:ltz_x_preferred":[
+        "Gemeng P\u00e9iteng"
+    ],
+    "name:msa_x_preferred":[
+        "P\u00e9tange"
+    ],
+    "name:nld_x_preferred":[
+        "P\u00e9tange"
+    ],
+    "name:nor_x_preferred":[
+        "P\u00e9tange"
+    ],
+    "name:pol_x_preferred":[
+        "P\u00e9tange"
+    ],
+    "name:por_x_preferred":[
+        "P\u00e9tange"
+    ],
+    "name:ron_x_preferred":[
+        "P\u00e9tange"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0435\u0442\u0430\u043d\u0436"
+    ],
+    "name:slk_x_preferred":[
+        "P\u00e9tange"
+    ],
+    "name:spa_x_preferred":[
+        "P\u00e9tange"
+    ],
+    "name:swa_x_preferred":[
+        "P\u00e9tange"
+    ],
+    "name:swe_x_preferred":[
+        "P\u00e9tange"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0435\u0442\u0430\u043d\u0436"
+    ],
+    "name:vec_x_preferred":[
+        "P\u00e9tange"
+    ],
+    "name:wln_x_preferred":[
+        "Petindje"
+    ],
     "qs_pg:aaroncc":"LU",
     "qs_pg:gn_country":null,
     "qs_pg:name":"P\u00e9tange",
@@ -61,7 +139,7 @@
         }
     ],
     "wof:id":1125283405,
-    "wof:lastmodified":1509387353,
+    "wof:lastmodified":1564200493,
     "wof:name":"P\u00e9tange",
     "wof:parent_id":85673875,
     "wof:placetype":"localadmin",

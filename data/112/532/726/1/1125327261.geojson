@@ -18,6 +18,96 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:als_x_preferred":[
+        "R\u00e9imech"
+    ],
+    "name:bel_x_preferred":[
+        "\u0420\u044d\u043c\u0456\u0445"
+    ],
+    "name:cat_x_preferred":[
+        "Remich"
+    ],
+    "name:ceb_x_preferred":[
+        "Remich"
+    ],
+    "name:dan_x_preferred":[
+        "Remich"
+    ],
+    "name:deu_x_preferred":[
+        "Remich"
+    ],
+    "name:diq_x_preferred":[
+        "Remich"
+    ],
+    "name:eus_x_preferred":[
+        "Remich"
+    ],
+    "name:fas_x_preferred":[
+        "\u0631\u0645\u06cc\u0634"
+    ],
+    "name:fra_x_preferred":[
+        "Remich"
+    ],
+    "name:ita_x_preferred":[
+        "Remich"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e0\u10d4\u10db\u10d8\u10ee\u10d8"
+    ],
+    "name:lit_x_preferred":[
+        "R\u0117michas"
+    ],
+    "name:ltz_x_preferred":[
+        "Gemeng R\u00e9imech"
+    ],
+    "name:msa_x_preferred":[
+        "Remich"
+    ],
+    "name:nds_x_preferred":[
+        "Gemeen Remich"
+    ],
+    "name:nld_x_preferred":[
+        "Remich"
+    ],
+    "name:nno_x_preferred":[
+        "Remich"
+    ],
+    "name:nor_x_preferred":[
+        "Remich"
+    ],
+    "name:pol_x_preferred":[
+        "Remich"
+    ],
+    "name:por_x_preferred":[
+        "Remich"
+    ],
+    "name:ron_x_preferred":[
+        "Remich"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0435\u043c\u0438\u0445"
+    ],
+    "name:slk_x_preferred":[
+        "Remich"
+    ],
+    "name:spa_x_preferred":[
+        "Remich"
+    ],
+    "name:srp_x_preferred":[
+        "\u0420\u0435\u0458\u043c\u0435\u0445"
+    ],
+    "name:swe_x_preferred":[
+        "Remich"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0435\u043c\u0456\u0445"
+    ],
+    "name:vol_x_preferred":[
+        "Remich"
+    ],
+    "name:zho_x_preferred":[
+        "\u96f7\u7c73\u5e0c"
+    ],
     "qs_pg:aaroncc":"LU",
     "qs_pg:gn_country":"LU",
     "qs_pg:gn_fcode":"ADM3",
@@ -66,7 +156,7 @@
         }
     ],
     "wof:id":1125327261,
-    "wof:lastmodified":1509388271,
+    "wof:lastmodified":1564200484,
     "wof:name":"Remich",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

@@ -19,6 +19,30 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Stockem"
+    ],
+    "name:ceb_x_preferred":[
+        "Stockem"
+    ],
+    "name:fra_x_preferred":[
+        "Stockem"
+    ],
+    "name:ltz_x_preferred":[
+        "Stackem"
+    ],
+    "name:msa_x_preferred":[
+        "Stockem"
+    ],
+    "name:nld_x_preferred":[
+        "Stockem"
+    ],
+    "name:pol_x_preferred":[
+        "Stockem"
+    ],
+    "name:swe_x_preferred":[
+        "Stockem"
+    ],
     "qs_pg:aaroncc":"LU",
     "qs_pg:gn_country":"LU",
     "qs_pg:gn_fcode":"PPL",
@@ -65,7 +89,7 @@
         }
     ],
     "wof:id":1125952315,
-    "wof:lastmodified":1509402776,
+    "wof:lastmodified":1564200474,
     "wof:name":"Stockem",
     "wof:parent_id":85673865,
     "wof:placetype":"locality",

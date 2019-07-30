@@ -18,6 +18,66 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:als_x_preferred":[
+        "Stadbriedemes"
+    ],
+    "name:bel_x_preferred":[
+        "\u0428\u0442\u0430\u0442\u0431\u0440\u044d\u0434\u0437\u0456\u043c\u044e\u0441"
+    ],
+    "name:cat_x_preferred":[
+        "Stadtbredimus"
+    ],
+    "name:ceb_x_preferred":[
+        "Stadtbredimus"
+    ],
+    "name:dan_x_preferred":[
+        "Stadtbredimus"
+    ],
+    "name:deu_x_preferred":[
+        "Stadtbredimus"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0634\u062a\u0627\u062f\u0628\u0631\u062f\u06cc\u0645\u0648\u0633"
+    ],
+    "name:fra_x_preferred":[
+        "Stadtbredimus"
+    ],
+    "name:ita_x_preferred":[
+        "Stadtbredimus"
+    ],
+    "name:ltz_x_preferred":[
+        "Gemeng Stadbriedemes"
+    ],
+    "name:msa_x_preferred":[
+        "Stadtbredimus"
+    ],
+    "name:nds_x_preferred":[
+        "Gemeen Stadtbredimus"
+    ],
+    "name:nld_x_preferred":[
+        "Stadtbredimus"
+    ],
+    "name:nor_x_preferred":[
+        "Stadtbredimus"
+    ],
+    "name:pol_x_preferred":[
+        "Stadtbredimus"
+    ],
+    "name:por_x_preferred":[
+        "Stadtbredimus"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0442\u0430\u0434\u0442\u0431\u0440\u0435\u0434\u0438\u043c\u044e\u0441"
+    ],
+    "name:slk_x_preferred":[
+        "Stadtbredimus"
+    ],
+    "name:swe_x_preferred":[
+        "Stadtbredimus"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0428\u0442\u0430\u0434\u0442\u0431\u0440\u0435\u0434\u0456\u043c\u044e"
+    ],
     "qs_pg:aaroncc":"LU",
     "qs_pg:gn_country":"LU",
     "qs_pg:gn_fcode":"ADM3",
@@ -66,7 +126,7 @@
         }
     ],
     "wof:id":1125341017,
-    "wof:lastmodified":1509388661,
+    "wof:lastmodified":1564200470,
     "wof:name":"Stadtbredimus",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

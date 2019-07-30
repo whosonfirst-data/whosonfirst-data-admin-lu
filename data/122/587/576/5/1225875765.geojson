@@ -26,6 +26,27 @@
     "iso:country":"LU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Bech-Kleinmacher"
+    ],
+    "name:ceb_x_preferred":[
+        "Bech-Kleinmacher"
+    ],
+    "name:fra_x_preferred":[
+        "Bech-Kleinmacher"
+    ],
+    "name:ltz_x_preferred":[
+        "Bech-Maacher"
+    ],
+    "name:nld_x_preferred":[
+        "Bech-Kleinmacher"
+    ],
+    "name:pol_x_preferred":[
+        "Bech-Kleinmacher"
+    ],
+    "name:swe_x_preferred":[
+        "Bech-Kleinmacher"
+    ],
     "name:und_x_variant":[
         "Bech"
     ],
@@ -48,7 +69,7 @@
         }
     ],
     "wof:id":1225875765,
-    "wof:lastmodified":1537663000,
+    "wof:lastmodified":1564200551,
     "wof:name":"Bech-Kleinmacher",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

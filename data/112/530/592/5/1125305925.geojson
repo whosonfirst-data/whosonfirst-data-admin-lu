@@ -18,6 +18,78 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:als_x_preferred":[
+        "Hesper"
+    ],
+    "name:bel_x_preferred":[
+        "\u042d\u0441\u043f\u0435\u0440\u0430\u043d\u0436"
+    ],
+    "name:bul_x_preferred":[
+        "\u0415\u0441\u043f\u0435\u0440\u0430\u043d\u0436"
+    ],
+    "name:cat_x_preferred":[
+        "Hesperange"
+    ],
+    "name:ceb_x_preferred":[
+        "Hesperange"
+    ],
+    "name:dan_x_preferred":[
+        "Hesperange"
+    ],
+    "name:deu_x_preferred":[
+        "Hesperingen"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u067e\u0631\u0627\u0646\u0698"
+    ],
+    "name:fra_x_preferred":[
+        "Hesperange"
+    ],
+    "name:ita_x_preferred":[
+        "Hesperange"
+    ],
+    "name:kor_x_preferred":[
+        "\uc5d0\uc2a4\ud398\ub791\uc8fc"
+    ],
+    "name:lit_x_preferred":[
+        "Hesperan\u017eas"
+    ],
+    "name:ltz_x_preferred":[
+        "Gemeng Hesper"
+    ],
+    "name:msa_x_preferred":[
+        "Hesperange"
+    ],
+    "name:nld_x_preferred":[
+        "Hesperange"
+    ],
+    "name:nor_x_preferred":[
+        "Hesperange"
+    ],
+    "name:pol_x_preferred":[
+        "Hesperange"
+    ],
+    "name:por_x_preferred":[
+        "Hesperange"
+    ],
+    "name:ron_x_preferred":[
+        "Hesperange"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u0441\u043f\u0435\u0440\u0430\u043d\u0436"
+    ],
+    "name:slk_x_preferred":[
+        "Hesperange"
+    ],
+    "name:swa_x_preferred":[
+        "Hesperange"
+    ],
+    "name:swe_x_preferred":[
+        "Hesperange"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0415\u0441\u043f\u0435\u0440\u0430\u043d\u0436"
+    ],
     "qs_pg:aaroncc":"LU",
     "qs_pg:gn_country":"LU",
     "qs_pg:gn_fcode":"ADM3",
@@ -67,7 +139,7 @@
         }
     ],
     "wof:id":1125305925,
-    "wof:lastmodified":1509387802,
+    "wof:lastmodified":1564200511,
     "wof:name":"Hesperange",
     "wof:parent_id":85673875,
     "wof:placetype":"localadmin",

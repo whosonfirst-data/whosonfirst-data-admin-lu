@@ -18,6 +18,66 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:als_x_preferred":[
+        "Groussbus"
+    ],
+    "name:bel_x_preferred":[
+        "\u0413\u0440\u043e\u0441\u0431\u0443\u0441"
+    ],
+    "name:cat_x_preferred":[
+        "Grosbous"
+    ],
+    "name:ceb_x_preferred":[
+        "Grosbous"
+    ],
+    "name:dan_x_preferred":[
+        "Grosbous"
+    ],
+    "name:deu_x_preferred":[
+        "Grosbous"
+    ],
+    "name:fas_x_preferred":[
+        "\u06af\u0631\u0648\u0633\u0628\u0648\u0633"
+    ],
+    "name:fra_x_preferred":[
+        "Grosbous"
+    ],
+    "name:ita_x_preferred":[
+        "Grosbous"
+    ],
+    "name:ltz_x_preferred":[
+        "Gemeng Groussbus"
+    ],
+    "name:msa_x_preferred":[
+        "Grosbous"
+    ],
+    "name:nds_x_preferred":[
+        "Gemeen Grosbous"
+    ],
+    "name:nld_x_preferred":[
+        "Grosbous"
+    ],
+    "name:nor_x_preferred":[
+        "Grosbous"
+    ],
+    "name:pol_x_preferred":[
+        "Grosbous"
+    ],
+    "name:por_x_preferred":[
+        "Grosbous"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0440\u043e\u0441\u0431\u0443\u0441"
+    ],
+    "name:slk_x_preferred":[
+        "Grosbous"
+    ],
+    "name:swe_x_preferred":[
+        "Grosbous"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0440\u043e\u0441\u0431\u0443\u0441"
+    ],
     "qs_pg:aaroncc":"LU",
     "qs_pg:gn_country":"LU",
     "qs_pg:gn_fcode":"ADM3",
@@ -67,7 +127,7 @@
         }
     ],
     "wof:id":1125284431,
-    "wof:lastmodified":1509387385,
+    "wof:lastmodified":1564200496,
     "wof:name":"Grosbous",
     "wof:parent_id":85673865,
     "wof:placetype":"localadmin",

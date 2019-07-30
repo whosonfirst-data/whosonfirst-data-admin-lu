@@ -18,6 +18,111 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:als_x_preferred":[
+        "Veianen"
+    ],
+    "name:azb_x_preferred":[
+        "\u0648\u06cc\u0627\u0646\u062f\u0646"
+    ],
+    "name:bel_x_preferred":[
+        "\u0412\u0456\u044f\u043d\u0434\u044d\u043d"
+    ],
+    "name:bul_x_preferred":[
+        "\u0412\u0438\u0430\u043d\u0434\u0435\u043d"
+    ],
+    "name:cat_x_preferred":[
+        "Vianden"
+    ],
+    "name:ceb_x_preferred":[
+        "Vianden"
+    ],
+    "name:dan_x_preferred":[
+        "Vianden"
+    ],
+    "name:deu_x_preferred":[
+        "Vianden"
+    ],
+    "name:diq_x_preferred":[
+        "Vianden"
+    ],
+    "name:epo_x_preferred":[
+        "Vianden"
+    ],
+    "name:eus_x_preferred":[
+        "Vianden"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u06cc\u0627\u0646\u062f\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Vianden"
+    ],
+    "name:ind_x_preferred":[
+        "Vianden"
+    ],
+    "name:ita_x_preferred":[
+        "Vianden"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d5\u10d8\u10d0\u10dc\u10d3\u10d4\u10dc\u10d8"
+    ],
+    "name:lit_x_preferred":[
+        "Viandenas"
+    ],
+    "name:ltz_x_preferred":[
+        "Gemeng Veianen"
+    ],
+    "name:msa_x_preferred":[
+        "Vianden"
+    ],
+    "name:nld_x_preferred":[
+        "Vianden"
+    ],
+    "name:nno_x_preferred":[
+        "Vianden"
+    ],
+    "name:nor_x_preferred":[
+        "Vianden"
+    ],
+    "name:pol_x_preferred":[
+        "Vianden"
+    ],
+    "name:por_x_preferred":[
+        "Vianden"
+    ],
+    "name:ron_x_preferred":[
+        "Vianden"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0438\u0430\u043d\u0434\u0435\u043d"
+    ],
+    "name:slk_x_preferred":[
+        "Vianden"
+    ],
+    "name:spa_x_preferred":[
+        "Vianden"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0438\u0458\u0430\u043d\u0434\u0435\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Vianden"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0456\u0430\u043d\u0434\u0435\u043d"
+    ],
+    "name:vec_x_preferred":[
+        "Vianden"
+    ],
+    "name:vol_x_preferred":[
+        "Vianden"
+    ],
+    "name:wln_x_preferred":[
+        "Vianden"
+    ],
+    "name:zho_x_preferred":[
+        "\u83f2\u5b89\u767b"
+    ],
     "qs_pg:aaroncc":"LU",
     "qs_pg:gn_country":"LU",
     "qs_pg:gn_fcode":"ADM3",
@@ -66,7 +171,7 @@
         }
     ],
     "wof:id":1125303779,
-    "wof:lastmodified":1509387760,
+    "wof:lastmodified":1564200513,
     "wof:name":"Vianden",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

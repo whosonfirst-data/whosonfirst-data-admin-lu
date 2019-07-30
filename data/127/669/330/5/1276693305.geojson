@@ -26,6 +26,18 @@
     "iso:country":"LU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Budersberg"
+    ],
+    "name:fra_x_preferred":[
+        "Budersberg"
+    ],
+    "name:ltz_x_preferred":[
+        "Butschebuerg"
+    ],
+    "name:pol_x_preferred":[
+        "Budersberg"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1276693305,
-    "wof:lastmodified":1537568185,
+    "wof:lastmodified":1564200453,
     "wof:name":"Budersberg",
     "wof:parent_id":85673875,
     "wof:placetype":"locality",

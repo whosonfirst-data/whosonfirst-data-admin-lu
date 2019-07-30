@@ -19,6 +19,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:deu_x_preferred":[
+        "Calmus"
+    ],
     "qs_pg:aaroncc":"LU",
     "qs_pg:gn_country":"LU",
     "qs_pg:gn_fcode":"PPL",
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":1125996917,
-    "wof:lastmodified":1509405850,
+    "wof:lastmodified":1564200518,
     "wof:name":"Calmus",
     "wof:parent_id":85673865,
     "wof:placetype":"locality",
