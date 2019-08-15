@@ -13,6 +13,9 @@
     "label:eng_x_preferred_longname":[
         "Luxembourg District"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "LU"
+    ],
     "lbl:latitude":49.609085,
     "lbl:longitude":6.059322,
     "mps:latitude":49.609085,
@@ -245,9 +248,6 @@
         }
     ],
     "wof:id":85673875,
-    "wof:lang":[
-        "fre"
-    ],
     "wof:lang_x_official":[
         "fra",
         "ltz",
@@ -258,7 +258,7 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1563326512,
+    "wof:lastmodified":1565726866,
     "wof:name":"Luxembourg",
     "wof:parent_id":85633275,
     "wof:placetype":"region",

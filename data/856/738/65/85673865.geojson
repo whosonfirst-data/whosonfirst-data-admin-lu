@@ -13,6 +13,9 @@
     "label:eng_x_preferred_longname":[
         "Diekirch District"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "DI"
+    ],
     "lbl:latitude":49.958715,
     "lbl:longitude":5.973781,
     "mps:latitude":49.958715,
@@ -274,9 +277,6 @@
         }
     ],
     "wof:id":85673865,
-    "wof:lang":[
-        "fre"
-    ],
     "wof:lang_x_official":[
         "fra",
         "ltz",
@@ -287,7 +287,7 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1563326513,
+    "wof:lastmodified":1565726866,
     "wof:name":"Diekirch",
     "wof:parent_id":85633275,
     "wof:placetype":"region",

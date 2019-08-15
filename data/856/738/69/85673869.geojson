@@ -14,6 +14,9 @@
     "label:eng_x_preferred_longname":[
         "Grevenmacher District"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "GR"
+    ],
     "lbl:latitude":49.731863,
     "lbl:longitude":6.353665,
     "mps:latitude":49.731863,
@@ -267,9 +270,6 @@
         }
     ],
     "wof:id":85673869,
-    "wof:lang":[
-        "fre"
-    ],
     "wof:lang_x_official":[
         "fra",
         "ltz",
@@ -280,7 +280,7 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1563326511,
+    "wof:lastmodified":1565726866,
     "wof:name":"Grevenmacher",
     "wof:parent_id":85633275,
     "wof:placetype":"region",
