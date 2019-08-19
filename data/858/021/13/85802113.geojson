@@ -6,12 +6,12 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"6.161055,49.629267,6.161055,49.629267",
-    "geom:latitude":49.629267,
-    "geom:longitude":6.161055,
+    "geom:bbox":"6.137137,49.628785,6.137137,49.628785",
+    "geom:latitude":49.628785,
+    "geom:longitude":6.137137,
     "iso:country":"LU",
-    "lbl:latitude":49.629267,
-    "lbl:longitude":6.161055,
+    "lbl:latitude":49.628785,
+    "lbl:longitude":6.137137,
     "mps:latitude":49.630596,
     "mps:longitude":6.162274,
     "mz:hierarchy_label":0,
@@ -19,10 +19,11 @@
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
-    "mz:is_official":0,
+    "mz:is_official":1,
     "mz:max_zoom":18.0,
-    "mz:min_zoom":15.0,
+    "mz:min_zoom":14.0,
     "mz:tier_locality":3,
+    "mz:tier_metro":30,
     "name:cat_x_preferred":[
         "Weimerskirch"
     ],
@@ -43,6 +44,9 @@
     ],
     "name:ltz_x_preferred":[
         "Weimeschkierch"
+    ],
+    "name:ltz_x_variant":[
+        "Waymersk"
     ],
     "name:nld_x_preferred":[
         "Weimerskirch"
@@ -82,12 +86,13 @@
     "qs:woe_lau":20075347,
     "qs:woe_local":979721,
     "qs:woe_ver":"7.10.0",
-    "src:geom":"mz",
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "mz"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
         102191581,
         101751765,
@@ -104,7 +109,7 @@
         "wk:page":"Weimerskirch"
     },
     "wof:country":"LU",
-    "wof:geomhash":"7fce686acd19b806e43d62b30d19990f",
+    "wof:geomhash":"284beb59519a3e505ac3be3cd94e16b5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -118,7 +123,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563326523,
+    "wof:lastmodified":1566247552,
     "wof:name":"Waymersk",
     "wof:parent_id":101751765,
     "wof:placetype":"neighbourhood",
@@ -128,10 +133,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    6.161055,
-    49.629267,
-    6.161055,
-    49.629267
+    6.137137,
+    49.628785,
+    6.137137,
+    49.628785
 ],
-  "geometry": {"coordinates":[6.161055,49.629267],"type":"Point"}
+  "geometry": {"coordinates":[6.137137,49.628785],"type":"Point"}
 }

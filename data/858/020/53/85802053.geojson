@@ -6,12 +6,12 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"6.178379,49.622802,6.178379,49.622802",
-    "geom:latitude":49.622802,
-    "geom:longitude":6.178379,
+    "geom:bbox":"6.159153,49.616723,6.159153,49.616723",
+    "geom:latitude":49.616723,
+    "geom:longitude":6.159153,
     "iso:country":"LU",
-    "lbl:latitude":49.622802,
-    "lbl:longitude":6.178379,
+    "lbl:latitude":49.616723,
+    "lbl:longitude":6.159153,
     "mps:latitude":49.625227,
     "mps:longitude":6.178387,
     "mz:hierarchy_label":0,
@@ -19,10 +19,11 @@
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
-    "mz:is_official":0,
+    "mz:is_official":1,
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":3,
+    "mz:tier_metro":30,
     "name:bel_x_variant":[
         "\u0426\u044d\u043d\u0442"
     ],
@@ -70,6 +71,9 @@
     ],
     "name:ltz_x_preferred":[
         "Zens"
+    ],
+    "name:ltz_x_variant":[
+        "Cents"
     ],
     "name:nld_x_preferred":[
         "Cent"
@@ -138,11 +142,12 @@
     "qs:woe_lau":20075347,
     "qs:woe_local":979721,
     "qs:woe_ver":"7.10.0",
-    "src:geom":"mz",
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
-        "quattroshapes"
+        "quattroshapes",
+        "mz"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"whosonfirst",
     "wd:wordcount":152,
     "wof:belongsto":[
         102191581,
@@ -155,7 +160,7 @@
         "wd:id":"Q1821038"
     },
     "wof:country":"LU",
-    "wof:geomhash":"127bd7cbb2823ade00f05d53661611b6",
+    "wof:geomhash":"58adccf2b16a5285de76c54cc6a3c648",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -169,7 +174,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563326520,
+    "wof:lastmodified":1566247571,
     "wof:name":"Cents",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -179,10 +184,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    6.178379,
-    49.622802,
-    6.178379,
-    49.622802
+    6.159153,
+    49.616723,
+    6.159153,
+    49.616723
 ],
-  "geometry": {"coordinates":[6.178379,49.622802],"type":"Point"}
+  "geometry": {"coordinates":[6.159153,49.616723],"type":"Point"}
 }

@@ -6,12 +6,12 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"6.138686,49.63248,6.138686,49.63248",
-    "geom:latitude":49.63248,
-    "geom:longitude":6.138686,
+    "geom:bbox":"6.13943,49.635111,6.13943,49.635111",
+    "geom:latitude":49.635111,
+    "geom:longitude":6.13943,
     "iso:country":"LU",
-    "lbl:latitude":49.63248,
-    "lbl:longitude":6.138686,
+    "lbl:latitude":49.635111,
+    "lbl:longitude":6.13943,
     "mps:latitude":49.640452,
     "mps:longitude":6.146999,
     "mz:hierarchy_label":0,
@@ -19,10 +19,11 @@
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
-    "mz:is_official":0,
+    "mz:is_official":1,
     "mz:max_zoom":18.0,
-    "mz:min_zoom":15.0,
+    "mz:min_zoom":13.0,
     "mz:tier_locality":3,
+    "mz:tier_metro":30,
     "name:cat_x_preferred":[
         "Dommeldange"
     ],
@@ -46,6 +47,9 @@
     ],
     "name:ltz_x_preferred":[
         "Dummeldeng"
+    ],
+    "name:ltz_x_variant":[
+        "Dommeldange"
     ],
     "name:nld_x_preferred":[
         "Dommeldange"
@@ -84,12 +88,13 @@
     "qs:woe_lau":20075347,
     "qs:woe_local":979721,
     "qs:woe_ver":"7.10.0",
-    "src:geom":"mz",
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "mz"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"whosonfirst",
     "wd:wordcount":45,
     "wof:belongsto":[
         102191581,
@@ -107,7 +112,7 @@
         "wk:page":"Dommeldange"
     },
     "wof:country":"LU",
-    "wof:geomhash":"1a2cf458547c71d8f30dde1f48f308c5",
+    "wof:geomhash":"628fffbea6d65039f98f35d4142a2f87",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -121,7 +126,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561837514,
+    "wof:lastmodified":1566247552,
     "wof:name":"Dommeldange",
     "wof:parent_id":101751765,
     "wof:placetype":"neighbourhood",
@@ -131,10 +136,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    6.138686,
-    49.63248,
-    6.138686,
-    49.63248
+    6.13943,
+    49.635111,
+    6.13943,
+    49.635111
 ],
-  "geometry": {"coordinates":[6.138686,49.63248],"type":"Point"}
+  "geometry": {"coordinates":[6.13943,49.635111],"type":"Point"}
 }

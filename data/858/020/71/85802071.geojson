@@ -24,6 +24,7 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
+    "mz:tier_metro":30,
     "name:cat_x_preferred":[
         "Fentange"
     ],
@@ -84,7 +85,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "src:population":"geonames",
     "wd:elevation":263.0,
     "wd:latitude":49.566667,
@@ -119,7 +120,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563326522,
+    "wof:lastmodified":1566247552,
     "wof:name":"Fentange",
     "wof:parent_id":101751765,
     "wof:placetype":"neighbourhood",

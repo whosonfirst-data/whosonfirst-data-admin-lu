@@ -1,0 +1,16 @@
+{
+  "id": 85802097,
+  "type": "Feature",
+  "properties": {
+    "src:geom":"mz",
+    "wof:geomhash":"bf4cdb511f2a4cf50b3cab2161097f7a",
+    "wof:id":85802097
+},
+  "bbox": [
+    6.094189,
+    49.603673,
+    6.094189,
+    49.603673
+],
+  "geometry": {"coordinates":[6.094189,49.603673],"type":"Point"}
+}

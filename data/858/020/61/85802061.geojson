@@ -6,12 +6,12 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"6.135147,49.613637,6.135147,49.613637",
-    "geom:latitude":49.613637,
-    "geom:longitude":6.135147,
+    "geom:bbox":"6.142586,49.613785,6.142586,49.613785",
+    "geom:latitude":49.613785,
+    "geom:longitude":6.142586,
     "iso:country":"LU",
-    "lbl:latitude":49.613637,
-    "lbl:longitude":6.135147,
+    "lbl:latitude":49.613785,
+    "lbl:longitude":6.142586,
     "mps:latitude":49.613268,
     "mps:longitude":6.138864,
     "mz:hierarchy_label":0,
@@ -19,10 +19,11 @@
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
-    "mz:is_official":0,
+    "mz:is_official":1,
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":3,
+    "mz:tier_metro":30,
     "name:cat_x_preferred":[
         "Clausen"
     ],
@@ -81,12 +82,13 @@
     "qs:woe_lau":20075347,
     "qs:woe_local":979721,
     "qs:woe_ver":"7.10.0",
-    "src:geom":"mz",
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "mz"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"whosonfirst",
     "wd:wordcount":264,
     "wof:belongsto":[
         102191581,
@@ -104,7 +106,7 @@
         "wk:page":"Clausen, Luxembourg"
     },
     "wof:country":"LU",
-    "wof:geomhash":"25446d88c365965208d725cb3cd8d9f2",
+    "wof:geomhash":"78134d40d6a23ef29242b6d219b6a6a0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -118,7 +120,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563326517,
+    "wof:lastmodified":1566247552,
     "wof:name":"Clausen",
     "wof:parent_id":101751765,
     "wof:placetype":"neighbourhood",
@@ -128,10 +130,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    6.135147,
-    49.613637,
-    6.135147,
-    49.613637
+    6.142586,
+    49.613785,
+    6.142586,
+    49.613785
 ],
-  "geometry": {"coordinates":[6.135147,49.613637],"type":"Point"}
+  "geometry": {"coordinates":[6.142586,49.613785],"type":"Point"}
 }
