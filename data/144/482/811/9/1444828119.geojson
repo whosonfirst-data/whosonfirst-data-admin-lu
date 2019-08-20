@@ -1,0 +1,57 @@
+{
+  "id": 1444828119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.12173646317,49.621961965,6.12173646317,49.621961965",
+    "geom:latitude":49.621962,
+    "geom:longitude":6.121736,
+    "iso:country":"LU",
+    "lbl:latitude":49.621962,
+    "lbl:longitude":6.121736,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_metro":30,
+    "name:deu_x_preferred":[
+        "Limpertsberg"
+    ],
+    "name:eng_x_preferred":[
+        "Lampertsbierg"
+    ],
+    "name:ltz_x_preferred":[
+        "Lampertsbierg"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"LU",
+    "wof:geomhash":"9bdb334deb0483f4effa795986fe3d26",
+    "wof:hierarchy":[],
+    "wof:id":1444828119,
+    "wof:lastmodified":1566335258,
+    "wof:name":"Lampertsbierg",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-lu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.121736463168815,
+    49.62196196502001,
+    6.121736463168815,
+    49.62196196502001
+],
+  "geometry": {"coordinates":[6.12173646316881,49.62196196502001],"type":"Point"}
+}
