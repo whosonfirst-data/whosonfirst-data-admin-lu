@@ -32,15 +32,28 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        101751765,
+        85633275,
+        85673875
+    ],
     "wof:breaches":[],
     "wof:country":"LU",
-    "wof:geomhash":"9dda81aaa48928bc09f8cdaae5625707",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2e66513c3a93a9957fb76b7c0464bdf3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "locality_id":101751765,
+            "neighbourhood_id":1444828031,
+            "region_id":85673875
+        }
+    ],
     "wof:id":1444828031,
-    "wof:lastmodified":1566335258,
+    "wof:lastmodified":1566337961,
     "wof:name":"Neiduerf",
-    "wof:parent_id":-1,
+    "wof:parent_id":101751765,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-lu",
     "wof:superseded_by":[],
@@ -48,9 +61,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    6.156101166068556,
+    6.15610116606856,
     49.61923742299744,
-    6.156101166068556,
+    6.15610116606856,
     49.61923742299744
 ],
   "geometry": {"coordinates":[6.15610116606856,49.61923742299744],"type":"Point"}

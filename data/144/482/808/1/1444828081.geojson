@@ -29,15 +29,28 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        101751765,
+        85633275,
+        85673875
+    ],
     "wof:breaches":[],
     "wof:country":"LU",
-    "wof:geomhash":"45b1961a6d9af9d02655fafd1a3b46b9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e2c679f735b623aba7a9d86a9c92956c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "locality_id":101751765,
+            "neighbourhood_id":1444828081,
+            "region_id":85673875
+        }
+    ],
     "wof:id":1444828081,
-    "wof:lastmodified":1566335258,
+    "wof:lastmodified":1566337966,
     "wof:name":"Kiem",
-    "wof:parent_id":-1,
+    "wof:parent_id":101751765,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-lu",
     "wof:superseded_by":[],
@@ -45,10 +58,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    6.163196506552653,
-    49.635027154383835,
-    6.163196506552653,
-    49.635027154383835
+    6.16319650655265,
+    49.63502715438383,
+    6.16319650655265,
+    49.63502715438383
 ],
   "geometry": {"coordinates":[6.16319650655265,49.63502715438383],"type":"Point"}
 }

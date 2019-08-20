@@ -35,13 +35,25 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633275,
+        85673875
+    ],
     "wof:breaches":[],
     "wof:country":"LU",
-    "wof:geomhash":"997004d1a6dea8a895ee169a45f99aaf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"66957b56747c860081bd0bbf23634a0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "locality_id":-1,
+            "neighbourhood_id":1444828101,
+            "region_id":85673875
+        }
+    ],
     "wof:id":1444828101,
-    "wof:lastmodified":1566335258,
+    "wof:lastmodified":1566337969,
     "wof:name":"Millebaach",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -51,9 +63,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    6.120465095456066,
+    6.12046509545607,
     49.63067704146107,
-    6.120465095456066,
+    6.12046509545607,
     49.63067704146107
 ],
   "geometry": {"coordinates":[6.12046509545607,49.63067704146107],"type":"Point"}

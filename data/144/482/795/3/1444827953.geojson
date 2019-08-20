@@ -35,15 +35,28 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        101751765,
+        85633275,
+        85673875
+    ],
     "wof:breaches":[],
     "wof:country":"LU",
-    "wof:geomhash":"65b5eef4d713df484af72c8d5d37a56f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"841463fdaeb1be7eb3a07ff661973252",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "locality_id":101751765,
+            "neighbourhood_id":1444827953,
+            "region_id":85673875
+        }
+    ],
     "wof:id":1444827953,
-    "wof:lastmodified":1566335258,
+    "wof:lastmodified":1566337953,
     "wof:name":"Garer Quartier",
-    "wof:parent_id":-1,
+    "wof:parent_id":101751765,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-lu",
     "wof:superseded_by":[],
@@ -51,9 +64,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    6.129836962179847,
+    6.12983696217985,
     49.60255257065157,
-    6.129836962179847,
+    6.12983696217985,
     49.60255257065157
 ],
   "geometry": {"coordinates":[6.12983696217985,49.60255257065157],"type":"Point"}

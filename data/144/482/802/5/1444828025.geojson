@@ -32,15 +32,28 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        101751765,
+        85633275,
+        85673875
+    ],
     "wof:breaches":[],
     "wof:country":"LU",
     "wof:geomhash":"0f86223030521c8b4f04d916326306a3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "locality_id":101751765,
+            "neighbourhood_id":1444828025,
+            "region_id":85673875
+        }
+    ],
     "wof:id":1444828025,
-    "wof:lastmodified":1566335258,
+    "wof:lastmodified":1566337960,
     "wof:name":"Neiduerf/Weimeschhaff",
-    "wof:parent_id":-1,
+    "wof:parent_id":101751765,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-lu",
     "wof:superseded_by":[],

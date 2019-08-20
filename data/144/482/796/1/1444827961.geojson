@@ -35,15 +35,28 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        101751765,
+        85633275,
+        85673875
+    ],
     "wof:breaches":[],
     "wof:country":"LU",
-    "wof:geomhash":"82a4b132d08e82efc72a8d53594bbc23",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9bf6c0a6ab9d827e6caf01450bf9211d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "locality_id":101751765,
+            "neighbourhood_id":1444827961,
+            "region_id":85673875
+        }
+    ],
     "wof:id":1444827961,
-    "wof:lastmodified":1566335258,
+    "wof:lastmodified":1566337954,
     "wof:name":"Bouneweg-Sued",
-    "wof:parent_id":-1,
+    "wof:parent_id":101751765,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-lu",
     "wof:superseded_by":[],
@@ -51,9 +64,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    6.143340997294739,
+    6.14334099729474,
     49.59609956326456,
-    6.143340997294739,
+    6.14334099729474,
     49.59609956326456
 ],
   "geometry": {"coordinates":[6.14334099729474,49.59609956326456],"type":"Point"}

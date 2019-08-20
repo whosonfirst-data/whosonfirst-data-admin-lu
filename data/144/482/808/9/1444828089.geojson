@@ -29,15 +29,28 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        101751765,
+        85633275,
+        85673875
+    ],
     "wof:breaches":[],
     "wof:country":"LU",
-    "wof:geomhash":"aa02e253058879233932ba5e748acb2d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fcb46ba28afc605ceda2bf0733a3c543",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "locality_id":101751765,
+            "neighbourhood_id":1444828089,
+            "region_id":85673875
+        }
+    ],
     "wof:id":1444828089,
-    "wof:lastmodified":1566335258,
+    "wof:lastmodified":1566337969,
     "wof:name":"Beggen",
-    "wof:parent_id":-1,
+    "wof:parent_id":101751765,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-lu",
     "wof:superseded_by":[],
@@ -45,9 +58,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    6.129059696649831,
+    6.12905969664983,
     49.64278044037885,
-    6.129059696649831,
+    6.12905969664983,
     49.64278044037885
 ],
   "geometry": {"coordinates":[6.12905969664983,49.64278044037885],"type":"Point"}

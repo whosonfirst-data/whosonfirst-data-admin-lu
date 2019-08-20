@@ -29,13 +29,25 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633275,
+        85673875
+    ],
     "wof:breaches":[],
     "wof:country":"LU",
-    "wof:geomhash":"e37c41d493858d6040489c7b96364e9b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"387fc89e2225289304da813532b74521",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "locality_id":-1,
+            "neighbourhood_id":1444828129,
+            "region_id":85673875
+        }
+    ],
     "wof:id":1444828129,
-    "wof:lastmodified":1566335258,
+    "wof:lastmodified":1566337971,
     "wof:name":"Cloche d'Or",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -45,10 +57,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    6.125377116703499,
-    49.584068482512905,
-    6.125377116703499,
-    49.584068482512905
+    6.1253771167035,
+    49.5840684825129,
+    6.1253771167035,
+    49.5840684825129
 ],
   "geometry": {"coordinates":[6.1253771167035,49.5840684825129],"type":"Point"}
 }

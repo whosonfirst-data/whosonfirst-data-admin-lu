@@ -38,15 +38,28 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        101751765,
+        85633275,
+        85673875
+    ],
     "wof:breaches":[],
     "wof:country":"LU",
-    "wof:geomhash":"ad2228bf7e5068254150bf8166a64bb5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b9e73211c262cafd88b663cc2fd421fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "locality_id":101751765,
+            "neighbourhood_id":1444827983,
+            "region_id":85673875
+        }
+    ],
     "wof:id":1444827983,
-    "wof:lastmodified":1566335258,
+    "wof:lastmodified":1566337955,
     "wof:name":"Bouneweg-Nord",
-    "wof:parent_id":-1,
+    "wof:parent_id":101751765,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-lu",
     "wof:superseded_by":[],
@@ -54,9 +67,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    6.141109398271516,
+    6.14110939827152,
     49.60388756901341,
-    6.141109398271516,
+    6.14110939827152,
     49.60388756901341
 ],
   "geometry": {"coordinates":[6.14110939827152,49.60388756901341],"type":"Point"}
