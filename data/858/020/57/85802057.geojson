@@ -6,12 +6,12 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"6.109444,49.580734,6.109444,49.580734",
-    "geom:latitude":49.580734,
-    "geom:longitude":6.109444,
+    "geom:bbox":"6.104057,49.591191,6.104057,49.591191",
+    "geom:latitude":49.591191,
+    "geom:longitude":6.104057,
     "iso:country":"LU",
-    "lbl:latitude":49.580734,
-    "lbl:longitude":6.109444,
+    "lbl:latitude":49.591191,
+    "lbl:longitude":6.104057,
     "mps:latitude":49.573264,
     "mps:longitude":6.10373,
     "mz:hierarchy_label":0,
@@ -19,10 +19,11 @@
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
-    "mz:is_official":0,
+    "mz:is_official":1,
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_locality":3,
+    "mz:tier_metro":30,
     "name:cat_x_preferred":[
         "Cessange"
     ],
@@ -82,12 +83,13 @@
     "qs:woe_lau":20075347,
     "qs:woe_local":979721,
     "qs:woe_ver":"7.10.0",
-    "src:geom":"mz",
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "mz"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"whosonfirst",
     "wd:wordcount":151,
     "wof:belongsto":[
         102191581,
@@ -104,7 +106,7 @@
         "wk:page":"Cessange"
     },
     "wof:country":"LU",
-    "wof:geomhash":"bd2f87df715842ae1bfa7bb91ce861fd",
+    "wof:geomhash":"a2f19a744f1d84644cf22c6950afb860",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -118,7 +120,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561837514,
+    "wof:lastmodified":1566247571,
     "wof:name":"Cessange",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -128,10 +130,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    6.109444,
-    49.580734,
-    6.109444,
-    49.580734
+    6.104057,
+    49.591191,
+    6.104057,
+    49.591191
 ],
-  "geometry": {"coordinates":[6.109444,49.580734],"type":"Point"}
+  "geometry": {"coordinates":[6.104057,49.591191],"type":"Point"}
 }

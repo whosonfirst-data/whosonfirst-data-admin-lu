@@ -6,12 +6,12 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"6.1126,49.617773,6.1126,49.617773",
-    "geom:latitude":49.617773,
-    "geom:longitude":6.1126,
+    "geom:bbox":"6.104131,49.621851,6.104131,49.621851",
+    "geom:latitude":49.621851,
+    "geom:longitude":6.104131,
     "iso:country":"LU",
-    "lbl:latitude":49.617773,
-    "lbl:longitude":6.1126,
+    "lbl:latitude":49.621851,
+    "lbl:longitude":6.104131,
     "mps:latitude":49.625232,
     "mps:longitude":6.102421,
     "mz:hierarchy_label":0,
@@ -19,18 +19,29 @@
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
-    "mz:is_official":0,
+    "mz:is_official":1,
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_locality":3,
+    "mz:tier_metro":30,
     "name:cat_x_preferred":[
         "Rollingergrund"
+    ],
+    "name:deu_x_preferred":[
+        "Rollingergrund"
+    ],
+    "name:deu_x_variant":[
+        "Rollingergrund-Belair-Nord"
     ],
     "name:eng_x_preferred":[
         "Rollingergrund"
     ],
     "name:ltz_x_preferred":[
         "Gemeng Rollengergronn"
+    ],
+    "name:ltz_x_variant":[
+        "Rollingergrund",
+        "Rollengergronn-Belair-Nord"
     ],
     "name:nld_x_preferred":[
         "Rollingergrund"
@@ -66,12 +77,13 @@
     "qs:woe_lau":20075347,
     "qs:woe_local":979721,
     "qs:woe_ver":"7.10.0",
-    "src:geom":"mz",
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "mz"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"whosonfirst",
     "wd:wordcount":139,
     "wof:belongsto":[
         102191581,
@@ -89,7 +101,7 @@
         "wk:page":"Rollingergrund"
     },
     "wof:country":"LU",
-    "wof:geomhash":"c1d0deeebd822bddd209ffcd1becdb97",
+    "wof:geomhash":"e9ae34a7be18c0cc872b642ddf944c4d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -103,7 +115,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563326522,
+    "wof:lastmodified":1566247552,
     "wof:name":"Rollingergrund",
     "wof:parent_id":101751765,
     "wof:placetype":"neighbourhood",
@@ -113,10 +125,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    6.1126,
-    49.617773,
-    6.1126,
-    49.617773
+    6.104131,
+    49.621851,
+    6.104131,
+    49.621851
 ],
-  "geometry": {"coordinates":[6.1126,49.617773],"type":"Point"}
+  "geometry": {"coordinates":[6.104131,49.621851],"type":"Point"}
 }

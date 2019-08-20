@@ -23,7 +23,9 @@
     "mz:is_official":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
+    "mz:note":"might be Neimerskirch",
     "mz:tier_locality":3,
+    "mz:tier_metro":30,
     "name:cat_x_preferred":[
         "Weimerskirch"
     ],
@@ -87,7 +89,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         101751765,
@@ -119,7 +121,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563326523,
+    "wof:lastmodified":1566247552,
     "wof:name":"Neimersk",
     "wof:parent_id":101751765,
     "wof:placetype":"neighbourhood",
