@@ -1,0 +1,70 @@
+{
+  "id": 1444828025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.15890496997,49.6220176765,6.15890496997,49.6220176765",
+    "geom:latitude":49.622018,
+    "geom:longitude":6.158905,
+    "iso:country":"LU",
+    "lbl:latitude":49.622018,
+    "lbl:longitude":6.158905,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":1,
+    "mz:max_zoom":15.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_metro":30,
+    "name:eng_x_preferred":[
+        "Neiduerf/Weimeschhaff"
+    ],
+    "name:fra_x_preferred":[
+        "Neudorf-Weimershof"
+    ],
+    "name:ltz_x_preferred":[
+        "Neiduerf/Weimeschhaff"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[
+        102191581,
+        101751765,
+        85633275,
+        85673875
+    ],
+    "wof:breaches":[],
+    "wof:country":"LU",
+    "wof:geomhash":"0f86223030521c8b4f04d916326306a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "locality_id":101751765,
+            "neighbourhood_id":1444828025,
+            "region_id":85673875
+        }
+    ],
+    "wof:id":1444828025,
+    "wof:lastmodified":1566337960,
+    "wof:name":"Neiduerf/Weimeschhaff",
+    "wof:parent_id":101751765,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-lu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.15890496996953,
+    49.62201767647984,
+    6.15890496996953,
+    49.62201767647984
+],
+  "geometry": {"coordinates":[6.15890496996953,49.62201767647984],"type":"Point"}
+}

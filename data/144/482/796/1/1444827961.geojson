@@ -1,0 +1,73 @@
+{
+  "id": 1444827961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.14334099729,49.5960995633,6.14334099729,49.5960995633",
+    "geom:latitude":49.5961,
+    "geom:longitude":6.143341,
+    "iso:country":"LU",
+    "lbl:latitude":49.5961,
+    "lbl:longitude":6.143341,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_metro":30,
+    "name:deu_x_preferred":[
+        "Bonneweg-S\u00fcd"
+    ],
+    "name:eng_x_preferred":[
+        "Bouneweg-Sued"
+    ],
+    "name:fra_x_preferred":[
+        "Bonnevoie-sud"
+    ],
+    "name:ltz_x_preferred":[
+        "Bouneweg-S\u00fcd"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[
+        102191581,
+        101751765,
+        85633275,
+        85673875
+    ],
+    "wof:breaches":[],
+    "wof:country":"LU",
+    "wof:geomhash":"9bf6c0a6ab9d827e6caf01450bf9211d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "locality_id":101751765,
+            "neighbourhood_id":1444827961,
+            "region_id":85673875
+        }
+    ],
+    "wof:id":1444827961,
+    "wof:lastmodified":1566337954,
+    "wof:name":"Bouneweg-Sued",
+    "wof:parent_id":101751765,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-lu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.14334099729474,
+    49.59609956326456,
+    6.14334099729474,
+    49.59609956326456
+],
+  "geometry": {"coordinates":[6.14334099729474,49.59609956326456],"type":"Point"}
+}

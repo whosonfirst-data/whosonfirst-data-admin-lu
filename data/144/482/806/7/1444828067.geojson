@@ -1,0 +1,70 @@
+{
+  "id": 1444828067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.13693230266,49.6085968546,6.13693230266,49.6085968546",
+    "geom:latitude":49.608597,
+    "geom:longitude":6.136932,
+    "iso:country":"LU",
+    "lbl:latitude":49.608597,
+    "lbl:longitude":6.136932,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_metro":30,
+    "name:deu_x_preferred":[
+        "Grund"
+    ],
+    "name:eng_x_preferred":[
+        "Gronn"
+    ],
+    "name:ltz_x_preferred":[
+        "Gronn"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[
+        102191581,
+        101751765,
+        85633275,
+        85673875
+    ],
+    "wof:breaches":[],
+    "wof:country":"LU",
+    "wof:geomhash":"87b63eee68e150ee4ccd6ffe45423aad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "locality_id":101751765,
+            "neighbourhood_id":1444828067,
+            "region_id":85673875
+        }
+    ],
+    "wof:id":1444828067,
+    "wof:lastmodified":1566337965,
+    "wof:name":"Gronn",
+    "wof:parent_id":101751765,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-lu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.13693230266394,
+    49.60859685463922,
+    6.13693230266394,
+    49.60859685463922
+],
+  "geometry": {"coordinates":[6.13693230266394,49.60859685463922],"type":"Point"}
+}
