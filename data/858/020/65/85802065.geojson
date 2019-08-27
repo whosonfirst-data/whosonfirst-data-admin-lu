@@ -10,8 +10,10 @@
     "geom:latitude":49.635111,
     "geom:longitude":6.13943,
     "iso:country":"LU",
+    "lbl:bbox":"6.13443,49.630111,6.14443,49.640111",
     "lbl:latitude":49.635111,
     "lbl:longitude":6.13943,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.640452,
     "mps:longitude":6.146999,
     "mz:hierarchy_label":0,
@@ -57,12 +59,6 @@
     "name:swe_x_preferred":[
         "Dommeldange"
     ],
-    "name:und_x_preferred":[
-        "Dommeldange"
-    ],
-    "name:unk_x_variant":[
-        "Dommeldange"
-    ],
     "qs:gn_adm0_cc":"LU",
     "qs:gn_fcode":"PPL",
     "qs:gn_local":2960316,
@@ -106,7 +102,6 @@
     "wof:concordances":{
         "gn:id":2960645,
         "gp:id":979451,
-        "qs:id":908685,
         "qs_pg:id":908685,
         "wd:id":"Q1994689",
         "wk:page":"Dommeldange"
@@ -126,7 +121,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566247552,
+    "wof:lastmodified":1566598607,
     "wof:name":"Dommeldange",
     "wof:parent_id":101751765,
     "wof:placetype":"neighbourhood",

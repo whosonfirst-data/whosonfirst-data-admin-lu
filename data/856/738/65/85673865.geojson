@@ -18,6 +18,7 @@
     ],
     "lbl:latitude":49.958715,
     "lbl:longitude":5.973781,
+    "lbl:min_zoom":8.0,
     "mps:latitude":49.958715,
     "mps:longitude":5.973781,
     "mz:hierarchy_label":1,
@@ -168,7 +169,7 @@
     "name:ukr_x_preferred":[
         "\u0414\u0456\u043a\u0456\u0440\u0445"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "District de Diekirch"
     ],
     "name:urd_x_preferred":[
@@ -250,7 +251,7 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "unlc:subdivision":"LU-D",
     "wof:belongsto":[
         102191581,
@@ -262,7 +263,7 @@
         "gn:id":2960655,
         "gp:id":20070542,
         "hasc:id":"LU.DI",
-        "qs:id":1309825,
+        "qs_pg:id":1309825,
         "unlc:id":"LU-D",
         "wd:id":"Q208747",
         "wk:page":"Diekirch District"
@@ -287,7 +288,7 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1565726866,
+    "wof:lastmodified":1566598605,
     "wof:name":"Diekirch",
     "wof:parent_id":85633275,
     "wof:placetype":"region",

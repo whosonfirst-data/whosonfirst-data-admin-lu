@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Luxembourg",
     "iso:country":"LU",
+    "lbl:bbox":"6.38083,49.65333,6.42083,49.69333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Potaschhof",
         "Grevenmacherberg",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1344191899,
-    "wof:lastmodified":1537662993,
+    "wof:lastmodified":1566598604,
     "wof:name":"Potaschberg",
     "wof:parent_id":85673869,
     "wof:placetype":"locality",

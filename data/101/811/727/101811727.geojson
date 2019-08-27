@@ -13,10 +13,13 @@
     "iso:country":"LU",
     "lbl:latitude":50.053275,
     "lbl:longitude":5.918228,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":50.053275,
     "mps:longitude":5.918228,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u0412\u0456\u043d\u043a\u0440\u0430\u043d\u0436"
     ],
@@ -92,7 +95,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0456\u043d\u043a\u0440\u0430\u043d\u0436"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Wenerange"
     ],
     "qs:a0":"Luxembourg",
@@ -111,7 +114,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -122,7 +125,6 @@
     "wof:concordances":{
         "gn:id":2959971,
         "gp:id":980011,
-        "qs:id":259239,
         "qs_pg:id":259239,
         "wd:id":"Q985404"
     },
@@ -137,7 +139,7 @@
         }
     ],
     "wof:id":101811727,
-    "wof:lastmodified":1563326544,
+    "wof:lastmodified":1566598623,
     "wof:name":"Wincrange",
     "wof:parent_id":85673865,
     "wof:placetype":"locality",

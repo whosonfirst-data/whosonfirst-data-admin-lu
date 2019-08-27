@@ -9,15 +9,18 @@
     "geom:bbox":"6.00889,49.5625,6.00889,49.5625",
     "geom:latitude":49.5625,
     "geom:longitude":6.00889,
-    "gn:gn_country":"LU",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":571,
+    "gn:country":"LU",
+    "gn:fcode":"PPL",
     "gn:population":571,
     "iso:country":"LU",
+    "lbl:bbox":"5.98889,49.5425,6.02889,49.5825",
     "lbl:latitude":49.5625,
     "lbl:longitude":6.00889,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:deu_x_preferred":[
         "Reckingen"
@@ -40,7 +43,7 @@
     "name:por_x_preferred":[
         "Reckange-sur-Mess"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Reckange"
     ],
     "qs_pg:aaroncc":"LU",
@@ -60,7 +63,7 @@
     "qs_pg:woe_adm0":23424881,
     "qs_pg:woe_id":979852,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424881,
     "woe:name_adm0":"Luxembourg",
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":1125880997,
-    "wof:lastmodified":1509398139,
+    "wof:lastmodified":1566598663,
     "wof:name":"Reckange-sur-Messe",
     "wof:parent_id":85673875,
     "wof:placetype":"locality",

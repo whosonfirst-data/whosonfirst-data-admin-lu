@@ -9,15 +9,18 @@
     "geom:bbox":"5.92889,49.54806,5.92889,49.54806",
     "geom:latitude":49.54806,
     "geom:longitude":5.92889,
-    "gn:gn_country":"LU",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":2489,
+    "gn:country":"LU",
+    "gn:fcode":"PPL",
     "gn:population":2489,
     "iso:country":"LU",
+    "lbl:bbox":"5.90889,49.52806,5.94889,49.56806",
     "lbl:latitude":49.54806,
     "lbl:longitude":5.92889,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bel_x_preferred":[
         "\u0421\u0430\u043d\u0435\u043c"
@@ -94,9 +97,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043d\u0435\u043c"
     ],
-    "name:unk_x_variant":[
-        "Sassenheim"
-    ],
     "qs_pg:aaroncc":"LU",
     "qs_pg:gn_country":"LU",
     "qs_pg:gn_fcode":"PPL",
@@ -118,7 +118,7 @@
     "qs_pg:woe_adm0":23424881,
     "qs_pg:woe_id":979893,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424881,
     "woe:name_adm0":"Luxembourg",
@@ -148,7 +148,7 @@
         }
     ],
     "wof:id":1126007057,
-    "wof:lastmodified":1563326729,
+    "wof:lastmodified":1566598684,
     "wof:name":"Sanem",
     "wof:parent_id":85673875,
     "wof:placetype":"locality",

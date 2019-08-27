@@ -9,15 +9,18 @@
     "geom:bbox":"6.2675,49.62917,6.2675,49.62917",
     "geom:latitude":49.62917,
     "geom:longitude":6.2675,
-    "gn:gn_country":"LU",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":585,
+    "gn:country":"LU",
+    "gn:fcode":"PPL",
     "gn:population":585,
     "iso:country":"LU",
+    "lbl:bbox":"6.2475,49.60917,6.2875,49.64917",
     "lbl:latitude":49.62917,
     "lbl:longitude":6.2675,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:cat_x_preferred":[
         "Munsbach"
@@ -49,9 +52,6 @@
     "name:swe_x_preferred":[
         "M\u00fcnsbach"
     ],
-    "name:unk_x_variant":[
-        "M\u00fcnsbach"
-    ],
     "qs_pg:aaroncc":"LU",
     "qs_pg:gn_country":"LU",
     "qs_pg:gn_fcode":"PPL",
@@ -69,7 +69,7 @@
     "qs_pg:woe_adm0":23424881,
     "qs_pg:woe_id":979781,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424881,
     "woe:name_adm0":"Luxembourg",
@@ -99,7 +99,7 @@
         }
     ],
     "wof:id":1125781287,
-    "wof:lastmodified":1563326745,
+    "wof:lastmodified":1566598690,
     "wof:name":"M\u00fcsbach",
     "wof:parent_id":85673875,
     "wof:placetype":"locality",

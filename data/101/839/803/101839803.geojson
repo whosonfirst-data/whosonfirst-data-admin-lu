@@ -13,10 +13,13 @@
     "iso:country":"LU",
     "lbl:latitude":49.498766,
     "lbl:longitude":5.983403,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":49.498766,
     "mps:longitude":5.983403,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:als_x_preferred":[
         "Esch-Uelzecht"
     ],
@@ -192,10 +195,7 @@
     "name:ukr_x_preferred":[
         "\u0415\u0448-\u0441\u044e\u0440-\u0410\u043b\u044c\u0437\u0435\u0442\u0442"
     ],
-    "name:und_x_preferred":[
-        "Esch-Uelzecht"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Esch"
     ],
     "name:urd_x_preferred":[
@@ -226,7 +226,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":49.496944,
     "wd:longitude":5.980556,
@@ -241,7 +241,6 @@
         "fct:id":"01953ee2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2960596,
         "gp:id":979489,
-        "qs:id":182815,
         "qs_pg:id":182815,
         "wd:id":"Q16010",
         "wk:page":"Esch-sur-Alzette"
@@ -260,7 +259,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1563326583,
+    "wof:lastmodified":1566598632,
     "wof:name":"Esch-sur-Alzette",
     "wof:parent_id":85673875,
     "wof:placetype":"locality",

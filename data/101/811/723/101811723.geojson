@@ -13,10 +13,13 @@
     "iso:country":"LU",
     "lbl:latitude":50.055092,
     "lbl:longitude":6.02587,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":50.055092,
     "mps:longitude":6.02587,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:als_x_preferred":[
         "Klierf"
     ],
@@ -117,7 +120,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u043b\u0435\u0440\u0432\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Klerf"
     ],
     "name:zho_min_nan_x_preferred":[
@@ -142,7 +145,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":50.05,
     "wd:longitude":6.033333,
@@ -157,7 +160,6 @@
     "wof:concordances":{
         "gn:id":2960684,
         "gp:id":979423,
-        "qs:id":143012,
         "qs_pg:id":143012,
         "wd:id":"Q836075",
         "wk:page":"Clervaux"
@@ -173,7 +175,7 @@
         }
     ],
     "wof:id":101811723,
-    "wof:lastmodified":1563326544,
+    "wof:lastmodified":1566598623,
     "wof:name":"Clervaux",
     "wof:parent_id":85673865,
     "wof:placetype":"locality",

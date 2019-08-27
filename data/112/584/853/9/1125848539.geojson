@@ -9,15 +9,18 @@
     "geom:bbox":"5.94194,50.06,5.94194,50.06",
     "geom:latitude":50.06,
     "geom:longitude":5.94194,
-    "gn:gn_country":"LU",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":132,
+    "gn:country":"LU",
+    "gn:fcode":"PPL",
     "gn:population":132,
     "iso:country":"LU",
+    "lbl:bbox":"5.92194,50.04,5.96194,50.08",
     "lbl:latitude":50.06,
     "lbl:longitude":5.94194,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:cat_x_preferred":[
         "Lallange"
@@ -28,7 +31,7 @@
     "name:ltz_x_preferred":[
         "Lalleng"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Lullange"
     ],
     "qs_pg:aaroncc":"LU",
@@ -50,7 +53,7 @@
     "qs_pg:woe_adm0":23424881,
     "qs_pg:woe_id":20105090,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424881,
     "woe:name_adm0":"Luxembourg",
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":1125848539,
-    "wof:lastmodified":1564200544,
+    "wof:lastmodified":1566598696,
     "wof:name":"Lallange",
     "wof:parent_id":85673865,
     "wof:placetype":"locality",

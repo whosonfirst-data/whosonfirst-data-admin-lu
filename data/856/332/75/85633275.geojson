@@ -19,6 +19,8 @@
     ],
     "lbl:latitude":49.759178,
     "lbl:longitude":6.086636,
+    "lbl:max_zoom":8.0,
+    "lbl:min_zoom":4.0,
     "mps:latitude":49.759178,
     "mps:longitude":6.086636,
     "mz:hierarchy_label":1,
@@ -939,15 +941,9 @@
         "Louxemvourgo",
         "Luxemborg"
     ],
-    "name:und_x_preferred":[
-        "Luksemburg",
-        "L\u00faxemborg"
-    ],
     "name:und_x_variant":[
         "Louxemvo\u00fargo",
-        "Veliko vojvodstvo Luksemburg"
-    ],
-    "name:unk_x_variant":[
+        "Veliko vojvodstvo Luksemburg",
         "Letzeburg"
     ],
     "name:urd_x_preferred":[
@@ -1114,7 +1110,7 @@
     "src:geom_alt":[
         "naturalearth"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "statoids:dial":"352",
     "statoids:ds":"L",
@@ -1158,7 +1154,7 @@
         "mzb:id":"luxemburg",
         "ne:adm0_a3":"LUX",
         "nyt:id":"N11581704194185837481",
-        "qs:id":580065,
+        "qs_pg:id":580065,
         "uncrt:id":"L",
         "wd:id":"Q32",
         "wk:page":"Luxembourg",
@@ -1184,7 +1180,7 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1565726866,
+    "wof:lastmodified":1566598605,
     "wof:name":"Luxembourg",
     "wof:parent_id":102191581,
     "wof:placetype":"country",

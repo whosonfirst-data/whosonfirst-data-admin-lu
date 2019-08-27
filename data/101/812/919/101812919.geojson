@@ -13,10 +13,13 @@
     "iso:country":"LU",
     "lbl:latitude":49.515251,
     "lbl:longitude":6.189112,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":49.515251,
     "mps:longitude":6.189112,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u0424\u0440\u044b\u0437\u0430\u043d\u0436"
     ],
@@ -102,7 +105,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -113,7 +116,6 @@
     "wof:concordances":{
         "gn:id":2960556,
         "gp:id":20104951,
-        "qs:id":279355,
         "qs_pg:id":279355,
         "wd:id":"Q1017402"
     },
@@ -128,7 +130,7 @@
         }
     ],
     "wof:id":101812919,
-    "wof:lastmodified":1563326571,
+    "wof:lastmodified":1566598630,
     "wof:name":"Frisange",
     "wof:parent_id":85673875,
     "wof:placetype":"locality",

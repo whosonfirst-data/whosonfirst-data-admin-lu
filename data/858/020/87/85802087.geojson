@@ -11,8 +11,10 @@
     "geom:longitude":6.187351,
     "gn:population":1836,
     "iso:country":"LU",
+    "lbl:bbox":"6.182351,49.593227,6.192351,49.603227",
     "lbl:latitude":49.598227,
     "lbl:longitude":6.187351,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.589523,
     "mps:longitude":6.175227,
     "mz:hierarchy_label":0,
@@ -48,12 +50,6 @@
     "name:swe_x_preferred":[
         "Itzig"
     ],
-    "name:und_x_preferred":[
-        "Itzig"
-    ],
-    "name:unk_x_variant":[
-        "Itzig"
-    ],
     "qs:gn_adm0_cc":"LU",
     "qs:gn_fcode":"PPL",
     "qs:gn_local":2960410,
@@ -84,7 +80,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "src:population":"geonames",
     "wd:elevation":282.0,
     "wd:latitude":49.583333,
@@ -99,7 +95,7 @@
     "wof:concordances":{
         "gn:id":2960410,
         "gp:id":979642,
-        "qs:id":1040386,
+        "qs_pg:id":1040386,
         "wd:id":"Q3058880",
         "wk:page":"Itzig, Luxembourg"
     },
@@ -118,7 +114,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563326519,
+    "wof:lastmodified":1566598606,
     "wof:name":"Itzig",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

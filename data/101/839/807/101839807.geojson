@@ -13,10 +13,13 @@
     "iso:country":"LU",
     "lbl:latitude":49.486445,
     "lbl:longitude":6.086028,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":49.486445,
     "mps:longitude":6.086028,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:als_x_preferred":[
         "Diddeleng"
     ],
@@ -134,7 +137,7 @@
     "name:ukr_x_preferred":[
         "\u0414\u044e\u0434\u0435\u043b\u0430\u043d\u0436"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Dudelingen"
     ],
     "name:vol_x_preferred":[
@@ -159,7 +162,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -170,7 +173,6 @@
     "wof:concordances":{
         "gn:id":2960634,
         "gp:id":20104943,
-        "qs:id":1110949,
         "qs_pg:id":1110949,
         "wd:id":"Q16014"
     },
@@ -185,7 +187,7 @@
         }
     ],
     "wof:id":101839807,
-    "wof:lastmodified":1563326586,
+    "wof:lastmodified":1566598633,
     "wof:name":"Dudelange",
     "wof:parent_id":85673875,
     "wof:placetype":"locality",

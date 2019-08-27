@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Luxembourg",
     "iso:country":"LU",
+    "lbl:bbox":"6.16333,49.84667,6.20333,49.88667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Clairefontaine"
     ],
@@ -43,8 +47,7 @@
     ],
     "name:und_x_variant":[
         "Claire",
-        "Clairefontaines",
-        "Clairefontaine"
+        "Clairefontaines"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1276580605,
-    "wof:lastmodified":1564200454,
+    "wof:lastmodified":1566598611,
     "wof:name":"Clairefontaine",
     "wof:parent_id":85673865,
     "wof:placetype":"locality",

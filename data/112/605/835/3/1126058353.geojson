@@ -9,15 +9,18 @@
     "geom:bbox":"6.38833,49.69139,6.38833,49.69139",
     "geom:latitude":49.69139,
     "geom:longitude":6.38833,
-    "gn:gn_country":"LU",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":667,
+    "gn:country":"LU",
+    "gn:fcode":"PPL",
     "gn:population":667,
     "iso:country":"LU",
+    "lbl:bbox":"6.36833,49.67139,6.40833,49.71139",
     "lbl:latitude":49.69139,
     "lbl:longitude":6.38833,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Wilsecker"
@@ -79,7 +82,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0456\u043b\u044c\u0437\u0435\u043a\u043a\u0435\u0440"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Wecker"
     ],
     "name:uzb_x_preferred":[
@@ -114,7 +117,7 @@
     "qs_pg:woe_adm0":23424829,
     "qs_pg:woe_id":706781,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424829,
     "woe:name_adm0":"Deutschland",
@@ -143,7 +146,7 @@
         }
     ],
     "wof:id":1126058353,
-    "wof:lastmodified":1564200486,
+    "wof:lastmodified":1566598652,
     "wof:name":"Wilsecker",
     "wof:parent_id":85673869,
     "wof:placetype":"locality",

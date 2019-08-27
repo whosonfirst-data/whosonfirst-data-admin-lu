@@ -9,15 +9,18 @@
     "geom:bbox":"5.79333,49.85167,5.79333,49.85167",
     "geom:latitude":49.85167,
     "geom:longitude":5.79333,
-    "gn:gn_country":"LU",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":475,
+    "gn:country":"LU",
+    "gn:fcode":"PPL",
     "gn:population":475,
     "iso:country":"LU",
+    "lbl:bbox":"5.77333,49.83167,5.81333,49.87167",
     "lbl:latitude":49.85167,
     "lbl:longitude":5.79333,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:cat_x_preferred":[
         "Bigonville"
@@ -46,9 +49,6 @@
     "name:swe_x_preferred":[
         "Bigonville"
     ],
-    "name:unk_x_variant":[
-        "Bondorf"
-    ],
     "qs_pg:aaroncc":"LU",
     "qs_pg:gn_country":"LU",
     "qs_pg:gn_fcode":"PPL",
@@ -70,7 +70,7 @@
     "qs_pg:woe_adm0":23424881,
     "qs_pg:woe_id":20105057,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424881,
     "woe:name_adm0":"Luxembourg",
@@ -100,7 +100,7 @@
         }
     ],
     "wof:id":1125796663,
-    "wof:lastmodified":1563326754,
+    "wof:lastmodified":1566598692,
     "wof:name":"Bigonville",
     "wof:parent_id":85673865,
     "wof:placetype":"locality",

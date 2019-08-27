@@ -13,10 +13,13 @@
     "iso:country":"LU",
     "lbl:latitude":49.504837,
     "lbl:longitude":6.105215,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":49.504837,
     "mps:longitude":6.105215,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:als_x_preferred":[
         "Beetebuerg"
     ],
@@ -123,7 +126,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -134,7 +137,6 @@
     "wof:concordances":{
         "gn:id":2960777,
         "gp:id":979337,
-        "qs:id":4899,
         "qs_pg:id":4899,
         "wd:id":"Q832342"
     },
@@ -149,7 +151,7 @@
         }
     ],
     "wof:id":101812917,
-    "wof:lastmodified":1563326573,
+    "wof:lastmodified":1566598630,
     "wof:name":"Bettembourg",
     "wof:parent_id":85673875,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"LU",
     "lbl:latitude":49.830034,
     "lbl:longitude":5.850612,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":49.830034,
     "mps:longitude":5.850612,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:als_x_preferred":[
         "Rammerech"
     ],
@@ -95,9 +98,6 @@
     "name:ukr_x_preferred":[
         "\u0420\u0430\u043c\u0431\u0440\u0443\u0445"
     ],
-    "name:und_x_preferred":[
-        "Rambrouch"
-    ],
     "name:zho_min_nan_x_preferred":[
         "Rambrouch"
     ],
@@ -117,7 +117,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":502.0,
     "wd:latitude":49.829875,
@@ -133,7 +133,6 @@
         "fct:id":"019591bc-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2960167,
         "gp:id":979849,
-        "qs:id":979511,
         "qs_pg:id":979511,
         "wd:id":"Q986396",
         "wk:page":"Rambrouch"
@@ -152,7 +151,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563326562,
+    "wof:lastmodified":1566598627,
     "wof:name":"Rambrouch",
     "wof:parent_id":85673865,
     "wof:placetype":"locality",

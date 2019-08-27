@@ -9,17 +9,20 @@
     "geom:bbox":"5.94861,49.97806,5.94861,49.97806",
     "geom:latitude":49.97806,
     "geom:longitude":5.94861,
-    "gn:gn_country":"LU",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":202,
+    "gn:country":"LU",
+    "gn:fcode":"PPL",
     "gn:population":202,
     "iso:country":"LU",
+    "lbl:bbox":"5.92861,49.95806,5.96861,49.99806",
     "lbl:latitude":49.97806,
     "lbl:longitude":5.94861,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Erpeldange"
     ],
     "qs_pg:aaroncc":"LU",
@@ -34,7 +37,7 @@
     "qs_pg:qs_id":580066,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1125849577,
-    "wof:lastmodified":1509395842,
+    "wof:lastmodified":1566598695,
     "wof:name":"Erpeldange-l\u00e8s-Wiltz",
     "wof:parent_id":85673865,
     "wof:placetype":"locality",

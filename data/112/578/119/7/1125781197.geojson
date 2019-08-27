@@ -9,15 +9,18 @@
     "geom:bbox":"5.85639,49.54639,5.85639,49.54639",
     "geom:latitude":49.54639,
     "geom:longitude":5.85639,
-    "gn:gn_country":"LU",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":2428,
+    "gn:country":"LU",
+    "gn:fcode":"PPL",
     "gn:population":2428,
     "iso:country":"LU",
+    "lbl:bbox":"5.83639,49.52639,5.87639,49.56639",
     "lbl:latitude":49.54639,
     "lbl:longitude":5.85639,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:cat_x_preferred":[
         "Lamadelaine"
@@ -40,7 +43,7 @@
     "name:swe_x_preferred":[
         "Lamadelaine"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Rollingen"
     ],
     "qs_pg:aaroncc":"LU",
@@ -60,7 +63,7 @@
     "qs_pg:woe_adm0":23424881,
     "qs_pg:woe_id":979685,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424881,
     "woe:name_adm0":"Luxembourg",
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":1125781197,
-    "wof:lastmodified":1564200534,
+    "wof:lastmodified":1566598690,
     "wof:name":"Lamadelaine",
     "wof:parent_id":85673875,
     "wof:placetype":"locality",

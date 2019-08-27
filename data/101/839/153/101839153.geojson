@@ -13,10 +13,13 @@
     "iso:country":"LU",
     "lbl:latitude":49.846388,
     "lbl:longitude":6.096348,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":49.846388,
     "mps:longitude":6.096348,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:als_x_preferred":[
         "Ettelbr\u00e9ck"
     ],
@@ -155,10 +158,7 @@
     "name:ukr_x_preferred":[
         "\u0415\u0442\u0442\u0435\u043b\u044c\u0431\u0440\u044e\u043a"
     ],
-    "name:und_x_preferred":[
-        "Ettelbruck"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ettlebruk"
     ],
     "name:urd_x_preferred":[
@@ -189,7 +189,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:area":3086.0,
     "wd:elevation":264.0,
@@ -206,7 +206,6 @@
         "fct:id":"01954798-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2960589,
         "gp:id":979495,
-        "qs:id":1087760,
         "qs_pg:id":1087760,
         "wd:id":"Q659351",
         "wk:page":"Ettelbruck"
@@ -225,7 +224,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563326585,
+    "wof:lastmodified":1566598632,
     "wof:name":"Ettelbr\u00fcck",
     "wof:parent_id":85673865,
     "wof:placetype":"locality",

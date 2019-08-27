@@ -13,10 +13,13 @@
     "iso:country":"LU",
     "lbl:latitude":49.544092,
     "lbl:longitude":6.258703,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":49.544092,
     "mps:longitude":6.258703,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u0414\u0430\u043b\u044c\u0445\u0430\u0439\u043c"
     ],
@@ -95,9 +98,6 @@
     "name:ukr_x_preferred":[
         "\u0414\u0430\u043b\u044c\u0433\u0430\u0439\u043c"
     ],
-    "name:und_x_preferred":[
-        "Dalheim"
-    ],
     "name:zho_x_preferred":[
         "\u8fbe\u5c14\u6d77\u59c6"
     ],
@@ -117,7 +117,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -129,7 +129,6 @@
         "fct:id":"01955d78-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2960665,
         "gp:id":979438,
-        "qs:id":942886,
         "qs_pg:id":942886,
         "wd:id":"Q986412"
     },
@@ -147,7 +146,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563326563,
+    "wof:lastmodified":1566598627,
     "wof:name":"Dalheim",
     "wof:parent_id":85673869,
     "wof:placetype":"locality",

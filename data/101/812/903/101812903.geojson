@@ -13,10 +13,13 @@
     "iso:country":"LU",
     "lbl:latitude":49.597483,
     "lbl:longitude":5.872658,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":49.597483,
     "mps:longitude":5.872658,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u041a\u043b\u0435\u043c\u0430\u043d\u0441\u0456"
     ],
@@ -86,15 +89,8 @@
         "Donningen",
         "Kuntzig"
     ],
-    "name:und_x_preferred":[
-        "Clemency"
-    ],
     "name:und_x_variant":[
-        "D\u00f6nningen",
-        "K\u00fcntzig"
-    ],
-    "name:unk_x_variant":[
-        "K\u00fcntzig"
+        "D\u00f6nningen"
     ],
     "qs:a0":"Luxembourg",
     "qs:a1":"*",
@@ -112,7 +108,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -124,7 +120,6 @@
         "fct:id":"0195526a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2960687,
         "gp:id":20104954,
-        "qs:id":468031,
         "qs_pg:id":468031,
         "wd:id":"Q21053530"
     },
@@ -142,7 +137,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563326563,
+    "wof:lastmodified":1566598627,
     "wof:name":"Clemency",
     "wof:parent_id":85673875,
     "wof:placetype":"locality",

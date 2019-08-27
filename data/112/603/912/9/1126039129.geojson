@@ -9,15 +9,18 @@
     "geom:bbox":"6.13,49.68028,6.13,49.68028",
     "geom:latitude":49.68028,
     "geom:longitude":6.13,
-    "gn:gn_country":"LU",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":1024,
+    "gn:country":"LU",
+    "gn:fcode":"PPL",
     "gn:population":1024,
     "iso:country":"LU",
+    "lbl:bbox":"6.11,49.66028,6.15,49.70028",
     "lbl:latitude":49.68028,
     "lbl:longitude":6.13,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:cat_x_preferred":[
         "Mullendorf"
@@ -43,7 +46,7 @@
     "name:swe_x_preferred":[
         "M\u00fcllendorf"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Muellendorf"
     ],
     "qs_pg:aaroncc":"LU",
@@ -63,7 +66,7 @@
     "qs_pg:woe_adm0":23424881,
     "qs_pg:woe_id":979777,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424881,
     "woe:name_adm0":"Luxembourg",
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":1126039129,
-    "wof:lastmodified":1563326642,
+    "wof:lastmodified":1566598654,
     "wof:name":"M\u00fcllendorf",
     "wof:parent_id":85673875,
     "wof:placetype":"locality",

@@ -9,15 +9,18 @@
     "geom:bbox":"6.015,50.16472,6.015,50.16472",
     "geom:latitude":50.16472,
     "geom:longitude":6.015,
-    "gn:gn_country":"LU",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":376,
+    "gn:country":"LU",
+    "gn:fcode":"PPL",
     "gn:population":376,
     "iso:country":"LU",
+    "lbl:bbox":"5.995,50.14472,6.035,50.18472",
     "lbl:latitude":50.16472,
     "lbl:longitude":6.015,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:cat_x_preferred":[
         "Huldange"
@@ -58,9 +61,6 @@
     "name:szl_x_preferred":[
         "Huldange"
     ],
-    "name:unk_x_variant":[
-        "Huldingen"
-    ],
     "qs_pg:aaroncc":"LU",
     "qs_pg:gn_country":"LU",
     "qs_pg:gn_fcode":"PPL",
@@ -82,7 +82,7 @@
     "qs_pg:woe_adm0":23424881,
     "qs_pg:woe_id":979632,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424881,
     "woe:name_adm0":"Luxembourg",
@@ -111,7 +111,7 @@
         }
     ],
     "wof:id":1125990853,
-    "wof:lastmodified":1563326693,
+    "wof:lastmodified":1566598673,
     "wof:name":"Huldange",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

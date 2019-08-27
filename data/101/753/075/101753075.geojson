@@ -13,10 +13,13 @@
     "iso:country":"LU",
     "lbl:latitude":49.65344,
     "lbl:longitude":6.248904,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":49.65344,
     "mps:longitude":6.248904,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:als_x_preferred":[
         "Nidderanven"
     ],
@@ -113,9 +116,6 @@
     "name:ukr_x_preferred":[
         "\u041d\u0456\u0434\u0435\u0440\u0430\u043d\u0432\u0435\u043d"
     ],
-    "name:und_x_preferred":[
-        "Niederanven"
-    ],
     "name:zho_min_nan_x_preferred":[
         "Niederanven"
     ],
@@ -135,7 +135,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:area":4136.0,
     "wd:elevation":255.0,
@@ -153,7 +153,6 @@
         "fct:id":"0195503a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2960231,
         "gp:id":979795,
-        "qs:id":246457,
         "qs_pg:id":246457,
         "wd:id":"Q985402",
         "wk:page":"Niederanven"
@@ -172,7 +171,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563326540,
+    "wof:lastmodified":1566598622,
     "wof:name":"Niederanven",
     "wof:parent_id":85673875,
     "wof:placetype":"locality",

@@ -11,8 +11,10 @@
     "geom:longitude":6.172668,
     "gn:population":1376,
     "iso:country":"LU",
+    "lbl:bbox":"6.167668,49.553355,6.177668,49.563355",
     "lbl:latitude":49.558355,
     "lbl:longitude":6.172668,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.550601,
     "mps:longitude":6.172109,
     "mz:hierarchy_label":0,
@@ -54,12 +56,8 @@
     "name:swe_x_preferred":[
         "Alzingen"
     ],
-    "name:und_x_preferred":[
-        "Alzingen"
-    ],
-    "name:unk_x_variant":[
-        "Altzingen",
-        "Alzingen"
+    "name:und_x_variant":[
+        "Altzingen"
     ],
     "qs:gn_adm0_cc":"LU",
     "qs:gn_fcode":"PPL",
@@ -91,7 +89,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "src:population":"geonames",
     "wd:elevation":265.0,
     "wd:latitude":49.566667,
@@ -106,7 +104,7 @@
     "wof:concordances":{
         "gn:id":2960832,
         "gp:id":979282,
-        "qs:id":1220808,
+        "qs_pg:id":1220808,
         "wd:id":"Q144260",
         "wk:page":"Alzingen"
     },
@@ -125,7 +123,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563326521,
+    "wof:lastmodified":1566598607,
     "wof:name":"Alzingen",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

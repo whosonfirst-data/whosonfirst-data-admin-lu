@@ -13,10 +13,13 @@
     "iso:country":"LU",
     "lbl:latitude":49.722526,
     "lbl:longitude":6.130499,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":49.722526,
     "mps:longitude":6.130499,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:als_x_preferred":[
         "L\u00ebntgen"
     ],
@@ -98,9 +101,6 @@
     "name:ukr_x_preferred":[
         "\u041b\u0456\u043d\u0442\u0433\u0435\u043d"
     ],
-    "name:und_x_preferred":[
-        "Lintgen"
-    ],
     "name:zho_min_nan_x_preferred":[
         "Lintgen"
     ],
@@ -120,7 +120,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:area":1525.0,
     "wd:elevation":336.0,
@@ -137,7 +137,6 @@
         "fct:id":"019583a2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2960328,
         "gp:id":979711,
-        "qs:id":847782,
         "qs_pg:id":847782,
         "wd:id":"Q985395",
         "wk:page":"Lintgen"
@@ -156,7 +155,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563326567,
+    "wof:lastmodified":1566598628,
     "wof:name":"Lintgen",
     "wof:parent_id":85673875,
     "wof:placetype":"locality",

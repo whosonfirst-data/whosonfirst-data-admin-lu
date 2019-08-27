@@ -9,15 +9,18 @@
     "geom:bbox":"5.96833,49.92167,5.96833,49.92167",
     "geom:latitude":49.92167,
     "geom:longitude":5.96833,
-    "gn:gn_country":"LU",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":251,
+    "gn:country":"LU",
+    "gn:fcode":"PPL",
     "gn:population":251,
     "iso:country":"LU",
+    "lbl:bbox":"5.94833,49.90167,5.98833,49.94167",
     "lbl:latitude":49.92167,
     "lbl:longitude":5.96833,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bel_x_preferred":[
         "\u0413\u0451\u0441\u0434\u043e\u0440\u0444"
@@ -85,7 +88,7 @@
     "name:ukr_x_preferred":[
         "\u0413\u0435\u0441\u0434\u043e\u0440\u0444"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "G\u00f6sdorf bei Wilz"
     ],
     "qs_pg:aaroncc":"LU",
@@ -109,7 +112,7 @@
     "qs_pg:woe_adm0":23424881,
     "qs_pg:woe_id":979546,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424881,
     "woe:name_adm0":"Luxembourg",
@@ -139,7 +142,7 @@
         }
     ],
     "wof:id":1125882147,
-    "wof:lastmodified":1563326667,
+    "wof:lastmodified":1566598663,
     "wof:name":"G\u0153sdorf",
     "wof:parent_id":85673865,
     "wof:placetype":"locality",

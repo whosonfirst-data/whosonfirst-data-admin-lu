@@ -13,10 +13,13 @@
     "iso:country":"LU",
     "lbl:latitude":49.660254,
     "lbl:longitude":6.133615,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":49.660254,
     "mps:longitude":6.133615,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:als_x_preferred":[
         "Walfer"
     ],
@@ -104,9 +107,6 @@
     "name:ukr_x_preferred":[
         "\u0412\u0430\u043b\u044c\u0444\u0435\u0440\u0434\u0430\u043d\u0436"
     ],
-    "name:und_x_preferred":[
-        "Walferdange"
-    ],
     "name:zho_min_nan_x_preferred":[
         "Walferdange"
     ],
@@ -126,7 +126,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:area":706.0,
     "wd:latitude":49.65,
@@ -142,7 +142,6 @@
         "fct:id":"01953ab4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2960010,
         "gp:id":979976,
-        "qs:id":212805,
         "qs_pg:id":212805,
         "wd:id":"Q917508",
         "wk:page":"Walferdange"
@@ -161,7 +160,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561837515,
+    "wof:lastmodified":1566598622,
     "wof:name":"Walferdange",
     "wof:parent_id":85673875,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"LU",
     "lbl:latitude":49.50601,
     "lbl:longitude":6.282516,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":49.50601,
     "mps:longitude":6.282516,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:als_x_preferred":[
         "Munneref"
     ],
@@ -119,10 +122,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u043e\u043d\u0434\u043e\u0440\u0444-\u043b\u0435-\u0411\u0435\u043d"
     ],
-    "name:und_x_preferred":[
-        "Mondorf-les-Bains"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bains"
     ],
     "name:zho_min_nan_x_preferred":[
@@ -147,7 +147,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1009,
     "wof:belongsto":[
@@ -160,7 +160,6 @@
         "fct:id":"01958bc2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2960257,
         "gp:id":979769,
-        "qs:id":143006,
         "qs_pg:id":143006,
         "wd:id":"Q798747",
         "wk:page":"Mondorf-les-Bains"
@@ -179,7 +178,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563326572,
+    "wof:lastmodified":1566598630,
     "wof:name":"Mondorf-les-Bains",
     "wof:parent_id":85673869,
     "wof:placetype":"locality",
