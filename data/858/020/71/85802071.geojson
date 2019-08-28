@@ -11,8 +11,10 @@
     "geom:longitude":6.153625,
     "gn:population":1302,
     "iso:country":"LU",
+    "lbl:bbox":"6.148625,49.562903,6.158625,49.572903",
     "lbl:latitude":49.567903,
     "lbl:longitude":6.153625,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.55215,
     "mps:longitude":6.147238,
     "mz:hierarchy_label":0,
@@ -47,12 +49,6 @@
         "Fentange"
     ],
     "name:swe_x_preferred":[
-        "Fentange"
-    ],
-    "name:und_x_preferred":[
-        "Fentange"
-    ],
-    "name:unk_x_variant":[
         "Fentange"
     ],
     "qs:gn_adm0_cc":"LU",
@@ -101,7 +97,7 @@
     "wof:concordances":{
         "gn:id":2960584,
         "gp:id":979501,
-        "qs:id":1087759,
+        "qs_pg:id":1087759,
         "wd:id":"Q2056162",
         "wk:page":"Fentange"
     },
@@ -120,7 +116,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566247552,
+    "wof:lastmodified":1566598608,
     "wof:name":"Fentange",
     "wof:parent_id":101751765,
     "wof:placetype":"neighbourhood",

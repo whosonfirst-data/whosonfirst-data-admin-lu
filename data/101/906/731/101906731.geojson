@@ -13,10 +13,13 @@
     "iso:country":"LU",
     "lbl:latitude":49.820137,
     "lbl:longitude":6.473559,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mps:latitude":49.820137,
     "mps:longitude":6.473559,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:deu_x_preferred":[
         "Minden"
     ],
@@ -100,7 +103,7 @@
     "qs:type":"rural hamlet single local_admin match",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":6394,
     "wof:belongsto":[
@@ -111,7 +114,7 @@
     "wof:concordances":{
         "gn:id":2871040,
         "gp:id":979937,
-        "qs:id":577814,
+        "qs_pg:id":577814,
         "wd:id":"Q660568"
     },
     "wof:country":"LU",
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":101906731,
-    "wof:lastmodified":1563326542,
+    "wof:lastmodified":1566598622,
     "wof:name":"Minden",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

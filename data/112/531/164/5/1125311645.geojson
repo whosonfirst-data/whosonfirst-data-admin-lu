@@ -9,14 +9,18 @@
     "geom:bbox":"6.35167,49.48861,6.35167,49.48861",
     "geom:latitude":49.48861,
     "geom:longitude":6.35167,
-    "gn:gn_country":"LU",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":0,
+    "gn:country":"LU",
+    "gn:fcode":"ADM3",
+    "gn:population":0,
     "iso:country":"LU",
+    "lbl:bbox":"6.25167,49.38861,6.45167,49.58861",
     "lbl:latitude":49.48861,
     "lbl:longitude":6.35167,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:cat_x_preferred":[
         "Remerschen"
@@ -55,9 +59,6 @@
     "name:swe_x_preferred":[
         "Remerschen"
     ],
-    "name:unk_x_variant":[
-        "Schengen"
-    ],
     "name:vie_x_preferred":[
         "Remerschen"
     ],
@@ -82,7 +83,7 @@
     "qs_pg:woe_adm0":23424881,
     "qs_pg:woe_id":12592014,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424881,
     "woe:name_adm0":"Luxembourg",
     "woe:name_adm1":"Grevenmacher",
@@ -109,7 +110,7 @@
         }
     ],
     "wof:id":1125311645,
-    "wof:lastmodified":1564200520,
+    "wof:lastmodified":1566598675,
     "wof:name":"Remerschen",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

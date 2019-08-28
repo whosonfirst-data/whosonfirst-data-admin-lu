@@ -13,10 +13,13 @@
     "iso:country":"LU",
     "lbl:latitude":49.532878,
     "lbl:longitude":5.988709,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":49.532878,
     "mps:longitude":5.988709,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:als_x_preferred":[
         "Monnerech"
     ],
@@ -98,9 +101,6 @@
     "name:ukr_x_preferred":[
         "\u041c\u043e\u043d\u0434\u0435\u0440\u043a\u0430\u043d\u0436"
     ],
-    "name:unk_x_variant":[
-        "Monnerich"
-    ],
     "name:zho_min_nan_x_preferred":[
         "Mondercange"
     ],
@@ -120,7 +120,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:area":2140.0,
     "wd:elevation":290.0,
@@ -137,7 +137,6 @@
     "wof:concordances":{
         "gn:id":2960258,
         "gp:id":979767,
-        "qs:id":143007,
         "qs_pg:id":143007,
         "wd:id":"Q939598",
         "wk:page":"Mondercange"
@@ -153,7 +152,7 @@
         }
     ],
     "wof:id":101812915,
-    "wof:lastmodified":1561837516,
+    "wof:lastmodified":1566598627,
     "wof:name":"Mondercange",
     "wof:parent_id":85673875,
     "wof:placetype":"locality",

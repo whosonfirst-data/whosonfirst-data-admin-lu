@@ -9,15 +9,18 @@
     "geom:bbox":"5.79167,49.80722,5.79167,49.80722",
     "geom:latitude":49.80722,
     "geom:longitude":5.79167,
-    "gn:gn_country":"LU",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":196,
+    "gn:country":"LU",
+    "gn:fcode":"PPL",
     "gn:population":196,
     "iso:country":"LU",
+    "lbl:bbox":"5.77167,49.78722,5.81167,49.82722",
     "lbl:latitude":49.80722,
     "lbl:longitude":5.79167,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:cat_x_preferred":[
         "Holtz"
@@ -49,7 +52,7 @@
     "name:ukr_x_preferred":[
         "\u0413\u043e\u043b\u044c\u0446"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Holtzburg"
     ],
     "qs_pg:aaroncc":"LU",
@@ -73,7 +76,7 @@
     "qs_pg:woe_adm0":23424881,
     "qs_pg:woe_id":979616,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424881,
     "woe:name_adm0":"Luxembourg",
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":1125794117,
-    "wof:lastmodified":1563326756,
+    "wof:lastmodified":1566598693,
     "wof:name":"Holtz",
     "wof:parent_id":85673865,
     "wof:placetype":"locality",

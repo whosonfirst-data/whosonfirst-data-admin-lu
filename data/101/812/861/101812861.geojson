@@ -13,10 +13,13 @@
     "iso:country":"LU",
     "lbl:latitude":49.85505,
     "lbl:longitude":6.044639,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":49.85505,
     "mps:longitude":6.044639,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "Niederfeulen"
     ],
@@ -51,12 +54,6 @@
     "name:swe_x_preferred":[
         "Niederfeulen"
     ],
-    "name:und_x_preferred":[
-        "Niederfeulen"
-    ],
-    "name:unk_x_variant":[
-        "Feulen"
-    ],
     "qs:a0":"Luxembourg",
     "qs:a1":"*",
     "qs:a1r":"0",
@@ -73,7 +70,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":293.0,
     "wd:latitude":49.85,
@@ -89,7 +86,6 @@
         "fct:id":"01957d44-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2960577,
         "gp:id":979798,
-        "qs:id":235127,
         "qs_pg:id":235127,
         "wd:id":"Q3112408",
         "wk:page":"Niederfeulen"
@@ -108,7 +104,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563326560,
+    "wof:lastmodified":1566598626,
     "wof:name":"Niederfeulen",
     "wof:parent_id":85673865,
     "wof:placetype":"locality",

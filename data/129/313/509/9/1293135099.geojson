@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Luxembourg",
     "iso:country":"LU",
+    "lbl:bbox":"6.19667,49.59667,6.23667,49.63667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ita_x_preferred":[
         "Birel"
     ],
@@ -35,8 +39,7 @@
     "name:und_x_variant":[
         "Birelergrund",
         "Birelerhof",
-        "Ferme Birel",
-        "Birel"
+        "Ferme Birel"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1293135099,
-    "wof:lastmodified":1564200451,
+    "wof:lastmodified":1566598610,
     "wof:name":"Birel",
     "wof:parent_id":85673875,
     "wof:placetype":"locality",

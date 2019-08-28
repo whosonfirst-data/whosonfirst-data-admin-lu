@@ -13,17 +13,17 @@
     "iso:country":"LU",
     "lbl:latitude":49.611881,
     "lbl:longitude":6.051776,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":49.611881,
     "mps:longitude":6.051776,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Bertrange"
     ],
     "name:swe_x_preferred":[
-        "Bertrange"
-    ],
-    "name:und_x_preferred":[
         "Bertrange"
     ],
     "qs:a0":"Luxembourg",
@@ -42,7 +42,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -54,7 +54,6 @@
         "fct:id":"0195987e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2960782,
         "gp:id":20104946,
-        "qs:id":23206,
         "qs_pg:id":23206,
         "wd:id":"Q20969263"
     },
@@ -72,7 +71,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563326553,
+    "wof:lastmodified":1566598624,
     "wof:name":"Bertrange",
     "wof:parent_id":85673875,
     "wof:placetype":"locality",

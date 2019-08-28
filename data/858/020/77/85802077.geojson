@@ -10,8 +10,10 @@
     "geom:latitude":49.611996,
     "geom:longitude":6.167415,
     "iso:country":"LU",
+    "lbl:bbox":"6.162415,49.606996,6.172415,49.616996",
     "lbl:latitude":49.611996,
     "lbl:longitude":6.167415,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.608166,
     "mps:longitude":6.173383,
     "mz:hierarchy_label":0,
@@ -57,12 +59,6 @@
     "name:swe_x_preferred":[
         "Hamm"
     ],
-    "name:und_x_preferred":[
-        "Hamm"
-    ],
-    "name:unk_x_variant":[
-        "Hamm"
-    ],
     "qs:gn_adm0_cc":"LU",
     "qs:gn_fcode":"PPL",
     "qs:gn_local":2960316,
@@ -105,7 +101,6 @@
     "wof:concordances":{
         "gn:id":2960493,
         "gp:id":979577,
-        "qs:id":905722,
         "qs_pg:id":905722,
         "wd:id":"Q205731",
         "wk:page":"Hamm, Luxembourg"
@@ -125,7 +120,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566247571,
+    "wof:lastmodified":1566598608,
     "wof:name":"Hamm",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

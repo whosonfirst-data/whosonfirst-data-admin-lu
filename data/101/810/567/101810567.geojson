@@ -13,10 +13,13 @@
     "iso:country":"LU",
     "lbl:latitude":49.888986,
     "lbl:longitude":5.977274,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":49.888986,
     "mps:longitude":5.977274,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:als_x_preferred":[
         "Heischent"
     ],
@@ -86,9 +89,6 @@
     "name:ukr_x_preferred":[
         "\u0425\u0430\u0439\u0434\u0435\u0440\u0448\u0430\u0439\u0434"
     ],
-    "name:und_x_preferred":[
-        "Heiderscheid"
-    ],
     "name:zho_min_nan_x_preferred":[
         "Heiderscheid"
     ],
@@ -108,7 +108,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":499.0,
     "wd:latitude":49.8875,
@@ -124,7 +124,6 @@
         "fct:id":"019585d2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2960478,
         "gp:id":979588,
-        "qs:id":39795,
         "qs_pg:id":39795,
         "wd:id":"Q1017435",
         "wk:page":"Heiderscheid"
@@ -143,7 +142,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563326549,
+    "wof:lastmodified":1566598624,
     "wof:name":"Heiderscheid",
     "wof:parent_id":85673865,
     "wof:placetype":"locality",

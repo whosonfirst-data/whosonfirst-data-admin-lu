@@ -13,10 +13,13 @@
     "iso:country":"LU",
     "lbl:latitude":49.967042,
     "lbl:longitude":5.931608,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":49.967042,
     "mps:longitude":5.931608,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:als_x_preferred":[
         "Wolz"
     ],
@@ -122,12 +125,6 @@
     "name:ukr_x_preferred":[
         "\u0412\u0456\u043b\u044c\u0446"
     ],
-    "name:und_x_preferred":[
-        "Wiltz"
-    ],
-    "name:unk_x_variant":[
-        "Wilz"
-    ],
     "name:vol_x_preferred":[
         "Wiltz"
     ],
@@ -150,7 +147,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -162,7 +159,6 @@
         "fct:id":"01956c32-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2959977,
         "gp:id":980006,
-        "qs:id":4964,
         "qs_pg:id":4964,
         "wd:id":"Q741589"
     },
@@ -180,7 +176,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563326543,
+    "wof:lastmodified":1566598622,
     "wof:name":"Wiltz",
     "wof:parent_id":85673865,
     "wof:placetype":"locality",

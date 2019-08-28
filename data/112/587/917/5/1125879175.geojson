@@ -9,15 +9,18 @@
     "geom:bbox":"5.98833,49.70972,5.98833,49.70972",
     "geom:latitude":49.70972,
     "geom:longitude":5.98833,
-    "gn:gn_country":"LU",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":210,
+    "gn:country":"LU",
+    "gn:fcode":"PPL",
     "gn:population":210,
     "iso:country":"LU",
+    "lbl:bbox":"5.96833,49.68972,6.00833,49.72972",
     "lbl:latitude":49.70972,
     "lbl:longitude":5.98833,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:cat_x_preferred":[
         "Greisch"
@@ -46,9 +49,6 @@
     "name:swe_x_preferred":[
         "Greisch"
     ],
-    "name:unk_x_variant":[
-        "Greisch"
-    ],
     "qs_pg:aaroncc":"LU",
     "qs_pg:gn_country":"LU",
     "qs_pg:gn_fcode":"PPL",
@@ -66,7 +66,7 @@
     "qs_pg:woe_adm0":23424819,
     "qs_pg:woe_id":29333605,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424819,
     "woe:name_adm0":"France",
@@ -96,7 +96,7 @@
         }
     ],
     "wof:id":1125879175,
-    "wof:lastmodified":1563326682,
+    "wof:lastmodified":1566598669,
     "wof:name":"Preisch",
     "wof:parent_id":85673875,
     "wof:placetype":"locality",

@@ -9,14 +9,18 @@
     "geom:bbox":"6.12167,49.62083,6.12167,49.62083",
     "geom:latitude":49.62083,
     "geom:longitude":6.12167,
-    "gn:gn_country":"LU",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"LU",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"LU",
+    "lbl:bbox":"6.10167,49.60083,6.14167,49.64083",
     "lbl:latitude":49.62083,
     "lbl:longitude":6.12167,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:cat_x_preferred":[
         "Limpertsberg"
@@ -45,7 +49,7 @@
     "name:swe_x_preferred":[
         "Limpertsberg"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Lampertsberg"
     ],
     "qs_pg:aaroncc":"LU",
@@ -69,7 +73,7 @@
     "qs_pg:woe_adm0":23424881,
     "qs_pg:woe_id":979709,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424881,
     "woe:name_adm0":"Luxembourg",
     "woe:name_adm1":"Luxembourg",
@@ -98,7 +102,7 @@
         }
     ],
     "wof:id":1125799161,
-    "wof:lastmodified":1563326759,
+    "wof:lastmodified":1566598693,
     "wof:name":"Limpertsberg",
     "wof:parent_id":85673875,
     "wof:placetype":"locality",

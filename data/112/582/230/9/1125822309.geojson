@@ -9,15 +9,18 @@
     "geom:bbox":"5.82667,49.965,5.82667,49.965",
     "geom:latitude":49.965,
     "geom:longitude":5.82667,
-    "gn:gn_country":"LU",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":41,
+    "gn:country":"LU",
+    "gn:fcode":"PPL",
     "gn:population":41,
     "iso:country":"LU",
+    "lbl:bbox":"5.80667,49.945,5.84667,49.985",
     "lbl:latitude":49.965,
     "lbl:longitude":5.82667,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:cat_x_preferred":[
         "Sonlez"
@@ -43,9 +46,6 @@
     "name:pol_x_preferred":[
         "Sonlez"
     ],
-    "name:unk_x_variant":[
-        "Soller"
-    ],
     "qs_pg:aaroncc":"LU",
     "qs_pg:gn_country":"LU",
     "qs_pg:gn_fcode":"PPL",
@@ -65,7 +65,7 @@
     "qs_pg:woe_adm0":23424881,
     "qs_pg:woe_id":979932,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424881,
     "woe:name_adm0":"Luxembourg",
@@ -95,7 +95,7 @@
         }
     ],
     "wof:id":1125822309,
-    "wof:lastmodified":1563326734,
+    "wof:lastmodified":1566598686,
     "wof:name":"Sonlez",
     "wof:parent_id":85673865,
     "wof:placetype":"locality",

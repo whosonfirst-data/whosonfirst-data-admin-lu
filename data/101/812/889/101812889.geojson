@@ -13,10 +13,13 @@
     "iso:country":"LU",
     "lbl:latitude":49.712829,
     "lbl:longitude":6.25129,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":49.712829,
     "mps:longitude":6.25129,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u042e\u043d\u0433\u043b\u0456\u043d\u0441\u0442\u044d\u0440"
     ],
@@ -86,9 +89,6 @@
     "name:ukr_x_preferred":[
         "\u042e\u043d\u0433\u043b\u0456\u043d\u0441\u0442\u0435\u0440"
     ],
-    "name:und_x_preferred":[
-        "Junglinster"
-    ],
     "qs:a0":"Luxembourg",
     "qs:a1":"*",
     "qs:a1r":"0",
@@ -105,7 +105,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -117,7 +117,6 @@
         "fct:id":"0195a742-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2960400,
         "gp:id":979649,
-        "qs:id":279353,
         "qs_pg:id":279353,
         "wd:id":"Q1017404"
     },
@@ -135,7 +134,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563326555,
+    "wof:lastmodified":1566598625,
     "wof:name":"Junglinster",
     "wof:parent_id":85673869,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"LU",
     "lbl:latitude":49.482122,
     "lbl:longitude":6.038284,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":49.482122,
     "mps:longitude":6.038284,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:als_x_preferred":[
         "Keel"
     ],
@@ -120,7 +123,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:area":1486.0,
     "wd:elevation":373.0,
@@ -137,7 +140,6 @@
     "wof:concordances":{
         "gn:id":2960391,
         "gp:id":979657,
-        "qs:id":918174,
         "qs_pg:id":918174,
         "wd:id":"Q939625",
         "wk:page":"Kayl"
@@ -153,7 +155,7 @@
         }
     ],
     "wof:id":101839805,
-    "wof:lastmodified":1563326584,
+    "wof:lastmodified":1566598632,
     "wof:name":"Kayl",
     "wof:parent_id":85673875,
     "wof:placetype":"locality",

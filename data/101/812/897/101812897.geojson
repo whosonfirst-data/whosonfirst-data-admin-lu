@@ -9,17 +9,19 @@
     "geom:bbox":"6.3469809886,49.485866545,6.35663078516,49.4931845723",
     "geom:latitude":49.488621,
     "geom:longitude":6.352092,
-    "gn:gn_country":"LU",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":704,
+    "gn:country":"LU",
+    "gn:fcode":"PPL",
     "gn:population":704,
     "iso:country":"LU",
     "lbl:latitude":49.48842,
     "lbl:longitude":6.352165,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":49.48842,
     "mps:longitude":6.352165,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "Remerschen"
     ],
@@ -48,9 +50,6 @@
         "Remerschen"
     ],
     "name:swe_x_preferred":[
-        "Remerschen"
-    ],
-    "name:und_x_preferred":[
         "Remerschen"
     ],
     "name:vie_x_preferred":[
@@ -90,7 +89,7 @@
     "qs_pg:woe_id":979860,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":49.488333,
     "wd:longitude":6.350833,
@@ -103,7 +102,6 @@
         "fct:id":"01954f9a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2960155,
         "gp:id":979860,
-        "qs:id":227435,
         "qs_pg:id":227435,
         "wd:id":"Q1441935",
         "wk:page":"Remerschen"
@@ -120,7 +118,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561837516,
+    "wof:lastmodified":1566598629,
     "wof:name":"Remerschen",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

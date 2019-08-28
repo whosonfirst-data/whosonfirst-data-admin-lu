@@ -13,10 +13,13 @@
     "iso:country":"LU",
     "lbl:latitude":49.583957,
     "lbl:longitude":6.225777,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":49.583957,
     "mps:longitude":6.225777,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:als_x_preferred":[
         "Konter"
     ],
@@ -92,9 +95,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u043e\u043d\u0442\u0435\u0440\u043d"
     ],
-    "name:und_x_preferred":[
-        "Contern"
-    ],
     "name:zho_min_nan_x_preferred":[
         "Contern"
     ],
@@ -114,7 +114,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:area":2055.0,
     "wd:elevation":333.0,
@@ -131,7 +131,6 @@
         "fct:id":"0195529c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2960673,
         "gp:id":20104949,
-        "qs:id":938275,
         "qs_pg:id":938275,
         "wd:id":"Q596040",
         "wk:page":"Contern"
@@ -150,7 +149,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563326554,
+    "wof:lastmodified":1566598625,
     "wof:name":"Contern",
     "wof:parent_id":85673875,
     "wof:placetype":"locality",

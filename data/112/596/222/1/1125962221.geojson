@@ -9,15 +9,18 @@
     "geom:bbox":"5.97861,50.15667,5.97861,50.15667",
     "geom:latitude":50.15667,
     "geom:longitude":5.97861,
-    "gn:gn_country":"LU",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":151,
+    "gn:country":"LU",
+    "gn:fcode":"PPL",
     "gn:population":151,
     "iso:country":"LU",
+    "lbl:bbox":"5.95861,50.13667,5.99861,50.17667",
     "lbl:latitude":50.15667,
     "lbl:longitude":5.97861,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:cat_x_preferred":[
         "Hautbellain"
@@ -52,7 +55,7 @@
     "name:swe_x_preferred":[
         "Hautbellain"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Oberbesslingen"
     ],
     "qs_pg:aaroncc":"LU",
@@ -74,7 +77,7 @@
     "qs_pg:woe_adm0":23424881,
     "qs_pg:woe_id":979582,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424881,
     "woe:name_adm0":"Luxembourg",
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":1125962221,
-    "wof:lastmodified":1563326711,
+    "wof:lastmodified":1566598679,
     "wof:name":"Hautbellain",
     "wof:parent_id":85673865,
     "wof:placetype":"locality",

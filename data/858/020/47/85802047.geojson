@@ -10,8 +10,10 @@
     "geom:latitude":49.599247,
     "geom:longitude":6.139922,
     "iso:country":"LU",
+    "lbl:bbox":"6.134922,49.594247,6.144922,49.604247",
     "lbl:latitude":49.599247,
     "lbl:longitude":6.139922,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.598334,
     "mps:longitude":6.136243,
     "mz:hierarchy_label":0,
@@ -69,12 +71,6 @@
     "name:tat_x_preferred":[
         "\u0411\u043e\u043d\u043d\u0435\u0432\u0443\u0430"
     ],
-    "name:und_x_preferred":[
-        "Bonnevoie"
-    ],
-    "name:unk_x_variant":[
-        "Bonnevoie"
-    ],
     "qs:gn_adm0_cc":"LU",
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":2960316,
@@ -120,7 +116,6 @@
     "wof:concordances":{
         "gn:id":2960741,
         "gp:id":979373,
-        "qs:id":4895,
         "qs_pg:id":4895,
         "wd:id":"Q892805",
         "wk:page":"Bonnevoie"
@@ -140,7 +135,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566247552,
+    "wof:lastmodified":1566598608,
     "wof:name":"Bonnevoie",
     "wof:parent_id":101751765,
     "wof:placetype":"neighbourhood",

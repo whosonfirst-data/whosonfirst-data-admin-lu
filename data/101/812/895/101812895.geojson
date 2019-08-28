@@ -13,10 +13,13 @@
     "iso:country":"LU",
     "lbl:latitude":49.667038,
     "lbl:longitude":6.03604,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":49.667038,
     "mps:longitude":6.03604,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u041a\u0435\u043b\u0435\u043d"
     ],
@@ -83,9 +86,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u0435\u043b\u0435\u043d"
     ],
-    "name:und_x_preferred":[
-        "Kehlen"
-    ],
     "qs:a0":"Luxembourg",
     "qs:a1":"*",
     "qs:a1r":"0",
@@ -102,7 +102,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -114,7 +114,6 @@
         "fct:id":"01956df4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2960389,
         "gp:id":979658,
-        "qs:id":279352,
         "qs_pg:id":279352,
         "wd:id":"Q432495"
     },
@@ -132,7 +131,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563326559,
+    "wof:lastmodified":1566598626,
     "wof:name":"Kehlen",
     "wof:parent_id":85673875,
     "wof:placetype":"locality",

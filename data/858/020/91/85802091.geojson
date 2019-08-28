@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2271520.12258,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.15792,49.597063,6.15792,49.597063",
     "geom:latitude":49.597063,
     "geom:longitude":6.15792,
     "gn:id":"",
     "iso:country":"LU",
+    "lbl:bbox":"6.15292,49.592063,6.16292,49.602063",
     "lbl:latitude":49.597063,
     "lbl:longitude":6.15792,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.596732,
     "mps:longitude":6.159297,
     "mz:hierarchy_label":0,
@@ -24,10 +26,7 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":16.0,
     "mz:tier_locality":3,
-    "name:und_x_preferred":[
-        "Itzigerste"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Itzigerste"
     ],
     "qs:gn_adm0_cc":"LU",
@@ -59,7 +58,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         85633275,
@@ -68,7 +67,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":979643,
-        "qs:id":36726,
         "qs_pg:id":36726
     },
     "wof:country":"LU",
@@ -86,7 +84,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531862129,
+    "wof:lastmodified":1566598607,
     "wof:name":"Itzigerste",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -10,8 +10,10 @@
     "geom:latitude":49.616723,
     "geom:longitude":6.159153,
     "iso:country":"LU",
+    "lbl:bbox":"6.154153,49.611723,6.164153,49.621723",
     "lbl:latitude":49.616723,
     "lbl:longitude":6.159153,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.625227,
     "mps:longitude":6.178387,
     "mz:hierarchy_label":0,
@@ -105,12 +107,6 @@
     "name:ukr_x_preferred":[
         "\u0426\u0435\u043d\u0442"
     ],
-    "name:und_x_preferred":[
-        "Cents"
-    ],
-    "name:unk_x_variant":[
-        "Cents"
-    ],
     "name:vie_x_preferred":[
         "Cent"
     ],
@@ -174,7 +170,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566247571,
+    "wof:lastmodified":1566598607,
     "wof:name":"Cents",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

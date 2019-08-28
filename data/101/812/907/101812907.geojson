@@ -13,10 +13,13 @@
     "iso:country":"LU",
     "lbl:latitude":49.587254,
     "lbl:longitude":5.982118,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":49.587254,
     "mps:longitude":5.982118,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:als_x_preferred":[
         "Dippech"
     ],
@@ -101,9 +104,6 @@
     "name:ukr_x_preferred":[
         "\u0414\u0456\u043f\u043f\u0430\u0445"
     ],
-    "name:und_x_preferred":[
-        "Dippach"
-    ],
     "name:zho_min_nan_x_preferred":[
         "Dippach"
     ],
@@ -126,7 +126,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:area":1742.0,
     "wd:elevation":368.0,
@@ -143,7 +143,6 @@
         "fct:id":"01954ea0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2960648,
         "gp:id":20104948,
-        "qs:id":1199043,
         "qs_pg:id":1199043,
         "wd:id":"Q426998",
         "wk:page":"Dippach"
@@ -162,7 +161,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563326554,
+    "wof:lastmodified":1566598625,
     "wof:name":"Dippach",
     "wof:parent_id":85673875,
     "wof:placetype":"locality",

@@ -13,6 +13,8 @@
     "iso:country":"LU",
     "lbl:latitude":49.608759,
     "lbl:longitude":6.125923,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":49.608759,
     "mps:longitude":6.125923,
     "mz:hierarchy_label":1,
@@ -448,7 +450,7 @@
     "name:ukr_x_preferred":[
         "\u041b\u044e\u043a\u0441\u0435\u043c\u0431\u0443\u0440\u0433"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Letzeburg"
     ],
     "name:urd_x_preferred":[
@@ -615,7 +617,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:area":5124.0,
     "wd:latitude":49.61,
@@ -637,7 +639,6 @@
         "gp:id":979721,
         "loc:id":"n50054179",
         "nyt:id":"N1841951406603584221",
-        "qs:id":806658,
         "qs_pg:id":806658,
         "wd:id":"Q1842",
         "wk:page":"Luxembourg City"
@@ -656,7 +657,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1563326552,
+    "wof:lastmodified":1566598624,
     "wof:megacity":0,
     "wof:name":"Luxembourg",
     "wof:parent_id":85673875,

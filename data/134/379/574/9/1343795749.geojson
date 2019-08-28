@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Luxembourg",
     "iso:country":"LU",
+    "lbl:bbox":"6.13556,49.77667,6.17556,49.81667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Woos",
         "Wues"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1343795749,
-    "wof:lastmodified":1537662991,
+    "wof:lastmodified":1566598603,
     "wof:name":"Wues",
     "wof:parent_id":85673875,
     "wof:placetype":"locality",

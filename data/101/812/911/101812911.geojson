@@ -13,10 +13,13 @@
     "iso:country":"LU",
     "lbl:latitude":49.568181,
     "lbl:longitude":6.079831,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":49.568181,
     "mps:longitude":6.079831,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:als_x_preferred":[
         "Leideleng"
     ],
@@ -114,7 +117,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:elevation":318.0,
     "wd:latitude":49.566667,
@@ -130,7 +133,6 @@
     "wof:concordances":{
         "gn:id":2960335,
         "gp:id":979704,
-        "qs:id":4935,
         "qs_pg:id":4935,
         "wd:id":"Q985382",
         "wk:page":"Leudelange"
@@ -146,7 +148,7 @@
         }
     ],
     "wof:id":101812911,
-    "wof:lastmodified":1561837517,
+    "wof:lastmodified":1566598629,
     "wof:name":"Leudelange",
     "wof:parent_id":85673875,
     "wof:placetype":"locality",

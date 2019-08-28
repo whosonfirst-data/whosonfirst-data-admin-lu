@@ -13,6 +13,7 @@
     "iso:country":"LU",
     "lbl:latitude":49.617853,
     "lbl:longitude":6.123897,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.622938,
     "mps:longitude":6.123405,
     "mz:hierarchy_label":0,
@@ -53,10 +54,7 @@
     "name:swe_x_preferred":[
         "Weimerskirch"
     ],
-    "name:und_x_preferred":[
-        "Neimersk"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Neimersk"
     ],
     "qs:gn_adm0_cc":"LU",
@@ -101,7 +99,6 @@
         "fct:id":"01991972-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2959992,
         "gp:id":979784,
-        "qs:id":1104487,
         "qs_pg:id":1104487,
         "wd:id":"Q1016195",
         "wk:page":"Weimerskirch"
@@ -121,7 +118,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566247552,
+    "wof:lastmodified":1566598608,
     "wof:name":"Neimersk",
     "wof:parent_id":101751765,
     "wof:placetype":"neighbourhood",

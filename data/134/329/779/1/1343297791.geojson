@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Luxembourg",
     "iso:country":"LU",
+    "lbl:bbox":"6.03372,49.90139,6.07372,49.94139",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Goebelsmuhle"
     ],
@@ -43,9 +47,6 @@
     ],
     "name:pol_x_preferred":[
         "Goebelsmuhle"
-    ],
-    "name:und_x_variant":[
-        "Goebelsm\u00fchle"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -69,7 +70,7 @@
         }
     ],
     "wof:id":1343297791,
-    "wof:lastmodified":1564200449,
+    "wof:lastmodified":1566598605,
     "wof:name":"Goebelsmuhle",
     "wof:parent_id":85673865,
     "wof:placetype":"locality",

@@ -9,15 +9,18 @@
     "geom:bbox":"6.01333,50.14917,6.01333,50.14917",
     "geom:latitude":50.14917,
     "geom:longitude":6.01333,
-    "gn:gn_country":"LU",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":45,
+    "gn:country":"LU",
+    "gn:fcode":"PPL",
     "gn:population":45,
     "iso:country":"LU",
+    "lbl:bbox":"5.99333,50.12917,6.03333,50.16917",
     "lbl:latitude":50.14917,
     "lbl:longitude":6.01333,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:cat_x_preferred":[
         "Koedange"
@@ -31,7 +34,7 @@
     "name:nld_x_preferred":[
         "Koedange"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "G\u00f6dange"
     ],
     "qs_pg:aaroncc":"LU",
@@ -53,7 +56,7 @@
     "qs_pg:woe_adm0":23424881,
     "qs_pg:woe_id":979676,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424881,
     "woe:name_adm0":"Luxembourg",
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1125771277,
-    "wof:lastmodified":1564200544,
+    "wof:lastmodified":1566598697,
     "wof:name":"Koedange",
     "wof:parent_id":85673865,
     "wof:placetype":"locality",

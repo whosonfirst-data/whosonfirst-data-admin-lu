@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Luxembourg",
     "iso:country":"LU",
+    "lbl:bbox":"6.19667,49.91333,6.23667,49.95333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Faubourg",
         "Chateau",
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1327168707,
-    "wof:lastmodified":1537662999,
+    "wof:lastmodified":1566598602,
     "wof:name":"Chateau Faubourg",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

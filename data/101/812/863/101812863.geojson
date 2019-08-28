@@ -13,10 +13,13 @@
     "iso:country":"LU",
     "lbl:latitude":49.835033,
     "lbl:longitude":6.291518,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":49.835033,
     "mps:longitude":6.291518,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:als_x_preferred":[
         "Beefort"
     ],
@@ -101,12 +104,6 @@
     "name:ukr_x_preferred":[
         "\u0411\u043e\u0444\u043e\u0440"
     ],
-    "name:und_x_preferred":[
-        "Beaufort"
-    ],
-    "name:unk_x_variant":[
-        "Befort"
-    ],
     "name:urd_x_preferred":[
         "\u0628\u06cc\u0641\u0648\u0631\u062a\u060c \u0644\u06af\u0633\u0645\u0628\u0631\u06af"
     ],
@@ -132,7 +129,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:area":1374.0,
     "wd:elevation":357.0,
@@ -149,7 +146,6 @@
         "fct:id":"01957c40-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2960809,
         "gp:id":20104961,
-        "qs:id":938287,
         "qs_pg:id":938287,
         "wd:id":"Q18693153",
         "wk:page":"Beaufort, Luxembourg"
@@ -168,7 +164,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563326570,
+    "wof:lastmodified":1566598629,
     "wof:name":"Beaufort",
     "wof:parent_id":85673869,
     "wof:placetype":"locality",

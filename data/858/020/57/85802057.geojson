@@ -10,8 +10,10 @@
     "geom:latitude":49.591191,
     "geom:longitude":6.104057,
     "iso:country":"LU",
+    "lbl:bbox":"6.099057,49.586191,6.109057,49.596191",
     "lbl:latitude":49.591191,
     "lbl:longitude":6.104057,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.573264,
     "mps:longitude":6.10373,
     "mz:hierarchy_label":0,
@@ -51,12 +53,8 @@
     "name:swe_x_preferred":[
         "Cessange"
     ],
-    "name:und_x_preferred":[
-        "Cessange"
-    ],
-    "name:unk_x_variant":[
-        "Cessingen",
-        "Cessange"
+    "name:und_x_variant":[
+        "Cessingen"
     ],
     "qs:gn_adm0_cc":"LU",
     "qs:gn_fcode":"PPL",
@@ -100,7 +98,6 @@
     "wof:concordances":{
         "gn:id":2960694,
         "gp:id":979413,
-        "qs:id":1268420,
         "qs_pg:id":1268420,
         "wd:id":"Q196812",
         "wk:page":"Cessange"
@@ -120,7 +117,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566247571,
+    "wof:lastmodified":1566598606,
     "wof:name":"Cessange",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -13,10 +13,13 @@
     "iso:country":"LU",
     "lbl:latitude":49.653882,
     "lbl:longitude":6.442921,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":49.653882,
     "mps:longitude":6.442921,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Nittel"
     ],
@@ -77,7 +80,7 @@
     "name:ukr_x_preferred":[
         "\u041d\u0456\u0442\u0442\u0435\u043b\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ittel Kill"
     ],
     "name:uzb_x_preferred":[
@@ -111,7 +114,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1655,
     "wof:belongsto":[
@@ -124,10 +127,12 @@
     "wof:concordances":{
         "gn:id":2895598,
         "gp:id":680214,
-        "qs:id":142014,
-        "qs_pg:id":487828,
+        "qs_pg:id":142014,
         "wd:id":"Q594609",
         "wk:page":"Nittel"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":487828
     },
     "wof:country":"LU",
     "wof:geomhash":"e8a035e789d8f72a702cfbe446adf31c",
@@ -141,7 +146,7 @@
         }
     ],
     "wof:id":101839819,
-    "wof:lastmodified":1563326582,
+    "wof:lastmodified":1566598632,
     "wof:name":"Nittel",
     "wof:parent_id":102063545,
     "wof:placetype":"locality",

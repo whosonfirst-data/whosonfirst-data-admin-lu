@@ -13,10 +13,13 @@
     "iso:country":"LU",
     "lbl:latitude":49.614974,
     "lbl:longitude":5.951545,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":49.614974,
     "mps:longitude":5.951545,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:als_x_preferred":[
         "Garnech"
     ],
@@ -95,9 +98,6 @@
     "name:ukr_x_preferred":[
         "\u0413\u0430\u0440\u043d\u0456\u0445"
     ],
-    "name:und_x_preferred":[
-        "Garnich"
-    ],
     "name:zho_min_nan_x_preferred":[
         "Garnich"
     ],
@@ -117,7 +117,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:area":1095.0,
     "wd:elevation":339.0,
@@ -134,7 +134,6 @@
         "fct:id":"0195a576-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2960549,
         "gp:id":20104959,
-        "qs:id":1095618,
         "qs_pg:id":1095618,
         "wd:id":"Q985388",
         "wk:page":"Garnich"
@@ -153,7 +152,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563326555,
+    "wof:lastmodified":1566598625,
     "wof:name":"Garnich",
     "wof:parent_id":85673875,
     "wof:placetype":"locality",

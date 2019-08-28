@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Luxembourg",
     "iso:country":"LU",
+    "lbl:bbox":"6.25556,49.55444,6.29556,49.59444",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Ersange"
     ],
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":1310036485,
-    "wof:lastmodified":1564200463,
+    "wof:lastmodified":1566598620,
     "wof:name":"Ersange",
     "wof:parent_id":85673869,
     "wof:placetype":"locality",

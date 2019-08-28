@@ -10,8 +10,10 @@
     "geom:latitude":49.583935,
     "geom:longitude":6.138518,
     "iso:country":"LU",
+    "lbl:bbox":"6.133518,49.578935,6.143518,49.588935",
     "lbl:latitude":49.583935,
     "lbl:longitude":6.138518,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.579999,
     "mps:longitude":6.139979,
     "mz:hierarchy_label":0,
@@ -47,12 +49,6 @@
     "name:pol_x_preferred":[
         "Howald"
     ],
-    "name:und_x_preferred":[
-        "Howald"
-    ],
-    "name:unk_x_variant":[
-        "Howald"
-    ],
     "qs:gn_adm0_cc":"LU",
     "qs:gn_fcode":"PPL",
     "qs:gn_local":7290933,
@@ -83,7 +79,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:latitude":49.585,
     "wd:longitude":6.141389,
     "wd:wordcount":333,
@@ -97,7 +93,7 @@
     "wof:concordances":{
         "gn:id":7290933,
         "gp:id":979629,
-        "qs:id":918175,
+        "qs_pg:id":918175,
         "wd:id":"Q2776327",
         "wk:page":"Howald"
     },
@@ -116,7 +112,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563326519,
+    "wof:lastmodified":1566598606,
     "wof:name":"Howald",
     "wof:parent_id":101751765,
     "wof:placetype":"neighbourhood",
