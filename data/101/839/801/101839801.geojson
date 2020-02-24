@@ -273,6 +273,9 @@
         "wk:page":"Grevenmacher"
     },
     "wof:country":"LU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b063bbb0f7572e91b3f0637afc9ef771",
     "wof:hierarchy":[
         {
@@ -286,7 +289,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566598633,
+    "wof:lastmodified":1582349493,
     "wof:name":"Grevenmacher",
     "wof:parent_id":85673869,
     "wof:placetype":"locality",

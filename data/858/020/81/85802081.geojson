@@ -98,6 +98,9 @@
         "wk:page":"Howald"
     },
     "wof:country":"LU",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d89b60a29d8ea086f3b34ace3062e014",
     "wof:hierarchy":[
         {
@@ -112,7 +115,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566598606,
+    "wof:lastmodified":1582349490,
     "wof:name":"Howald",
     "wof:parent_id":101751765,
     "wof:placetype":"neighbourhood",

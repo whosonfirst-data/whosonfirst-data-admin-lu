@@ -138,6 +138,9 @@
         "wk:page":"Leudelange"
     },
     "wof:country":"LU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b1a8eae371dbac0932482ae308fbcb49",
     "wof:hierarchy":[
         {
@@ -148,7 +151,7 @@
         }
     ],
     "wof:id":101812911,
-    "wof:lastmodified":1566598629,
+    "wof:lastmodified":1582349492,
     "wof:name":"Leudelange",
     "wof:parent_id":85673875,
     "wof:placetype":"locality",

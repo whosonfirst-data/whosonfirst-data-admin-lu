@@ -151,6 +151,9 @@
         "wk:page":"Beaufort, Luxembourg"
     },
     "wof:country":"LU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"9f1889eba7f1c58171b248526f511088",
     "wof:hierarchy":[
         {
@@ -164,7 +167,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566598629,
+    "wof:lastmodified":1582349492,
     "wof:name":"Beaufort",
     "wof:parent_id":85673869,
     "wof:placetype":"locality",

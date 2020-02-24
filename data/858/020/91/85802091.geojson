@@ -70,6 +70,10 @@
         "qs_pg:id":36726
     },
     "wof:country":"LU",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"079ffcc9f96161d3a3b0c90c3658ca38",
     "wof:hierarchy":[
         {
@@ -84,7 +88,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566598607,
+    "wof:lastmodified":1582349490,
     "wof:name":"Itzigerste",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

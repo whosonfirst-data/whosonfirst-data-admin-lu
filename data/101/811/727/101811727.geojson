@@ -129,6 +129,9 @@
         "wd:id":"Q985404"
     },
     "wof:country":"LU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c80b5276fe68604ad844801bdb07d708",
     "wof:hierarchy":[
         {
@@ -139,7 +142,7 @@
         }
     ],
     "wof:id":101811727,
-    "wof:lastmodified":1566598623,
+    "wof:lastmodified":1582349491,
     "wof:name":"Wincrange",
     "wof:parent_id":85673865,
     "wof:placetype":"locality",

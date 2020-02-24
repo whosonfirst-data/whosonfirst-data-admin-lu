@@ -132,6 +132,10 @@
         "wd:id":"Q850734"
     },
     "wof:country":"LU",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"62107dcaf0a3ce0a00dc87b8eb22d472",
     "wof:hierarchy":[
         {
@@ -145,7 +149,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566598631,
+    "wof:lastmodified":1582349492,
     "wof:name":"Betzdorf",
     "wof:parent_id":85673869,
     "wof:placetype":"locality",

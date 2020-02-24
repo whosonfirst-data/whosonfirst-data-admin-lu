@@ -96,6 +96,11 @@
         "wk:page":"Rollingergrund"
     },
     "wof:country":"LU",
+    "wof:geom_alt":[
+        "mz",
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e9ae34a7be18c0cc872b642ddf944c4d",
     "wof:hierarchy":[
         {
@@ -110,7 +115,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566598608,
+    "wof:lastmodified":1582349490,
     "wof:name":"Rollingergrund",
     "wof:parent_id":101751765,
     "wof:placetype":"neighbourhood",

@@ -91,6 +91,9 @@
         "wk:page":"Niederfeulen"
     },
     "wof:country":"LU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4db913fbbf69477f639a682ed9348b35",
     "wof:hierarchy":[
         {
@@ -104,7 +107,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566598626,
+    "wof:lastmodified":1582349492,
     "wof:name":"Niederfeulen",
     "wof:parent_id":85673865,
     "wof:placetype":"locality",

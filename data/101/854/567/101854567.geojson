@@ -82,6 +82,9 @@
         "wk:page":"Berg, Luxembourg"
     },
     "wof:country":"LU",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"2c6b4cdcb1236c9bc3f597d6d1c070a6",
     "wof:hierarchy":[
         {
@@ -95,7 +98,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566598631,
+    "wof:lastmodified":1582349492,
     "wof:name":"Berg",
     "wof:parent_id":85673875,
     "wof:placetype":"locality",

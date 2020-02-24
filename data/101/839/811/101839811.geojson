@@ -137,6 +137,9 @@
         "wd:id":"Q20969248"
     },
     "wof:country":"LU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"9cc5aa3d4bc463ce8350d847a94a2259",
     "wof:hierarchy":[
         {
@@ -150,7 +153,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566598631,
+    "wof:lastmodified":1582349492,
     "wof:name":"Bascharage",
     "wof:parent_id":85673875,
     "wof:placetype":"locality",

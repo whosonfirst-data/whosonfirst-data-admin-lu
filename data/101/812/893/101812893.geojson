@@ -135,6 +135,9 @@
         "wk:page":"Koerich"
     },
     "wof:country":"LU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"35908b78f17a2ec6af1d7817f2bcc3ce",
     "wof:hierarchy":[
         {
@@ -148,7 +151,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566598627,
+    "wof:lastmodified":1582349492,
     "wof:name":"Koerich",
     "wof:parent_id":85673875,
     "wof:placetype":"locality",

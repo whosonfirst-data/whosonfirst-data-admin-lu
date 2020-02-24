@@ -130,6 +130,9 @@
         "wd:id":"Q985333"
     },
     "wof:country":"LU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b225cb2b4732ae999f5ab7b91ca5a4c1",
     "wof:hierarchy":[
         {
@@ -143,7 +146,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566598625,
+    "wof:lastmodified":1582349491,
     "wof:name":"Useldange",
     "wof:parent_id":85673865,
     "wof:placetype":"locality",

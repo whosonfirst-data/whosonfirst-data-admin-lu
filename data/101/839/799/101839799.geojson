@@ -127,6 +127,9 @@
         "wd:id":"Q985387"
     },
     "wof:country":"LU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"259130fe864c26aededc7c87315e4de1",
     "wof:hierarchy":[
         {
@@ -140,7 +143,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566598631,
+    "wof:lastmodified":1582349492,
     "wof:name":"Mertert",
     "wof:parent_id":85673869,
     "wof:placetype":"locality",

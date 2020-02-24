@@ -118,6 +118,9 @@
         "wd:id":"Q985397"
     },
     "wof:country":"LU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6a9f2d71bbf7fc74e2fa00619a0652d1",
     "wof:hierarchy":[
         {
@@ -131,7 +134,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566598624,
+    "wof:lastmodified":1582349491,
     "wof:name":"Larochette",
     "wof:parent_id":85673875,
     "wof:placetype":"locality",

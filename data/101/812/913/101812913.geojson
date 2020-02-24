@@ -133,6 +133,9 @@
         "wd:id":"Q986412"
     },
     "wof:country":"LU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5f7ecfc662ecf632cc3608e75e8881b6",
     "wof:hierarchy":[
         {
@@ -146,7 +149,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566598627,
+    "wof:lastmodified":1582349492,
     "wof:name":"Dalheim",
     "wof:parent_id":85673869,
     "wof:placetype":"locality",

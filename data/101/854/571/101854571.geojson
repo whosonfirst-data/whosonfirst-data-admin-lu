@@ -120,6 +120,10 @@
         "wd:id":"Q1017425"
     },
     "wof:country":"LU",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"7f634a7f03dd3fd4c0cbdb5a830a84de",
     "wof:hierarchy":[
         {
@@ -133,7 +137,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566598631,
+    "wof:lastmodified":1582349492,
     "wof:name":"Flaxweiler",
     "wof:parent_id":85673869,
     "wof:placetype":"locality",

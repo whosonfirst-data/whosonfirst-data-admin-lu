@@ -137,6 +137,9 @@
         "wk:page":"Hosingen"
     },
     "wof:country":"LU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"0e47b32ff9a4148d9c838ed8114d311f",
     "wof:hierarchy":[
         {
@@ -147,7 +150,7 @@
         }
     ],
     "wof:id":101845555,
-    "wof:lastmodified":1566598623,
+    "wof:lastmodified":1582349491,
     "wof:name":"Hosingen",
     "wof:parent_id":85673865,
     "wof:placetype":"locality",

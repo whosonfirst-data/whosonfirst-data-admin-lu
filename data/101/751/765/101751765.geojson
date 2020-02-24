@@ -644,6 +644,9 @@
         "wk:page":"Luxembourg City"
     },
     "wof:country":"LU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"017fd7de0325896657467d1d4462ca7a",
     "wof:hierarchy":[
         {
@@ -657,7 +660,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1566598624,
+    "wof:lastmodified":1582349491,
     "wof:megacity":0,
     "wof:name":"Luxembourg",
     "wof:parent_id":85673875,

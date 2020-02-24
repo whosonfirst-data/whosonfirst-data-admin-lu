@@ -156,6 +156,10 @@
         "wd:id":"Q1821038"
     },
     "wof:country":"LU",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "mz"
+    ],
     "wof:geomhash":"58adccf2b16a5285de76c54cc6a3c648",
     "wof:hierarchy":[
         {
@@ -170,7 +174,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566598607,
+    "wof:lastmodified":1582349490,
     "wof:name":"Cents",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

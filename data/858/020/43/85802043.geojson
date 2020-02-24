@@ -108,6 +108,10 @@
         "wk:page":"Beggen"
     },
     "wof:country":"LU",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"c3f95f036a3caf4a360596fdd83ceba8",
     "wof:hierarchy":[
         {
@@ -122,7 +126,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566598607,
+    "wof:lastmodified":1582349490,
     "wof:name":"Beggen",
     "wof:parent_id":101753071,
     "wof:placetype":"neighbourhood",

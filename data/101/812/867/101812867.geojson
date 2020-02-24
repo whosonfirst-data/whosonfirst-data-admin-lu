@@ -138,6 +138,9 @@
         "wk:page":"Rambrouch"
     },
     "wof:country":"LU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"15b29f08bfafd71bd5eebb9291c5acf8",
     "wof:hierarchy":[
         {
@@ -151,7 +154,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566598627,
+    "wof:lastmodified":1582349492,
     "wof:name":"Rambrouch",
     "wof:parent_id":85673865,
     "wof:placetype":"locality",

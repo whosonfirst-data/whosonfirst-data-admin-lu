@@ -302,6 +302,9 @@
         "wk:page":"Mersch"
     },
     "wof:country":"LU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"9aaa70e23204243ba4e145b5a9b53fbc",
     "wof:hierarchy":[
         {
@@ -315,7 +318,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1568063410,
+    "wof:lastmodified":1582349492,
     "wof:name":"Mersch",
     "wof:parent_id":85673875,
     "wof:placetype":"locality",

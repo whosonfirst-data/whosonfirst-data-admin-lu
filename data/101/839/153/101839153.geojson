@@ -211,6 +211,9 @@
         "wk:page":"Ettelbruck"
     },
     "wof:country":"LU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"44391592c56360479dc01e918900ea85",
     "wof:hierarchy":[
         {
@@ -224,7 +227,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566598632,
+    "wof:lastmodified":1582349493,
     "wof:name":"Ettelbr\u00fcck",
     "wof:parent_id":85673865,
     "wof:placetype":"locality",

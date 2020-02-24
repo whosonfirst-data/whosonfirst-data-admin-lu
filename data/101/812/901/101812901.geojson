@@ -139,6 +139,9 @@
         "wk:page":"Garnich"
     },
     "wof:country":"LU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e237e0ca3395ec2ee4f8d7992fb2fc43",
     "wof:hierarchy":[
         {
@@ -152,7 +155,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566598625,
+    "wof:lastmodified":1582349491,
     "wof:name":"Garnich",
     "wof:parent_id":85673875,
     "wof:placetype":"locality",

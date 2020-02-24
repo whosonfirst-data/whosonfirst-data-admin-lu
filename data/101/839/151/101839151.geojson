@@ -142,6 +142,9 @@
         "wk:page":"Erpeldange"
     },
     "wof:country":"LU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"23c68ed66e6af96d68a3403d2439a671",
     "wof:hierarchy":[
         {
@@ -155,7 +158,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566598631,
+    "wof:lastmodified":1582349492,
     "wof:name":"Erpeldange",
     "wof:parent_id":85673865,
     "wof:placetype":"locality",

@@ -121,6 +121,9 @@
         "wd:id":"Q956489"
     },
     "wof:country":"LU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"32f456ad131758f958295f22e8c4abe6",
     "wof:hierarchy":[
         {
@@ -134,7 +137,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566598629,
+    "wof:lastmodified":1582349492,
     "wof:name":"Schuttrange",
     "wof:parent_id":85673875,
     "wof:placetype":"locality",

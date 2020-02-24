@@ -127,6 +127,9 @@
         "wd:id":"Q813727"
     },
     "wof:country":"LU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"99404e067ee5f8abb7d5925451489968",
     "wof:hierarchy":[
         {
@@ -140,7 +143,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566598623,
+    "wof:lastmodified":1582349491,
     "wof:name":"Beckerich",
     "wof:parent_id":85673865,
     "wof:placetype":"locality",

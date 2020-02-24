@@ -177,6 +177,9 @@
         "wd:id":"Q16014"
     },
     "wof:country":"LU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"16b8886d0f9c9df97e704cd7ce9d6aa2",
     "wof:hierarchy":[
         {
@@ -187,7 +190,7 @@
         }
     ],
     "wof:id":101839807,
-    "wof:lastmodified":1566598633,
+    "wof:lastmodified":1582349493,
     "wof:name":"Dudelange",
     "wof:parent_id":85673875,
     "wof:placetype":"locality",

@@ -141,6 +141,9 @@
         "wd:id":"Q832342"
     },
     "wof:country":"LU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"35f213dd4106eaf21a6df43885a3c6cc",
     "wof:hierarchy":[
         {
@@ -151,7 +154,7 @@
         }
     ],
     "wof:id":101812917,
-    "wof:lastmodified":1566598630,
+    "wof:lastmodified":1582349492,
     "wof:name":"Bettembourg",
     "wof:parent_id":85673875,
     "wof:placetype":"locality",

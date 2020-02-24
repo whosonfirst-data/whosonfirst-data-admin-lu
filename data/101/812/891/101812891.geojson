@@ -133,6 +133,9 @@
         "wk:page":"Manternach"
     },
     "wof:country":"LU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"9e42bc0599ad999309b9ab13b577df01",
     "wof:hierarchy":[
         {
@@ -146,7 +149,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566598629,
+    "wof:lastmodified":1582349492,
     "wof:name":"Manternach",
     "wof:parent_id":85673869,
     "wof:placetype":"locality",

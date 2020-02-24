@@ -148,6 +148,9 @@
         "wk:page":"Bourscheid, Luxembourg"
     },
     "wof:country":"LU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a701ff2f9ef1103009f347ce3df01cf3",
     "wof:hierarchy":[
         {
@@ -161,7 +164,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566598629,
+    "wof:lastmodified":1582349492,
     "wof:name":"Bourscheid",
     "wof:parent_id":85673865,
     "wof:placetype":"locality",

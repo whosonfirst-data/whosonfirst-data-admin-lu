@@ -118,6 +118,9 @@
         "wd:id":"Q432495"
     },
     "wof:country":"LU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ec8396c081e9414f21499b20adf0d150",
     "wof:hierarchy":[
         {
@@ -131,7 +134,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566598626,
+    "wof:lastmodified":1582349491,
     "wof:name":"Kehlen",
     "wof:parent_id":85673875,
     "wof:placetype":"locality",

@@ -109,6 +109,9 @@
         "wk:page":"Alzingen"
     },
     "wof:country":"LU",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3b6c6a74c2c18b9dcb8d774f54f2bf8f",
     "wof:hierarchy":[
         {
@@ -123,7 +126,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566598607,
+    "wof:lastmodified":1582349490,
     "wof:name":"Alzingen",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

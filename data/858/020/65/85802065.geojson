@@ -107,6 +107,11 @@
         "wk:page":"Dommeldange"
     },
     "wof:country":"LU",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "mz",
+        "quattroshapes"
+    ],
     "wof:geomhash":"628fffbea6d65039f98f35d4142a2f87",
     "wof:hierarchy":[
         {
@@ -121,7 +126,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566598607,
+    "wof:lastmodified":1582349490,
     "wof:name":"Dommeldange",
     "wof:parent_id":101751765,
     "wof:placetype":"neighbourhood",

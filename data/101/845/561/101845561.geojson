@@ -167,6 +167,9 @@
         "wk:page":"Redange"
     },
     "wof:country":"LU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4c165f845598fb46e54cd93f88fcf644",
     "wof:hierarchy":[
         {
@@ -180,7 +183,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566598623,
+    "wof:lastmodified":1582349491,
     "wof:name":"Redange",
     "wof:parent_id":85673865,
     "wof:placetype":"locality",

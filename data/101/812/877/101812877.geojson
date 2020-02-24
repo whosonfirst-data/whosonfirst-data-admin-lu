@@ -124,6 +124,9 @@
         "wd:id":"Q866692"
     },
     "wof:country":"LU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"66434ae400a7965b54ec6f58d4ee04ad",
     "wof:hierarchy":[
         {
@@ -137,7 +140,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566598628,
+    "wof:lastmodified":1582349492,
     "wof:name":"Bissen",
     "wof:parent_id":85673875,
     "wof:placetype":"locality",

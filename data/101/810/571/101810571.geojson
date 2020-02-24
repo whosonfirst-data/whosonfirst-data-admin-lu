@@ -118,6 +118,9 @@
         "wd:id":"Q985477"
     },
     "wof:country":"LU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"33d55814e132605d6623c02461c3df99",
     "wof:hierarchy":[
         {
@@ -131,7 +134,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566598624,
+    "wof:lastmodified":1582349491,
     "wof:name":"Kopstal",
     "wof:parent_id":85673875,
     "wof:placetype":"locality",

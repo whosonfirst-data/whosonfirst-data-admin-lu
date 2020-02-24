@@ -121,6 +121,9 @@
         "wd:id":"Q1017404"
     },
     "wof:country":"LU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e5aa4f7001da8180d3c5b4834857969c",
     "wof:hierarchy":[
         {
@@ -134,7 +137,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566598625,
+    "wof:lastmodified":1582349491,
     "wof:name":"Junglinster",
     "wof:parent_id":85673869,
     "wof:placetype":"locality",

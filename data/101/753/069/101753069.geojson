@@ -127,6 +127,9 @@
         "wd:id":"Q985149"
     },
     "wof:country":"LU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"0c832e22ba129c11ac0fe7916a46cb40",
     "wof:hierarchy":[
         {
@@ -140,7 +143,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566598622,
+    "wof:lastmodified":1582349491,
     "wof:name":"Steinsel",
     "wof:parent_id":85673875,
     "wof:placetype":"locality",
