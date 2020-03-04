@@ -115,6 +115,9 @@
         "wd:id":"Q985390"
     },
     "wof:country":"LU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d09a8fb5edf56e88cdc313d6bb47b1ae",
     "wof:hierarchy":[
         {
@@ -128,7 +131,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566598623,
+    "wof:lastmodified":1582349491,
     "wof:name":"Weiler-la-Tour",
     "wof:parent_id":85673875,
     "wof:placetype":"locality",

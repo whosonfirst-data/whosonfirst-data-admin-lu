@@ -124,6 +124,9 @@
         "wd:id":"Q21053530"
     },
     "wof:country":"LU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f3079d8fec7dcfe19388fecc6f30d57c",
     "wof:hierarchy":[
         {
@@ -137,7 +140,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566598627,
+    "wof:lastmodified":1582349492,
     "wof:name":"Clemency",
     "wof:parent_id":85673875,
     "wof:placetype":"locality",

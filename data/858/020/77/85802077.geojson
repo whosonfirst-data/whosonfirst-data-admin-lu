@@ -106,6 +106,11 @@
         "wk:page":"Hamm, Luxembourg"
     },
     "wof:country":"LU",
+    "wof:geom_alt":[
+        "mz",
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"77bf35719a1de8f2ac7fddb8abc1eaf4",
     "wof:hierarchy":[
         {
@@ -120,7 +125,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566598608,
+    "wof:lastmodified":1582349490,
     "wof:name":"Hamm",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -147,6 +147,9 @@
         "wk:page":"Walferdange"
     },
     "wof:country":"LU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c1659b2dccd66a527ee2635bab645a5a",
     "wof:hierarchy":[
         {
@@ -160,7 +163,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566598622,
+    "wof:lastmodified":1582349491,
     "wof:name":"Walferdange",
     "wof:parent_id":85673875,
     "wof:placetype":"locality",

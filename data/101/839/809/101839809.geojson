@@ -178,6 +178,9 @@
         "wk:page":"Rumelange"
     },
     "wof:country":"LU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a939ff9fe337c330894c591f5f29dc52",
     "wof:hierarchy":[
         {
@@ -188,7 +191,7 @@
         }
     ],
     "wof:id":101839809,
-    "wof:lastmodified":1566598633,
+    "wof:lastmodified":1582349493,
     "wof:name":"Rumelange",
     "wof:parent_id":85673875,
     "wof:placetype":"locality",

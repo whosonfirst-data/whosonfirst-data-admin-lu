@@ -163,6 +163,9 @@
         "wk:page":"Mamer"
     },
     "wof:country":"LU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e94c6183206a9cbd08165dcd8747caa4",
     "wof:hierarchy":[
         {
@@ -176,7 +179,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566598621,
+    "wof:lastmodified":1582349491,
     "wof:name":"Mamer",
     "wof:parent_id":85673875,
     "wof:placetype":"locality",

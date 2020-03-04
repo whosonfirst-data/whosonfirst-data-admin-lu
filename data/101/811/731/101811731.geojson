@@ -163,6 +163,9 @@
         "wd:id":"Q741589"
     },
     "wof:country":"LU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"04298b03903aeb8e3ef367a28468fb42",
     "wof:hierarchy":[
         {
@@ -176,7 +179,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566598622,
+    "wof:lastmodified":1582349491,
     "wof:name":"Wiltz",
     "wof:parent_id":85673865,
     "wof:placetype":"locality",

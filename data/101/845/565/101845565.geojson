@@ -136,6 +136,9 @@
         "wd:id":"Q958682"
     },
     "wof:country":"LU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"725f79931adca071c779f1a6a2dcc761",
     "wof:hierarchy":[
         {
@@ -149,7 +152,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566598623,
+    "wof:lastmodified":1582349491,
     "wof:name":"Hobscheid",
     "wof:parent_id":85673875,
     "wof:placetype":"locality",

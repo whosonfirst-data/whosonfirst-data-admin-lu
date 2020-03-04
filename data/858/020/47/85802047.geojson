@@ -121,6 +121,11 @@
         "wk:page":"Bonnevoie"
     },
     "wof:country":"LU",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes",
+        "mz"
+    ],
     "wof:geomhash":"17921c2730632920475e3ad9a7bfe31e",
     "wof:hierarchy":[
         {
@@ -135,7 +140,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566598608,
+    "wof:lastmodified":1582349490,
     "wof:name":"Bonnevoie",
     "wof:parent_id":101751765,
     "wof:placetype":"neighbourhood",

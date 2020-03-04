@@ -129,6 +129,11 @@
         "wk:page":"Kirchberg, Luxembourg"
     },
     "wof:country":"LU",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "mz",
+        "quattroshapes"
+    ],
     "wof:geomhash":"cf3e699b3368188a5748ef34c65d6157",
     "wof:hierarchy":[
         {
@@ -143,7 +148,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566598606,
+    "wof:lastmodified":1582349490,
     "wof:name":"Kirchberg",
     "wof:parent_id":101751765,
     "wof:placetype":"neighbourhood",

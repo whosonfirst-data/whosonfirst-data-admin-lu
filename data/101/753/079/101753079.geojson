@@ -130,6 +130,9 @@
         "wd:id":"Q986400"
     },
     "wof:country":"LU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"daa3eff3d25a41f2f26e915b0c89b8e3",
     "wof:hierarchy":[
         {
@@ -143,7 +146,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566598621,
+    "wof:lastmodified":1582349491,
     "wof:name":"Strassen",
     "wof:parent_id":85673875,
     "wof:placetype":"locality",

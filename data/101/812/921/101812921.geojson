@@ -165,6 +165,9 @@
         "wk:page":"Mondorf-les-Bains"
     },
     "wof:country":"LU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ce29ef3880f39b717723638323117ed9",
     "wof:hierarchy":[
         {
@@ -178,7 +181,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566598630,
+    "wof:lastmodified":1582349492,
     "wof:name":"Mondorf-les-Bains",
     "wof:parent_id":85673869,
     "wof:placetype":"locality",

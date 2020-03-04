@@ -145,6 +145,9 @@
         "wk:page":"Kayl"
     },
     "wof:country":"LU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e79fe851716c69ed1d4654d54e87dfb6",
     "wof:hierarchy":[
         {
@@ -155,7 +158,7 @@
         }
     ],
     "wof:id":101839805,
-    "wof:lastmodified":1566598632,
+    "wof:lastmodified":1582349492,
     "wof:name":"Kayl",
     "wof:parent_id":85673875,
     "wof:placetype":"locality",

@@ -293,6 +293,9 @@
         "wk:page":"Diekirch"
     },
     "wof:country":"LU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1a3c8f600b82074c13530f8cbe01d934",
     "wof:hierarchy":[
         {
@@ -306,7 +309,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566598626,
+    "wof:lastmodified":1582349491,
     "wof:name":"Diekirch",
     "wof:parent_id":85673865,
     "wof:placetype":"locality",

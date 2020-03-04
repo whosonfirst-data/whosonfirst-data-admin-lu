@@ -148,6 +148,9 @@
         "wk:page":"Dippach"
     },
     "wof:country":"LU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"52f302e0dc759149112f17cb4a37cebf",
     "wof:hierarchy":[
         {
@@ -161,7 +164,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566598625,
+    "wof:lastmodified":1582349491,
     "wof:name":"Dippach",
     "wof:parent_id":85673875,
     "wof:placetype":"locality",

@@ -165,6 +165,9 @@
         "wk:page":"Clervaux"
     },
     "wof:country":"LU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a7d25bc5ec277cfb75bb3af1f3e240da",
     "wof:hierarchy":[
         {
@@ -175,7 +178,7 @@
         }
     ],
     "wof:id":101811723,
-    "wof:lastmodified":1566598623,
+    "wof:lastmodified":1582349491,
     "wof:name":"Clervaux",
     "wof:parent_id":85673865,
     "wof:placetype":"locality",

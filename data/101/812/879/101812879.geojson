@@ -124,6 +124,9 @@
         "wd:id":"Q660217"
     },
     "wof:country":"LU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8d14b3a7483049ff90579a11e29d6676",
     "wof:hierarchy":[
         {
@@ -137,7 +140,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566598628,
+    "wof:lastmodified":1582349492,
     "wof:name":"Consdorf",
     "wof:parent_id":85673869,
     "wof:placetype":"locality",

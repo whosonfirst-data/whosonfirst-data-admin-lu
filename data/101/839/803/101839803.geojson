@@ -246,6 +246,9 @@
         "wk:page":"Esch-sur-Alzette"
     },
     "wof:country":"LU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b149c82df1ca2d00e223db82d1b3ef7e",
     "wof:hierarchy":[
         {
@@ -259,7 +262,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1566598632,
+    "wof:lastmodified":1582349492,
     "wof:name":"Esch-sur-Alzette",
     "wof:parent_id":85673875,
     "wof:placetype":"locality",

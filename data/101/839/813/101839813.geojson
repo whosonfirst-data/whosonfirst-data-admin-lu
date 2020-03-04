@@ -147,6 +147,9 @@
         "wd:id":"Q602441"
     },
     "wof:country":"LU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6fb339358c3c50d2d754dce137e20004",
     "wof:hierarchy":[
         {
@@ -157,7 +160,7 @@
         }
     ],
     "wof:id":101839813,
-    "wof:lastmodified":1566598633,
+    "wof:lastmodified":1582349493,
     "wof:name":"P\u00e9tange",
     "wof:parent_id":85673875,
     "wof:placetype":"locality",

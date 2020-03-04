@@ -104,6 +104,10 @@
         "wk:page":"Weimerskirch"
     },
     "wof:country":"LU",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a1d94bc115092fa37c05d945dec94aeb",
     "wof:hierarchy":[
         {
@@ -118,7 +122,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566598608,
+    "wof:lastmodified":1582349490,
     "wof:name":"Neimersk",
     "wof:parent_id":101751765,
     "wof:placetype":"neighbourhood",

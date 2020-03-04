@@ -135,6 +135,9 @@
         "qs_pg:id":487828
     },
     "wof:country":"LU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e8a035e789d8f72a702cfbe446adf31c",
     "wof:hierarchy":[
         {
@@ -146,7 +149,7 @@
         }
     ],
     "wof:id":101839819,
-    "wof:lastmodified":1566598632,
+    "wof:lastmodified":1582349492,
     "wof:name":"Nittel",
     "wof:parent_id":102063545,
     "wof:placetype":"locality",

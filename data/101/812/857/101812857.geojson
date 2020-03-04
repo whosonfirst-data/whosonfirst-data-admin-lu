@@ -133,6 +133,9 @@
         "wd:id":"Q832382"
     },
     "wof:country":"LU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d4a25acbd88d767f278679d37a3ff1a9",
     "wof:hierarchy":[
         {
@@ -146,7 +149,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566598626,
+    "wof:lastmodified":1582349492,
     "wof:name":"Bettendorf",
     "wof:parent_id":85673865,
     "wof:placetype":"locality",

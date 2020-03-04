@@ -282,6 +282,9 @@
         "wd:id":"Q4844168"
     },
     "wof:country":"LU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"9b1ef9057f83d3367001dbe76b705558",
     "wof:hierarchy":[
         {
@@ -292,7 +295,7 @@
         }
     ],
     "wof:id":101839817,
-    "wof:lastmodified":1566598632,
+    "wof:lastmodified":1582349492,
     "wof:name":"Differdange",
     "wof:parent_id":85673875,
     "wof:placetype":"locality",

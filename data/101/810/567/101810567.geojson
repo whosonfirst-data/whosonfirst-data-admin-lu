@@ -129,6 +129,9 @@
         "wk:page":"Heiderscheid"
     },
     "wof:country":"LU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d4e6d722e8a92c11270eeb0e512884a0",
     "wof:hierarchy":[
         {
@@ -142,7 +145,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566598624,
+    "wof:lastmodified":1582349491,
     "wof:name":"Heiderscheid",
     "wof:parent_id":85673865,
     "wof:placetype":"locality",

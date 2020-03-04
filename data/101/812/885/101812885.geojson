@@ -142,6 +142,9 @@
         "wk:page":"Lintgen"
     },
     "wof:country":"LU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e6ecfbbf993cca11008167f141a96b99",
     "wof:hierarchy":[
         {
@@ -155,7 +158,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566598628,
+    "wof:lastmodified":1582349492,
     "wof:name":"Lintgen",
     "wof:parent_id":85673875,
     "wof:placetype":"locality",

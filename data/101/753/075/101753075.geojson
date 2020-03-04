@@ -158,6 +158,9 @@
         "wk:page":"Niederanven"
     },
     "wof:country":"LU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"73bde968eede0f7b1084d798f63d1df2",
     "wof:hierarchy":[
         {
@@ -171,7 +174,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566598622,
+    "wof:lastmodified":1582349491,
     "wof:name":"Niederanven",
     "wof:parent_id":85673875,
     "wof:placetype":"locality",
