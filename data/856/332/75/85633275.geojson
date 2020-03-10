@@ -1139,9 +1139,7 @@
     ],
     "wof:concordances":{
         "dbp:id":"Luxembourg",
-        "digitalenvoy:country_code":[
-            442
-        ],
+        "digitalenvoy:country_code":442,
         "fb:id":"en.luxembourg",
         "fifa:id":"LUX",
         "fips:code":"LU",
@@ -1187,7 +1185,7 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1583529176,
+    "wof:lastmodified":1583797383,
     "wof:name":"Luxembourg",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
