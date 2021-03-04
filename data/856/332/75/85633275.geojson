@@ -279,12 +279,12 @@
         "Luxemburgista"
     ],
     "name:fra_x_preferred":[
-        "Luxembourg (pays)"
+        "Luxembourg"
     ],
     "name:fra_x_variant":[
         "Grand-Duch\u00e9 de Luxembourg",
         "Ljuksemburg",
-        "Luxembourg"
+        "Luxembourg (pays)"
     ],
     "name:frp_x_preferred":[
         "Luxemb\u00f4rg (payis)"
@@ -1185,7 +1185,7 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1583797383,
+    "wof:lastmodified":1614895063,
     "wof:name":"Luxembourg",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
