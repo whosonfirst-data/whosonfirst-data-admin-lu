@@ -25,7 +25,17 @@
     "wof:geomhash":"48efd5dec9506dfd9a3ac335bbaa65fb",
     "wof:hierarchy":[],
     "wof:id":1745984191,
-    "wof:lastmodified":1625088925,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167952,
     "wof:name":"Vall\u00e9e de l'Ernz",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

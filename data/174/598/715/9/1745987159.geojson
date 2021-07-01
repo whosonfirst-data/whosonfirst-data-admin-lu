@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":454,
     "iso:country":"LU",
-    "lbl:bbox":"6.04194,50.03333,6.08194,50.07333",
     "lbl:latitude":50.05333,
     "lbl:longitude":6.06194,
     "lbl:max_zoom":17.0,
@@ -89,7 +88,17 @@
     "wof:geomhash":"f49918f3b7dd2008713a9ef232258d79",
     "wof:hierarchy":[],
     "wof:id":1745987159,
-    "wof:lastmodified":1625097457,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167948,
     "wof:name":"Marnach",
     "wof:parent_id":85673865,
     "wof:placetype":"neighbourhood",

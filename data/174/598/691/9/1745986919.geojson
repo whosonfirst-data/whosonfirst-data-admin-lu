@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":359,
     "iso:country":"LU",
-    "lbl:bbox":"6.3075,49.52444,6.3475,49.56444",
     "lbl:latitude":49.54444,
     "lbl:longitude":6.3275,
     "lbl:max_zoom":17.0,
@@ -52,7 +51,17 @@
     "wof:geomhash":"1dd8b5dc0bdd338e16650a512464035a",
     "wof:hierarchy":[],
     "wof:id":1745986919,
-    "wof:lastmodified":1625097362,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167959,
     "wof:name":"Erpeldange-lez-Bous",
     "wof:parent_id":85673869,
     "wof:placetype":"neighbourhood",

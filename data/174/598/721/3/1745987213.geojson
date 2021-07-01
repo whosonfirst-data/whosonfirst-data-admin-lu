@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":53,
     "iso:country":"LU",
-    "lbl:bbox":"6.04667,50.00889,6.08667,50.04889",
     "lbl:latitude":50.02889,
     "lbl:longitude":6.06667,
     "lbl:max_zoom":18.0,
@@ -61,7 +60,17 @@
     "wof:geomhash":"b11d4eda709fbf4831834fb9ad5ea6a1",
     "wof:hierarchy":[],
     "wof:id":1745987213,
-    "wof:lastmodified":1625097476,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167961,
     "wof:name":"Neidhausen",
     "wof:parent_id":85673865,
     "wof:placetype":"neighbourhood",

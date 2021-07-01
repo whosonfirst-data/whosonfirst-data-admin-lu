@@ -13,7 +13,6 @@
     "gn:fcode":"PPLL",
     "gn:population":51,
     "iso:country":"LU",
-    "lbl:bbox":"5.84083,49.94028,5.88083,49.98028",
     "lbl:latitude":49.96028,
     "lbl:longitude":5.86083,
     "lbl:max_zoom":18.0,
@@ -68,7 +67,17 @@
     "wof:geomhash":"61b83d2417a08f4eda82b9cf58ae29b1",
     "wof:hierarchy":[],
     "wof:id":1745987093,
-    "wof:lastmodified":1625097432,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167938,
     "wof:name":"Pommerloch",
     "wof:parent_id":85673865,
     "wof:placetype":"neighbourhood",

@@ -11,7 +11,6 @@
     "geom:longitude":5.969666,
     "gn:country":null,
     "iso:country":"LU",
-    "lbl:bbox":"5.949666,49.617683,5.989666,49.657683",
     "lbl:latitude":49.637683,
     "lbl:longitude":5.969666,
     "lbl:max_zoom":18.0,
@@ -75,7 +74,17 @@
     "wof:geomhash":"5958fa4dd5823420dcdb87d8a4d40228",
     "wof:hierarchy":[],
     "wof:id":1745986935,
-    "wof:lastmodified":1625097368,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167944,
     "wof:name":"Windhof",
     "wof:parent_id":85673875,
     "wof:placetype":"neighbourhood",

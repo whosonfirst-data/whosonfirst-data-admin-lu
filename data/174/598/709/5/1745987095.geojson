@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":306,
     "iso:country":"LU",
-    "lbl:bbox":"6.10028,49.51028,6.14028,49.55028",
     "lbl:latitude":49.53028,
     "lbl:longitude":6.12028,
     "lbl:max_zoom":17.0,
@@ -86,7 +85,17 @@
     "wof:geomhash":"f4532cac768d4686c3c12e1a896205c0",
     "wof:hierarchy":[],
     "wof:id":1745987095,
-    "wof:lastmodified":1625097433,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167938,
     "wof:name":"Livange",
     "wof:parent_id":85673875,
     "wof:placetype":"neighbourhood",

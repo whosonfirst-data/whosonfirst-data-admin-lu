@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":307,
     "iso:country":"LU",
-    "lbl:bbox":"6.33694,49.49167,6.37694,49.53167",
     "lbl:latitude":49.51167,
     "lbl:longitude":6.35694,
     "lbl:max_zoom":17.0,
@@ -86,7 +85,17 @@
     "wof:geomhash":"826715d189eefdd9264eb5bbe4a6354b",
     "wof:hierarchy":[],
     "wof:id":1745986899,
-    "wof:lastmodified":1625097354,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167941,
     "wof:name":"Schwebsingen",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

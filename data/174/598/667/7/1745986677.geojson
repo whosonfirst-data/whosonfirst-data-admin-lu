@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":153,
     "iso:country":"LU",
-    "lbl:bbox":"5.9375,49.73167,5.9775,49.77167",
     "lbl:latitude":49.75167,
     "lbl:longitude":5.9575,
     "lbl:max_zoom":18.0,
@@ -89,7 +88,17 @@
     "wof:geomhash":"0271d34828c8619f04c130a3827682d8",
     "wof:hierarchy":[],
     "wof:id":1745986677,
-    "wof:lastmodified":1625097264,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167944,
     "wof:name":"Rippweiler",
     "wof:parent_id":85673865,
     "wof:placetype":"neighbourhood",

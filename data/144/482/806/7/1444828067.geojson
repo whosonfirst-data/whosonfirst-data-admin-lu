@@ -6,11 +6,10 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"6.13693230266,49.6085968546,6.13693230266,49.6085968546",
+    "geom:bbox":"6.136932,49.608597,6.136932,49.608597",
     "geom:latitude":49.608597,
     "geom:longitude":6.136932,
     "iso:country":"LU",
-    "lbl:bbox":"6.13193230266,49.6035968546,6.14193230266,49.6135968546",
     "lbl:latitude":49.608597,
     "lbl:longitude":6.136932,
     "lbl:max_zoom":18.0,
@@ -42,7 +41,7 @@
     ],
     "wof:breaches":[],
     "wof:country":"LU",
-    "wof:geomhash":"87b63eee68e150ee4ccd6ffe45423aad",
+    "wof:geomhash":"3e87a1f79753c0072c894397b28e37dd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -53,7 +52,17 @@
         }
     ],
     "wof:id":1444828067,
-    "wof:lastmodified":1566598616,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167965,
     "wof:name":"Gronn",
     "wof:parent_id":101751765,
     "wof:placetype":"neighbourhood",
@@ -63,10 +72,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    6.13693230266394,
-    49.60859685463922,
-    6.13693230266394,
-    49.60859685463922
+    6.136932,
+    49.608597,
+    6.136932,
+    49.608597
 ],
-  "geometry": {"coordinates":[6.13693230266394,49.60859685463922],"type":"Point"}
+  "geometry": {"coordinates":[6.136932,49.608597],"type":"Point"}
 }

@@ -13,7 +13,6 @@
     "gn:fcode":"PPLL",
     "gn:population":50,
     "iso:country":"LU",
-    "lbl:bbox":"6.32056,49.68667,6.36056,49.72667",
     "lbl:latitude":49.70667,
     "lbl:longitude":6.34056,
     "lbl:max_zoom":18.0,
@@ -49,7 +48,17 @@
     "wof:geomhash":"dc6930c7eadfeffa1286f4a6f4751c4d",
     "wof:hierarchy":[],
     "wof:id":1745987395,
-    "wof:lastmodified":1625097548,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167937,
     "wof:name":"Breinert",
     "wof:parent_id":85673869,
     "wof:placetype":"neighbourhood",

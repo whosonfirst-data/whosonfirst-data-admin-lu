@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":423,
     "iso:country":"LU",
-    "lbl:bbox":"6.20167,49.54194,6.24167,49.58194",
     "lbl:latitude":49.56194,
     "lbl:longitude":6.22167,
     "lbl:max_zoom":17.0,
@@ -87,7 +86,17 @@
     "wof:geomhash":"624fdb4141847ef45e8da2430c68189c",
     "wof:hierarchy":[],
     "wof:id":1745986759,
-    "wof:lastmodified":1625097303,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167939,
     "wof:name":"Syren",
     "wof:parent_id":85673875,
     "wof:placetype":"neighbourhood",

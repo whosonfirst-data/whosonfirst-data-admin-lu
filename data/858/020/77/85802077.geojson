@@ -10,7 +10,6 @@
     "geom:latitude":49.611996,
     "geom:longitude":6.167415,
     "iso:country":"LU",
-    "lbl:bbox":"6.162415,49.606996,6.172415,49.616996",
     "lbl:latitude":49.611996,
     "lbl:longitude":6.167415,
     "lbl:max_zoom":18.0,
@@ -125,7 +124,17 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582349490,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167935,
     "wof:name":"Hamm",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

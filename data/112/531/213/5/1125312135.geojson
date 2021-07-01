@@ -73,7 +73,17 @@
         }
     ],
     "wof:id":1125312135,
-    "wof:lastmodified":1624995617,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167974,
     "wof:name":"Kiischpelt",
     "wof:parent_id":85673865,
     "wof:placetype":"localadmin",

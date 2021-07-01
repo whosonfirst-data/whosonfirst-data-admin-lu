@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":111,
     "iso:country":"LU",
-    "lbl:bbox":"6.00167,49.52139,6.04167,49.56139",
     "lbl:latitude":49.54139,
     "lbl:longitude":6.02167,
     "lbl:max_zoom":18.0,
@@ -90,7 +89,17 @@
     "wof:geomhash":"1620abe8d7adb98f40dd31cfe4bb2b95",
     "wof:hierarchy":[],
     "wof:id":1745986799,
-    "wof:lastmodified":1625097316,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167955,
     "wof:name":"Wickrange",
     "wof:parent_id":85673875,
     "wof:placetype":"neighbourhood",

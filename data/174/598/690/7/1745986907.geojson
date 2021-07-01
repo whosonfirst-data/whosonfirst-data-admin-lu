@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":164,
     "iso:country":"LU",
-    "lbl:bbox":"6.38056,49.62667,6.42056,49.66667",
     "lbl:latitude":49.64667,
     "lbl:longitude":6.40056,
     "lbl:max_zoom":18.0,
@@ -89,7 +88,17 @@
     "wof:geomhash":"164e9c3b2c5e398029ccfd0e52d8b183",
     "wof:hierarchy":[],
     "wof:id":1745986907,
-    "wof:lastmodified":1625097357,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167957,
     "wof:name":"Oberdonven",
     "wof:parent_id":85673869,
     "wof:placetype":"neighbourhood",

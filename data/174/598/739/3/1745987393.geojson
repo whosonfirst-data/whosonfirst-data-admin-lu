@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":69,
     "iso:country":"LU",
-    "lbl:bbox":"6.335,49.69778,6.375,49.73778",
     "lbl:latitude":49.71778,
     "lbl:longitude":6.355,
     "lbl:max_zoom":18.0,
@@ -52,7 +51,17 @@
     "wof:geomhash":"e9ce64ec855f6540d7ba79ae4f3180ea",
     "wof:hierarchy":[],
     "wof:id":1745987393,
-    "wof:lastmodified":1625097548,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167936,
     "wof:name":"Boudler",
     "wof:parent_id":85673869,
     "wof:placetype":"neighbourhood",

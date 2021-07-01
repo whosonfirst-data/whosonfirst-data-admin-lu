@@ -13,7 +13,6 @@
     "gn:fcode":"PPLX",
     "gn:population":402,
     "iso:country":"LU",
-    "lbl:bbox":"5.8325,49.52,5.8425,49.53",
     "lbl:latitude":49.525,
     "lbl:longitude":5.8375,
     "lbl:max_zoom":18.0,
@@ -82,7 +81,17 @@
         }
     ],
     "wof:id":1126063951,
-    "wof:lastmodified":1566598680,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167975,
     "wof:name":"Lasauvage",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

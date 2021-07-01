@@ -25,7 +25,17 @@
     "wof:geomhash":"1ecf526630a200bfcc1025954ec580a6",
     "wof:hierarchy":[],
     "wof:id":1745984181,
-    "wof:lastmodified":1625088917,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167955,
     "wof:name":"Kiischpelt",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

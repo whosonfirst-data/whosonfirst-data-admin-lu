@@ -137,7 +137,17 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1625088924,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167968,
     "wof:name":"Schuttrange",
     "wof:parent_id":85673875,
     "wof:placetype":"locality",

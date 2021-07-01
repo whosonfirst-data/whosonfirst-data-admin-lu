@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":13,
     "iso:country":"LU",
-    "lbl:bbox":"5.98778,50.08722,6.02778,50.12722",
     "lbl:latitude":50.10722,
     "lbl:longitude":6.00778,
     "lbl:max_zoom":18.0,
@@ -64,7 +63,17 @@
     "wof:geomhash":"b6b2cec7000d23b6c96aac888117886e",
     "wof:hierarchy":[],
     "wof:id":1745987223,
-    "wof:lastmodified":1625097480,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167947,
     "wof:name":"Couvent",
     "wof:parent_id":85673865,
     "wof:placetype":"neighbourhood",

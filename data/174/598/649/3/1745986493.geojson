@@ -24,7 +24,6 @@
     "gn:population":0,
     "gn:timezone":"Europe/Luxembourg",
     "iso:country":"LU",
-    "lbl:bbox":"5.98,49.73,6.02,49.77",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
@@ -43,7 +42,17 @@
     "wof:geomhash":"76c548e7b57eb260e2ebcc2c83320373",
     "wof:hierarchy":[],
     "wof:id":1745986493,
-    "wof:lastmodified":1625097121,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167953,
     "wof:name":"Geimer",
     "wof:parent_id":85673875,
     "wof:placetype":"neighbourhood",

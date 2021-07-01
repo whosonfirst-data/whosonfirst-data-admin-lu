@@ -10,7 +10,6 @@
     "geom:latitude":49.810855,
     "geom:longitude":6.082443,
     "iso:country":"LU",
-    "lbl:bbox":"6.062443,49.790855,6.102443,49.830855",
     "lbl:latitude":49.810855,
     "lbl:longitude":6.082443,
     "lbl:max_zoom":18.0,
@@ -90,7 +89,17 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1625097232,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167957,
     "wof:name":"Berg",
     "wof:parent_id":85673875,
     "wof:placetype":"neighbourhood",

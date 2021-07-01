@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":285,
     "iso:country":"LU",
-    "lbl:bbox":"6.13917,49.77778,6.17917,49.81778",
     "lbl:latitude":49.79778,
     "lbl:longitude":6.15917,
     "lbl:max_zoom":17.0,
@@ -84,7 +83,17 @@
     "wof:geomhash":"84c4ddb678ffc835a8665cb1b6df5184",
     "wof:hierarchy":[],
     "wof:id":1745986737,
-    "wof:lastmodified":1625097294,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167942,
     "wof:name":"Schrondweiler",
     "wof:parent_id":85673875,
     "wof:placetype":"neighbourhood",

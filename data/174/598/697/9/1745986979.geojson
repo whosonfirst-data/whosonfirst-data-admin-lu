@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":370,
     "iso:country":"LU",
-    "lbl:bbox":"5.93556,49.75417,5.97556,49.79417",
     "lbl:latitude":49.77417,
     "lbl:longitude":5.95556,
     "lbl:max_zoom":17.0,
@@ -89,7 +88,17 @@
     "wof:geomhash":"5bf7f52a350c150f3e378c571d4aba18",
     "wof:hierarchy":[],
     "wof:id":1745986979,
-    "wof:lastmodified":1625097384,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167958,
     "wof:name":"Everlange",
     "wof:parent_id":85673865,
     "wof:placetype":"neighbourhood",

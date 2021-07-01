@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":170,
     "iso:country":"LU",
-    "lbl:bbox":"6.16528,49.66667,6.20528,49.70667",
     "lbl:latitude":49.68667,
     "lbl:longitude":6.18528,
     "lbl:max_zoom":18.0,
@@ -89,7 +88,17 @@
     "wof:geomhash":"4e230431b2ebd14ae39b8eff4e096e03",
     "wof:hierarchy":[],
     "wof:id":1745987389,
-    "wof:lastmodified":1625097547,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167938,
     "wof:name":"Eisenborn",
     "wof:parent_id":85673875,
     "wof:placetype":"neighbourhood",

@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":102,
     "iso:country":"LU",
-    "lbl:bbox":"6.22861,49.55278,6.26861,49.59278",
     "lbl:latitude":49.57278,
     "lbl:longitude":6.24861,
     "lbl:max_zoom":18.0,
@@ -89,7 +88,17 @@
     "wof:geomhash":"c5821aa715598635e88195757851e28f",
     "wof:hierarchy":[],
     "wof:id":1745986943,
-    "wof:lastmodified":1625097371,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167943,
     "wof:name":"Medingen",
     "wof:parent_id":85673875,
     "wof:placetype":"neighbourhood",

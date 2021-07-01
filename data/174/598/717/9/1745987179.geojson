@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":54,
     "iso:country":"LU",
-    "lbl:bbox":"6.02667,50.05556,6.06667,50.09556",
     "lbl:latitude":50.07556,
     "lbl:longitude":6.04667,
     "lbl:max_zoom":18.0,
@@ -89,7 +88,17 @@
     "wof:geomhash":"b7cc1cf2d2a47c83e68323aeeca12a4b",
     "wof:hierarchy":[],
     "wof:id":1745987179,
-    "wof:lastmodified":1625097464,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167962,
     "wof:name":"Urspelt",
     "wof:parent_id":85673865,
     "wof:placetype":"neighbourhood",

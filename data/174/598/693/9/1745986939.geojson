@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":19,
     "iso:country":"LU",
-    "lbl:bbox":"6.34556,49.66778,6.38556,49.70778",
     "lbl:latitude":49.68778,
     "lbl:longitude":6.36556,
     "lbl:max_zoom":18.0,
@@ -83,7 +82,17 @@
     "wof:geomhash":"f4c91b76503fbe37fa420926613c191a",
     "wof:hierarchy":[],
     "wof:id":1745986939,
-    "wof:lastmodified":1625097370,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167944,
     "wof:name":"Hagelsdorf",
     "wof:parent_id":85673869,
     "wof:placetype":"neighbourhood",

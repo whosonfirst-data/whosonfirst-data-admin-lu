@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":66,
     "iso:country":"LU",
-    "lbl:bbox":"5.98028,49.52944,6.02028,49.56944",
     "lbl:latitude":49.54944,
     "lbl:longitude":6.00028,
     "lbl:max_zoom":18.0,
@@ -59,7 +58,17 @@
     "wof:geomhash":"5dce39de71602fe9fecc9bc342ee2652",
     "wof:hierarchy":[],
     "wof:id":1745986753,
-    "wof:lastmodified":1625097300,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167939,
     "wof:name":"Pissange",
     "wof:parent_id":85673875,
     "wof:placetype":"neighbourhood",

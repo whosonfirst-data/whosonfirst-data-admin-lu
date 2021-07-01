@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":78,
     "iso:country":"LU",
-    "lbl:bbox":"6.08889,50.14083,6.12889,50.18083",
     "lbl:latitude":50.16083,
     "lbl:longitude":6.10889,
     "lbl:max_zoom":18.0,
@@ -75,7 +74,17 @@
     "wof:geomhash":"e7d2bbd9a473f30a1a21bf60e458a4fe",
     "wof:hierarchy":[],
     "wof:id":1745986913,
-    "wof:lastmodified":1625097359,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167959,
     "wof:name":"Leithum",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

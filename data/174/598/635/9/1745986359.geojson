@@ -25,7 +25,6 @@
     "gn:population":0,
     "gn:timezone":"Europe/Luxembourg",
     "iso:country":"LU",
-    "lbl:bbox":"5.88611,49.96167,5.92611,50.00167",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
@@ -83,7 +82,17 @@
     "wof:geomhash":"06805fd65096d27ac4fc1e4f87db1c60",
     "wof:hierarchy":[],
     "wof:id":1745986359,
-    "wof:lastmodified":1625097071,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167945,
     "wof:name":"Brill",
     "wof:parent_id":85673865,
     "wof:placetype":"neighbourhood",

@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":37,
     "iso:country":"LU",
-    "lbl:bbox":"5.87861,49.71611,5.91861,49.75611",
     "lbl:latitude":49.73611,
     "lbl:longitude":5.89861,
     "lbl:max_zoom":18.0,
@@ -61,7 +60,17 @@
     "wof:geomhash":"7b05414f872cd9f06999833569c217ba",
     "wof:hierarchy":[],
     "wof:id":1745987107,
-    "wof:lastmodified":1625097437,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167962,
     "wof:name":"Huttange",
     "wof:parent_id":85673865,
     "wof:placetype":"neighbourhood",

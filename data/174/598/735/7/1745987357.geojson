@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":190,
     "iso:country":"LU",
-    "lbl:bbox":"6.30656,49.73009,6.34656,49.77009",
     "lbl:latitude":49.75009,
     "lbl:longitude":6.32656,
     "lbl:max_zoom":18.0,
@@ -324,7 +323,17 @@
     "wof:geomhash":"d066753330d5cc186040f3b8f6eca05f",
     "wof:hierarchy":[],
     "wof:id":1745987357,
-    "wof:lastmodified":1625097534,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167951,
     "wof:name":"Trier",
     "wof:parent_id":85673869,
     "wof:placetype":"neighbourhood",

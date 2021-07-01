@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":1586,
     "iso:country":"LU",
-    "lbl:bbox":"6.12222,49.64861,6.16222,49.68861",
     "lbl:latitude":49.66861,
     "lbl:longitude":6.14222,
     "lbl:max_zoom":16.0,
@@ -66,7 +65,17 @@
     "wof:geomhash":"7ba61cebc2c5b44c369988460bb18e11",
     "wof:hierarchy":[],
     "wof:id":1745986711,
-    "wof:lastmodified":1625097284,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167954,
     "wof:name":"Heisdorf-sur-Alzette",
     "wof:parent_id":85673875,
     "wof:placetype":"neighbourhood",

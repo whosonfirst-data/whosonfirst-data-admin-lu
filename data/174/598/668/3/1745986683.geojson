@@ -11,7 +11,6 @@
     "geom:longitude":5.835092,
     "gn:country":"LU",
     "iso:country":"LU",
-    "lbl:bbox":"5.815092,49.503915,5.855092,49.543915",
     "lbl:latitude":49.523915,
     "lbl:longitude":5.835092,
     "lbl:max_zoom":18.0,
@@ -87,7 +86,17 @@
     "wof:geomhash":"30c726a8c76d833c1b1415744996f9ce",
     "wof:hierarchy":[],
     "wof:id":1745986683,
-    "wof:lastmodified":1625097273,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167946,
     "wof:name":"Lasauvage",
     "wof:parent_id":102069785,
     "wof:placetype":"neighbourhood",

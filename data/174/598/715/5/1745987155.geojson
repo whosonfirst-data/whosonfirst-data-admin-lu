@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":50,
     "iso:country":"LU",
-    "lbl:bbox":"5.98972,49.95111,6.02972,49.99111",
     "lbl:latitude":49.97111,
     "lbl:longitude":6.00972,
     "lbl:max_zoom":18.0,
@@ -89,7 +88,17 @@
     "wof:geomhash":"a02ad6d31df3cb5d462d48bdc3664383",
     "wof:hierarchy":[],
     "wof:id":1745987155,
-    "wof:lastmodified":1625097456,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167948,
     "wof:name":"Alscheid",
     "wof:parent_id":85673865,
     "wof:placetype":"neighbourhood",

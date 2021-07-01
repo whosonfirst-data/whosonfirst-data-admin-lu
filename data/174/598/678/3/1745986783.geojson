@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":114,
     "iso:country":"LU",
-    "lbl:bbox":"6.04889,50.05528,6.08889,50.09528",
     "lbl:latitude":50.07528,
     "lbl:longitude":6.06889,
     "lbl:max_zoom":18.0,
@@ -62,7 +61,17 @@
     "wof:geomhash":"79d5c62a408c7d7ec3d3d430a5b41b5e",
     "wof:hierarchy":[],
     "wof:id":1745986783,
-    "wof:lastmodified":1625097311,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167954,
     "wof:name":"Fischbach-l\u00e8s-Clervaux",
     "wof:parent_id":85673865,
     "wof:placetype":"neighbourhood",

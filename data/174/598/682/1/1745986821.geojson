@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":113,
     "iso:country":"LU",
-    "lbl:bbox":"5.81972,49.76944,5.85972,49.80944",
     "lbl:latitude":49.78944,
     "lbl:longitude":5.83972,
     "lbl:max_zoom":18.0,
@@ -90,7 +89,17 @@
     "wof:geomhash":"4a3a6780aac1e1020f909c764dd33ae7",
     "wof:hierarchy":[],
     "wof:id":1745986821,
-    "wof:lastmodified":1625097325,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167953,
     "wof:name":"Lannen",
     "wof:parent_id":85673865,
     "wof:placetype":"neighbourhood",

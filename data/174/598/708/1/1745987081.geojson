@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":872,
     "iso:country":"LU",
-    "lbl:bbox":"5.89639,49.62639,5.93639,49.66639",
     "lbl:latitude":49.64639,
     "lbl:longitude":5.91639,
     "lbl:max_zoom":17.0,
@@ -91,7 +90,17 @@
     "wof:geomhash":"aa7f078da768b0611740a5aeea9e3c43",
     "wof:hierarchy":[],
     "wof:id":1745987081,
-    "wof:lastmodified":1625097428,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167937,
     "wof:name":"Kleinbettingen",
     "wof:parent_id":85673875,
     "wof:placetype":"neighbourhood",

@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":38,
     "iso:country":"LU",
-    "lbl:bbox":"6.12306,49.94083,6.16306,49.98083",
     "lbl:latitude":49.96083,
     "lbl:longitude":6.14306,
     "lbl:max_zoom":18.0,
@@ -155,7 +154,17 @@
     "wof:geomhash":"7af30171357f2e76d6a0825d06d6dfd8",
     "wof:hierarchy":[],
     "wof:id":1745987243,
-    "wof:lastmodified":1625097490,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167949,
     "wof:name":"Utscheid",
     "wof:parent_id":85673865,
     "wof:placetype":"neighbourhood",

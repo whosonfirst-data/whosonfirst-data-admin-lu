@@ -147,7 +147,17 @@
         }
     ],
     "wof:id":1125947927,
-    "wof:lastmodified":1625088923,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167969,
     "wof:name":"Roeser",
     "wof:parent_id":85673875,
     "wof:placetype":"locality",

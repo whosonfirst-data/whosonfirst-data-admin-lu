@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":142,
     "iso:country":"LU",
-    "lbl:bbox":"6.41639,49.69611,6.45639,49.73611",
     "lbl:latitude":49.71611,
     "lbl:longitude":6.43639,
     "lbl:max_zoom":18.0,
@@ -92,7 +91,17 @@
     "wof:geomhash":"b8d48d875284a652aff1fd6473b8c440",
     "wof:hierarchy":[],
     "wof:id":1745987097,
-    "wof:lastmodified":1625097434,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167938,
     "wof:name":"Lellig",
     "wof:parent_id":85673869,
     "wof:placetype":"neighbourhood",

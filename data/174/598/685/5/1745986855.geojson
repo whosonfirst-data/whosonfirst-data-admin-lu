@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":183,
     "iso:country":"LU",
-    "lbl:bbox":"5.84083,49.99667,5.88083,50.03667",
     "lbl:latitude":50.01667,
     "lbl:longitude":5.86083,
     "lbl:max_zoom":18.0,
@@ -89,7 +88,17 @@
     "wof:geomhash":"0704f1d2f9bb5472fc85871014d6f538",
     "wof:hierarchy":[],
     "wof:id":1745986855,
-    "wof:lastmodified":1625097338,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167953,
     "wof:name":"Oberwampach",
     "wof:parent_id":85673865,
     "wof:placetype":"neighbourhood",

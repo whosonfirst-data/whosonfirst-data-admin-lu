@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":65,
     "iso:country":"LU",
-    "lbl:bbox":"5.86722,49.8575,5.90722,49.8975",
     "lbl:latitude":49.8775,
     "lbl:longitude":5.88722,
     "lbl:max_zoom":18.0,
@@ -127,7 +126,17 @@
     "wof:geomhash":"5e51dcc352a131ddad0229954eb2a273",
     "wof:hierarchy":[],
     "wof:id":1745987263,
-    "wof:lastmodified":1625097497,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167961,
     "wof:name":"Neunhausen",
     "wof:parent_id":85673865,
     "wof:placetype":"neighbourhood",

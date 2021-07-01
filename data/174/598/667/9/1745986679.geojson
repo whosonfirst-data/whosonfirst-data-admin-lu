@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":66,
     "iso:country":"LU",
-    "lbl:bbox":"6.06361,50.03583,6.10361,50.07583",
     "lbl:latitude":50.05583,
     "lbl:longitude":6.08361,
     "lbl:max_zoom":18.0,
@@ -83,7 +82,17 @@
     "wof:geomhash":"12d528368b964e5e994b5edf7ecd2b63",
     "wof:hierarchy":[],
     "wof:id":1745986679,
-    "wof:lastmodified":1625097269,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167944,
     "wof:name":"Roder",
     "wof:parent_id":85673865,
     "wof:placetype":"neighbourhood",

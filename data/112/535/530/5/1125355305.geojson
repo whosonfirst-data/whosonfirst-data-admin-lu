@@ -145,7 +145,17 @@
         }
     ],
     "wof:id":1125355305,
-    "wof:lastmodified":1624995636,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167970,
     "wof:name":"Walferdange",
     "wof:parent_id":85673875,
     "wof:placetype":"localadmin",

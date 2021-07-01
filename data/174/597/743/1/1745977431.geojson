@@ -27,7 +27,17 @@
     "wof:geomhash":"7a1256e255854423eb4374e27e60f6e2",
     "wof:hierarchy":[],
     "wof:id":1745977431,
-    "wof:lastmodified":1624925182,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167935,
     "wof:name":"Redange",
     "wof:parent_id":-1,
     "wof:placetype":"region",

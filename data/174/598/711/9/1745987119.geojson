@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":342,
     "iso:country":"LU",
-    "lbl:bbox":"6.33444,49.59917,6.37444,49.63917",
     "lbl:latitude":49.61917,
     "lbl:longitude":6.35444,
     "lbl:max_zoom":17.0,
@@ -86,7 +85,17 @@
     "wof:geomhash":"bf694f6e85e22d20a9f775e8d159de76",
     "wof:hierarchy":[],
     "wof:id":1745987119,
-    "wof:lastmodified":1625097442,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167963,
     "wof:name":"Gostingen",
     "wof:parent_id":85673869,
     "wof:placetype":"neighbourhood",

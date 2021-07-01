@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":113,
     "iso:country":"LU",
-    "lbl:bbox":"6.29944,49.71417,6.33944,49.75417",
     "lbl:latitude":49.73417,
     "lbl:longitude":6.31944,
     "lbl:max_zoom":18.0,
@@ -89,7 +88,17 @@
     "wof:geomhash":"c81ee14283ca2b13f5a28c73e850e75a",
     "wof:hierarchy":[],
     "wof:id":1745986937,
-    "wof:lastmodified":1625097369,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167944,
     "wof:name":"Rippig",
     "wof:parent_id":85673869,
     "wof:placetype":"neighbourhood",

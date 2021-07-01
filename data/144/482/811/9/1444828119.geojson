@@ -6,11 +6,10 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"6.12173646317,49.621961965,6.12173646317,49.621961965",
+    "geom:bbox":"6.121736,49.621962,6.121736,49.621962",
     "geom:latitude":49.621962,
     "geom:longitude":6.121736,
     "iso:country":"LU",
-    "lbl:bbox":"6.11673646317,49.616961965,6.12673646317,49.626961965",
     "lbl:latitude":49.621962,
     "lbl:longitude":6.121736,
     "lbl:max_zoom":18.0,
@@ -42,7 +41,7 @@
     ],
     "wof:breaches":[],
     "wof:country":"LU",
-    "wof:geomhash":"c93e1f5410f345305d3485ea7dc9792b",
+    "wof:geomhash":"cbaebad46976e6ce69d58eb366c9d011",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -53,20 +52,32 @@
         }
     ],
     "wof:id":1444828119,
-    "wof:lastmodified":1566598615,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167964,
     "wof:name":"Lampertsbierg",
     "wof:parent_id":101751765,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-lu",
     "wof:superseded_by":[],
-    "wof:supersedes":[1125799161],
+    "wof:supersedes":[
+        1125799161
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    6.12173646316881,
-    49.62196196502001,
-    6.12173646316881,
-    49.62196196502001
+    6.121736,
+    49.621962,
+    6.121736,
+    49.621962
 ],
-  "geometry": {"coordinates":[6.12173646316881,49.62196196502001],"type":"Point"}
+  "geometry": {"coordinates":[6.121736,49.621962],"type":"Point"}
 }

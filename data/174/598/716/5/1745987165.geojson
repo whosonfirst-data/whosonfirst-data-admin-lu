@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":220,
     "iso:country":"LU",
-    "lbl:bbox":"5.96944,50.01833,6.00944,50.05833",
     "lbl:latitude":50.03833,
     "lbl:longitude":5.98944,
     "lbl:max_zoom":17.0,
@@ -92,7 +91,17 @@
     "wof:geomhash":"35f9bd1ef9401fdc4b8ad5110a426e89",
     "wof:hierarchy":[],
     "wof:id":1745987165,
-    "wof:lastmodified":1625097460,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167963,
     "wof:name":"Weicherdange",
     "wof:parent_id":85673865,
     "wof:placetype":"neighbourhood",

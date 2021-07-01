@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":191,
     "iso:country":"LU",
-    "lbl:bbox":"6.30306,49.46528,6.34306,49.50528",
     "lbl:latitude":49.48528,
     "lbl:longitude":6.32306,
     "lbl:max_zoom":18.0,
@@ -125,7 +124,17 @@
     "wof:geomhash":"cdaf0ae04bcea934eb7e2efd89363172",
     "wof:hierarchy":[],
     "wof:id":1745986903,
-    "wof:lastmodified":1625097356,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167957,
     "wof:name":"Burmerange",
     "wof:parent_id":85673869,
     "wof:placetype":"neighbourhood",

@@ -27,7 +27,17 @@
     "wof:geomhash":"0d36db6008581a0f715ac53a0ee385c9",
     "wof:hierarchy":[],
     "wof:id":1745977427,
-    "wof:lastmodified":1624925179,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167936,
     "wof:name":"Luxembourg",
     "wof:parent_id":-1,
     "wof:placetype":"region",

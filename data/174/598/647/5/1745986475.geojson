@@ -25,7 +25,6 @@
     "gn:population":0,
     "gn:timezone":"Europe/Luxembourg",
     "iso:country":"LU",
-    "lbl:bbox":"6.04667,49.93,6.08667,49.97",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
@@ -48,7 +47,17 @@
     "wof:geomhash":"cdf57bcca749f3a05c41c610f4ffb5fa",
     "wof:hierarchy":[],
     "wof:id":1745986475,
-    "wof:lastmodified":1625097115,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167954,
     "wof:name":"Oberschlinder",
     "wof:parent_id":85673865,
     "wof:placetype":"neighbourhood",

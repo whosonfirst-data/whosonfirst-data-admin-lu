@@ -193,7 +193,17 @@
         }
     ],
     "wof:id":1125306051,
-    "wof:lastmodified":1624995636,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167974,
     "wof:name":"Ell",
     "wof:parent_id":85673865,
     "wof:placetype":"localadmin",

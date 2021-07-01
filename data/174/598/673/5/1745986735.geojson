@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":541,
     "iso:country":"LU",
-    "lbl:bbox":"5.91472,49.77111,5.95472,49.81111",
     "lbl:latitude":49.79111,
     "lbl:longitude":5.93472,
     "lbl:max_zoom":17.0,
@@ -84,7 +83,17 @@
     "wof:geomhash":"fd34da271fd0bb4909d857442fbbc07f",
     "wof:hierarchy":[],
     "wof:id":1745986735,
-    "wof:lastmodified":1625097293,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167942,
     "wof:name":"Platen",
     "wof:parent_id":85673865,
     "wof:placetype":"neighbourhood",

@@ -663,7 +663,17 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1625088919,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167966,
     "wof:megacity":0,
     "wof:name":"Luxembourg",
     "wof:parent_id":85673875,

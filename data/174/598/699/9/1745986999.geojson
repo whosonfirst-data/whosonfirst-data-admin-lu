@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":99,
     "iso:country":"LU",
-    "lbl:bbox":"6.27167,49.46694,6.31167,49.50694",
     "lbl:latitude":49.48694,
     "lbl:longitude":6.29167,
     "lbl:max_zoom":18.0,
@@ -59,7 +58,17 @@
     "wof:geomhash":"933a0a844ffa4c158544a97ae0b311f5",
     "wof:hierarchy":[],
     "wof:id":1745986999,
-    "wof:lastmodified":1625097393,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167957,
     "wof:name":"Emerange",
     "wof:parent_id":102065207,
     "wof:placetype":"neighbourhood",

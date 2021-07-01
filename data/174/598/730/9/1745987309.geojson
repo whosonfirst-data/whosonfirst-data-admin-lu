@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":299,
     "iso:country":"LU",
-    "lbl:bbox":"6.27833,49.5,6.31833,49.54",
     "lbl:latitude":49.52,
     "lbl:longitude":6.29833,
     "lbl:max_zoom":17.0,
@@ -88,7 +87,17 @@
     "wof:geomhash":"2735f4607ac30011b138b8502ba0383a",
     "wof:hierarchy":[],
     "wof:id":1745987309,
-    "wof:lastmodified":1625097515,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167937,
     "wof:name":"Ellange",
     "wof:parent_id":85673869,
     "wof:placetype":"neighbourhood",

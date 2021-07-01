@@ -24,7 +24,6 @@
     "gn:population":0,
     "gn:timezone":"Europe/Luxembourg",
     "iso:country":"LU",
-    "lbl:bbox":"6.30756,49.73629,6.34756,49.77629",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
@@ -109,7 +108,17 @@
     "wof:geomhash":"00559ef275e02457ae6860183812dbfa",
     "wof:hierarchy":[],
     "wof:id":1745986381,
-    "wof:lastmodified":1625097080,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167960,
     "wof:name":"Hersberg",
     "wof:parent_id":85673869,
     "wof:placetype":"neighbourhood",

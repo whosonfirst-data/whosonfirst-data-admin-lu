@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":215,
     "iso:country":"LU",
-    "lbl:bbox":"5.98222,49.67194,6.02222,49.71194",
     "lbl:latitude":49.69194,
     "lbl:longitude":6.00222,
     "lbl:max_zoom":17.0,
@@ -93,7 +92,17 @@
     "wof:geomhash":"c14fce9e91996cdee56b30e9bb04d8fb",
     "wof:hierarchy":[],
     "wof:id":1745986785,
-    "wof:lastmodified":1625097312,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167954,
     "wof:name":"Roodt-sur-Eisch",
     "wof:parent_id":85673875,
     "wof:placetype":"neighbourhood",

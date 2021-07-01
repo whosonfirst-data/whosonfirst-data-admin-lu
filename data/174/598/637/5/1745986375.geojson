@@ -25,7 +25,6 @@
     "gn:population":0,
     "gn:timezone":"Europe/Luxembourg",
     "iso:country":"LU",
-    "lbl:bbox":"5.95556,50.06,5.99556,50.1",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
@@ -66,7 +65,17 @@
     "wof:geomhash":"1ff55094f685eca9d0c61f329cf5274b",
     "wof:hierarchy":[],
     "wof:id":1745986375,
-    "wof:lastmodified":1625097078,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167958,
     "wof:name":"Rumlange",
     "wof:parent_id":85673865,
     "wof:placetype":"neighbourhood",

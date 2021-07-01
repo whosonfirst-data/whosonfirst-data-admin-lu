@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":292,
     "iso:country":"LU",
-    "lbl:bbox":"6.1775,49.6775,6.2175,49.7175",
     "lbl:latitude":49.6975,
     "lbl:longitude":6.1975,
     "lbl:max_zoom":17.0,
@@ -88,7 +87,17 @@
     "wof:geomhash":"2f4912e91c694582ce8964b4e8f415a3",
     "wof:hierarchy":[],
     "wof:id":1745987057,
-    "wof:lastmodified":1625097415,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167950,
     "wof:name":"Imbringen",
     "wof:parent_id":85673869,
     "wof:placetype":"neighbourhood",

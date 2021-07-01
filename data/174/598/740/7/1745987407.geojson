@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":398,
     "iso:country":"LU",
-    "lbl:bbox":"6.20194,49.74583,6.24194,49.78583",
     "lbl:latitude":49.76583,
     "lbl:longitude":6.22194,
     "lbl:max_zoom":17.0,
@@ -82,7 +81,17 @@
     "wof:geomhash":"265a4d9a4739fab8026695ac5721a956",
     "wof:hierarchy":[],
     "wof:id":1745987407,
-    "wof:lastmodified":1625097553,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167947,
     "wof:name":"Ernzen",
     "wof:parent_id":85673875,
     "wof:placetype":"neighbourhood",

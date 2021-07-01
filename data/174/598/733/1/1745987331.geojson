@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":32,
     "iso:country":"LU",
-    "lbl:bbox":"5.87083,49.88944,5.91083,49.92944",
     "lbl:latitude":49.90944,
     "lbl:longitude":5.89083,
     "lbl:max_zoom":18.0,
@@ -63,7 +62,17 @@
     "wof:geomhash":"fcabc71b49837a155f1b284e084a2cfe",
     "wof:hierarchy":[],
     "wof:id":1745987331,
-    "wof:lastmodified":1625097524,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167951,
     "wof:name":"Lultzhausen",
     "wof:parent_id":85673865,
     "wof:placetype":"neighbourhood",

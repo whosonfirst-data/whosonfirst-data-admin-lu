@@ -27,7 +27,17 @@
     "wof:geomhash":"fc9d6ad6988d5baa5e5ac7342226b1d8",
     "wof:hierarchy":[],
     "wof:id":1745980847,
-    "wof:lastmodified":1624995627,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167941,
     "wof:name":"Schengen",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

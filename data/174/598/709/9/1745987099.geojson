@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":124,
     "iso:country":"LU",
-    "lbl:bbox":"5.99917,50.11361,6.03917,50.15361",
     "lbl:latitude":50.13361,
     "lbl:longitude":6.01917,
     "lbl:max_zoom":18.0,
@@ -93,7 +92,17 @@
     "wof:geomhash":"7f0efb12fac8b4a018474c5075a7f46d",
     "wof:hierarchy":[],
     "wof:id":1745987099,
-    "wof:lastmodified":1625097435,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167938,
     "wof:name":"Drinklange",
     "wof:parent_id":85673865,
     "wof:placetype":"neighbourhood",

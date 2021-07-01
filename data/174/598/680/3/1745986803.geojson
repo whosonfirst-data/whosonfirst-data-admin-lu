@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":259,
     "iso:country":"LU",
-    "lbl:bbox":"5.9725,50.06389,6.0125,50.10389",
     "lbl:latitude":50.08389,
     "lbl:longitude":5.9925,
     "lbl:max_zoom":17.0,
@@ -88,7 +87,17 @@
     "wof:geomhash":"334fba50f5e4487c0949fe2c66da3fa6",
     "wof:hierarchy":[],
     "wof:id":1745986803,
-    "wof:lastmodified":1625097318,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167942,
     "wof:name":"Boxhorn",
     "wof:parent_id":85673865,
     "wof:placetype":"neighbourhood",

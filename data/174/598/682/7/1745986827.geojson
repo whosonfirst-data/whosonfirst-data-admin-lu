@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":87,
     "iso:country":"LU",
-    "lbl:bbox":"6.02944,50.10361,6.06944,50.14361",
     "lbl:latitude":50.12361,
     "lbl:longitude":6.04944,
     "lbl:max_zoom":18.0,
@@ -83,7 +82,17 @@
     "wof:geomhash":"ebe7981928d06c3be8dc211d567f10e0",
     "wof:hierarchy":[],
     "wof:id":1745986827,
-    "wof:lastmodified":1625097327,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167953,
     "wof:name":"Holler",
     "wof:parent_id":85673865,
     "wof:placetype":"neighbourhood",

@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":319,
     "iso:country":"LU",
-    "lbl:bbox":"6.06167,49.92722,6.10167,49.96722",
     "lbl:latitude":49.94722,
     "lbl:longitude":6.08167,
     "lbl:max_zoom":17.0,
@@ -130,7 +129,17 @@
     "wof:geomhash":"72bad8fa907ef5099698cd484e95c4b0",
     "wof:hierarchy":[],
     "wof:id":1745987289,
-    "wof:lastmodified":1625097507,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167962,
     "wof:name":"Hoscheid",
     "wof:parent_id":85673865,
     "wof:placetype":"neighbourhood",

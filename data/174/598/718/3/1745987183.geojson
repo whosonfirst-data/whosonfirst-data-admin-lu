@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":174,
     "iso:country":"LU",
-    "lbl:bbox":"5.97278,49.97944,6.01278,50.01944",
     "lbl:latitude":49.99944,
     "lbl:longitude":5.99278,
     "lbl:max_zoom":18.0,
@@ -89,7 +88,17 @@
     "wof:geomhash":"0c4730e443d3d0e3b765043e84363ddb",
     "wof:hierarchy":[],
     "wof:id":1745987183,
-    "wof:lastmodified":1625097466,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167964,
     "wof:name":"Enscherange",
     "wof:parent_id":85673865,
     "wof:placetype":"neighbourhood",

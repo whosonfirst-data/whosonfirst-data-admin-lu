@@ -25,7 +25,6 @@
     "gn:population":0,
     "gn:timezone":"Europe/Luxembourg",
     "iso:country":"LU",
-    "lbl:bbox":"5.96444,49.62444,6.00444,49.66444",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
@@ -152,7 +151,17 @@
     "wof:geomhash":"6f7303e83835ef0c1c80bfbae19e11ff",
     "wof:hierarchy":[],
     "wof:id":1745987457,
-    "wof:lastmodified":1625097572,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167962,
     "wof:name":"Cap",
     "wof:parent_id":85673875,
     "wof:placetype":"neighbourhood",

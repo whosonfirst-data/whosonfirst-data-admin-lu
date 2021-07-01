@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":1469,
     "iso:country":"LU",
-    "lbl:bbox":"6.22833,49.66889,6.26833,49.70889",
     "lbl:latitude":49.68889,
     "lbl:longitude":6.24833,
     "lbl:max_zoom":16.0,
@@ -94,7 +93,17 @@
     "wof:geomhash":"42654b302890c1d4f5e4af2c321b30e3",
     "wof:hierarchy":[],
     "wof:id":1745986971,
-    "wof:lastmodified":1625097382,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167958,
     "wof:name":"Gonderange",
     "wof:parent_id":85673869,
     "wof:placetype":"neighbourhood",

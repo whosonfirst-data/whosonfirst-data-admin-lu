@@ -25,7 +25,6 @@
     "gn:population":0,
     "gn:timezone":"Europe/Luxembourg",
     "iso:country":"LU",
-    "lbl:bbox":"6.38083,49.65333,6.42083,49.69333",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
@@ -49,7 +48,17 @@
     "wof:geomhash":"57fefbd9990c787420d615328f07dc89",
     "wof:hierarchy":[],
     "wof:id":1745986427,
-    "wof:lastmodified":1625097097,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167941,
     "wof:name":"Potaschberg",
     "wof:parent_id":85673869,
     "wof:placetype":"neighbourhood",

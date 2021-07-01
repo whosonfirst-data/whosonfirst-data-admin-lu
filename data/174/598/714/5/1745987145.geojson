@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":75,
     "iso:country":"LU",
-    "lbl:bbox":"5.88306,49.85056,5.92306,49.89056",
     "lbl:latitude":49.87056,
     "lbl:longitude":5.90306,
     "lbl:max_zoom":18.0,
@@ -63,7 +62,17 @@
     "wof:geomhash":"34978974f97eb016af8982a90a9c932f",
     "wof:hierarchy":[],
     "wof:id":1745987145,
-    "wof:lastmodified":1625097451,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167947,
     "wof:name":"Kuborn",
     "wof:parent_id":85673865,
     "wof:placetype":"neighbourhood",

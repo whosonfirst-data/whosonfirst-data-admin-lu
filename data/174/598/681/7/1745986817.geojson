@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":43,
     "iso:country":"LU",
-    "lbl:bbox":"5.83667,49.71972,5.87667,49.75972",
     "lbl:latitude":49.73972,
     "lbl:longitude":5.85667,
     "lbl:max_zoom":18.0,
@@ -75,7 +74,17 @@
     "wof:geomhash":"408c49c65b320a7f86abef8109a1f05f",
     "wof:hierarchy":[],
     "wof:id":1745986817,
-    "wof:lastmodified":1625097323,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167940,
     "wof:name":"Levelange",
     "wof:parent_id":85673865,
     "wof:placetype":"neighbourhood",

@@ -27,7 +27,17 @@
     "wof:geomhash":"f0e27deabd89255239e70bc144f1b32c",
     "wof:hierarchy":[],
     "wof:id":1745977429,
-    "wof:lastmodified":1624925181,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167936,
     "wof:name":"Wiltz",
     "wof:parent_id":-1,
     "wof:placetype":"region",

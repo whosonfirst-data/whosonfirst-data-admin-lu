@@ -10,7 +10,6 @@
     "geom:latitude":49.613785,
     "geom:longitude":6.142586,
     "iso:country":"LU",
-    "lbl:bbox":"6.137586,49.608785,6.147586,49.618785",
     "lbl:latitude":49.613785,
     "lbl:longitude":6.142586,
     "lbl:max_zoom":18.0,
@@ -120,7 +119,17 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582349490,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167934,
     "wof:name":"Clausen",
     "wof:parent_id":101751765,
     "wof:placetype":"neighbourhood",

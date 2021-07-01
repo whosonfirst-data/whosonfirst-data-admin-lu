@@ -13,7 +13,6 @@
     "gn:fcode":"PPLX",
     "gn:population":4666,
     "iso:country":"LU",
-    "lbl:bbox":"5.89111,49.50861,5.90111,49.51861",
     "lbl:latitude":49.51361,
     "lbl:longitude":5.89611,
     "lbl:max_zoom":18.0,
@@ -62,7 +61,17 @@
         }
     ],
     "wof:id":1126088453,
-    "wof:lastmodified":1566598680,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167975,
     "wof:name":"Obercorn",
     "wof:parent_id":101839817,
     "wof:placetype":"neighbourhood",

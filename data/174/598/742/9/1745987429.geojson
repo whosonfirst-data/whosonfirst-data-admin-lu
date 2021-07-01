@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":223,
     "iso:country":"LU",
-    "lbl:bbox":"6.2625,49.7925,6.3025,49.8325",
     "lbl:latitude":49.8125,
     "lbl:longitude":6.2825,
     "lbl:max_zoom":17.0,
@@ -97,7 +96,17 @@
     "wof:geomhash":"d538850f966bd2f3a363a94a27003e66",
     "wof:hierarchy":[],
     "wof:id":1745987429,
-    "wof:lastmodified":1625097561,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167962,
     "wof:name":"Haller",
     "wof:parent_id":85673869,
     "wof:placetype":"neighbourhood",

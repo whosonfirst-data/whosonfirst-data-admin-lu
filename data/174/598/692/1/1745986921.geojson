@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":1171,
     "iso:country":"LU",
-    "lbl:bbox":"6.23556,49.56528,6.27556,49.60528",
     "lbl:latitude":49.58528,
     "lbl:longitude":6.25556,
     "lbl:max_zoom":16.0,
@@ -87,7 +86,17 @@
     "wof:geomhash":"f68e0137bf5fbcdeba20259940203d1f",
     "wof:hierarchy":[],
     "wof:id":1745986921,
-    "wof:lastmodified":1625097363,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167945,
     "wof:name":"Moutfort",
     "wof:parent_id":85673875,
     "wof:placetype":"neighbourhood",

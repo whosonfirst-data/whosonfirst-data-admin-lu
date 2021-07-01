@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":38,
     "iso:country":"LU",
-    "lbl:bbox":"6.325,49.71889,6.365,49.75889",
     "lbl:latitude":49.73889,
     "lbl:longitude":6.345,
     "lbl:max_zoom":18.0,
@@ -59,7 +58,17 @@
     "wof:geomhash":"7e2ff3067f764fb6f1cd1c1b32758e37",
     "wof:hierarchy":[],
     "wof:id":1745986751,
-    "wof:lastmodified":1625097299,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167939,
     "wof:name":"Zittig",
     "wof:parent_id":85673869,
     "wof:placetype":"neighbourhood",

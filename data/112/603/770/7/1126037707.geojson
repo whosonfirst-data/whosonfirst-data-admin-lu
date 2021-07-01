@@ -143,7 +143,17 @@
         }
     ],
     "wof:id":1126037707,
-    "wof:lastmodified":1625088924,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167971,
     "wof:name":"Stadtbredimus",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

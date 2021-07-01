@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":367,
     "iso:country":"LU",
-    "lbl:bbox":"5.91917,49.78167,5.95917,49.82167",
     "lbl:latitude":49.80167,
     "lbl:longitude":5.93917,
     "lbl:max_zoom":17.0,
@@ -88,7 +87,17 @@
     "wof:geomhash":"a05b275b5840ba46d0a2fa99bd093862",
     "wof:hierarchy":[],
     "wof:id":1745987029,
-    "wof:lastmodified":1625097406,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167950,
     "wof:name":"Pratz",
     "wof:parent_id":85673865,
     "wof:placetype":"neighbourhood",

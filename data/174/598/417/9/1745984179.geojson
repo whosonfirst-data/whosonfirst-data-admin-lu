@@ -25,7 +25,17 @@
     "wof:geomhash":"324a48cba2c4595d008cd6b0ff2c4844",
     "wof:hierarchy":[],
     "wof:id":1745984179,
-    "wof:lastmodified":1625088916,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167952,
     "wof:name":"K\u00e4erjeng",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

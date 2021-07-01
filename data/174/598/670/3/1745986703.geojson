@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":756,
     "iso:country":"LU",
-    "lbl:bbox":"5.94611,49.50417,5.98611,49.54417",
     "lbl:latitude":49.52417,
     "lbl:longitude":5.96611,
     "lbl:max_zoom":17.0,
@@ -88,7 +87,17 @@
     "wof:geomhash":"10de320a99ec289f040e715dc1a350e8",
     "wof:hierarchy":[],
     "wof:id":1745986703,
-    "wof:lastmodified":1625097281,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167956,
     "wof:name":"Ehlerange",
     "wof:parent_id":85673875,
     "wof:placetype":"neighbourhood",

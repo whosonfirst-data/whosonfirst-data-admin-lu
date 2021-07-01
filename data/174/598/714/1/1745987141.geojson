@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":105,
     "iso:country":"LU",
-    "lbl:bbox":"6.18278,49.60389,6.22278,49.64389",
     "lbl:latitude":49.62389,
     "lbl:longitude":6.20278,
     "lbl:max_zoom":18.0,
@@ -95,7 +94,17 @@
     "wof:geomhash":"49bce841aaacc3c283055817b57a2d0e",
     "wof:hierarchy":[],
     "wof:id":1745987141,
-    "wof:lastmodified":1625097450,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167947,
     "wof:name":"Findel",
     "wof:parent_id":85673875,
     "wof:placetype":"neighbourhood",

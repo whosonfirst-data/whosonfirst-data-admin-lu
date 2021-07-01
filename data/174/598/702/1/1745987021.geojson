@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":0,
     "iso:country":"LU",
-    "lbl:bbox":"5.97556,49.89139,6.01556,49.93139",
     "lbl:latitude":49.91139,
     "lbl:longitude":5.99556,
     "lbl:max_zoom":18.0,
@@ -62,7 +61,17 @@
     "wof:geomhash":"80142e6d6053e848636e6e7869d4aaae",
     "wof:hierarchy":[],
     "wof:id":1745987021,
-    "wof:lastmodified":1625097402,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167950,
     "wof:name":"Tadler",
     "wof:parent_id":85673865,
     "wof:placetype":"neighbourhood",

@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":304,
     "iso:country":"LU",
-    "lbl:bbox":"6.41444,49.63556,6.45444,49.67556",
     "lbl:latitude":49.65556,
     "lbl:longitude":6.43444,
     "lbl:max_zoom":17.0,
@@ -89,7 +88,17 @@
     "wof:geomhash":"eee1caabaac9b47cb1df7e4d9b25f424",
     "wof:hierarchy":[],
     "wof:id":1745987441,
-    "wof:lastmodified":1625097566,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167961,
     "wof:name":"Machtum",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

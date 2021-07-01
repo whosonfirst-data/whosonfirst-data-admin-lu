@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":403,
     "iso:country":"LU",
-    "lbl:bbox":"6.29556,49.65611,6.33556,49.69611",
     "lbl:latitude":49.67611,
     "lbl:longitude":6.31556,
     "lbl:max_zoom":17.0,
@@ -89,7 +88,17 @@
     "wof:geomhash":"6f958a95e9e0092a84569effdd53bad2",
     "wof:hierarchy":[],
     "wof:id":1745986863,
-    "wof:lastmodified":1625097341,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167939,
     "wof:name":"Olingen",
     "wof:parent_id":85673869,
     "wof:placetype":"neighbourhood",

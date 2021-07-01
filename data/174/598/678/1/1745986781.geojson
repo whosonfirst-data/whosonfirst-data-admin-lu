@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":285,
     "iso:country":"LU",
-    "lbl:bbox":"5.88722,49.7025,5.92722,49.7425",
     "lbl:latitude":49.7225,
     "lbl:longitude":5.90722,
     "lbl:max_zoom":17.0,
@@ -87,7 +86,17 @@
     "wof:geomhash":"03cd6dacc03162b44e2c597c6f427394",
     "wof:hierarchy":[],
     "wof:id":1745986781,
-    "wof:lastmodified":1625097310,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167954,
     "wof:name":"Hovelange",
     "wof:parent_id":85673865,
     "wof:placetype":"neighbourhood",

@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":955,
     "iso:country":"LU",
-    "lbl:bbox":"6.30583,49.58694,6.34583,49.62694",
     "lbl:latitude":49.60694,
     "lbl:longitude":6.32583,
     "lbl:max_zoom":17.0,
@@ -89,7 +88,17 @@
     "wof:geomhash":"0a3ae0ec699a6a7e1b484f54eb6753dc",
     "wof:hierarchy":[],
     "wof:id":1745986969,
-    "wof:lastmodified":1625097381,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167959,
     "wof:name":"Canach",
     "wof:parent_id":85673869,
     "wof:placetype":"neighbourhood",

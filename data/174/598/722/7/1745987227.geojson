@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":190,
     "iso:country":"LU",
-    "lbl:bbox":"5.76,49.88306,5.8,49.92306",
     "lbl:latitude":49.90306,
     "lbl:longitude":5.78,
     "lbl:max_zoom":18.0,
@@ -95,7 +94,17 @@
     "wof:geomhash":"392a24c8ab15c1167e3bafd69fb27afe",
     "wof:hierarchy":[],
     "wof:id":1745987227,
-    "wof:lastmodified":1625097483,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167947,
     "wof:name":"Surr\u00e9",
     "wof:parent_id":85673865,
     "wof:placetype":"neighbourhood",

@@ -11,7 +11,6 @@
     "geom:longitude":6.136915,
     "gn:country":null,
     "iso:country":"LU",
-    "lbl:bbox":"6.131915,49.6195,6.141915,49.6295",
     "lbl:latitude":49.6245,
     "lbl:longitude":6.136915,
     "lbl:max_zoom":18.0,
@@ -94,7 +93,17 @@
         }
     ],
     "wof:id":1126068151,
-    "wof:lastmodified":1566598681,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167975,
     "wof:name":"Weimerskirch",
     "wof:parent_id":101751765,
     "wof:placetype":"neighbourhood",

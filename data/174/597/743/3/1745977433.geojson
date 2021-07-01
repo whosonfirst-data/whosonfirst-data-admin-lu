@@ -27,7 +27,17 @@
     "wof:geomhash":"826015bebdf35cebd3badf70805f4a77",
     "wof:hierarchy":[],
     "wof:id":1745977433,
-    "wof:lastmodified":1624925183,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167935,
     "wof:name":"Capellen",
     "wof:parent_id":-1,
     "wof:placetype":"region",

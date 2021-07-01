@@ -10,7 +10,6 @@
     "geom:latitude":49.583935,
     "geom:longitude":6.138518,
     "iso:country":"LU",
-    "lbl:bbox":"6.133518,49.578935,6.143518,49.588935",
     "lbl:latitude":49.583935,
     "lbl:longitude":6.138518,
     "lbl:max_zoom":18.0,
@@ -115,13 +114,25 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582349490,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167934,
     "wof:name":"Howald",
     "wof:parent_id":101751765,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-lu",
     "wof:superseded_by":[],
-    "wof:supersedes":[1125890321],
+    "wof:supersedes":[
+        1125890321
+    ],
     "wof:tags":[]
 },
   "bbox": [

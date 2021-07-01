@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":110,
     "iso:country":"LU",
-    "lbl:bbox":"5.83611,49.93222,5.87611,49.97222",
     "lbl:latitude":49.95222,
     "lbl:longitude":5.85611,
     "lbl:max_zoom":18.0,
@@ -77,7 +76,17 @@
     "wof:geomhash":"dd3a818081b8df21a9c5eeb25a249be8",
     "wof:hierarchy":[],
     "wof:id":1745987249,
-    "wof:lastmodified":1625097491,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167949,
     "wof:name":"Berl\u00e9",
     "wof:parent_id":85673865,
     "wof:placetype":"neighbourhood",

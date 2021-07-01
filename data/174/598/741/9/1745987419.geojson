@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":34,
     "iso:country":"LU",
-    "lbl:bbox":"5.86833,49.80306,5.90833,49.84306",
     "lbl:latitude":49.82306,
     "lbl:longitude":5.88833,
     "lbl:max_zoom":18.0,
@@ -71,7 +70,17 @@
     "wof:geomhash":"fd3394109e0513a55abacaa2003b4b04",
     "wof:hierarchy":[],
     "wof:id":1745987419,
-    "wof:lastmodified":1625097558,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167950,
     "wof:name":"Eschette",
     "wof:parent_id":85673865,
     "wof:placetype":"neighbourhood",

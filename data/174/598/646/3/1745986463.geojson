@@ -25,7 +25,6 @@
     "gn:population":0,
     "gn:timezone":"Europe/Luxembourg",
     "iso:country":"LU",
-    "lbl:bbox":"5.83583,49.80222,5.87583,49.84222",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
@@ -48,7 +47,17 @@
     "wof:geomhash":"1af6c9114ec779e79a84c061ee544fd5",
     "wof:hierarchy":[],
     "wof:id":1745986463,
-    "wof:lastmodified":1625097111,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167955,
     "wof:name":"Goeldt",
     "wof:parent_id":85673865,
     "wof:placetype":"neighbourhood",

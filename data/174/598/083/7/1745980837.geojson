@@ -27,7 +27,17 @@
     "wof:geomhash":"6888a4882113c6a59895ad0df09fcffd",
     "wof:hierarchy":[],
     "wof:id":1745980837,
-    "wof:lastmodified":1624995620,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167940,
     "wof:name":"Vichten",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

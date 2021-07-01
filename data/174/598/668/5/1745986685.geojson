@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":153,
     "iso:country":"LU",
-    "lbl:bbox":"6.10417,49.94361,6.14417,49.98361",
     "lbl:latitude":49.96361,
     "lbl:longitude":6.12417,
     "lbl:max_zoom":18.0,
@@ -92,7 +91,17 @@
     "wof:geomhash":"3fb698c3b27a78142a540b9b2ca71c70",
     "wof:hierarchy":[],
     "wof:id":1745986685,
-    "wof:lastmodified":1625097275,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167946,
     "wof:name":"Weiler-l\u00e8s-Putscheid",
     "wof:parent_id":85673865,
     "wof:placetype":"neighbourhood",

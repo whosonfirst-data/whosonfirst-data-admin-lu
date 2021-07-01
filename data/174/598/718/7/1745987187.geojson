@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":227,
     "iso:country":"LU",
-    "lbl:bbox":"6.2825,49.70333,6.3225,49.74333",
     "lbl:latitude":49.72333,
     "lbl:longitude":6.3025,
     "lbl:max_zoom":17.0,
@@ -92,7 +91,17 @@
     "wof:geomhash":"1ddb02f9fba98f040f406df61b656607",
     "wof:hierarchy":[],
     "wof:id":1745987187,
-    "wof:lastmodified":1625097468,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167964,
     "wof:name":"Beidweiler",
     "wof:parent_id":85673869,
     "wof:placetype":"neighbourhood",

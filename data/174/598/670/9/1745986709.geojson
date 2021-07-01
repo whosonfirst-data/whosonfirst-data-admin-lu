@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":1278,
     "iso:country":"LU",
-    "lbl:bbox":"6.12694,49.51556,6.16694,49.55556",
     "lbl:latitude":49.53556,
     "lbl:longitude":6.14694,
     "lbl:max_zoom":16.0,
@@ -89,7 +88,17 @@
     "wof:geomhash":"f5f0769d0575ee9dacc53990780f390e",
     "wof:hierarchy":[],
     "wof:id":1745986709,
-    "wof:lastmodified":1625097283,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167955,
     "wof:name":"Crauthem",
     "wof:parent_id":85673875,
     "wof:placetype":"neighbourhood",

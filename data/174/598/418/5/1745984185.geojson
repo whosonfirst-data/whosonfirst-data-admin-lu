@@ -25,7 +25,17 @@
     "wof:geomhash":"bfb71af1f281e8a974869ed98b4968ce",
     "wof:hierarchy":[],
     "wof:id":1745984185,
-    "wof:lastmodified":1625088921,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167955,
     "wof:name":"Putscheid",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

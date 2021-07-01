@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":79,
     "iso:country":"LU",
-    "lbl:bbox":"6.31611,49.71444,6.35611,49.75444",
     "lbl:latitude":49.73444,
     "lbl:longitude":6.33611,
     "lbl:max_zoom":18.0,
@@ -75,7 +74,17 @@
     "wof:geomhash":"def0c387f680ef9d1361e38ecd046205",
     "wof:hierarchy":[],
     "wof:id":1745986819,
-    "wof:lastmodified":1625097324,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167940,
     "wof:name":"Hemstal",
     "wof:parent_id":85673869,
     "wof:placetype":"neighbourhood",

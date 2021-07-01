@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":0,
     "iso:country":"LU",
-    "lbl:bbox":"6.265,49.54778,6.305,49.58778",
     "lbl:latitude":49.56778,
     "lbl:longitude":6.285,
     "lbl:max_zoom":18.0,
@@ -61,7 +60,17 @@
     "wof:geomhash":"77c28fe23b3203332164e5de9efc0416",
     "wof:hierarchy":[],
     "wof:id":1745987011,
-    "wof:lastmodified":1625097398,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167936,
     "wof:name":"Roedt",
     "wof:parent_id":85673869,
     "wof:placetype":"neighbourhood",

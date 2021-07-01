@@ -27,7 +27,17 @@
     "wof:geomhash":"3e2d36695866668790eaf02c67b6a8af",
     "wof:hierarchy":[],
     "wof:id":1745980861,
-    "wof:lastmodified":1624995633,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167954,
     "wof:name":"Schifflange",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

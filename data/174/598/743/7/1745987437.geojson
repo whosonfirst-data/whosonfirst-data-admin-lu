@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":0,
     "iso:country":"LU",
-    "lbl:bbox":"6.11333,49.59667,6.15333,49.63667",
     "lbl:latitude":49.61667,
     "lbl:longitude":6.13333,
     "lbl:max_zoom":18.0,
@@ -84,7 +83,17 @@
     "wof:geomhash":"6c3fd61c5ba775b6bfc33c7b437b0710",
     "wof:hierarchy":[],
     "wof:id":1745987437,
-    "wof:lastmodified":1625097565,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167961,
     "wof:name":"Grund",
     "wof:parent_id":85673875,
     "wof:placetype":"neighbourhood",

@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":292,
     "iso:country":"LU",
-    "lbl:bbox":"6.14083,49.73639,6.18083,49.77639",
     "lbl:latitude":49.75639,
     "lbl:longitude":6.16083,
     "lbl:max_zoom":17.0,
@@ -86,7 +85,17 @@
     "wof:geomhash":"c916942fa94e0747309251b38ec695d4",
     "wof:hierarchy":[],
     "wof:id":1745987185,
-    "wof:lastmodified":1625097467,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167964,
     "wof:name":"Angelsberg",
     "wof:parent_id":85673875,
     "wof:placetype":"neighbourhood",

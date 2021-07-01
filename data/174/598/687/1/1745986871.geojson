@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":247,
     "iso:country":"LU",
-    "lbl:bbox":"6.03083,49.69306,6.07083,49.73306",
     "lbl:latitude":49.71306,
     "lbl:longitude":6.05083,
     "lbl:max_zoom":17.0,
@@ -92,7 +91,17 @@
     "wof:geomhash":"bc33ab03b741123557c2be03dce54423",
     "wof:hierarchy":[],
     "wof:id":1745986871,
-    "wof:lastmodified":1625097343,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167942,
     "wof:name":"Hollenfels",
     "wof:parent_id":85673875,
     "wof:placetype":"neighbourhood",

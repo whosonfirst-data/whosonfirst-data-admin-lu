@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":283,
     "iso:country":"LU",
-    "lbl:bbox":"6.01556,49.82806,6.05556,49.86806",
     "lbl:latitude":49.84806,
     "lbl:longitude":6.03556,
     "lbl:max_zoom":17.0,
@@ -89,7 +88,17 @@
     "wof:geomhash":"169ac81736fab79e6089c7fd463f0a3b",
     "wof:hierarchy":[],
     "wof:id":1745987017,
-    "wof:lastmodified":1625097400,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167936,
     "wof:name":"Oberfeulen",
     "wof:parent_id":85673865,
     "wof:placetype":"neighbourhood",

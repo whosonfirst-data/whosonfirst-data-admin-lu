@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":353,
     "iso:country":"LU",
-    "lbl:bbox":"6.09667,49.74806,6.13667,49.78806",
     "lbl:latitude":49.76806,
     "lbl:longitude":6.11667,
     "lbl:max_zoom":17.0,
@@ -84,7 +83,17 @@
     "wof:geomhash":"a4e805686f649e9cc8fe01767773c2d1",
     "wof:hierarchy":[],
     "wof:id":1745986773,
-    "wof:lastmodified":1625097308,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167956,
     "wof:name":"Moesdorf",
     "wof:parent_id":85673875,
     "wof:placetype":"neighbourhood",

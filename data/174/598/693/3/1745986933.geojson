@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":0,
     "iso:country":"LU",
-    "lbl:bbox":"6.40167,49.60444,6.44167,49.64444",
     "lbl:latitude":49.62444,
     "lbl:longitude":6.42167,
     "lbl:max_zoom":18.0,
@@ -89,7 +88,17 @@
     "wof:geomhash":"51167feaadfb229b8b55d6e0c74ca208",
     "wof:hierarchy":[],
     "wof:id":1745986933,
-    "wof:lastmodified":1625097368,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167944,
     "wof:name":"Ahn",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

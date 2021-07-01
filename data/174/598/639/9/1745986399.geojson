@@ -25,7 +25,6 @@
     "gn:population":0,
     "gn:timezone":"Europe/Luxembourg",
     "iso:country":"LU",
-    "lbl:bbox":"6.20083,49.6125,6.24083,49.6525",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
@@ -49,7 +48,17 @@
     "wof:geomhash":"127d9ea641c72f75a4581dd1b3ac71ff",
     "wof:hierarchy":[],
     "wof:id":1745986399,
-    "wof:lastmodified":1625097087,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167958,
     "wof:name":"Heienhaff",
     "wof:parent_id":85673875,
     "wof:placetype":"neighbourhood",

@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":0,
     "iso:country":"LU",
-    "lbl:bbox":"6.095,49.72389,6.135,49.76389",
     "lbl:latitude":49.74389,
     "lbl:longitude":6.115,
     "lbl:max_zoom":18.0,
@@ -82,7 +81,17 @@
     "wof:geomhash":"8d285f93b46e6625f2a75737316d1a1c",
     "wof:hierarchy":[],
     "wof:id":1745987143,
-    "wof:lastmodified":1625097451,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167947,
     "wof:name":"Berschbach",
     "wof:parent_id":85673875,
     "wof:placetype":"neighbourhood",

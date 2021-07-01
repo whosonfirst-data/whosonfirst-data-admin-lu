@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":429,
     "iso:country":"LU",
-    "lbl:bbox":"5.99694,49.52889,6.03694,49.56889",
     "lbl:latitude":49.54889,
     "lbl:longitude":6.01694,
     "lbl:max_zoom":17.0,
@@ -86,7 +85,17 @@
     "wof:geomhash":"e92bebf24d289c719f3e6122781fc264",
     "wof:hierarchy":[],
     "wof:id":1745987137,
-    "wof:lastmodified":1625097449,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167947,
     "wof:name":"Ehlange",
     "wof:parent_id":85673875,
     "wof:placetype":"neighbourhood",

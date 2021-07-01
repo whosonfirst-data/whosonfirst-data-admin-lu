@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":21,
     "iso:country":"LU",
-    "lbl:bbox":"6.18417,49.82306,6.22417,49.86306",
     "lbl:latitude":49.84306,
     "lbl:longitude":6.20417,
     "lbl:max_zoom":18.0,
@@ -64,7 +63,17 @@
     "wof:geomhash":"cec2e24a50bbf4db9c2faae6abd336db",
     "wof:hierarchy":[],
     "wof:id":1745987293,
-    "wof:lastmodified":1625097509,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167963,
     "wof:name":"Folkendange",
     "wof:parent_id":85673865,
     "wof:placetype":"neighbourhood",

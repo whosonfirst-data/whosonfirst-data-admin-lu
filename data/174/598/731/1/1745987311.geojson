@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":664,
     "iso:country":"LU",
-    "lbl:bbox":"6.37389,49.70722,6.41389,49.74722",
     "lbl:latitude":49.72722,
     "lbl:longitude":6.39389,
     "lbl:max_zoom":17.0,
@@ -89,7 +88,17 @@
     "wof:geomhash":"f3c7c966d074f354de502fe05dd949ae",
     "wof:hierarchy":[],
     "wof:id":1745987311,
-    "wof:lastmodified":1625097516,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167938,
     "wof:name":"Berbourg",
     "wof:parent_id":85673869,
     "wof:placetype":"neighbourhood",

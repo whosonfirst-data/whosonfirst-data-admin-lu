@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":682,
     "iso:country":"LU",
-    "lbl:bbox":"6.22111,49.63361,6.26111,49.67361",
     "lbl:latitude":49.65361,
     "lbl:longitude":6.24111,
     "lbl:max_zoom":17.0,
@@ -89,7 +88,17 @@
     "wof:geomhash":"ede029453426856252471b5454fca6ba",
     "wof:hierarchy":[],
     "wof:id":1745987115,
-    "wof:lastmodified":1625097441,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167963,
     "wof:name":"Oberanven",
     "wof:parent_id":85673875,
     "wof:placetype":"neighbourhood",

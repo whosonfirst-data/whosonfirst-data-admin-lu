@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":96,
     "iso:country":"LU",
-    "lbl:bbox":"6.11111,50.01667,6.15111,50.05667",
     "lbl:latitude":50.03667,
     "lbl:longitude":6.13111,
     "lbl:max_zoom":18.0,
@@ -136,7 +135,17 @@
     "wof:geomhash":"4ddca93aa083525f604d14a30c861627",
     "wof:hierarchy":[],
     "wof:id":1745986731,
-    "wof:lastmodified":1625097291,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167942,
     "wof:name":"Rodershausen",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

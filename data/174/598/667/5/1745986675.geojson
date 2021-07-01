@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":276,
     "iso:country":"LU",
-    "lbl:bbox":"5.88444,49.76389,5.92444,49.80389",
     "lbl:latitude":49.78389,
     "lbl:longitude":5.90444,
     "lbl:max_zoom":17.0,
@@ -86,7 +85,17 @@
     "wof:geomhash":"ca3902ed71c63c0569b24de8cbf4a1d0",
     "wof:hierarchy":[],
     "wof:id":1745986675,
-    "wof:lastmodified":1625097262,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167944,
     "wof:name":"Ospern",
     "wof:parent_id":85673865,
     "wof:placetype":"neighbourhood",

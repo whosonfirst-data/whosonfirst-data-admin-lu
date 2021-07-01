@@ -143,7 +143,17 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1625088919,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167968,
     "wof:name":"Lenningen",
     "wof:parent_id":85673869,
     "wof:placetype":"locality",

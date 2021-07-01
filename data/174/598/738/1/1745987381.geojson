@@ -13,7 +13,6 @@
     "gn:fcode":"PPLL",
     "gn:population":71,
     "iso:country":"LU",
-    "lbl:bbox":"5.87139,49.61083,5.91139,49.65083",
     "lbl:latitude":49.63083,
     "lbl:longitude":5.89139,
     "lbl:max_zoom":18.0,
@@ -68,7 +67,17 @@
     "wof:geomhash":"533f5c7b7961eeb3229bb29aa1f7889c",
     "wof:hierarchy":[],
     "wof:id":1745987381,
-    "wof:lastmodified":1625097543,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167938,
     "wof:name":"Grass",
     "wof:parent_id":85673875,
     "wof:placetype":"neighbourhood",

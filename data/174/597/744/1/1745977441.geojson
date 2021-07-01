@@ -27,7 +27,17 @@
     "wof:geomhash":"a852caa3109467f06ccf8c411525eac7",
     "wof:hierarchy":[],
     "wof:id":1745977441,
-    "wof:lastmodified":1624925185,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167935,
     "wof:name":"Diekirch",
     "wof:parent_id":-1,
     "wof:placetype":"region",

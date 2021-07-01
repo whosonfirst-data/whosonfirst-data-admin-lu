@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":41,
     "iso:country":"LU",
-    "lbl:bbox":"5.80667,49.945,5.84667,49.985",
     "lbl:latitude":49.965,
     "lbl:longitude":5.82667,
     "lbl:max_zoom":18.0,
@@ -86,7 +85,17 @@
     "wof:geomhash":"8a2e34e0d98290ce5d5fc3e93f041750",
     "wof:hierarchy":[],
     "wof:id":1745987255,
-    "wof:lastmodified":1625097494,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167947,
     "wof:name":"Sonlez",
     "wof:parent_id":85673865,
     "wof:placetype":"neighbourhood",

@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":90,
     "iso:country":"LU",
-    "lbl:bbox":"6.05139,50.01611,6.09139,50.05611",
     "lbl:latitude":50.03611,
     "lbl:longitude":6.07139,
     "lbl:max_zoom":18.0,
@@ -134,7 +133,17 @@
     "wof:geomhash":"65e8242798572c6ad56476d43aad6a8a",
     "wof:hierarchy":[],
     "wof:id":1745986755,
-    "wof:lastmodified":1625097301,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167940,
     "wof:name":"Lorscheid",
     "wof:parent_id":85673865,
     "wof:placetype":"neighbourhood",

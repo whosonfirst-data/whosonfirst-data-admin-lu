@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":79,
     "iso:country":"LU",
-    "lbl:bbox":"6.26806,49.84028,6.30806,49.88028",
     "lbl:latitude":49.86028,
     "lbl:longitude":6.28806,
     "lbl:max_zoom":18.0,
@@ -47,7 +46,17 @@
     "wof:geomhash":"0a5ca1d10ca6c8f1fb74be2b63064254",
     "wof:hierarchy":[],
     "wof:id":1745987251,
-    "wof:lastmodified":1625097492,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167947,
     "wof:name":"Bigelbach",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

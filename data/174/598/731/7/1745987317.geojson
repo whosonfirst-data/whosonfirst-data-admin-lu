@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":591,
     "iso:country":"LU",
-    "lbl:bbox":"5.86667,49.54583,5.90667,49.58583",
     "lbl:latitude":49.56583,
     "lbl:longitude":5.88667,
     "lbl:max_zoom":17.0,
@@ -84,7 +83,17 @@
     "wof:geomhash":"54e8b9a3a749a86437fc3f6669ca3347",
     "wof:hierarchy":[],
     "wof:id":1745987317,
-    "wof:lastmodified":1625097518,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167938,
     "wof:name":"Linger",
     "wof:parent_id":85673875,
     "wof:placetype":"neighbourhood",

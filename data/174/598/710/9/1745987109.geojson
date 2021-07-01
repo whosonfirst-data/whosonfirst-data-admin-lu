@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":1090,
     "iso:country":"LU",
-    "lbl:bbox":"5.93639,49.5625,5.97639,49.6025",
     "lbl:latitude":49.5825,
     "lbl:longitude":5.95639,
     "lbl:max_zoom":16.0,
@@ -89,7 +88,17 @@
     "wof:geomhash":"29bb9400f67d6fb07753f06a03492af9",
     "wof:hierarchy":[],
     "wof:id":1745987109,
-    "wof:lastmodified":1625097438,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167962,
     "wof:name":"Schouweiler",
     "wof:parent_id":85673875,
     "wof:placetype":"neighbourhood",

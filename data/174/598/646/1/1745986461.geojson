@@ -24,7 +24,6 @@
     "gn:population":0,
     "gn:timezone":"Europe/Luxembourg",
     "iso:country":"LU",
-    "lbl:bbox":"5.84859,49.67467,5.88859,49.71467",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
@@ -49,7 +48,17 @@
     "wof:geomhash":"2e3be69790c1b36631b379b4be4ccc1d",
     "wof:hierarchy":[],
     "wof:id":1745986461,
-    "wof:lastmodified":1625097110,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167955,
     "wof:name":"Gaichel",
     "wof:parent_id":85673875,
     "wof:placetype":"neighbourhood",

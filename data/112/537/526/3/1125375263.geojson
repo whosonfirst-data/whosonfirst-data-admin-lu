@@ -139,7 +139,17 @@
         }
     ],
     "wof:id":1125375263,
-    "wof:lastmodified":1624995631,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167973,
     "wof:name":"Schuttrange",
     "wof:parent_id":85673875,
     "wof:placetype":"localadmin",

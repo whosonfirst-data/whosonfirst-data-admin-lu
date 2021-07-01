@@ -27,7 +27,17 @@
     "wof:geomhash":"5e2942a5766f649f60cac67c6ff7c9a8",
     "wof:hierarchy":[],
     "wof:id":1745977449,
-    "wof:lastmodified":1624925188,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167935,
     "wof:name":"Vianden",
     "wof:parent_id":-1,
     "wof:placetype":"region",

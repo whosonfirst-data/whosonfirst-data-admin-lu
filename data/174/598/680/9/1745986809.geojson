@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":254,
     "iso:country":"LU",
-    "lbl:bbox":"5.96056,49.53889,6.00056,49.57889",
     "lbl:latitude":49.55889,
     "lbl:longitude":5.98056,
     "lbl:max_zoom":17.0,
@@ -87,7 +86,17 @@
     "wof:geomhash":"c4bbe2fabd3b11ef8ff5f3c2a4f12e0f",
     "wof:hierarchy":[],
     "wof:id":1745986809,
-    "wof:lastmodified":1625097321,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167941,
     "wof:name":"Limpach",
     "wof:parent_id":85673875,
     "wof:placetype":"neighbourhood",

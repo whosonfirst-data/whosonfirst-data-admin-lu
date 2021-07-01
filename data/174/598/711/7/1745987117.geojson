@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":228,
     "iso:country":"LU",
-    "lbl:bbox":"6.20278,49.80944,6.24278,49.84944",
     "lbl:latitude":49.82944,
     "lbl:longitude":6.22278,
     "lbl:max_zoom":17.0,
@@ -121,7 +120,17 @@
     "wof:geomhash":"b213f1c3e0a78edbf6ee83262384005d",
     "wof:hierarchy":[],
     "wof:id":1745987117,
-    "wof:lastmodified":1625097441,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167963,
     "wof:name":"Ermsdorf",
     "wof:parent_id":85673865,
     "wof:placetype":"neighbourhood",

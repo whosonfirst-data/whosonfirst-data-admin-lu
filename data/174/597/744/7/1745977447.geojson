@@ -27,7 +27,17 @@
     "wof:geomhash":"599f3dbdd8391c16c11788bcf974e1bf",
     "wof:hierarchy":[],
     "wof:id":1745977447,
-    "wof:lastmodified":1624925188,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167935,
     "wof:name":"Grevenmacher",
     "wof:parent_id":-1,
     "wof:placetype":"region",

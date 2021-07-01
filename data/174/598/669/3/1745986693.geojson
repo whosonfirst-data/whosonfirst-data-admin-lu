@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":359,
     "iso:country":"LU",
-    "lbl:bbox":"5.83722,49.74389,5.87722,49.78389",
     "lbl:latitude":49.76389,
     "lbl:longitude":5.85722,
     "lbl:max_zoom":17.0,
@@ -137,7 +136,17 @@
     "wof:geomhash":"dff0a7b6e686064c11c4c16b3fbe034f",
     "wof:hierarchy":[],
     "wof:id":1745986693,
-    "wof:lastmodified":1625097277,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167943,
     "wof:name":"Fell",
     "wof:parent_id":85673865,
     "wof:placetype":"neighbourhood",

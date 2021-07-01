@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":174,
     "iso:country":"LU",
-    "lbl:bbox":"6.29583,49.53278,6.33583,49.57278",
     "lbl:latitude":49.55278,
     "lbl:longitude":6.31583,
     "lbl:max_zoom":18.0,
@@ -127,7 +126,17 @@
     "wof:geomhash":"2f2195c5a1b9b256b1eaacb56ecdae8d",
     "wof:hierarchy":[],
     "wof:id":1745987233,
-    "wof:lastmodified":1625097485,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167949,
     "wof:name":"Lasel",
     "wof:parent_id":85673869,
     "wof:placetype":"neighbourhood",

@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":161,
     "iso:country":"LU",
-    "lbl:bbox":"5.86278,49.92139,5.90278,49.96139",
     "lbl:latitude":49.94139,
     "lbl:longitude":5.88278,
     "lbl:max_zoom":18.0,
@@ -77,7 +76,17 @@
     "wof:geomhash":"162af358fe85f3640fd56f738a7cdaff",
     "wof:hierarchy":[],
     "wof:id":1745987369,
-    "wof:lastmodified":1625097538,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167938,
     "wof:name":"Nothum",
     "wof:parent_id":85673865,
     "wof:placetype":"neighbourhood",

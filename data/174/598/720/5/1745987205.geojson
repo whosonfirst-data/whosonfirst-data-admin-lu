@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":3627,
     "iso:country":"LU",
-    "lbl:bbox":"6.1075,49.63694,6.1475,49.67694",
     "lbl:latitude":49.65694,
     "lbl:longitude":6.1275,
     "lbl:max_zoom":15.0,
@@ -89,7 +88,17 @@
     "wof:geomhash":"30e1ec73b4abbaf139198e407a4e7701",
     "wof:hierarchy":[],
     "wof:id":1745987205,
-    "wof:lastmodified":1625097474,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167964,
     "wof:name":"Bereldange",
     "wof:parent_id":85673875,
     "wof:placetype":"neighbourhood",

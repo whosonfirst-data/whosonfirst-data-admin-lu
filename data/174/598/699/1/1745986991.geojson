@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":99,
     "iso:country":"LU",
-    "lbl:bbox":"6.28417,49.75083,6.32417,49.79083",
     "lbl:latitude":49.77083,
     "lbl:longitude":6.30417,
     "lbl:max_zoom":18.0,
@@ -93,7 +92,17 @@
     "wof:geomhash":"6150059a0999d7deb8ff51cfb3fed628",
     "wof:hierarchy":[],
     "wof:id":1745986991,
-    "wof:lastmodified":1625097389,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167957,
     "wof:name":"Breidweiler",
     "wof:parent_id":85673869,
     "wof:placetype":"neighbourhood",

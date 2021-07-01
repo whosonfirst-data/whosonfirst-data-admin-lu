@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":576,
     "iso:country":"LU",
-    "lbl:bbox":"5.99556,49.75528,6.03556,49.79528",
     "lbl:latitude":49.77528,
     "lbl:longitude":6.01556,
     "lbl:max_zoom":17.0,
@@ -134,7 +133,17 @@
     "wof:geomhash":"aea1218bc6d32a882a15670e6fd15e82",
     "wof:hierarchy":[],
     "wof:id":1745987341,
-    "wof:lastmodified":1625097528,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167950,
     "wof:name":"Boevange-sur-Attert",
     "wof:parent_id":85673875,
     "wof:placetype":"neighbourhood",

@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":387,
     "iso:country":"LU",
-    "lbl:bbox":"5.98833,49.73083,6.02833,49.77083",
     "lbl:latitude":49.75083,
     "lbl:longitude":6.00833,
     "lbl:max_zoom":17.0,
@@ -95,7 +94,17 @@
     "wof:geomhash":"f941c33089f7a58431b0426e799075d8",
     "wof:hierarchy":[],
     "wof:id":1745987053,
-    "wof:lastmodified":1625097414,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167950,
     "wof:name":"Buschdorf",
     "wof:parent_id":85673875,
     "wof:placetype":"neighbourhood",

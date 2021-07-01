@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":241,
     "iso:country":"LU",
-    "lbl:bbox":"5.82389,49.84139,5.86389,49.88139",
     "lbl:latitude":49.86139,
     "lbl:longitude":5.84389,
     "lbl:max_zoom":17.0,
@@ -80,7 +79,17 @@
     "wof:geomhash":"28758c4b4bc224d5a38528c17616d11c",
     "wof:hierarchy":[],
     "wof:id":1745986825,
-    "wof:lastmodified":1625097326,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167953,
     "wof:name":"Arsdorf",
     "wof:parent_id":85673865,
     "wof:placetype":"neighbourhood",

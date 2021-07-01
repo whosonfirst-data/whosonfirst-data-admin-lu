@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":1495,
     "iso:country":"LU",
-    "lbl:bbox":"5.89083,49.5575,5.93083,49.5975",
     "lbl:latitude":49.5775,
     "lbl:longitude":5.91083,
     "lbl:max_zoom":16.0,
@@ -90,7 +89,17 @@
     "wof:geomhash":"b41b3d4149e0dff92c3fbeb0c47abf5e",
     "wof:hierarchy":[],
     "wof:id":1745987315,
-    "wof:lastmodified":1625097518,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167938,
     "wof:name":"Hautcharage",
     "wof:parent_id":85673875,
     "wof:placetype":"neighbourhood",

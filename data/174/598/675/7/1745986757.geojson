@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":113,
     "iso:country":"LU",
-    "lbl:bbox":"6.47889,49.74722,6.51889,49.78722",
     "lbl:latitude":49.76722,
     "lbl:longitude":6.49889,
     "lbl:max_zoom":18.0,
@@ -93,7 +92,17 @@
     "wof:geomhash":"16e540b3362fffb210a3f0d0b6d1161e",
     "wof:hierarchy":[],
     "wof:id":1745986757,
-    "wof:lastmodified":1625097302,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167939,
     "wof:name":"Girst",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":450,
     "iso:country":"LU",
-    "lbl:bbox":"6.07889,49.86306,6.11889,49.90306",
     "lbl:latitude":49.88306,
     "lbl:longitude":6.09889,
     "lbl:max_zoom":17.0,
@@ -89,7 +88,17 @@
     "wof:geomhash":"64c00a6862c1b4bd9feff550c8ae9fba",
     "wof:hierarchy":[],
     "wof:id":1745986835,
-    "wof:lastmodified":1625097330,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167956,
     "wof:name":"Burden",
     "wof:parent_id":85673865,
     "wof:placetype":"neighbourhood",

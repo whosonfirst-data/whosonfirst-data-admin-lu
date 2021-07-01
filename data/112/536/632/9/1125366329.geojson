@@ -79,7 +79,17 @@
         }
     ],
     "wof:id":1125366329,
-    "wof:lastmodified":1624995626,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167975,
     "wof:name":"Mondorf-les-Bains",
     "wof:parent_id":85673869,
     "wof:placetype":"localadmin",

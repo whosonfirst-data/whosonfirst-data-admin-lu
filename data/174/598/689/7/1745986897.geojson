@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":531,
     "iso:country":"LU",
-    "lbl:bbox":"6.36778,49.57972,6.40778,49.61972",
     "lbl:latitude":49.59972,
     "lbl:longitude":6.38778,
     "lbl:max_zoom":17.0,
@@ -92,7 +91,17 @@
     "wof:geomhash":"4fd14882938750feec1afdab58239adc",
     "wof:hierarchy":[],
     "wof:id":1745986897,
-    "wof:lastmodified":1625097353,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167941,
     "wof:name":"Ehnen",
     "wof:parent_id":102063545,
     "wof:placetype":"neighbourhood",

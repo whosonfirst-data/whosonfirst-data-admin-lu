@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":713,
     "iso:country":"LU",
-    "lbl:bbox":"6.29639,49.48528,6.33639,49.52528",
     "lbl:latitude":49.50528,
     "lbl:longitude":6.31639,
     "lbl:max_zoom":17.0,
@@ -52,7 +51,17 @@
     "wof:geomhash":"757a14fec848bd81f67ac974d008d71c",
     "wof:hierarchy":[],
     "wof:id":1745987399,
-    "wof:lastmodified":1625097550,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167936,
     "wof:name":"Elvange-l\u00e8s-Burmerange",
     "wof:parent_id":85673869,
     "wof:placetype":"neighbourhood",

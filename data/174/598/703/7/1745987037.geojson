@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":192,
     "iso:country":"LU",
-    "lbl:bbox":"5.89778,49.61139,5.93778,49.65139",
     "lbl:latitude":49.63139,
     "lbl:longitude":5.91778,
     "lbl:max_zoom":18.0,
@@ -97,7 +96,17 @@
     "wof:geomhash":"dc2d6ed922ff360a78e9bb83ad2c782b",
     "wof:hierarchy":[],
     "wof:id":1745987037,
-    "wof:lastmodified":1625097408,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167951,
     "wof:name":"Kahler",
     "wof:parent_id":85673875,
     "wof:placetype":"neighbourhood",

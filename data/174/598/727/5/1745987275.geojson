@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":499,
     "iso:country":"LU",
-    "lbl:bbox":"6.32222,49.50389,6.36222,49.54389",
     "lbl:latitude":49.52389,
     "lbl:longitude":6.34222,
     "lbl:max_zoom":17.0,
@@ -114,7 +113,17 @@
     "wof:geomhash":"6cd815785ebcb21bbeb5dc504280027a",
     "wof:hierarchy":[],
     "wof:id":1745987275,
-    "wof:lastmodified":1625097502,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167964,
     "wof:name":"Wellenstein",
     "wof:parent_id":85673869,
     "wof:placetype":"neighbourhood",

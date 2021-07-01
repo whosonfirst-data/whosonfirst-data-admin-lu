@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":1776,
     "iso:country":"LU",
-    "lbl:bbox":"6.07722,49.79028,6.11722,49.83028",
     "lbl:latitude":49.81028,
     "lbl:longitude":6.09722,
     "lbl:max_zoom":16.0,
@@ -264,7 +263,17 @@
     "wof:geomhash":"e108f414d42677c75532c04685f214d4",
     "wof:hierarchy":[],
     "wof:id":1745986719,
-    "wof:lastmodified":1625097288,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167953,
     "wof:name":"Colmar",
     "wof:parent_id":85673875,
     "wof:placetype":"neighbourhood",

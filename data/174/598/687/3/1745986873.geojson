@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":105,
     "iso:country":"LU",
-    "lbl:bbox":"6.23806,49.86389,6.27806,49.90389",
     "lbl:latitude":49.88389,
     "lbl:longitude":6.25806,
     "lbl:max_zoom":18.0,
@@ -90,7 +89,17 @@
     "wof:geomhash":"60a2e2135c44da1bb2616169c25df1ba",
     "wof:hierarchy":[],
     "wof:id":1745986873,
-    "wof:lastmodified":1625097344,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167942,
     "wof:name":"Hoesdorf",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

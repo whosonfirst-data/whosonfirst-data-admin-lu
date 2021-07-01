@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":232,
     "iso:country":"LU",
-    "lbl:bbox":"5.81722,49.95,5.85722,49.99",
     "lbl:latitude":49.97,
     "lbl:longitude":5.83722,
     "lbl:max_zoom":17.0,
@@ -92,7 +91,17 @@
     "wof:geomhash":"e0d28cc0d2f4bed0b6cc92a3186b6631",
     "wof:hierarchy":[],
     "wof:id":1745987079,
-    "wof:lastmodified":1625097427,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167938,
     "wof:name":"Doncols",
     "wof:parent_id":85673865,
     "wof:placetype":"neighbourhood",

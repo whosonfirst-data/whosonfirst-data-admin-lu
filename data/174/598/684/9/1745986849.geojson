@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":461,
     "iso:country":"LU",
-    "lbl:bbox":"6.34056,49.755,6.38056,49.795",
     "lbl:latitude":49.775,
     "lbl:longitude":6.36056,
     "lbl:max_zoom":17.0,
@@ -89,7 +88,17 @@
     "wof:geomhash":"35c813090655076514ab95bf9c00e44d",
     "wof:hierarchy":[],
     "wof:id":1745986849,
-    "wof:lastmodified":1625097336,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167956,
     "wof:name":"Scheidgen",
     "wof:parent_id":85673869,
     "wof:placetype":"neighbourhood",

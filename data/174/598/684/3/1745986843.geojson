@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":132,
     "iso:country":"LU",
-    "lbl:bbox":"5.82944,49.90194,5.86944,49.94194",
     "lbl:latitude":49.92194,
     "lbl:longitude":5.84944,
     "lbl:max_zoom":18.0,
@@ -80,7 +79,17 @@
     "wof:geomhash":"6fbee6ad1c2e21f8507a4b51aa6501a5",
     "wof:hierarchy":[],
     "wof:id":1745986843,
-    "wof:lastmodified":1625097333,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167956,
     "wof:name":"Bavigne",
     "wof:parent_id":85673865,
     "wof:placetype":"neighbourhood",

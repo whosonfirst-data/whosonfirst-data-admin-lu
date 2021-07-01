@@ -27,7 +27,17 @@
     "wof:geomhash":"ed1875dc0bebfdd9fcfdf69d56a46e24",
     "wof:hierarchy":[],
     "wof:id":1745980833,
-    "wof:lastmodified":1624995618,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167940,
     "wof:name":"Reckange-sur-Mess",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

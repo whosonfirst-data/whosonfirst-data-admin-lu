@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":103,
     "iso:country":"LU",
-    "lbl:bbox":"5.95917,50.09806,5.99917,50.13806",
     "lbl:latitude":50.11806,
     "lbl:longitude":5.97917,
     "lbl:max_zoom":18.0,
@@ -63,7 +62,17 @@
     "wof:geomhash":"ab8cefd2760a892a9c57a513843642eb",
     "wof:hierarchy":[],
     "wof:id":1745986729,
-    "wof:lastmodified":1625097291,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167939,
     "wof:name":"Biwisch",
     "wof:parent_id":85673865,
     "wof:placetype":"neighbourhood",

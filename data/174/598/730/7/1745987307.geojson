@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":0,
     "iso:country":"LU",
-    "lbl:bbox":"6.20607,49.62907,6.24607,49.66907",
     "lbl:latitude":49.64907,
     "lbl:longitude":6.22607,
     "lbl:max_zoom":18.0,
@@ -92,7 +91,17 @@
     "wof:geomhash":"9ec46581829d6af0a72c62dd9c7c5554",
     "wof:hierarchy":[],
     "wof:id":1745987307,
-    "wof:lastmodified":1625097514,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167937,
     "wof:name":"Senningerberg",
     "wof:parent_id":85673875,
     "wof:placetype":"neighbourhood",

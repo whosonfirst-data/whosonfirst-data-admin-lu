@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":649,
     "iso:country":"LU",
-    "lbl:bbox":"5.74583,49.79167,5.78583,49.83167",
     "lbl:latitude":49.81167,
     "lbl:longitude":5.76583,
     "lbl:max_zoom":17.0,
@@ -88,7 +87,17 @@
     "wof:geomhash":"df88e2af955d832fb751937692292963",
     "wof:hierarchy":[],
     "wof:id":1745987363,
-    "wof:lastmodified":1625097536,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167938,
     "wof:name":"Perl\u00e9",
     "wof:parent_id":85673865,
     "wof:placetype":"neighbourhood",

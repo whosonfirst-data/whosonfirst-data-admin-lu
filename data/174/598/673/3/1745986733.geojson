@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":132,
     "iso:country":"LU",
-    "lbl:bbox":"5.90806,49.75361,5.94806,49.79361",
     "lbl:latitude":49.77361,
     "lbl:longitude":5.92806,
     "lbl:max_zoom":18.0,
@@ -87,7 +86,17 @@
     "wof:geomhash":"bf2373989e0250b6c78c08ce7cf69a81",
     "wof:hierarchy":[],
     "wof:id":1745986733,
-    "wof:lastmodified":1625097292,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167942,
     "wof:name":"Reichlange",
     "wof:parent_id":85673865,
     "wof:placetype":"neighbourhood",

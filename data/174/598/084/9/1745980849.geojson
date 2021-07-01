@@ -27,7 +27,17 @@
     "wof:geomhash":"26a75f40398ba094b650c10ae932a7ef",
     "wof:hierarchy":[],
     "wof:id":1745980849,
-    "wof:lastmodified":1624995628,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167941,
     "wof:name":"Contern",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

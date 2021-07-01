@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":290,
     "iso:country":"LU",
-    "lbl:bbox":"6.03917,49.67111,6.07917,49.71111",
     "lbl:latitude":49.69111,
     "lbl:longitude":6.05917,
     "lbl:max_zoom":17.0,
@@ -87,7 +86,17 @@
     "wof:geomhash":"0b99b9bdbb6b659f721eacc83d5d6dea",
     "wof:hierarchy":[],
     "wof:id":1745987339,
-    "wof:lastmodified":1625097527,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167951,
     "wof:name":"Meispelt",
     "wof:parent_id":85673875,
     "wof:placetype":"neighbourhood",

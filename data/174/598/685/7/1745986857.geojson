@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":1535,
     "iso:country":"LU",
-    "lbl:bbox":"6.02222,49.505,6.06222,49.545",
     "lbl:latitude":49.525,
     "lbl:longitude":6.04222,
     "lbl:max_zoom":16.0,
@@ -77,7 +76,17 @@
     "wof:geomhash":"ba360835a685b0c0f61747f5fef4818a",
     "wof:hierarchy":[],
     "wof:id":1745986857,
-    "wof:lastmodified":1625097338,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167953,
     "wof:name":"Bergem",
     "wof:parent_id":85673875,
     "wof:placetype":"neighbourhood",

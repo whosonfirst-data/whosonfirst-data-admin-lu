@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":94,
     "iso:country":"LU",
-    "lbl:bbox":"5.96167,49.9425,6.00167,49.9825",
     "lbl:latitude":49.9625,
     "lbl:longitude":5.98167,
     "lbl:max_zoom":18.0,
@@ -95,7 +94,17 @@
     "wof:geomhash":"a72f07fede56b117f5895e18d3a5a4f1",
     "wof:hierarchy":[],
     "wof:id":1745987173,
-    "wof:lastmodified":1625097463,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167962,
     "wof:name":"Merkholz",
     "wof:parent_id":85673865,
     "wof:placetype":"neighbourhood",

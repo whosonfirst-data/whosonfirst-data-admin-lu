@@ -196,7 +196,17 @@
         }
     ],
     "wof:id":1125883515,
-    "wof:lastmodified":1625088924,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167972,
     "wof:name":"Schengen",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

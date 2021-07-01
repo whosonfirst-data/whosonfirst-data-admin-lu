@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":126,
     "iso:country":"LU",
-    "lbl:bbox":"5.99306,49.97444,6.03306,50.01444",
     "lbl:latitude":49.99444,
     "lbl:longitude":6.01306,
     "lbl:max_zoom":18.0,
@@ -89,7 +88,17 @@
     "wof:geomhash":"ed942e5fe1d00d3bef522d3519554463",
     "wof:hierarchy":[],
     "wof:id":1745986955,
-    "wof:lastmodified":1625097376,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167946,
     "wof:name":"Pintsch",
     "wof:parent_id":85673865,
     "wof:placetype":"neighbourhood",

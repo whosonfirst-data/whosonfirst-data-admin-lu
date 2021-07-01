@@ -27,7 +27,17 @@
     "wof:geomhash":"40720bc6d59d77f94f12499344df1e2f",
     "wof:hierarchy":[],
     "wof:id":1745980835,
-    "wof:lastmodified":1624995619,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167941,
     "wof:name":"Colmar-Berg",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

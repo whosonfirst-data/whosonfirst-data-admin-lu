@@ -158,7 +158,17 @@
         }
     ],
     "wof:id":1125799187,
-    "wof:lastmodified":1625088922,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167976,
     "wof:name":"Reisdorf",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":45,
     "iso:country":"LU",
-    "lbl:bbox":"5.9775,50.07944,6.0175,50.11944",
     "lbl:latitude":50.09944,
     "lbl:longitude":5.9975,
     "lbl:max_zoom":18.0,
@@ -83,7 +82,17 @@
     "wof:geomhash":"9e192ad1b1d35433bd6b5f6fb956ddb4",
     "wof:hierarchy":[],
     "wof:id":1745987203,
-    "wof:lastmodified":1625097473,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167964,
     "wof:name":"Sassel",
     "wof:parent_id":85673865,
     "wof:placetype":"neighbourhood",

@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":329,
     "iso:country":"LU",
-    "lbl:bbox":"5.88083,49.58361,5.92083,49.62361",
     "lbl:latitude":49.60361,
     "lbl:longitude":5.90083,
     "lbl:max_zoom":17.0,
@@ -95,7 +94,17 @@
     "wof:geomhash":"ec769f598a364bff1e109014c5129c6e",
     "wof:hierarchy":[],
     "wof:id":1745987259,
-    "wof:lastmodified":1625097496,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167947,
     "wof:name":"Fingig",
     "wof:parent_id":85673875,
     "wof:placetype":"neighbourhood",

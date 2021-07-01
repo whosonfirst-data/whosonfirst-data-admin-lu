@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":235,
     "iso:country":"LU",
-    "lbl:bbox":"6.01861,50.09889,6.05861,50.13889",
     "lbl:latitude":50.11889,
     "lbl:longitude":6.03861,
     "lbl:max_zoom":17.0,
@@ -133,7 +132,17 @@
     "wof:geomhash":"2361ea9cb8399631c2bf919427cb7261",
     "wof:hierarchy":[],
     "wof:id":1745986771,
-    "wof:lastmodified":1625097307,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167956,
     "wof:name":"Binsfeld",
     "wof:parent_id":85673865,
     "wof:placetype":"neighbourhood",

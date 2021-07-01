@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":75,
     "iso:country":"LU",
-    "lbl:bbox":"6.06083,49.51361,6.10083,49.55361",
     "lbl:latitude":49.53361,
     "lbl:longitude":6.08083,
     "lbl:max_zoom":18.0,
@@ -59,7 +58,17 @@
     "wof:geomhash":"98984e51e2c89876fb008571cab54247",
     "wof:hierarchy":[],
     "wof:id":1745987003,
-    "wof:lastmodified":1625097394,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167939,
     "wof:name":"Abweiler",
     "wof:parent_id":85673875,
     "wof:placetype":"neighbourhood",

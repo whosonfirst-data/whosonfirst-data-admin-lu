@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":70,
     "iso:country":"LU",
-    "lbl:bbox":"6.10944,49.92833,6.14944,49.96833",
     "lbl:latitude":49.94833,
     "lbl:longitude":6.12944,
     "lbl:max_zoom":18.0,
@@ -83,7 +82,17 @@
     "wof:geomhash":"13b5fb2f91bf68e6b4e9395e9862b4be",
     "wof:hierarchy":[],
     "wof:id":1745986867,
-    "wof:lastmodified":1625097343,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167939,
     "wof:name":"Nachtmanderscheid",
     "wof:parent_id":85673865,
     "wof:placetype":"neighbourhood",

@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":152,
     "iso:country":"LU",
-    "lbl:bbox":"6.29083,49.76472,6.33083,49.80472",
     "lbl:latitude":49.78472,
     "lbl:longitude":6.31083,
     "lbl:max_zoom":18.0,
@@ -106,7 +105,17 @@
     "wof:geomhash":"3fed12e6541bdb627a63bd1bc828e76d",
     "wof:hierarchy":[],
     "wof:id":1745986713,
-    "wof:lastmodified":1625097285,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167954,
     "wof:name":"M\u00fcllerthal",
     "wof:parent_id":85673869,
     "wof:placetype":"neighbourhood",

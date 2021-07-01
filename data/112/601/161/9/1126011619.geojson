@@ -2,7 +2,7 @@
   "id": 1126011619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"2021-06-30",
+    "edtf:cessation":"uuuu",
     "edtf:deprecated":"2018-08-15",
     "edtf:inception":"uuuu",
     "edtf:superseded":"2018-08-15",
@@ -69,8 +69,7 @@
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-lu",
     "wof:superseded_by":[
-        1125849553,
-        1745987371
+        1125849553
     ],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":907,
     "iso:country":"LU",
-    "lbl:bbox":"6.19833,49.78194,6.23833,49.82194",
     "lbl:latitude":49.80194,
     "lbl:longitude":6.21833,
     "lbl:max_zoom":17.0,
@@ -119,7 +118,17 @@
     "wof:geomhash":"b772f523850ea8e9914ab8595cc89df2",
     "wof:hierarchy":[],
     "wof:id":1745987129,
-    "wof:lastmodified":1625097445,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167948,
     "wof:name":"Medernach",
     "wof:parent_id":85673865,
     "wof:placetype":"neighbourhood",

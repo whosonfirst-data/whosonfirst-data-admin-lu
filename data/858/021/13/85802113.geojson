@@ -10,7 +10,6 @@
     "geom:latitude":49.628785,
     "geom:longitude":6.137137,
     "iso:country":"LU",
-    "lbl:bbox":"6.132137,49.623785,6.142137,49.633785",
     "lbl:latitude":49.628785,
     "lbl:longitude":6.137137,
     "lbl:max_zoom":18.0,
@@ -125,7 +124,17 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582349490,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167935,
     "wof:name":"Waymersk",
     "wof:parent_id":101751765,
     "wof:placetype":"neighbourhood",

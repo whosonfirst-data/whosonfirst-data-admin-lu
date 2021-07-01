@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":216,
     "iso:country":"LU",
-    "lbl:bbox":"5.83778,49.76917,5.87778,49.80917",
     "lbl:latitude":49.78917,
     "lbl:longitude":5.85778,
     "lbl:max_zoom":17.0,
@@ -90,7 +89,17 @@
     "wof:geomhash":"4055a1416840de39786dc3c1817518a1",
     "wof:hierarchy":[],
     "wof:id":1745986973,
-    "wof:lastmodified":1625097383,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167958,
     "wof:name":"Nagem",
     "wof:parent_id":85673865,
     "wof:placetype":"neighbourhood",

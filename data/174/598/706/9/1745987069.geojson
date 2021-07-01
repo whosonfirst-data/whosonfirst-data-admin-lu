@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":125,
     "iso:country":"LU",
-    "lbl:bbox":"5.91417,50.02639,5.95417,50.06639",
     "lbl:latitude":50.04639,
     "lbl:longitude":5.93417,
     "lbl:max_zoom":18.0,
@@ -92,7 +91,17 @@
     "wof:geomhash":"f49ffcc04605e158d500829ac5e732c1",
     "wof:hierarchy":[],
     "wof:id":1745987069,
-    "wof:lastmodified":1625097421,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167937,
     "wof:name":"Boevange",
     "wof:parent_id":85673865,
     "wof:placetype":"neighbourhood",

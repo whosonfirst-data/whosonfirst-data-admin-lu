@@ -160,7 +160,17 @@
         }
     ],
     "wof:id":101839813,
-    "wof:lastmodified":1625088920,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167969,
     "wof:name":"P\u00e9tange",
     "wof:parent_id":85673875,
     "wof:placetype":"locality",

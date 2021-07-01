@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":12,
     "iso:country":"LU",
-    "lbl:bbox":"6.47944,49.75778,6.51944,49.79778",
     "lbl:latitude":49.77778,
     "lbl:longitude":6.49944,
     "lbl:max_zoom":18.0,
@@ -59,7 +58,17 @@
     "wof:geomhash":"e0d0e7583b1d06909023dcd6ea3a3668",
     "wof:hierarchy":[],
     "wof:id":1745986795,
-    "wof:lastmodified":1625097316,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167955,
     "wof:name":"Girsterklaus",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

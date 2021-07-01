@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":165,
     "iso:country":"LU",
-    "lbl:bbox":"5.86472,49.88167,5.90472,49.92167",
     "lbl:latitude":49.90167,
     "lbl:longitude":5.88472,
     "lbl:max_zoom":18.0,
@@ -91,7 +90,17 @@
     "wof:geomhash":"b5bee8e97213bfc36482b5e7f58d95e3",
     "wof:hierarchy":[],
     "wof:id":1745987041,
-    "wof:lastmodified":1625097410,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167952,
     "wof:name":"Insenborn",
     "wof:parent_id":85673865,
     "wof:placetype":"neighbourhood",

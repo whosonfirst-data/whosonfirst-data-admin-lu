@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":371,
     "iso:country":"LU",
-    "lbl:bbox":"6.22833,49.5125,6.26833,49.5525",
     "lbl:latitude":49.5325,
     "lbl:longitude":6.24833,
     "lbl:max_zoom":17.0,
@@ -86,7 +85,17 @@
     "wof:geomhash":"07eac46c9a884a2a87c5fab8412da115",
     "wof:hierarchy":[],
     "wof:id":1745987261,
-    "wof:lastmodified":1625097497,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167961,
     "wof:name":"Filsdorf",
     "wof:parent_id":85673869,
     "wof:placetype":"neighbourhood",

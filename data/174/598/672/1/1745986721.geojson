@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":1330,
     "iso:country":"LU",
-    "lbl:bbox":"5.97083,49.625,6.01083,49.665",
     "lbl:latitude":49.645,
     "lbl:longitude":5.99083,
     "lbl:max_zoom":16.0,
@@ -83,7 +82,17 @@
     "wof:geomhash":"a97fd5fdd4633613ef97596df2180966",
     "wof:hierarchy":[],
     "wof:id":1745986721,
-    "wof:lastmodified":1625097288,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167939,
     "wof:name":"Capellen",
     "wof:parent_id":85673875,
     "wof:placetype":"neighbourhood",

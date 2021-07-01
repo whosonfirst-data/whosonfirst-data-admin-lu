@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":274,
     "iso:country":"LU",
-    "lbl:bbox":"5.89083,49.95972,5.93083,49.99972",
     "lbl:latitude":49.97972,
     "lbl:longitude":5.91083,
     "lbl:max_zoom":17.0,
@@ -89,7 +88,17 @@
     "wof:geomhash":"7dcb96739ab1bfb41e11fde2640cd3f1",
     "wof:hierarchy":[],
     "wof:id":1745987209,
-    "wof:lastmodified":1625097475,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167963,
     "wof:name":"Noertrange",
     "wof:parent_id":85673865,
     "wof:placetype":"neighbourhood",

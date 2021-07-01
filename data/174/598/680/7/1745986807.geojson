@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":207,
     "iso:country":"LU",
-    "lbl:bbox":"5.89583,49.83306,5.93583,49.87306",
     "lbl:latitude":49.85306,
     "lbl:longitude":5.91583,
     "lbl:max_zoom":17.0,
@@ -87,7 +86,17 @@
     "wof:geomhash":"350913b73a896a0ca5237a7ef31414b4",
     "wof:hierarchy":[],
     "wof:id":1745986807,
-    "wof:lastmodified":1625097320,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167942,
     "wof:name":"Grevels",
     "wof:parent_id":85673865,
     "wof:placetype":"neighbourhood",

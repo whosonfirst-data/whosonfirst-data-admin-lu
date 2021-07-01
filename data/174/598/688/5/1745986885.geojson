@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":1559,
     "iso:country":"LU",
-    "lbl:bbox":"5.85861,49.66556,5.89861,49.70556",
     "lbl:latitude":49.68556,
     "lbl:longitude":5.87861,
     "lbl:max_zoom":16.0,
@@ -94,7 +93,17 @@
     "wof:geomhash":"e232ec9d3e22976efce40b9f5defb960",
     "wof:hierarchy":[],
     "wof:id":1745986885,
-    "wof:lastmodified":1625097349,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167940,
     "wof:name":"Eischen",
     "wof:parent_id":85673875,
     "wof:placetype":"neighbourhood",

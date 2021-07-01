@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":58,
     "iso:country":"LU",
-    "lbl:bbox":"6.09306,50.08278,6.13306,50.12278",
     "lbl:latitude":50.10278,
     "lbl:longitude":6.11306,
     "lbl:max_zoom":18.0,
@@ -81,7 +80,17 @@
     "wof:geomhash":"0fcf799371ae452e0b14c198f62cfe03",
     "wof:hierarchy":[],
     "wof:id":1745987329,
-    "wof:lastmodified":1625097523,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167951,
     "wof:name":"Malborn",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

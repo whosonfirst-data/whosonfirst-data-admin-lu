@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":246,
     "iso:country":"LU",
-    "lbl:bbox":"5.95583,49.91528,5.99583,49.95528",
     "lbl:latitude":49.93528,
     "lbl:longitude":5.97583,
     "lbl:max_zoom":17.0,
@@ -87,7 +86,17 @@
     "wof:geomhash":"a2b4ac1980c79344bd5c25f0de24ef61",
     "wof:hierarchy":[],
     "wof:id":1745987351,
-    "wof:lastmodified":1625097532,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167951,
     "wof:name":"Dahl",
     "wof:parent_id":85673865,
     "wof:placetype":"neighbourhood",

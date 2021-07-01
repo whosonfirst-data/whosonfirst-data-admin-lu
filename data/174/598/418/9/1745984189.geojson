@@ -25,7 +25,17 @@
     "wof:geomhash":"1bfcc37185e3f9fc6e7d1b74ed0fe2ac",
     "wof:hierarchy":[],
     "wof:id":1745984189,
-    "wof:lastmodified":1625088923,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167954,
     "wof:name":"Rosport-Mompach",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

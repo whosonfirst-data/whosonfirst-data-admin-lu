@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":239,
     "iso:country":"LU",
-    "lbl:bbox":"6.22,49.59944,6.26,49.63944",
     "lbl:latitude":49.61944,
     "lbl:longitude":6.24,
     "lbl:max_zoom":17.0,
@@ -96,7 +95,17 @@
     "wof:geomhash":"55890298556543890e9150a3b30fab6b",
     "wof:hierarchy":[],
     "wof:id":1745986691,
-    "wof:lastmodified":1625097276,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167943,
     "wof:name":"Neihaischen",
     "wof:parent_id":85673875,
     "wof:placetype":"neighbourhood",

@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":210,
     "iso:country":"LU",
-    "lbl:bbox":"5.96833,49.68972,6.00833,49.72972",
     "lbl:latitude":49.70972,
     "lbl:longitude":5.98833,
     "lbl:max_zoom":17.0,
@@ -87,7 +86,17 @@
     "wof:geomhash":"92da1995ecc769ed3e0ec20f8db1bf70",
     "wof:hierarchy":[],
     "wof:id":1745987059,
-    "wof:lastmodified":1625097416,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167950,
     "wof:name":"Preisch",
     "wof:parent_id":85673875,
     "wof:placetype":"neighbourhood",

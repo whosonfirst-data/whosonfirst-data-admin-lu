@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":301,
     "iso:country":"LU",
-    "lbl:bbox":"6.48,49.71833,6.52,49.75833",
     "lbl:latitude":49.73833,
     "lbl:longitude":6.5,
     "lbl:max_zoom":17.0,
@@ -93,7 +92,17 @@
     "wof:geomhash":"ede20ecf392a3162965a3f1c601147c5",
     "wof:hierarchy":[],
     "wof:id":1745987197,
-    "wof:lastmodified":1625097471,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167961,
     "wof:name":"Moersdorf",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

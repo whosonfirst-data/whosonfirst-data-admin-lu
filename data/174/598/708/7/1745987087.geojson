@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":76,
     "iso:country":"LU",
-    "lbl:bbox":"5.94444,49.70556,5.98444,49.74556",
     "lbl:latitude":49.72556,
     "lbl:longitude":5.96444,
     "lbl:max_zoom":18.0,
@@ -62,7 +61,17 @@
     "wof:geomhash":"704863c5519a94e1aa92b35aeb52b806",
     "wof:hierarchy":[],
     "wof:id":1745987087,
-    "wof:lastmodified":1625097430,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167937,
     "wof:name":"Calmus",
     "wof:parent_id":85673865,
     "wof:placetype":"neighbourhood",

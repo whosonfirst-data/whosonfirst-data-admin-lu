@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":605,
     "iso:country":"LU",
-    "lbl:bbox":"5.99028,49.69778,6.03028,49.73778",
     "lbl:latitude":49.71778,
     "lbl:longitude":6.01028,
     "lbl:max_zoom":17.0,
@@ -134,7 +133,17 @@
     "wof:geomhash":"1f8ccc381a8a71b7016f8ba7d905aed1",
     "wof:hierarchy":[],
     "wof:id":1745987207,
-    "wof:lastmodified":1625097475,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167963,
     "wof:name":"Tuntange",
     "wof:parent_id":85673875,
     "wof:placetype":"neighbourhood",

@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":147,
     "iso:country":"LU",
-    "lbl:bbox":"6.01861,50.01361,6.05861,50.05361",
     "lbl:latitude":50.03361,
     "lbl:longitude":6.03861,
     "lbl:max_zoom":18.0,
@@ -127,7 +126,17 @@
     "wof:geomhash":"8b63bf53b6f14dc07bbf697b7814236d",
     "wof:hierarchy":[],
     "wof:id":1745987291,
-    "wof:lastmodified":1625097508,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167963,
     "wof:name":"Munshausen",
     "wof:parent_id":85673865,
     "wof:placetype":"neighbourhood",

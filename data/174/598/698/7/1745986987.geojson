@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":49,
     "iso:country":"LU",
-    "lbl:bbox":"6.04361,50.10417,6.08361,50.14417",
     "lbl:latitude":50.12417,
     "lbl:longitude":6.06361,
     "lbl:max_zoom":18.0,
@@ -59,7 +58,17 @@
     "wof:geomhash":"13a7d46d94e5ffeb4921c22197a1ac97",
     "wof:hierarchy":[],
     "wof:id":1745986987,
-    "wof:lastmodified":1625097388,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167959,
     "wof:name":"Breidfeld",
     "wof:parent_id":85673865,
     "wof:placetype":"neighbourhood",

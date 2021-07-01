@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":194,
     "iso:country":"LU",
-    "lbl:bbox":"5.9075,49.70278,5.9475,49.74278",
     "lbl:latitude":49.72278,
     "lbl:longitude":5.9275,
     "lbl:max_zoom":18.0,
@@ -128,7 +127,17 @@
     "wof:geomhash":"3bb51737d6a8c998af4c9399f582179f",
     "wof:hierarchy":[],
     "wof:id":1745986915,
-    "wof:lastmodified":1625097360,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167959,
     "wof:name":"Schweix",
     "wof:parent_id":85673865,
     "wof:placetype":"neighbourhood",

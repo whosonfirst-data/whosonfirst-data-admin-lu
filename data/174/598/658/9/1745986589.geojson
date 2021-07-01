@@ -25,7 +25,6 @@
     "gn:population":0,
     "gn:timezone":"Europe/Luxembourg",
     "iso:country":"LU",
-    "lbl:bbox":"6.36754,49.74552,6.40754,49.78552",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
@@ -49,7 +48,17 @@
     "wof:geomhash":"4adc7a03ec812473829df6df97b6d2ab",
     "wof:hierarchy":[],
     "wof:id":1745986589,
-    "wof:lastmodified":1625097166,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167944,
     "wof:name":"Geyershaff",
     "wof:parent_id":85673869,
     "wof:placetype":"neighbourhood",

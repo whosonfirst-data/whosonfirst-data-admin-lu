@@ -13,7 +13,6 @@
     "gn:fcode":"PPLL",
     "gn:population":483,
     "iso:country":"LU",
-    "lbl:bbox":"5.99083,49.50944,6.03083,49.54944",
     "lbl:latitude":49.52944,
     "lbl:longitude":6.01083,
     "lbl:max_zoom":17.0,
@@ -73,7 +72,17 @@
     "wof:geomhash":"d7d26eeb1cafc996f8f107c361b5c4df",
     "wof:hierarchy":[],
     "wof:id":1745986981,
-    "wof:lastmodified":1625097385,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167959,
     "wof:name":"Foetz",
     "wof:parent_id":85673875,
     "wof:placetype":"neighbourhood",

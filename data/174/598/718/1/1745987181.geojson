@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":42,
     "iso:country":"LU",
-    "lbl:bbox":"6.02333,49.6825,6.06333,49.7225",
     "lbl:latitude":49.7025,
     "lbl:longitude":6.04333,
     "lbl:max_zoom":18.0,
@@ -91,7 +90,17 @@
     "wof:geomhash":"135ba7211502018bdd39413751094cd1",
     "wof:hierarchy":[],
     "wof:id":1745987181,
-    "wof:lastmodified":1625097465,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167964,
     "wof:name":"Ansembourg",
     "wof:parent_id":85673875,
     "wof:placetype":"neighbourhood",

@@ -10,7 +10,6 @@
     "geom:latitude":49.603673,
     "geom:longitude":6.094189,
     "iso:country":"LU",
-    "lbl:bbox":"6.089189,49.598673,6.099189,49.608673",
     "lbl:latitude":49.603673,
     "lbl:longitude":6.094189,
     "lbl:max_zoom":18.0,
@@ -124,7 +123,17 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582349490,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167935,
     "wof:name":"Merl",
     "wof:parent_id":101751765,
     "wof:placetype":"neighbourhood",

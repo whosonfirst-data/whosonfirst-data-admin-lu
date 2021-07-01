@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":458,
     "iso:country":"LU",
-    "lbl:bbox":"6.09694,49.70639,6.13694,49.74639",
     "lbl:latitude":49.72639,
     "lbl:longitude":6.11694,
     "lbl:max_zoom":17.0,
@@ -87,7 +86,17 @@
     "wof:geomhash":"4c2eab84ceb6a7560c1379025ce5d81b",
     "wof:hierarchy":[],
     "wof:id":1745986951,
-    "wof:lastmodified":1625097374,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167946,
     "wof:name":"Gosseldange",
     "wof:parent_id":85673875,
     "wof:placetype":"neighbourhood",

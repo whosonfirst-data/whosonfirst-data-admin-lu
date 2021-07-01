@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":193,
     "iso:country":"LU",
-    "lbl:bbox":"6.0175,50.03778,6.0575,50.07778",
     "lbl:latitude":50.05778,
     "lbl:longitude":6.0375,
     "lbl:max_zoom":18.0,
@@ -92,7 +91,17 @@
     "wof:geomhash":"68c01c0bc736ad33ef0406b2dbd84608",
     "wof:hierarchy":[],
     "wof:id":1745986879,
-    "wof:lastmodified":1625097347,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167942,
     "wof:name":"Reuler",
     "wof:parent_id":85673865,
     "wof:placetype":"neighbourhood",

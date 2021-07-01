@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":118,
     "iso:country":"LU",
-    "lbl:bbox":"6.29056,49.69139,6.33056,49.73139",
     "lbl:latitude":49.71139,
     "lbl:longitude":6.31056,
     "lbl:max_zoom":18.0,
@@ -52,7 +51,17 @@
     "wof:geomhash":"092e269018429e6480b6ced061bc4560",
     "wof:hierarchy":[],
     "wof:id":1745987411,
-    "wof:lastmodified":1625097554,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167950,
     "wof:name":"Eschweiler-l\u00e8s-Rodenbourg",
     "wof:parent_id":85673869,
     "wof:placetype":"neighbourhood",

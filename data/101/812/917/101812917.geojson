@@ -154,7 +154,17 @@
         }
     ],
     "wof:id":101812917,
-    "wof:lastmodified":1625088902,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167968,
     "wof:name":"Bettembourg",
     "wof:parent_id":85673875,
     "wof:placetype":"locality",

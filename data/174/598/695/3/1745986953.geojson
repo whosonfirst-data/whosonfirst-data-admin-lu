@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":64,
     "iso:country":"LU",
-    "lbl:bbox":"5.8525,49.96444,5.8925,50.00444",
     "lbl:latitude":49.98444,
     "lbl:longitude":5.8725,
     "lbl:max_zoom":18.0,
@@ -80,7 +79,17 @@
     "wof:geomhash":"b46c3be0c145fc6586280ec86a8b9010",
     "wof:hierarchy":[],
     "wof:id":1745986953,
-    "wof:lastmodified":1625097375,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167946,
     "wof:name":"Gr\u00fcmmelscheid",
     "wof:parent_id":85673865,
     "wof:placetype":"neighbourhood",

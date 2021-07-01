@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":611,
     "iso:country":"LU",
-    "lbl:bbox":"6.06306,49.72972,6.10306,49.76972",
     "lbl:latitude":49.74972,
     "lbl:longitude":6.08306,
     "lbl:max_zoom":17.0,
@@ -86,7 +85,17 @@
     "wof:geomhash":"adf133d90acbe736ce7793a4c266e2e2",
     "wof:hierarchy":[],
     "wof:id":1745987163,
-    "wof:lastmodified":1625097459,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167963,
     "wof:name":"Reckange-l\u00e8s-Mersch",
     "wof:parent_id":85673875,
     "wof:placetype":"neighbourhood",

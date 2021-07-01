@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":294,
     "iso:country":"LU",
-    "lbl:bbox":"5.77611,49.93056,5.81611,49.97056",
     "lbl:latitude":49.95056,
     "lbl:longitude":5.79611,
     "lbl:max_zoom":17.0,
@@ -91,7 +90,17 @@
     "wof:geomhash":"c56dff6929ff03597ba3fe7c29169fce",
     "wof:hierarchy":[],
     "wof:id":1745986715,
-    "wof:lastmodified":1625097286,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167954,
     "wof:name":"Tarchamps",
     "wof:parent_id":85673865,
     "wof:placetype":"neighbourhood",

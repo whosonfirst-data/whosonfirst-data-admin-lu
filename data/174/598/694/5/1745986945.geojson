@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":436,
     "iso:country":"LU",
-    "lbl:bbox":"6.18917,49.52861,6.22917,49.56861",
     "lbl:latitude":49.54861,
     "lbl:longitude":6.20917,
     "lbl:max_zoom":17.0,
@@ -84,7 +83,17 @@
     "wof:geomhash":"eee53076e3f32f8ff2f59aa719508556",
     "wof:hierarchy":[],
     "wof:id":1745986945,
-    "wof:lastmodified":1625097372,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167944,
     "wof:name":"Hassel",
     "wof:parent_id":85673875,
     "wof:placetype":"neighbourhood",

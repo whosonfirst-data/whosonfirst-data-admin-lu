@@ -25,7 +25,6 @@
     "gn:population":0,
     "gn:timezone":"Europe/Luxembourg",
     "iso:country":"LU",
-    "lbl:bbox":"6.47,49.69639,6.51,49.73639",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
@@ -49,7 +48,17 @@
     "wof:geomhash":"b5fa99a2a60d242c250da28fbc9e1f9d",
     "wof:hierarchy":[],
     "wof:id":1745986593,
-    "wof:lastmodified":1625097170,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167945,
     "wof:name":"Wollefsmillen",
     "wof:parent_id":85673869,
     "wof:placetype":"neighbourhood",

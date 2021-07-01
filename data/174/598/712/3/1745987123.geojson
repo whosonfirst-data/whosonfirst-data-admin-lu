@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":289,
     "iso:country":"LU",
-    "lbl:bbox":"5.85472,49.79417,5.89472,49.83417",
     "lbl:latitude":49.81417,
     "lbl:longitude":5.87472,
     "lbl:max_zoom":17.0,
@@ -89,7 +88,17 @@
     "wof:geomhash":"a859ef159c269078485754803b602393",
     "wof:hierarchy":[],
     "wof:id":1745987123,
-    "wof:lastmodified":1625097443,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167949,
     "wof:name":"Folschette",
     "wof:parent_id":85673865,
     "wof:placetype":"neighbourhood",

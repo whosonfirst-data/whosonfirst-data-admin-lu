@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":22,
     "iso:country":"LU",
-    "lbl:bbox":"6.45861,49.73806,6.49861,49.77806",
     "lbl:latitude":49.75806,
     "lbl:longitude":6.47861,
     "lbl:max_zoom":18.0,
@@ -62,7 +61,17 @@
     "wof:geomhash":"938b24eae266a7c56736a13ccaa35a72",
     "wof:hierarchy":[],
     "wof:id":1745986687,
-    "wof:lastmodified":1625097275,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167946,
     "wof:name":"Boursdorf",
     "wof:parent_id":85673869,
     "wof:placetype":"neighbourhood",

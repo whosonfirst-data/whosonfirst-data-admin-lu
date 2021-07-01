@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":67,
     "iso:country":"LU",
-    "lbl:bbox":"5.99889,49.68139,6.03889,49.72139",
     "lbl:latitude":49.70139,
     "lbl:longitude":6.01889,
     "lbl:max_zoom":18.0,
@@ -80,7 +79,17 @@
     "wof:geomhash":"a645c6f58b33269a374fe31b03175d93",
     "wof:hierarchy":[],
     "wof:id":1745987421,
-    "wof:lastmodified":1625097559,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167962,
     "wof:name":"Bour",
     "wof:parent_id":85673875,
     "wof:placetype":"neighbourhood",

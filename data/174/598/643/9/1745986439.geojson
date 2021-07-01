@@ -25,7 +25,6 @@
     "gn:population":0,
     "gn:timezone":"Europe/Luxembourg",
     "iso:country":"LU",
-    "lbl:bbox":"5.79278,49.87917,5.83278,49.91917",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
@@ -48,7 +47,17 @@
     "wof:geomhash":"47e4dd11166dd8bcb2c0d3af9b87f9b4",
     "wof:hierarchy":[],
     "wof:id":1745986439,
-    "wof:lastmodified":1625097102,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167940,
     "wof:name":"Fleibur",
     "wof:parent_id":85673865,
     "wof:placetype":"neighbourhood",

@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":2404,
     "iso:country":"LU",
-    "lbl:bbox":"6.06222,49.63833,6.10222,49.67833",
     "lbl:latitude":49.65833,
     "lbl:longitude":6.08222,
     "lbl:max_zoom":15.0,
@@ -88,7 +87,17 @@
     "wof:geomhash":"3663bef63f0f4a181f57443055ff78d4",
     "wof:hierarchy":[],
     "wof:id":1745986891,
-    "wof:lastmodified":1625097351,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167941,
     "wof:name":"Bridel",
     "wof:parent_id":85673875,
     "wof:placetype":"neighbourhood",

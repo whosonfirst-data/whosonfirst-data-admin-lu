@@ -13,7 +13,6 @@
     "gn:fcode":"PPLL",
     "gn:population":13,
     "iso:country":"LU",
-    "lbl:bbox":"5.93,49.6975,5.97,49.7375",
     "lbl:latitude":49.7175,
     "lbl:longitude":5.95,
     "lbl:max_zoom":18.0,
@@ -49,7 +48,17 @@
     "wof:geomhash":"fafc59e10a4ab96a53961e137dc09e5b",
     "wof:hierarchy":[],
     "wof:id":1745987269,
-    "wof:lastmodified":1625097499,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167961,
     "wof:name":"Ehner",
     "wof:parent_id":85673875,
     "wof:placetype":"neighbourhood",

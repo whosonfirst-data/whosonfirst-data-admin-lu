@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":116,
     "iso:country":"LU",
-    "lbl:bbox":"6.00028,49.79861,6.04028,49.83861",
     "lbl:latitude":49.81861,
     "lbl:longitude":6.02028,
     "lbl:max_zoom":18.0,
@@ -92,7 +91,17 @@
     "wof:geomhash":"bd3f8291ea9f820f8f09fc87e4c41458",
     "wof:hierarchy":[],
     "wof:id":1745987215,
-    "wof:lastmodified":1625097477,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167962,
     "wof:name":"Michelbuch",
     "wof:parent_id":85673865,
     "wof:placetype":"neighbourhood",

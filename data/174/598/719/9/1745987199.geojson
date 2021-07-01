@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":336,
     "iso:country":"LU",
-    "lbl:bbox":"6.49389,49.73417,6.53389,49.77417",
     "lbl:latitude":49.75417,
     "lbl:longitude":6.51389,
     "lbl:max_zoom":17.0,
@@ -89,7 +88,17 @@
     "wof:geomhash":"8019c740abcc99063a9eabf7a22cdf67",
     "wof:hierarchy":[],
     "wof:id":1745987199,
-    "wof:lastmodified":1625097471,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167961,
     "wof:name":"Moulin de Born",
     "wof:parent_id":102063545,
     "wof:placetype":"neighbourhood",

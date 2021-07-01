@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":682,
     "iso:country":"LU",
-    "lbl:bbox":"6.21361,49.63694,6.25361,49.67694",
     "lbl:latitude":49.65694,
     "lbl:longitude":6.23361,
     "lbl:max_zoom":17.0,
@@ -84,7 +83,17 @@
     "wof:geomhash":"940bfc120a171894b208f70f6f7f0779",
     "wof:hierarchy":[],
     "wof:id":1745986787,
-    "wof:lastmodified":1625097313,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167954,
     "wof:name":"Rammeldange",
     "wof:parent_id":85673875,
     "wof:placetype":"neighbourhood",

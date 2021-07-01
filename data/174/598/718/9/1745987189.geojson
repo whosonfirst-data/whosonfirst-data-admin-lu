@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":119,
     "iso:country":"LU",
-    "lbl:bbox":"5.91222,49.58722,5.95222,49.62722",
     "lbl:latitude":49.60722,
     "lbl:longitude":5.93222,
     "lbl:max_zoom":18.0,
@@ -98,7 +97,17 @@
     "wof:geomhash":"ca90a0fe6189012f9b3dd85913203936",
     "wof:hierarchy":[],
     "wof:id":1745987189,
-    "wof:lastmodified":1625097468,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167964,
     "wof:name":"Hivange",
     "wof:parent_id":85673875,
     "wof:placetype":"neighbourhood",

@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":1013,
     "iso:country":"LU",
-    "lbl:bbox":"6.20472,49.50278,6.24472,49.54278",
     "lbl:latitude":49.52278,
     "lbl:longitude":6.22472,
     "lbl:max_zoom":16.0,
@@ -91,7 +90,17 @@
     "wof:geomhash":"4c5c9a012946dfe2d5bf2e4397fb22e3",
     "wof:hierarchy":[],
     "wof:id":1745986883,
-    "wof:lastmodified":1625097348,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167940,
     "wof:name":"Aspelt",
     "wof:parent_id":85673875,
     "wof:placetype":"neighbourhood",

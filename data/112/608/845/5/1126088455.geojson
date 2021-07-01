@@ -13,7 +13,6 @@
     "gn:fcode":"PPLX",
     "gn:population":3164,
     "iso:country":"LU",
-    "lbl:bbox":"5.88806,49.53111,5.89806,49.54111",
     "lbl:latitude":49.53611,
     "lbl:longitude":5.89306,
     "lbl:max_zoom":18.0,
@@ -62,7 +61,17 @@
         }
     ],
     "wof:id":1126088455,
-    "wof:lastmodified":1566598680,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167975,
     "wof:name":"Niedercorn",
     "wof:parent_id":101839817,
     "wof:placetype":"neighbourhood",

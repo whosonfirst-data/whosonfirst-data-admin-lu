@@ -27,7 +27,17 @@
     "wof:geomhash":"6aacde55f259904dcfa82ef1c00137b6",
     "wof:hierarchy":[],
     "wof:id":1745980843,
-    "wof:lastmodified":1624995622,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167941,
     "wof:name":"K\u00e4erjeng",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

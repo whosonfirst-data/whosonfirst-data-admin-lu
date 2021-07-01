@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":154,
     "iso:country":"LU",
-    "lbl:bbox":"6.26417,49.51806,6.30417,49.55806",
     "lbl:latitude":49.53806,
     "lbl:longitude":6.28417,
     "lbl:max_zoom":18.0,
@@ -92,7 +91,17 @@
     "wof:geomhash":"2ba0734b612d708789a2519cc200c5a3",
     "wof:hierarchy":[],
     "wof:id":1745987325,
-    "wof:lastmodified":1625097521,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167951,
     "wof:name":"Welfrange",
     "wof:parent_id":85673869,
     "wof:placetype":"neighbourhood",

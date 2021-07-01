@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":118,
     "iso:country":"LU",
-    "lbl:bbox":"5.91583,49.80722,5.95583,49.84722",
     "lbl:latitude":49.82722,
     "lbl:longitude":5.93583,
     "lbl:max_zoom":18.0,
@@ -89,7 +88,17 @@
     "wof:geomhash":"6841094b63bba058b2a0b1e2822ad8e6",
     "wof:hierarchy":[],
     "wof:id":1745987279,
-    "wof:lastmodified":1625097504,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167964,
     "wof:name":"Buschrodt",
     "wof:parent_id":85673865,
     "wof:placetype":"neighbourhood",

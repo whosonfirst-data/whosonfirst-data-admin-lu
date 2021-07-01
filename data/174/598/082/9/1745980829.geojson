@@ -27,7 +27,17 @@
     "wof:geomhash":"b38bb72331f221286daeb18e9acaba06",
     "wof:hierarchy":[],
     "wof:id":1745980829,
-    "wof:lastmodified":1624995615,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167943,
     "wof:name":"Schieren",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

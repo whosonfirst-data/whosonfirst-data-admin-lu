@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":126,
     "iso:country":"LU",
-    "lbl:bbox":"5.92194,49.91389,5.96194,49.95389",
     "lbl:latitude":49.93389,
     "lbl:longitude":5.94194,
     "lbl:max_zoom":18.0,
@@ -87,7 +86,17 @@
     "wof:geomhash":"e831ba7201b6c5d43130bb22e7c6f5b0",
     "wof:hierarchy":[],
     "wof:id":1745986965,
-    "wof:lastmodified":1625097379,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167959,
     "wof:name":"Buderscheid",
     "wof:parent_id":85673865,
     "wof:placetype":"neighbourhood",

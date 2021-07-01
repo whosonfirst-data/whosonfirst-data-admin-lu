@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":616,
     "iso:country":"LU",
-    "lbl:bbox":"6.25806,49.60861,6.29806,49.64861",
     "lbl:latitude":49.62861,
     "lbl:longitude":6.27806,
     "lbl:max_zoom":17.0,
@@ -84,7 +83,17 @@
     "wof:geomhash":"3f19266a36f3d0fee8fb0b6a53630bda",
     "wof:hierarchy":[],
     "wof:id":1745986949,
-    "wof:lastmodified":1625097373,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167943,
     "wof:name":"Uebersyren",
     "wof:parent_id":85673875,
     "wof:placetype":"neighbourhood",

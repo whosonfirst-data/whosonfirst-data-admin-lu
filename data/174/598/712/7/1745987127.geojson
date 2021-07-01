@@ -13,7 +13,6 @@
     "gn:fcode":"PPLL",
     "gn:population":34,
     "iso:country":"LU",
-    "lbl:bbox":"5.875,49.75833,5.915,49.79833",
     "lbl:latitude":49.77833,
     "lbl:longitude":5.895,
     "lbl:max_zoom":18.0,
@@ -77,7 +76,17 @@
     "wof:geomhash":"2dec757395bdb107f088c0cc129ee0be",
     "wof:hierarchy":[],
     "wof:id":1745987127,
-    "wof:lastmodified":1625097445,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167948,
     "wof:name":"Eltz",
     "wof:parent_id":85673865,
     "wof:placetype":"neighbourhood",

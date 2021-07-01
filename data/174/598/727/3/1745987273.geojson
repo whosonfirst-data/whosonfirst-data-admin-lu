@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":82,
     "iso:country":"LU",
-    "lbl:bbox":"6.49528,49.75639,6.53528,49.79639",
     "lbl:latitude":49.77639,
     "lbl:longitude":6.51528,
     "lbl:max_zoom":18.0,
@@ -63,7 +62,17 @@
     "wof:geomhash":"20a30d6efbe7929323483f7f73ecf374",
     "wof:hierarchy":[],
     "wof:id":1745987273,
-    "wof:lastmodified":1625097501,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167964,
     "wof:name":"Hinkel",
     "wof:parent_id":102063545,
     "wof:placetype":"neighbourhood",

@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":185,
     "iso:country":"LU",
-    "lbl:bbox":"5.80028,49.87833,5.84028,49.91833",
     "lbl:latitude":49.89833,
     "lbl:longitude":5.82028,
     "lbl:max_zoom":18.0,
@@ -89,7 +88,17 @@
     "wof:geomhash":"1c844ee2d21c11277a84ba780f02f1d2",
     "wof:hierarchy":[],
     "wof:id":1745986831,
-    "wof:lastmodified":1625097329,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167956,
     "wof:name":"Baschleiden",
     "wof:parent_id":85673865,
     "wof:placetype":"neighbourhood",

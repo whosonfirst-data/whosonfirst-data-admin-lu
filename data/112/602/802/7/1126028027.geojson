@@ -143,7 +143,17 @@
         }
     ],
     "wof:id":1126028027,
-    "wof:lastmodified":1625088918,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167971,
     "wof:name":"Lac de la Haute S\u00fbre",
     "wof:parent_id":85673865,
     "wof:placetype":"locality",

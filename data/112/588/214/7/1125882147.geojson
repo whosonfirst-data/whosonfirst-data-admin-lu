@@ -147,7 +147,17 @@
         }
     ],
     "wof:id":1125882147,
-    "wof:lastmodified":1625088915,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167972,
     "wof:name":"Goesdorf",
     "wof:parent_id":85673865,
     "wof:placetype":"locality",

@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":110,
     "iso:country":"LU",
-    "lbl:bbox":"5.80694,49.73833,5.84694,49.77833",
     "lbl:latitude":49.75833,
     "lbl:longitude":5.82694,
     "lbl:max_zoom":18.0,
@@ -92,7 +91,17 @@
     "wof:geomhash":"5144a9a585a169e0dd8a3f09e0c3f49b",
     "wof:hierarchy":[],
     "wof:id":1745987297,
-    "wof:lastmodified":1625097510,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167963,
     "wof:name":"Colpach-Bas",
     "wof:parent_id":85673865,
     "wof:placetype":"neighbourhood",

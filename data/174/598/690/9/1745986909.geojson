@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":466,
     "iso:country":"LU",
-    "lbl:bbox":"5.90611,49.72222,5.94611,49.76222",
     "lbl:latitude":49.74222,
     "lbl:longitude":5.92611,
     "lbl:max_zoom":17.0,
@@ -89,7 +88,17 @@
     "wof:geomhash":"724385b3a1aef5ad2a5ac396d44b02a7",
     "wof:hierarchy":[],
     "wof:id":1745986909,
-    "wof:lastmodified":1625097358,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167957,
     "wof:name":"Noerdange",
     "wof:parent_id":85673865,
     "wof:placetype":"neighbourhood",

@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":638,
     "iso:country":"LU",
-    "lbl:bbox":"6.12361,49.66722,6.16361,49.70722",
     "lbl:latitude":49.68722,
     "lbl:longitude":6.14361,
     "lbl:max_zoom":17.0,
@@ -86,7 +85,17 @@
     "wof:geomhash":"7b959b2bae4fd6db08ab879e2967ccc0",
     "wof:hierarchy":[],
     "wof:id":1745987131,
-    "wof:lastmodified":1625097446,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167947,
     "wof:name":"Helmdange",
     "wof:parent_id":85673875,
     "wof:placetype":"neighbourhood",

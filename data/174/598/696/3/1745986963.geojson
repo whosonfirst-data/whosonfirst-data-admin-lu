@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":287,
     "iso:country":"LU",
-    "lbl:bbox":"5.86972,49.995,5.90972,50.035",
     "lbl:latitude":50.015,
     "lbl:longitude":5.88972,
     "lbl:max_zoom":17.0,
@@ -84,7 +83,17 @@
     "wof:geomhash":"477fa59149070b42fe1f10e35ebb3e04",
     "wof:hierarchy":[],
     "wof:id":1745986963,
-    "wof:lastmodified":1625097379,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167959,
     "wof:name":"Derenbach",
     "wof:parent_id":85673865,
     "wof:placetype":"neighbourhood",

@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":465,
     "iso:country":"LU",
-    "lbl:bbox":"6.15056,49.67722,6.19056,49.71722",
     "lbl:latitude":49.69722,
     "lbl:longitude":6.17056,
     "lbl:max_zoom":17.0,
@@ -86,7 +85,17 @@
     "wof:geomhash":"2e4acfa81b9ef20c9d2f0d82f9a0dd1e",
     "wof:hierarchy":[],
     "wof:id":1745987055,
-    "wof:lastmodified":1625097414,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167950,
     "wof:name":"Blaschette",
     "wof:parent_id":85673875,
     "wof:placetype":"neighbourhood",

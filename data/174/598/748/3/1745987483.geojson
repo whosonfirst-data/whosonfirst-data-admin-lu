@@ -25,7 +25,6 @@
     "gn:population":0,
     "gn:timezone":"Europe/Luxembourg",
     "iso:country":"LU",
-    "lbl:bbox":"6.36984,49.77684,6.40984,49.81684",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
@@ -47,7 +46,17 @@
     "wof:geomhash":"a79059693865294f2d1c0b37df55662a",
     "wof:hierarchy":[],
     "wof:id":1745987483,
-    "wof:lastmodified":1625097582,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167949,
     "wof:name":"Lauterbour",
     "wof:parent_id":85673869,
     "wof:placetype":"neighbourhood",

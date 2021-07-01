@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":223,
     "iso:country":"LU",
-    "lbl:bbox":"6.20778,49.89722,6.24778,49.93722",
     "lbl:latitude":49.91722,
     "lbl:longitude":6.22778,
     "lbl:max_zoom":17.0,
@@ -93,7 +92,17 @@
     "wof:geomhash":"ce3f2a8c72e7fee51a2b5eb986f27697",
     "wof:hierarchy":[],
     "wof:id":1745987295,
-    "wof:lastmodified":1625097510,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167963,
     "wof:name":"Bettel",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

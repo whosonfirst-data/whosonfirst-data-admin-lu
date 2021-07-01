@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":244,
     "iso:country":"LU",
-    "lbl:bbox":"5.72278,49.81472,5.76278,49.85472",
     "lbl:latitude":49.83472,
     "lbl:longitude":5.74278,
     "lbl:max_zoom":17.0,
@@ -91,7 +90,17 @@
     "wof:geomhash":"b6dec715cb95c16e6f4ec9195cff8b71",
     "wof:hierarchy":[],
     "wof:id":1745987281,
-    "wof:lastmodified":1625097504,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167962,
     "wof:name":"Rombach",
     "wof:parent_id":85673865,
     "wof:placetype":"neighbourhood",

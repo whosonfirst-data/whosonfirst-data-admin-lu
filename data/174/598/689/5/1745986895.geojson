@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":159,
     "iso:country":"LU",
-    "lbl:bbox":"6.29917,49.83361,6.33917,49.87361",
     "lbl:latitude":49.85361,
     "lbl:longitude":6.31917,
     "lbl:max_zoom":18.0,
@@ -96,7 +95,17 @@
     "wof:geomhash":"6fafeea4f5f9d75322883f0865ea56c9",
     "wof:hierarchy":[],
     "wof:id":1745986895,
-    "wof:lastmodified":1625097353,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167941,
     "wof:name":"Dillingen",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

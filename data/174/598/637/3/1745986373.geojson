@@ -24,7 +24,6 @@
     "gn:population":0,
     "gn:timezone":"Europe/Luxembourg",
     "iso:country":"LU",
-    "lbl:bbox":"6.26674,49.8539,6.30674,49.8939",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
@@ -72,7 +71,17 @@
     "wof:geomhash":"a617553e9397ad7910fe4e34a7641816",
     "wof:hierarchy":[],
     "wof:id":1745986373,
-    "wof:lastmodified":1625097077,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167958,
     "wof:name":"Wallendorf-Pont",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

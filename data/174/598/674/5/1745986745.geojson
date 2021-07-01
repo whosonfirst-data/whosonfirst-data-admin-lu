@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":337,
     "iso:country":"LU",
-    "lbl:bbox":"6.01472,49.55472,6.05472,49.59472",
     "lbl:latitude":49.57472,
     "lbl:longitude":6.03472,
     "lbl:max_zoom":17.0,
@@ -84,7 +83,17 @@
     "wof:geomhash":"9d496080c22a18d4cb40bca29fdf3bbc",
     "wof:hierarchy":[],
     "wof:id":1745986745,
-    "wof:lastmodified":1625097296,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167942,
     "wof:name":"Roedgen",
     "wof:parent_id":85673875,
     "wof:placetype":"neighbourhood",

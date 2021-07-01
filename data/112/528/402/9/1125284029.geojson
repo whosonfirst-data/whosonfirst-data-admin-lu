@@ -136,7 +136,17 @@
         }
     ],
     "wof:id":1125284029,
-    "wof:lastmodified":1624995635,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167972,
     "wof:name":"Flaxweiler",
     "wof:parent_id":85673869,
     "wof:placetype":"localadmin",

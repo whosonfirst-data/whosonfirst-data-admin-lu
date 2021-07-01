@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":667,
     "iso:country":"LU",
-    "lbl:bbox":"6.36833,49.67139,6.40833,49.71139",
     "lbl:latitude":49.69139,
     "lbl:longitude":6.38833,
     "lbl:max_zoom":17.0,
@@ -137,7 +136,17 @@
     "wof:geomhash":"b467d4da75f8b1f807d39387cb548109",
     "wof:hierarchy":[],
     "wof:id":1745986881,
-    "wof:lastmodified":1625097348,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167940,
     "wof:name":"Wilsecker",
     "wof:parent_id":85673869,
     "wof:placetype":"neighbourhood",

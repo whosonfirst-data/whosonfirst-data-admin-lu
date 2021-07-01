@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":2929,
     "iso:country":"LU",
-    "lbl:bbox":"6.02222,49.45583,6.06222,49.49583",
     "lbl:latitude":49.47583,
     "lbl:longitude":6.04222,
     "lbl:max_zoom":15.0,
@@ -92,7 +91,17 @@
     "wof:geomhash":"e4f80a9ad441a2a118cf3a507513138b",
     "wof:hierarchy":[],
     "wof:id":1745987253,
-    "wof:lastmodified":1625097493,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167947,
     "wof:name":"T\u00e9tange",
     "wof:parent_id":85673875,
     "wof:placetype":"neighbourhood",

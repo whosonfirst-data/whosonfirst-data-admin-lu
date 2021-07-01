@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":152,
     "iso:country":"LU",
-    "lbl:bbox":"6.42222,49.67389,6.46222,49.71389",
     "lbl:latitude":49.69389,
     "lbl:longitude":6.44222,
     "lbl:max_zoom":18.0,
@@ -90,7 +89,17 @@
     "wof:geomhash":"7d259d77d378e284b6f4d4591cafa22f",
     "wof:hierarchy":[],
     "wof:id":1745986767,
-    "wof:lastmodified":1625097305,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167953,
     "wof:name":"Munschecker",
     "wof:parent_id":85673869,
     "wof:placetype":"neighbourhood",

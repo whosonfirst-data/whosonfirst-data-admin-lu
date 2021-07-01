@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":429,
     "iso:country":"LU",
-    "lbl:bbox":"6.06806,50.07611,6.10806,50.11611",
     "lbl:latitude":50.09611,
     "lbl:longitude":6.08806,
     "lbl:max_zoom":17.0,
@@ -130,7 +129,17 @@
     "wof:geomhash":"1c5aae8caf29115a26ee659fbe0eba9d",
     "wof:hierarchy":[],
     "wof:id":1745987349,
-    "wof:lastmodified":1625097531,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167950,
     "wof:name":"Heinerscheid",
     "wof:parent_id":85673865,
     "wof:placetype":"neighbourhood",

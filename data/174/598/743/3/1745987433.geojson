@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":45,
     "iso:country":"LU",
-    "lbl:bbox":"5.99333,50.12917,6.03333,50.16917",
     "lbl:latitude":50.14917,
     "lbl:longitude":6.01333,
     "lbl:max_zoom":18.0,
@@ -76,7 +75,17 @@
     "wof:geomhash":"97da9dd7a30cdab46bc4ad6570729313",
     "wof:hierarchy":[],
     "wof:id":1745987433,
-    "wof:lastmodified":1625097563,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167961,
     "wof:name":"Koedange",
     "wof:parent_id":85673865,
     "wof:placetype":"neighbourhood",

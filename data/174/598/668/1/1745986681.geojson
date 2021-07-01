@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":150,
     "iso:country":"LU",
-    "lbl:bbox":"6.40778,49.72167,6.44778,49.76167",
     "lbl:latitude":49.74167,
     "lbl:longitude":6.42778,
     "lbl:max_zoom":18.0,
@@ -92,7 +91,17 @@
     "wof:geomhash":"3903026855e546e40cfb82246570a4c1",
     "wof:hierarchy":[],
     "wof:id":1745986681,
-    "wof:lastmodified":1625097271,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167946,
     "wof:name":"Herborn",
     "wof:parent_id":85673869,
     "wof:placetype":"neighbourhood",

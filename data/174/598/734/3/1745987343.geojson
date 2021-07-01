@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":281,
     "iso:country":"LU",
-    "lbl:bbox":"6.07194,49.88,6.11194,49.92",
     "lbl:latitude":49.9,
     "lbl:longitude":6.09194,
     "lbl:max_zoom":17.0,
@@ -88,7 +87,17 @@
     "wof:geomhash":"580b86f1a2394fcb8abbbbb4fb8ccf90",
     "wof:hierarchy":[],
     "wof:id":1745987343,
-    "wof:lastmodified":1625097529,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167950,
     "wof:name":"Michelau",
     "wof:parent_id":85673865,
     "wof:placetype":"neighbourhood",

@@ -146,7 +146,17 @@
         }
     ],
     "wof:id":1125861569,
-    "wof:lastmodified":1625088926,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167972,
     "wof:name":"Wahl",
     "wof:parent_id":85673865,
     "wof:placetype":"locality",

@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":766,
     "iso:country":"LU",
-    "lbl:bbox":"5.98889,49.65528,6.02889,49.69528",
     "lbl:latitude":49.67528,
     "lbl:longitude":6.00889,
     "lbl:max_zoom":17.0,
@@ -92,7 +91,17 @@
     "wof:geomhash":"8491ab7aa56f755b7e5b9ce7f755fd73",
     "wof:hierarchy":[],
     "wof:id":1745987125,
-    "wof:lastmodified":1625097444,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167949,
     "wof:name":"Nospelt",
     "wof:parent_id":85673875,
     "wof:placetype":"neighbourhood",

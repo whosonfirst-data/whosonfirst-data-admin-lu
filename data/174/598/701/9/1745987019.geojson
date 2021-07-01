@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":194,
     "iso:country":"LU",
-    "lbl:bbox":"5.90333,50.08806,5.94333,50.12806",
     "lbl:latitude":50.10806,
     "lbl:longitude":5.92333,
     "lbl:max_zoom":18.0,
@@ -91,7 +90,17 @@
     "wof:geomhash":"8f463c763448155d054147eadb634850",
     "wof:hierarchy":[],
     "wof:id":1745987019,
-    "wof:lastmodified":1625097401,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167936,
     "wof:name":"Hachiville",
     "wof:parent_id":85673865,
     "wof:placetype":"neighbourhood",

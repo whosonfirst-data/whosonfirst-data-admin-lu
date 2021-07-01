@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":126,
     "iso:country":"LU",
-    "lbl:bbox":"6.0,49.93278,6.04,49.97278",
     "lbl:latitude":49.95278,
     "lbl:longitude":6.02,
     "lbl:max_zoom":18.0,
@@ -97,7 +96,17 @@
     "wof:geomhash":"741594ad80a3216a1e39b8fcc03b7f94",
     "wof:hierarchy":[],
     "wof:id":1745987043,
-    "wof:lastmodified":1625097411,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167952,
     "wof:name":"Kautenbach",
     "wof:parent_id":85673865,
     "wof:placetype":"neighbourhood",

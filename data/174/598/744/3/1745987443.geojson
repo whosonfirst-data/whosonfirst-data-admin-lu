@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":550,
     "iso:country":"LU",
-    "lbl:bbox":"6.45438,49.79822,6.49438,49.83822",
     "lbl:latitude":49.81822,
     "lbl:longitude":6.47438,
     "lbl:max_zoom":17.0,
@@ -89,7 +88,17 @@
     "wof:geomhash":"b1132d925b04108398aca5d9ea8557d1",
     "wof:hierarchy":[],
     "wof:id":1745987443,
-    "wof:lastmodified":1625097567,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167961,
     "wof:name":"Steinheim",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

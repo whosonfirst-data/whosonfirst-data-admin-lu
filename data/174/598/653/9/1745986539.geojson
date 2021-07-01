@@ -24,7 +24,6 @@
     "gn:population":0,
     "gn:timezone":"Europe/Luxembourg",
     "iso:country":"LU",
-    "lbl:bbox":"5.96051,50.0467,6.00051,50.0867",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
@@ -43,7 +42,17 @@
     "wof:geomhash":"08171f3f399b3808645081e2ad94a80b",
     "wof:hierarchy":[],
     "wof:id":1745986539,
-    "wof:lastmodified":1625097144,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167960,
     "wof:name":"Lentzweiler",
     "wof:parent_id":85633275,
     "wof:placetype":"neighbourhood",

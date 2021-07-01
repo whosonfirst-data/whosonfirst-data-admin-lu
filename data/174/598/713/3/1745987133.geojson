@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":81,
     "iso:country":"LU",
-    "lbl:bbox":"5.86056,49.83722,5.90056,49.87722",
     "lbl:latitude":49.85722,
     "lbl:longitude":5.88056,
     "lbl:max_zoom":18.0,
@@ -64,7 +63,17 @@
     "wof:geomhash":"30e399e489b2a31c062a663a87d0de2c",
     "wof:hierarchy":[],
     "wof:id":1745987133,
-    "wof:lastmodified":1625097447,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167947,
     "wof:name":"Heispelt-l\u00e8s-Wahl",
     "wof:parent_id":85673865,
     "wof:placetype":"neighbourhood",

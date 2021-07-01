@@ -134,7 +134,17 @@
         }
     ],
     "wof:id":1125324097,
-    "wof:lastmodified":1624995623,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167970,
     "wof:name":"Parc Hosingen",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

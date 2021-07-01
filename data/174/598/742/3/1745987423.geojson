@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":289,
     "iso:country":"LU",
-    "lbl:bbox":"6.26056,49.55083,6.30056,49.59083",
     "lbl:latitude":49.57083,
     "lbl:longitude":6.28056,
     "lbl:max_zoom":17.0,
@@ -62,7 +61,17 @@
     "wof:geomhash":"6f8b38ad4e53bfb89b943b7ffc070ad6",
     "wof:hierarchy":[],
     "wof:id":1745987423,
-    "wof:lastmodified":1625097560,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167962,
     "wof:name":"Reinange",
     "wof:parent_id":85673869,
     "wof:placetype":"neighbourhood",

@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":813,
     "iso:country":"LU",
-    "lbl:bbox":"6.28361,49.63083,6.32361,49.67083",
     "lbl:latitude":49.65083,
     "lbl:longitude":6.30361,
     "lbl:max_zoom":17.0,
@@ -88,7 +87,17 @@
     "wof:geomhash":"a8c76d973ec55f75b04e19b631d7e8b8",
     "wof:hierarchy":[],
     "wof:id":1745987065,
-    "wof:lastmodified":1625097419,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167937,
     "wof:name":"Mensdorf",
     "wof:parent_id":85673869,
     "wof:placetype":"neighbourhood",

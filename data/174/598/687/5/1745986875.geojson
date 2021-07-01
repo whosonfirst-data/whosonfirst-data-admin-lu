@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":381,
     "iso:country":"LU",
-    "lbl:bbox":"6.42139,49.75889,6.46139,49.79889",
     "lbl:latitude":49.77889,
     "lbl:longitude":6.44139,
     "lbl:max_zoom":17.0,
@@ -89,7 +88,17 @@
     "wof:geomhash":"a232290d7cfc9b593e35f188aaffaa59",
     "wof:hierarchy":[],
     "wof:id":1745986875,
-    "wof:lastmodified":1625097345,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167942,
     "wof:name":"Osweiler",
     "wof:parent_id":85673869,
     "wof:placetype":"neighbourhood",

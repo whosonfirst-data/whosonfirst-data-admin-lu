@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":413,
     "iso:country":"LU",
-    "lbl:bbox":"6.11167,49.67667,6.15167,49.71667",
     "lbl:latitude":49.69667,
     "lbl:longitude":6.13167,
     "lbl:max_zoom":17.0,
@@ -86,7 +85,17 @@
     "wof:geomhash":"62770ad1341d8283414170cadeca70fd",
     "wof:hierarchy":[],
     "wof:id":1745987177,
-    "wof:lastmodified":1625097463,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167962,
     "wof:name":"Hunsdorf",
     "wof:parent_id":85673875,
     "wof:placetype":"neighbourhood",

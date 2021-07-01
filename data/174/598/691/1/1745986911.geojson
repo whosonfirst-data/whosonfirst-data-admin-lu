@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":324,
     "iso:country":"LU",
-    "lbl:bbox":"6.38361,49.61139,6.42361,49.65139",
     "lbl:latitude":49.63139,
     "lbl:longitude":6.40361,
     "lbl:max_zoom":17.0,
@@ -86,7 +85,17 @@
     "wof:geomhash":"44cef6bc83d1448b8ea486b294283c32",
     "wof:hierarchy":[],
     "wof:id":1745986911,
-    "wof:lastmodified":1625097359,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167959,
     "wof:name":"Niederdonven",
     "wof:parent_id":85673869,
     "wof:placetype":"neighbourhood",

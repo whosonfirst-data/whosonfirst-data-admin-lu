@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":593,
     "iso:country":"LU",
-    "lbl:bbox":"6.335,49.51083,6.375,49.55083",
     "lbl:latitude":49.53083,
     "lbl:longitude":6.355,
     "lbl:max_zoom":17.0,
@@ -82,7 +81,17 @@
     "wof:geomhash":"6feeb47c67eabb2c5a28175f81b53449",
     "wof:hierarchy":[],
     "wof:id":1745987241,
-    "wof:lastmodified":1625097489,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167949,
     "wof:name":"Kleinmacher",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

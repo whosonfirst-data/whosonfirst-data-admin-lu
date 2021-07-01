@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":111,
     "iso:country":"LU",
-    "lbl:bbox":"6.45222,49.7575,6.49222,49.7975",
     "lbl:latitude":49.7775,
     "lbl:longitude":6.47222,
     "lbl:max_zoom":18.0,
@@ -90,7 +89,17 @@
     "wof:geomhash":"f58a7e4587bedca263d9692d575a5e67",
     "wof:hierarchy":[],
     "wof:id":1745987005,
-    "wof:lastmodified":1625097395,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167939,
     "wof:name":"Dickweiler",
     "wof:parent_id":85673869,
     "wof:placetype":"neighbourhood",

@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":293,
     "iso:country":"LU",
-    "lbl:bbox":"6.05833,49.49972,6.09833,49.53972",
     "lbl:latitude":49.51972,
     "lbl:longitude":6.07833,
     "lbl:max_zoom":17.0,
@@ -92,7 +91,17 @@
     "wof:geomhash":"ee7eb1fbbdf6620cd577acf8e74579bb",
     "wof:hierarchy":[],
     "wof:id":1745987023,
-    "wof:lastmodified":1625097403,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167950,
     "wof:name":"Fennange",
     "wof:parent_id":85673875,
     "wof:placetype":"neighbourhood",

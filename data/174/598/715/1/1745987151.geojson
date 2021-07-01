@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":4988,
     "iso:country":"LU",
-    "lbl:bbox":"5.92056,49.50556,5.96056,49.54556",
     "lbl:latitude":49.52556,
     "lbl:longitude":5.94056,
     "lbl:max_zoom":15.0,
@@ -91,7 +90,17 @@
     "wof:geomhash":"da0c61ff81f91352ba707b5ac152c48f",
     "wof:hierarchy":[],
     "wof:id":1745987151,
-    "wof:lastmodified":1625097455,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167948,
     "wof:name":"Soleuvre",
     "wof:parent_id":85673875,
     "wof:placetype":"neighbourhood",

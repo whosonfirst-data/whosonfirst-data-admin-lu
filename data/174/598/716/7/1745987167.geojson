@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":44,
     "iso:country":"LU",
-    "lbl:bbox":"5.92611,50.08444,5.96611,50.12444",
     "lbl:latitude":50.10444,
     "lbl:longitude":5.94611,
     "lbl:max_zoom":18.0,
@@ -92,7 +91,17 @@
     "wof:geomhash":"4285bf7da8179d2ce465210473661048",
     "wof:hierarchy":[],
     "wof:id":1745987167,
-    "wof:lastmodified":1625097460,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167963,
     "wof:name":"Weiler",
     "wof:parent_id":85673865,
     "wof:placetype":"neighbourhood",

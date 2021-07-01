@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":956,
     "iso:country":"LU",
-    "lbl:bbox":"6.09694,49.73833,6.13694,49.77833",
     "lbl:latitude":49.75833,
     "lbl:longitude":6.11694,
     "lbl:max_zoom":17.0,
@@ -89,7 +88,17 @@
     "wof:geomhash":"68f7b365a3364216350a81ea8c2653eb",
     "wof:hierarchy":[],
     "wof:id":1745986859,
-    "wof:lastmodified":1625097339,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167953,
     "wof:name":"Beringen",
     "wof:parent_id":85673875,
     "wof:placetype":"neighbourhood",

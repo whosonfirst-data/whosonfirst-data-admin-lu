@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":10,
     "iso:country":"LU",
-    "lbl:bbox":"5.87806,50.03778,5.91806,50.07778",
     "lbl:latitude":50.05778,
     "lbl:longitude":5.89806,
     "lbl:max_zoom":18.0,
@@ -59,7 +58,17 @@
     "wof:geomhash":"035bb8d2ae64767e3aae2118541a2406",
     "wof:hierarchy":[],
     "wof:id":1745987001,
-    "wof:lastmodified":1625097393,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167939,
     "wof:name":"Crendal",
     "wof:parent_id":85673865,
     "wof:placetype":"neighbourhood",

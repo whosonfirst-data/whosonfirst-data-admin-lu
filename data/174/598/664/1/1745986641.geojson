@@ -24,7 +24,6 @@
     "gn:population":0,
     "gn:timezone":"Europe/Luxembourg",
     "iso:country":"LU",
-    "lbl:bbox":"6.06677,49.79727,6.10677,49.83727",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
@@ -43,7 +42,17 @@
     "wof:geomhash":"c92076b76b7aab7ced3f5987ecfaa391",
     "wof:hierarchy":[],
     "wof:id":1745986641,
-    "wof:lastmodified":1625097226,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167957,
     "wof:name":"Welsdorf",
     "wof:parent_id":85673875,
     "wof:placetype":"neighbourhood",

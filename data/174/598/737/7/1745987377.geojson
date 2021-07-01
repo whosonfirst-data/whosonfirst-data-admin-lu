@@ -13,7 +13,6 @@
     "gn:fcode":"PPLL",
     "gn:population":36,
     "iso:country":"LU",
-    "lbl:bbox":"5.91111,49.85306,5.95111,49.89306",
     "lbl:latitude":49.87306,
     "lbl:longitude":5.93111,
     "lbl:max_zoom":18.0,
@@ -52,7 +51,17 @@
     "wof:geomhash":"cd71f099cf2d056a9b5932e65e14497a",
     "wof:hierarchy":[],
     "wof:id":1745987377,
-    "wof:lastmodified":1625097542,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167937,
     "wof:name":"Hierheck",
     "wof:parent_id":85673865,
     "wof:placetype":"neighbourhood",

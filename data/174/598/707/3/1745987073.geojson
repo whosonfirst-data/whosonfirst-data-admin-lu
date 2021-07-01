@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":179,
     "iso:country":"LU",
-    "lbl:bbox":"6.09,50.10444,6.13,50.14444",
     "lbl:latitude":50.12444,
     "lbl:longitude":6.11,
     "lbl:max_zoom":18.0,
@@ -92,7 +91,17 @@
     "wof:geomhash":"559e88747bd3190b35043d4a47cb06df",
     "wof:hierarchy":[],
     "wof:id":1745987073,
-    "wof:lastmodified":1625097425,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167939,
     "wof:name":"Lieler",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

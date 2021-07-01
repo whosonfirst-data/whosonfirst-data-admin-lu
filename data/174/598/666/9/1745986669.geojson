@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":863,
     "iso:country":"LU",
-    "lbl:bbox":"6.10917,49.52028,6.14917,49.56028",
     "lbl:latitude":49.54028,
     "lbl:longitude":6.12917,
     "lbl:max_zoom":17.0,
@@ -99,7 +98,17 @@
     "wof:geomhash":"668bfcb4607b7353aec7f69f26287973",
     "wof:hierarchy":[],
     "wof:id":1745986669,
-    "wof:lastmodified":1625097258,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167945,
     "wof:name":"Berchiwe",
     "wof:parent_id":85673875,
     "wof:placetype":"neighbourhood",

@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":376,
     "iso:country":"LU",
-    "lbl:bbox":"5.995,50.14472,6.035,50.18472",
     "lbl:latitude":50.16472,
     "lbl:longitude":6.015,
     "lbl:max_zoom":17.0,
@@ -101,7 +100,17 @@
     "wof:geomhash":"5216f5f1a7192d5ae8c1bad07562c833",
     "wof:hierarchy":[],
     "wof:id":1745987071,
-    "wof:lastmodified":1625097424,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167939,
     "wof:name":"Huldange",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":249,
     "iso:country":"LU",
-    "lbl:bbox":"5.97917,49.96889,6.01917,50.00889",
     "lbl:latitude":49.98889,
     "lbl:longitude":5.99917,
     "lbl:max_zoom":17.0,
@@ -103,7 +102,17 @@
     "wof:geomhash":"9c07d2d743d362be057996f1bd5981b8",
     "wof:hierarchy":[],
     "wof:id":1745987271,
-    "wof:lastmodified":1625097500,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167964,
     "wof:name":"Wilwerwiltz",
     "wof:parent_id":85673865,
     "wof:placetype":"neighbourhood",

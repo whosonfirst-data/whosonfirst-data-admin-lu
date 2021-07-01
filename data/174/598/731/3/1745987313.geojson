@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":101,
     "iso:country":"LU",
-    "lbl:bbox":"6.10028,49.6975,6.14028,49.7375",
     "lbl:latitude":49.7175,
     "lbl:longitude":6.12028,
     "lbl:max_zoom":18.0,
@@ -64,7 +63,17 @@
     "wof:geomhash":"39ea27865ad727001580c104e13a7bd5",
     "wof:hierarchy":[],
     "wof:id":1745987313,
-    "wof:lastmodified":1625097517,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167938,
     "wof:name":"Prettingen",
     "wof:parent_id":85673875,
     "wof:placetype":"neighbourhood",

@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":52,
     "iso:country":"LU",
-    "lbl:bbox":"6.3225,49.70361,6.3625,49.74361",
     "lbl:latitude":49.72361,
     "lbl:longitude":6.3425,
     "lbl:max_zoom":18.0,
@@ -77,7 +76,17 @@
     "wof:geomhash":"2b58244d02952071f96f735eece3ca7c",
     "wof:hierarchy":[],
     "wof:id":1745987397,
-    "wof:lastmodified":1625097549,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167936,
     "wof:name":"Brouch-l\u00e8s-Biwer",
     "wof:parent_id":85673869,
     "wof:placetype":"neighbourhood",

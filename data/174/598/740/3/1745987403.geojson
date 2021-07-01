@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":389,
     "iso:country":"LU",
-    "lbl:bbox":"5.92833,49.58222,5.96833,49.62222",
     "lbl:latitude":49.60222,
     "lbl:longitude":5.94833,
     "lbl:max_zoom":17.0,
@@ -95,7 +94,17 @@
     "wof:geomhash":"5eb47056271da599678113c65541f7d2",
     "wof:hierarchy":[],
     "wof:id":1745987403,
-    "wof:lastmodified":1625097552,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167948,
     "wof:name":"Dahlem",
     "wof:parent_id":85673875,
     "wof:placetype":"neighbourhood",

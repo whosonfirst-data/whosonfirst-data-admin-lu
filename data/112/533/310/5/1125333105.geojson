@@ -142,7 +142,17 @@
         }
     ],
     "wof:id":1125333105,
-    "wof:lastmodified":1624995615,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167969,
     "wof:name":"Esch-sur-S\u00fbre",
     "wof:parent_id":85673865,
     "wof:placetype":"localadmin",

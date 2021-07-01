@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":274,
     "iso:country":"LU",
-    "lbl:bbox":"6.36278,49.81333,6.40278,49.85333",
     "lbl:latitude":49.83333,
     "lbl:longitude":6.38278,
     "lbl:max_zoom":17.0,
@@ -89,7 +88,17 @@
     "wof:geomhash":"3de913590b73202d30074f68bb9f0684",
     "wof:hierarchy":[],
     "wof:id":1745986749,
-    "wof:lastmodified":1625097298,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167942,
     "wof:name":"Weilerbach",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

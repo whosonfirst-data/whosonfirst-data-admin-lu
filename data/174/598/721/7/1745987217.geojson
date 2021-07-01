@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":781,
     "iso:country":"LU",
-    "lbl:bbox":"6.24,49.57639,6.28,49.61639",
     "lbl:latitude":49.59639,
     "lbl:longitude":6.26,
     "lbl:max_zoom":17.0,
@@ -100,7 +99,17 @@
     "wof:geomhash":"2d17fde18be2eeb3128b985f82794f2a",
     "wof:hierarchy":[],
     "wof:id":1745987217,
-    "wof:lastmodified":1625097478,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167961,
     "wof:name":"Oetrange",
     "wof:parent_id":85673875,
     "wof:placetype":"neighbourhood",

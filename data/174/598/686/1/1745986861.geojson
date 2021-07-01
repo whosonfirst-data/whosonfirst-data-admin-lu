@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":89,
     "iso:country":"LU",
-    "lbl:bbox":"5.78944,49.75972,5.82944,49.79972",
     "lbl:latitude":49.77972,
     "lbl:longitude":5.80944,
     "lbl:max_zoom":18.0,
@@ -61,7 +60,17 @@
     "wof:geomhash":"e38a73e25f8137ff2713c32677a504ac",
     "wof:hierarchy":[],
     "wof:id":1745986861,
-    "wof:lastmodified":1625097340,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167939,
     "wof:name":"Petit-Nobressart",
     "wof:parent_id":85673865,
     "wof:placetype":"neighbourhood",

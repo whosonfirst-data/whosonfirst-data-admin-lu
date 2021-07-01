@@ -27,7 +27,17 @@
     "wof:geomhash":"1e145ff6d6d7e2562391b4069f048b22",
     "wof:hierarchy":[],
     "wof:id":1745980845,
-    "wof:lastmodified":1624995624,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167941,
     "wof:name":"Helperknapp",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

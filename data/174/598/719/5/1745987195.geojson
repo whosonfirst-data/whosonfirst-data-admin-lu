@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":1448,
     "iso:country":"LU",
-    "lbl:bbox":"6.09444,49.72167,6.13444,49.76167",
     "lbl:latitude":49.74167,
     "lbl:longitude":6.11444,
     "lbl:max_zoom":16.0,
@@ -84,7 +83,17 @@
     "wof:geomhash":"a35da1aeb5181715f0d820f17e4fef3b",
     "wof:hierarchy":[],
     "wof:id":1745987195,
-    "wof:lastmodified":1625097470,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167961,
     "wof:name":"Rohlingen",
     "wof:parent_id":85673875,
     "wof:placetype":"neighbourhood",

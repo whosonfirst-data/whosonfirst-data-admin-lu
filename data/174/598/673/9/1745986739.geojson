@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":109,
     "iso:country":"LU",
-    "lbl:bbox":"6.26917,49.6625,6.30917,49.7025",
     "lbl:latitude":49.6825,
     "lbl:longitude":6.28917,
     "lbl:max_zoom":18.0,
@@ -87,7 +86,17 @@
     "wof:geomhash":"82a76e0851e9319d615fdb8799e9ac83",
     "wof:hierarchy":[],
     "wof:id":1745986739,
-    "wof:lastmodified":1625097295,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167942,
     "wof:name":"Broderbour",
     "wof:parent_id":85673869,
     "wof:placetype":"neighbourhood",

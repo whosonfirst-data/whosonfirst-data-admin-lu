@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":87,
     "iso:country":"LU",
-    "lbl:bbox":"6.06889,50.14556,6.10889,50.18556",
     "lbl:latitude":50.16556,
     "lbl:longitude":6.08889,
     "lbl:max_zoom":18.0,
@@ -47,7 +46,17 @@
     "wof:geomhash":"710fe7867621fb640cc322fc65afaf24",
     "wof:hierarchy":[],
     "wof:id":1745986845,
-    "wof:lastmodified":1625097334,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167956,
     "wof:name":"Beiler",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

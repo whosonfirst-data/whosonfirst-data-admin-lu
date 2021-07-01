@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":1051,
     "iso:country":"LU",
-    "lbl:bbox":"6.23889,49.58583,6.27889,49.62583",
     "lbl:latitude":49.60583,
     "lbl:longitude":6.25889,
     "lbl:max_zoom":16.0,
@@ -92,7 +91,17 @@
     "wof:geomhash":"d288ecb56238628c6b4c090608220180",
     "wof:hierarchy":[],
     "wof:id":1745986925,
-    "wof:lastmodified":1625097364,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167945,
     "wof:name":"Schrassig",
     "wof:parent_id":85673875,
     "wof:placetype":"neighbourhood",

@@ -27,7 +27,17 @@
     "wof:geomhash":"64739bad06dafd1f00d32a3182c657dc",
     "wof:hierarchy":[],
     "wof:id":1745977439,
-    "wof:lastmodified":1624925184,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167935,
     "wof:name":"Mersch",
     "wof:parent_id":-1,
     "wof:placetype":"region",

@@ -25,7 +25,17 @@
     "wof:geomhash":"7bd8ab13ad558c47d7831bdd6cdf6425",
     "wof:hierarchy":[],
     "wof:id":1745984173,
-    "wof:lastmodified":1625088912,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167952,
     "wof:name":"Ell",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

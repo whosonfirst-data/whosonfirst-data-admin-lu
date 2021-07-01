@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":350,
     "iso:country":"LU",
-    "lbl:bbox":"6.22722,49.65556,6.26722,49.69556",
     "lbl:latitude":49.67556,
     "lbl:longitude":6.24722,
     "lbl:max_zoom":17.0,
@@ -84,7 +83,17 @@
     "wof:geomhash":"88d4c45e74dd995ce3c3112b2f3844bf",
     "wof:hierarchy":[],
     "wof:id":1745987405,
-    "wof:lastmodified":1625097553,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167948,
     "wof:name":"Ernster",
     "wof:parent_id":85673875,
     "wof:placetype":"neighbourhood",

@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":585,
     "iso:country":"LU",
-    "lbl:bbox":"6.2475,49.60917,6.2875,49.64917",
     "lbl:latitude":49.62917,
     "lbl:longitude":6.2675,
     "lbl:max_zoom":17.0,
@@ -90,7 +89,17 @@
     "wof:geomhash":"c67030d5c80c5dcb5f2ecd5353516b42",
     "wof:hierarchy":[],
     "wof:id":1745987323,
-    "wof:lastmodified":1625097521,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167951,
     "wof:name":"M\u00fcsbach",
     "wof:parent_id":85673875,
     "wof:placetype":"neighbourhood",

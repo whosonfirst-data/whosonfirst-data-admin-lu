@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":615,
     "iso:country":"LU",
-    "lbl:bbox":"6.045,49.49694,6.085,49.53694",
     "lbl:latitude":49.51694,
     "lbl:longitude":6.065,
     "lbl:max_zoom":17.0,
@@ -89,7 +88,17 @@
     "wof:geomhash":"e1c72ee944d343b38753c4f1a6dff21f",
     "wof:hierarchy":[],
     "wof:id":1745987015,
-    "wof:lastmodified":1625097399,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167936,
     "wof:name":"Huncherange",
     "wof:parent_id":85673875,
     "wof:placetype":"neighbourhood",

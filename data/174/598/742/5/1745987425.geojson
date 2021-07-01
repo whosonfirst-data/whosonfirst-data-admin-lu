@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":1009,
     "iso:country":"LU",
-    "lbl:bbox":"6.00944,49.51639,6.04944,49.55639",
     "lbl:latitude":49.53639,
     "lbl:longitude":6.02944,
     "lbl:max_zoom":16.0,
@@ -80,7 +79,17 @@
     "wof:geomhash":"43a855765b049cb5c84ee8952f2472e3",
     "wof:hierarchy":[],
     "wof:id":1745987425,
-    "wof:lastmodified":1625097561,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167962,
     "wof:name":"Pontpierre",
     "wof:parent_id":85673875,
     "wof:placetype":"neighbourhood",

@@ -24,7 +24,6 @@
     "gn:population":0,
     "gn:timezone":"Europe/Luxembourg",
     "iso:country":"LU",
-    "lbl:bbox":"6.13,49.58,6.17,49.62",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
@@ -43,7 +42,17 @@
     "wof:geomhash":"de08fa2ab29cdbb30e648eb4add643ee",
     "wof:hierarchy":[],
     "wof:id":1745986503,
-    "wof:lastmodified":1625097128,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167946,
     "wof:name":"Weimershof",
     "wof:parent_id":85673875,
     "wof:placetype":"neighbourhood",

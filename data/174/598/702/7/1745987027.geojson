@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":196,
     "iso:country":"LU",
-    "lbl:bbox":"6.24028,49.72667,6.28028,49.76667",
     "lbl:latitude":49.74667,
     "lbl:longitude":6.26028,
     "lbl:max_zoom":18.0,
@@ -84,7 +83,17 @@
     "wof:geomhash":"216646de5a6fce0afefeeb4d885d5da3",
     "wof:hierarchy":[],
     "wof:id":1745987027,
-    "wof:lastmodified":1625097405,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167950,
     "wof:name":"Reuland",
     "wof:parent_id":85673875,
     "wof:placetype":"neighbourhood",

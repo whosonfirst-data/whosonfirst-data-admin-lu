@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":617,
     "iso:country":"LU",
-    "lbl:bbox":"6.11778,49.52444,6.15778,49.56444",
     "lbl:latitude":49.54444,
     "lbl:longitude":6.13778,
     "lbl:max_zoom":17.0,
@@ -98,7 +97,17 @@
     "wof:geomhash":"ef24076409750fb5d85d402495801b28",
     "wof:hierarchy":[],
     "wof:id":1745986893,
-    "wof:lastmodified":1625097352,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167941,
     "wof:name":"Bivange",
     "wof:parent_id":85673875,
     "wof:placetype":"neighbourhood",

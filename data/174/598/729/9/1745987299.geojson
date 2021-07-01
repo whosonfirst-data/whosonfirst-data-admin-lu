@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":164,
     "iso:country":"LU",
-    "lbl:bbox":"5.96389,50.12583,6.00389,50.16583",
     "lbl:latitude":50.14583,
     "lbl:longitude":5.98389,
     "lbl:max_zoom":18.0,
@@ -95,7 +94,17 @@
     "wof:geomhash":"3390d353e820b5145072139f6f5f0874",
     "wof:hierarchy":[],
     "wof:id":1745987299,
-    "wof:lastmodified":1625097511,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167963,
     "wof:name":"Basbellain",
     "wof:parent_id":85673865,
     "wof:placetype":"neighbourhood",

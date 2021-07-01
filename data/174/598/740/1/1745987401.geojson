@@ -13,7 +13,6 @@
     "gn:fcode":"PPLL",
     "gn:population":108,
     "iso:country":"LU",
-    "lbl:bbox":"6.04167,49.69,6.08167,49.73",
     "lbl:latitude":49.71,
     "lbl:longitude":6.06167,
     "lbl:max_zoom":18.0,
@@ -80,7 +79,17 @@
     "wof:geomhash":"9e98da200c8c0dddd63163b0b3d73309",
     "wof:hierarchy":[],
     "wof:id":1745987401,
-    "wof:lastmodified":1625097551,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167948,
     "wof:name":"Marienthal",
     "wof:parent_id":85673875,
     "wof:placetype":"neighbourhood",

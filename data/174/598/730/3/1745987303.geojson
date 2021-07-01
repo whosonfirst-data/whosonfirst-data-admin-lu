@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":80,
     "iso:country":"LU",
-    "lbl:bbox":"6.17222,49.94028,6.21222,49.98028",
     "lbl:latitude":49.96028,
     "lbl:longitude":6.19222,
     "lbl:max_zoom":18.0,
@@ -83,7 +82,17 @@
     "wof:geomhash":"108d08811ba8d6c7e7244403332aaa25",
     "wof:hierarchy":[],
     "wof:id":1745987303,
-    "wof:lastmodified":1625097512,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167937,
     "wof:name":"Bivels",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

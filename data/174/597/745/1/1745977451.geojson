@@ -27,7 +27,17 @@
     "wof:geomhash":"cf2052dca3dfe9d59d6c4d3730993df0",
     "wof:hierarchy":[],
     "wof:id":1745977451,
-    "wof:lastmodified":1624925189,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167936,
     "wof:name":"Clervaux",
     "wof:parent_id":-1,
     "wof:placetype":"region",

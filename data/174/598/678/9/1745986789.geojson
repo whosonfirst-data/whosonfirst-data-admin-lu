@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":119,
     "iso:country":"LU",
-    "lbl:bbox":"5.93806,50.05889,5.97806,50.09889",
     "lbl:latitude":50.07889,
     "lbl:longitude":5.95806,
     "lbl:max_zoom":18.0,
@@ -83,7 +82,17 @@
     "wof:geomhash":"a27de22e9f7c105397826a4cacbe3ee2",
     "wof:hierarchy":[],
     "wof:id":1745986789,
-    "wof:lastmodified":1625097313,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167954,
     "wof:name":"Stockem",
     "wof:parent_id":85673865,
     "wof:placetype":"neighbourhood",

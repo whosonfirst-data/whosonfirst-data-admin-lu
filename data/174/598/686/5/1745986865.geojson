@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":207,
     "iso:country":"LU",
-    "lbl:bbox":"6.03417,49.95472,6.07417,49.99472",
     "lbl:latitude":49.97472,
     "lbl:longitude":6.05417,
     "lbl:max_zoom":17.0,
@@ -128,7 +127,17 @@
     "wof:geomhash":"020b9730e01104c142b96fe251349f59",
     "wof:hierarchy":[],
     "wof:id":1745986865,
-    "wof:lastmodified":1625097342,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167939,
     "wof:name":"Konsthum",
     "wof:parent_id":85673865,
     "wof:placetype":"neighbourhood",

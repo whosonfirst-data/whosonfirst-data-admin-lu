@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":886,
     "iso:country":"LU",
-    "lbl:bbox":"6.1625,49.84694,6.2025,49.88694",
     "lbl:latitude":49.86694,
     "lbl:longitude":6.1825,
     "lbl:max_zoom":17.0,
@@ -89,7 +88,17 @@
     "wof:geomhash":"c6362eb0d5e7002c5d6ae2b6477b137e",
     "wof:hierarchy":[],
     "wof:id":1745987239,
-    "wof:lastmodified":1625097488,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167949,
     "wof:name":"Gilsdorf",
     "wof:parent_id":85673865,
     "wof:placetype":"neighbourhood",

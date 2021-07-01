@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":180,
     "iso:country":"LU",
-    "lbl:bbox":"5.94472,49.99333,5.98472,50.03333",
     "lbl:latitude":50.01333,
     "lbl:longitude":5.96472,
     "lbl:max_zoom":18.0,
@@ -89,7 +88,17 @@
     "wof:geomhash":"8d713574c39d55adb96f8b90b370721f",
     "wof:hierarchy":[],
     "wof:id":1745986829,
-    "wof:lastmodified":1625097328,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167953,
     "wof:name":"Knaphoscheid",
     "wof:parent_id":85673865,
     "wof:placetype":"neighbourhood",

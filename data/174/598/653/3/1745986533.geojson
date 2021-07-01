@@ -24,7 +24,6 @@
     "gn:population":0,
     "gn:timezone":"Europe/Luxembourg",
     "iso:country":"LU",
-    "lbl:bbox":"6.24667,49.59667,6.28667,49.63667",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
@@ -43,7 +42,17 @@
     "wof:geomhash":"15187584d748fb618982825e28ad083c",
     "wof:hierarchy":[],
     "wof:id":1745986533,
-    "wof:lastmodified":1625097142,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167960,
     "wof:name":"Ohligsmuehle",
     "wof:parent_id":85673875,
     "wof:placetype":"neighbourhood",

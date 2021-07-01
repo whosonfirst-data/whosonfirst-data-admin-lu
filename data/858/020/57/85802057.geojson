@@ -10,7 +10,6 @@
     "geom:latitude":49.591191,
     "geom:longitude":6.104057,
     "iso:country":"LU",
-    "lbl:bbox":"6.099057,49.586191,6.109057,49.596191",
     "lbl:latitude":49.591191,
     "lbl:longitude":6.104057,
     "lbl:max_zoom":18.0,
@@ -122,7 +121,17 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582349490,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167934,
     "wof:name":"Cessange",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

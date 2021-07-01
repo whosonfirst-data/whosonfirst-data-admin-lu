@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":59,
     "iso:country":"LU",
-    "lbl:bbox":"5.92889,49.99806,5.96889,50.03806",
     "lbl:latitude":50.01806,
     "lbl:longitude":5.94889,
     "lbl:max_zoom":18.0,
@@ -61,7 +60,17 @@
     "wof:geomhash":"8257414308c07f5265367402e9a9d06b",
     "wof:hierarchy":[],
     "wof:id":1745987201,
-    "wof:lastmodified":1625097472,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167964,
     "wof:name":"Selscheid",
     "wof:parent_id":85673865,
     "wof:placetype":"neighbourhood",

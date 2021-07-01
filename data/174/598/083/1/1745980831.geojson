@@ -27,7 +27,17 @@
     "wof:geomhash":"9d7ba8cb13c3b0570c0e16d710f89e7e",
     "wof:hierarchy":[],
     "wof:id":1745980831,
-    "wof:lastmodified":1624995616,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167940,
     "wof:name":"Saeul",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

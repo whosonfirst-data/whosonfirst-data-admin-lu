@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":1188,
     "iso:country":"LU",
-    "lbl:bbox":"6.075,49.83444,6.115,49.87444",
     "lbl:latitude":49.85444,
     "lbl:longitude":6.095,
     "lbl:max_zoom":16.0,
@@ -86,7 +85,17 @@
     "wof:geomhash":"7d26d7738bb69934b24fb078c2744f73",
     "wof:hierarchy":[],
     "wof:id":1745986701,
-    "wof:lastmodified":1625097280,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167955,
     "wof:name":"Warken",
     "wof:parent_id":85673865,
     "wof:placetype":"neighbourhood",

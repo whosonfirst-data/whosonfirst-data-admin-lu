@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":992,
     "iso:country":"LU",
-    "lbl:bbox":"5.96389,49.55583,6.00389,49.59583",
     "lbl:latitude":49.57583,
     "lbl:longitude":5.98389,
     "lbl:max_zoom":17.0,
@@ -79,7 +78,17 @@
     "wof:geomhash":"a235e19736571530fd4dd1566b703441",
     "wof:hierarchy":[],
     "wof:id":1745987221,
-    "wof:lastmodified":1625097480,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167947,
     "wof:name":"Bettange-sur-Mess",
     "wof:parent_id":85673875,
     "wof:placetype":"neighbourhood",

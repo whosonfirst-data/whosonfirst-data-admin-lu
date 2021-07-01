@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":4683,
     "iso:country":"LU",
-    "lbl:bbox":"5.82083,49.52639,5.86083,49.56639",
     "lbl:latitude":49.54639,
     "lbl:longitude":5.84083,
     "lbl:max_zoom":15.0,
@@ -97,7 +96,17 @@
     "wof:geomhash":"d0ae5d5f79f4da5f205a0d519544ead4",
     "wof:hierarchy":[],
     "wof:id":1745987153,
-    "wof:lastmodified":1625097455,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167948,
     "wof:name":"Rodange",
     "wof:parent_id":85673875,
     "wof:placetype":"neighbourhood",

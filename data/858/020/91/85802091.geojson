@@ -11,7 +11,6 @@
     "geom:longitude":6.15792,
     "gn:id":"",
     "iso:country":"LU",
-    "lbl:bbox":"6.15292,49.592063,6.16292,49.602063",
     "lbl:latitude":49.597063,
     "lbl:longitude":6.15792,
     "lbl:max_zoom":18.0,
@@ -88,7 +87,17 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582349490,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167934,
     "wof:name":"Itzigerste",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

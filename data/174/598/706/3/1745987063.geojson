@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":181,
     "iso:country":"LU",
-    "lbl:bbox":"6.22972,49.82444,6.26972,49.86444",
     "lbl:latitude":49.84444,
     "lbl:longitude":6.24972,
     "lbl:max_zoom":18.0,
@@ -89,7 +88,17 @@
     "wof:geomhash":"b716a1ca5cbd41e25d6c9fe6fd53c28e",
     "wof:hierarchy":[],
     "wof:id":1745987063,
-    "wof:lastmodified":1625097418,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167937,
     "wof:name":"Eppeldorf",
     "wof:parent_id":85673865,
     "wof:placetype":"neighbourhood",

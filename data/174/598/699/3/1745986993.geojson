@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":802,
     "iso:country":"LU",
-    "lbl:bbox":"6.12167,49.66306,6.16167,49.70306",
     "lbl:latitude":49.68306,
     "lbl:longitude":6.14167,
     "lbl:max_zoom":17.0,
@@ -84,7 +83,17 @@
     "wof:geomhash":"762ee039c2aff7d4db8e3de207aa874a",
     "wof:hierarchy":[],
     "wof:id":1745986993,
-    "wof:lastmodified":1625097390,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167957,
     "wof:name":"Bofferdange",
     "wof:parent_id":85673875,
     "wof:placetype":"neighbourhood",

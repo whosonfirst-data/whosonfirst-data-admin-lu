@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":2428,
     "iso:country":"LU",
-    "lbl:bbox":"5.83639,49.52639,5.87639,49.56639",
     "lbl:latitude":49.54639,
     "lbl:longitude":5.85639,
     "lbl:max_zoom":15.0,
@@ -83,7 +82,17 @@
     "wof:geomhash":"c46c8439465ab7064853673a39a74709",
     "wof:hierarchy":[],
     "wof:id":1745987321,
-    "wof:lastmodified":1625097519,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167951,
     "wof:name":"Lamadelaine",
     "wof:parent_id":85673875,
     "wof:placetype":"neighbourhood",

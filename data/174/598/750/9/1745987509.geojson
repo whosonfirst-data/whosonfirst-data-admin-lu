@@ -24,7 +24,6 @@
     "gn:population":0,
     "gn:timezone":"Europe/Luxembourg",
     "iso:country":"LU",
-    "lbl:bbox":"6.33787,49.82847,6.37787,49.86847",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
@@ -66,7 +65,17 @@
     "wof:geomhash":"59a2de648092723523b22c133a5e9a2e",
     "wof:hierarchy":[],
     "wof:id":1745987509,
-    "wof:lastmodified":1625097593,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167952,
     "wof:name":"Bollendorf-Pont",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

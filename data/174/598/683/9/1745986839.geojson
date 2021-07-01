@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":380,
     "iso:country":"LU",
-    "lbl:bbox":"6.17611,49.89556,6.21611,49.93556",
     "lbl:latitude":49.91556,
     "lbl:longitude":6.19611,
     "lbl:max_zoom":17.0,
@@ -95,7 +94,17 @@
     "wof:geomhash":"51f70875f99472dbe7d90fc592143991",
     "wof:hierarchy":[],
     "wof:id":1745986839,
-    "wof:lastmodified":1625097331,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167956,
     "wof:name":"Fouhren",
     "wof:parent_id":85673865,
     "wof:placetype":"neighbourhood",

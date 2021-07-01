@@ -109,7 +109,17 @@
         }
     ],
     "wof:id":1125294523,
-    "wof:lastmodified":1624995634,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167973,
     "wof:name":"Bous",
     "wof:parent_id":85673869,
     "wof:placetype":"localadmin",

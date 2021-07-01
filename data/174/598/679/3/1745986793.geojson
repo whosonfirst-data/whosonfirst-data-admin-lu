@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":84,
     "iso:country":"LU",
-    "lbl:bbox":"6.46,49.72222,6.5,49.76222",
     "lbl:latitude":49.74222,
     "lbl:longitude":6.48,
     "lbl:max_zoom":18.0,
@@ -150,7 +149,17 @@
     "wof:geomhash":"0b69c5be2202ff4aa3795ccb5f5ab657",
     "wof:hierarchy":[],
     "wof:id":1745986793,
-    "wof:lastmodified":1625097315,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167955,
     "wof:name":"Rivenich",
     "wof:parent_id":85673869,
     "wof:placetype":"neighbourhood",

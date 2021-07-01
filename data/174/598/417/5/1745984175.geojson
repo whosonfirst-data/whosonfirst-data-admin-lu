@@ -25,7 +25,17 @@
     "wof:geomhash":"daeca4dcf3d085d8c1a7ce1d42957a46",
     "wof:hierarchy":[],
     "wof:id":1745984175,
-    "wof:lastmodified":1625088914,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167952,
     "wof:name":"Feulen",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

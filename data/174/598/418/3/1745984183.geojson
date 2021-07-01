@@ -25,7 +25,17 @@
     "wof:geomhash":"63190d2d3c4b3aa5e777fee037e04e62",
     "wof:hierarchy":[],
     "wof:id":1745984183,
-    "wof:lastmodified":1625088920,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167955,
     "wof:name":"Pr\u00e9izerdaul",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -201,7 +201,17 @@
         }
     ],
     "wof:id":1125303769,
-    "wof:lastmodified":1624995626,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167974,
     "wof:name":"Echternach",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

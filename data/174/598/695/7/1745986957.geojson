@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":567,
     "iso:country":"LU",
-    "lbl:bbox":"6.04944,49.67444,6.08944,49.71444",
     "lbl:latitude":49.69444,
     "lbl:longitude":6.06944,
     "lbl:max_zoom":17.0,
@@ -86,7 +85,17 @@
     "wof:geomhash":"4759dd4e67c528d08f400714e8595e15",
     "wof:hierarchy":[],
     "wof:id":1745986957,
-    "wof:lastmodified":1625097377,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167946,
     "wof:name":"Keispelt",
     "wof:parent_id":85673875,
     "wof:placetype":"neighbourhood",

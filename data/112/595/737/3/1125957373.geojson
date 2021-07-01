@@ -165,7 +165,17 @@
         }
     ],
     "wof:id":1125957373,
-    "wof:lastmodified":1625088916,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167970,
     "wof:name":"Hesperange",
     "wof:parent_id":85673875,
     "wof:placetype":"locality",

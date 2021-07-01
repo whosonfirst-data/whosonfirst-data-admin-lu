@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":5313,
     "iso:country":"LU",
-    "lbl:bbox":"5.90944,49.49278,5.94944,49.53278",
     "lbl:latitude":49.51278,
     "lbl:longitude":5.92944,
     "lbl:max_zoom":15.0,
@@ -98,7 +97,17 @@
     "wof:geomhash":"7756fc58b232283ccd6c6504facf5ae6",
     "wof:hierarchy":[],
     "wof:id":1745986997,
-    "wof:lastmodified":1625097391,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167957,
     "wof:name":"Belvaux",
     "wof:parent_id":85673875,
     "wof:placetype":"neighbourhood",

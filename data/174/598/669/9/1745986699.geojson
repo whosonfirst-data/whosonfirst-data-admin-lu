@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":384,
     "iso:country":"LU",
-    "lbl:bbox":"6.33278,49.48139,6.37278,49.52139",
     "lbl:latitude":49.50139,
     "lbl:longitude":6.35278,
     "lbl:max_zoom":17.0,
@@ -89,7 +88,17 @@
     "wof:geomhash":"77df4cd2fe0996a3f2d245047eaaffaa",
     "wof:hierarchy":[],
     "wof:id":1745986699,
-    "wof:lastmodified":1625097280,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167943,
     "wof:name":"Wintrange",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

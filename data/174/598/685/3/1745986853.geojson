@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":60,
     "iso:country":"LU",
-    "lbl:bbox":"5.9775,49.90333,6.0175,49.94333",
     "lbl:latitude":49.92333,
     "lbl:longitude":5.9975,
     "lbl:max_zoom":18.0,
@@ -52,7 +51,17 @@
     "wof:geomhash":"25a82600537be7fa2aaaac1d978c9d2e",
     "wof:hierarchy":[],
     "wof:id":1745986853,
-    "wof:lastmodified":1625097337,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167953,
     "wof:name":"Bockholtz",
     "wof:parent_id":85673865,
     "wof:placetype":"neighbourhood",

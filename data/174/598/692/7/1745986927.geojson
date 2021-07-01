@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":374,
     "iso:country":"LU",
-    "lbl:bbox":"5.89222,49.73528,5.93222,49.77528",
     "lbl:latitude":49.75528,
     "lbl:longitude":5.91222,
     "lbl:max_zoom":17.0,
@@ -89,7 +88,17 @@
     "wof:geomhash":"791c54b687e0418aa0b645e61d07500e",
     "wof:hierarchy":[],
     "wof:id":1745986927,
-    "wof:lastmodified":1625097365,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167945,
     "wof:name":"Niederpallen",
     "wof:parent_id":85673865,
     "wof:placetype":"neighbourhood",

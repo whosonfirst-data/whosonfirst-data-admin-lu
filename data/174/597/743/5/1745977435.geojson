@@ -27,7 +27,17 @@
     "wof:geomhash":"950d27d88f38e07fc39b365d9fbcd721",
     "wof:hierarchy":[],
     "wof:id":1745977435,
-    "wof:lastmodified":1624925183,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167936,
     "wof:name":"Esch-sur-Alzette",
     "wof:parent_id":-1,
     "wof:placetype":"region",

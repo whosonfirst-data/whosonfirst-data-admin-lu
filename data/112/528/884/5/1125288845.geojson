@@ -139,7 +139,17 @@
         }
     ],
     "wof:id":1125288845,
-    "wof:lastmodified":1624995624,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167972,
     "wof:name":"Waldbredimus",
     "wof:parent_id":85673869,
     "wof:placetype":"localadmin",

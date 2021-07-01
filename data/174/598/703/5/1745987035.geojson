@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":0,
     "iso:country":"LU",
-    "lbl:bbox":"5.99194,49.89694,6.03194,49.93694",
     "lbl:latitude":49.91694,
     "lbl:longitude":6.01194,
     "lbl:max_zoom":18.0,
@@ -62,7 +61,17 @@
     "wof:geomhash":"b624e5cd72c12bb2780985c406c22b99",
     "wof:hierarchy":[],
     "wof:id":1745987035,
-    "wof:lastmodified":1625097407,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167952,
     "wof:name":"Ringel",
     "wof:parent_id":85673865,
     "wof:placetype":"neighbourhood",

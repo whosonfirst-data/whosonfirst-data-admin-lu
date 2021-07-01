@@ -13,7 +13,6 @@
     "gn:fcode":"PPLL",
     "gn:population":18,
     "iso:country":"LU",
-    "lbl:bbox":"6.09667,49.75889,6.13667,49.79889",
     "lbl:latitude":49.77889,
     "lbl:longitude":6.11667,
     "lbl:max_zoom":18.0,
@@ -49,7 +48,17 @@
     "wof:geomhash":"92b9dfd80cae140be566425ecfb404f0",
     "wof:hierarchy":[],
     "wof:id":1745987413,
-    "wof:lastmodified":1625097556,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167950,
     "wof:name":"Essingen",
     "wof:parent_id":85673875,
     "wof:placetype":"neighbourhood",

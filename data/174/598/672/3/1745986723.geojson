@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":630,
     "iso:country":"LU",
-    "lbl:bbox":"6.33917,49.56389,6.37917,49.60389",
     "lbl:latitude":49.58389,
     "lbl:longitude":6.35917,
     "lbl:max_zoom":17.0,
@@ -88,7 +87,17 @@
     "wof:geomhash":"b33697832738e1c9a5ed62847bccdae4",
     "wof:hierarchy":[],
     "wof:id":1745986723,
-    "wof:lastmodified":1625097289,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167939,
     "wof:name":"Greiveldange",
     "wof:parent_id":85673869,
     "wof:placetype":"neighbourhood",

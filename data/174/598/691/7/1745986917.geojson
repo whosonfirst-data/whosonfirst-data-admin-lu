@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":1024,
     "iso:country":"LU",
-    "lbl:bbox":"6.11,49.66028,6.15,49.70028",
     "lbl:latitude":49.68028,
     "lbl:longitude":6.13,
     "lbl:max_zoom":16.0,
@@ -87,7 +86,17 @@
     "wof:geomhash":"2c4220b997c2e4029f48411d3d1c1188",
     "wof:hierarchy":[],
     "wof:id":1745986917,
-    "wof:lastmodified":1625097362,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167959,
     "wof:name":"M\u00fcllendorf",
     "wof:parent_id":85673875,
     "wof:placetype":"neighbourhood",

@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":270,
     "iso:country":"LU",
-    "lbl:bbox":"6.09222,49.54111,6.13222,49.58111",
     "lbl:latitude":49.56111,
     "lbl:longitude":6.11222,
     "lbl:max_zoom":17.0,
@@ -95,7 +94,17 @@
     "wof:geomhash":"fcbef0b8849f2dc94c82eb5d26d203aa",
     "wof:hierarchy":[],
     "wof:id":1745986673,
-    "wof:lastmodified":1625097260,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167944,
     "wof:name":"Kockelscheuer",
     "wof:parent_id":85673875,
     "wof:placetype":"neighbourhood",

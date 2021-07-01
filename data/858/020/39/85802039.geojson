@@ -11,7 +11,6 @@
     "geom:longitude":6.172668,
     "gn:population":1376,
     "iso:country":"LU",
-    "lbl:bbox":"6.167668,49.553355,6.177668,49.563355",
     "lbl:latitude":49.558355,
     "lbl:longitude":6.172668,
     "lbl:max_zoom":18.0,
@@ -126,7 +125,17 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582349490,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167935,
     "wof:name":"Alzingen",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -134,7 +143,9 @@
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-lu",
     "wof:superseded_by":[],
-    "wof:supersedes":[1125877931],
+    "wof:supersedes":[
+        1125877931
+    ],
     "wof:tags":[]
 },
   "bbox": [

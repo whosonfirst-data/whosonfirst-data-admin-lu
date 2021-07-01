@@ -27,7 +27,17 @@
     "wof:geomhash":"e266eb6ae071e37729684f40e6b6c45e",
     "wof:hierarchy":[],
     "wof:id":1745980853,
-    "wof:lastmodified":1624995630,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167942,
     "wof:name":"Wincrange",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

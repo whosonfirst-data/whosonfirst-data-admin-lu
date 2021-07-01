@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":59,
     "iso:country":"LU",
-    "lbl:bbox":"5.85083,50.01667,5.89083,50.05667",
     "lbl:latitude":50.03667,
     "lbl:longitude":5.87083,
     "lbl:max_zoom":18.0,
@@ -61,7 +60,17 @@
     "wof:geomhash":"9b6610dc5c49f354d192165ba4bb0dbc",
     "wof:hierarchy":[],
     "wof:id":1745987061,
-    "wof:lastmodified":1625097417,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167937,
     "wof:name":"Allerborn",
     "wof:parent_id":85673865,
     "wof:placetype":"neighbourhood",

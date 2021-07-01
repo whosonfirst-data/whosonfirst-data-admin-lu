@@ -159,7 +159,17 @@
         }
     ],
     "wof:id":1126015453,
-    "wof:lastmodified":1625088924,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167975,
     "wof:name":"Schifflange",
     "wof:parent_id":85673875,
     "wof:placetype":"locality",

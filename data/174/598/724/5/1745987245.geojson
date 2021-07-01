@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":364,
     "iso:country":"LU",
-    "lbl:bbox":"6.215,49.63083,6.255,49.67083",
     "lbl:latitude":49.65083,
     "lbl:longitude":6.235,
     "lbl:max_zoom":17.0,
@@ -83,7 +82,17 @@
     "wof:geomhash":"f31b9ac8e9e57db85002e0889427fc95",
     "wof:hierarchy":[],
     "wof:id":1745987245,
-    "wof:lastmodified":1625097491,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167949,
     "wof:name":"Hostert",
     "wof:parent_id":85673875,
     "wof:placetype":"neighbourhood",

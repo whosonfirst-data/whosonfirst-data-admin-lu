@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":246,
     "iso:country":"LU",
-    "lbl:bbox":"6.10667,49.96528,6.14667,50.00528",
     "lbl:latitude":49.98528,
     "lbl:longitude":6.12667,
     "lbl:max_zoom":17.0,
@@ -92,7 +91,17 @@
     "wof:geomhash":"8871a664ae03128b4d60a1981a9592b9",
     "wof:hierarchy":[],
     "wof:id":1745987231,
-    "wof:lastmodified":1625097483,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167949,
     "wof:name":"Wahlhausen",
     "wof:parent_id":85673865,
     "wof:placetype":"neighbourhood",

@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":115,
     "iso:country":"LU",
-    "lbl:bbox":"6.19667,49.69556,6.23667,49.73556",
     "lbl:latitude":49.71556,
     "lbl:longitude":6.21667,
     "lbl:max_zoom":18.0,
@@ -87,7 +86,17 @@
     "wof:geomhash":"647c8dd2c48dd22c565e210143c6f58d",
     "wof:hierarchy":[],
     "wof:id":1745987007,
-    "wof:lastmodified":1625097396,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167939,
     "wof:name":"Altlinster",
     "wof:parent_id":85673869,
     "wof:placetype":"neighbourhood",

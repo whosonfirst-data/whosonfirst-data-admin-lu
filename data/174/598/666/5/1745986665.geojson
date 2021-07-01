@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":216,
     "iso:country":"LU",
-    "lbl:bbox":"6.07222,49.69889,6.11222,49.73889",
     "lbl:latitude":49.71889,
     "lbl:longitude":6.09222,
     "lbl:max_zoom":17.0,
@@ -88,7 +87,17 @@
     "wof:geomhash":"64106aaf7dba65243a0748a13e8ec872",
     "wof:hierarchy":[],
     "wof:id":1745986665,
-    "wof:lastmodified":1625097251,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167945,
     "wof:name":"Schoenfels",
     "wof:parent_id":85673875,
     "wof:placetype":"neighbourhood",

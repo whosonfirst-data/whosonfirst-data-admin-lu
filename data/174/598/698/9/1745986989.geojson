@@ -13,7 +13,6 @@
     "gn:fcode":"PPL",
     "gn:population":159,
     "iso:country":"LU",
-    "lbl:bbox":"5.89139,50.00139,5.93139,50.04139",
     "lbl:latitude":50.02139,
     "lbl:longitude":5.91139,
     "lbl:max_zoom":18.0,
@@ -90,7 +89,17 @@
     "wof:geomhash":"4e7fe0e89dc235125aba76feda14c8b0",
     "wof:hierarchy":[],
     "wof:id":1745986989,
-    "wof:lastmodified":1625097389,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1625167959,
     "wof:name":"Brachtenbach",
     "wof:parent_id":85673865,
     "wof:placetype":"neighbourhood",
