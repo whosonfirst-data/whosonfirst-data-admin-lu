@@ -71,14 +71,16 @@
         }
     ],
     "wof:id":1125849553,
-    "wof:lastmodified":1566598694,
+    "wof:lastmodified":1625177989,
     "wof:name":"Masseler",
     "wof:parent_id":85673865,
     "wof:placetype":"locality",
     "wof:population":36,
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-lu",
-    "wof:superseded_by":[1745987371],
+    "wof:superseded_by":[
+        1745987371
+    ],
     "wof:supersedes":[
         1126011619
     ],
