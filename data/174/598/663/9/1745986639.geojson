@@ -1,0 +1,86 @@
+{
+  "id": 1745986639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.11917,49.63167,6.11917,49.63167",
+    "geom:latitude":49.63167,
+    "geom:longitude":6.11917,
+    "gn:admin1_code":"LU",
+    "gn:admin2_code":"2960317.0",
+    "gn:asciiname":"Muehlenbach",
+    "gn:country_code":"LU",
+    "gn:dem":300,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2960251,
+    "gn:latitude":49.63167,
+    "gn:longitude":6.11917,
+    "gn:modification_date":"2017-01-28",
+    "gn:name":"M\u00fchlenbach",
+    "gn:population":0,
+    "gn:timezone":"Europe/Luxembourg",
+    "iso:country":"LU",
+    "lbl:bbox":"6.09917,49.61167,6.13917,49.65167",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "name:cat_x_preferred":[
+        "Muhlenbach"
+    ],
+    "name:deu_x_preferred":[
+        "M\u00fchlenbach"
+    ],
+    "name:fra_x_preferred":[
+        "Muhlenbach"
+    ],
+    "name:ita_x_preferred":[
+        "Muhlenbach"
+    ],
+    "name:ltz_x_preferred":[
+        "Millebaach"
+    ],
+    "name:nld_x_preferred":[
+        "Muhlenbach"
+    ],
+    "name:swe_x_preferred":[
+        "M\u00fchlenbach"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85673875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2960251,
+        "wk:page":"Muhlenbach%2C_Luxembourg"
+    },
+    "wof:country":"LU",
+    "wof:created":1625097224,
+    "wof:geomhash":"a416778632b41af25978d7e389db3bb2",
+    "wof:hierarchy":[],
+    "wof:id":1745986639,
+    "wof:lastmodified":1625097224,
+    "wof:name":"Muehlenbach",
+    "wof:parent_id":85673875,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-lu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1360115479
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.11917,
+    49.63167,
+    6.11917,
+    49.63167
+],
+  "geometry": {"coordinates":[6.11917,49.63167],"type":"Point"}
+}

@@ -1,0 +1,112 @@
+{
+  "id": 1745986697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.06778,49.88806,6.06778,49.88806",
+    "geom:latitude":49.88806,
+    "geom:longitude":6.06778,
+    "gn:country":"LU",
+    "gn:fcode":"PPL",
+    "gn:population":149,
+    "iso:country":"LU",
+    "lbl:bbox":"6.04778,49.86806,6.08778,49.90806",
+    "lbl:latitude":49.88806,
+    "lbl:longitude":6.06778,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":11.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Welscheid"
+    ],
+    "name:ceb_x_preferred":[
+        "Welscheid"
+    ],
+    "name:deu_x_preferred":[
+        "Welscheid"
+    ],
+    "name:eng_x_preferred":[
+        "Welscheid"
+    ],
+    "name:fra_x_preferred":[
+        "Welscheid"
+    ],
+    "name:ltz_x_preferred":[
+        "Welschent"
+    ],
+    "name:msa_x_preferred":[
+        "Welscheid"
+    ],
+    "name:nld_x_preferred":[
+        "Welscheid"
+    ],
+    "name:swe_x_preferred":[
+        "Welscheid"
+    ],
+    "qs_pg:aaroncc":"LU",
+    "qs_pg:gn_country":"LU",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2959985,
+    "qs_pg:gn_pop":149,
+    "qs_pg:name":"Welscheid",
+    "qs_pg:name_adm0":"Luxembourg",
+    "qs_pg:name_adm1":"Diekirch",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":182527,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424881,
+    "qs_pg:woe_id":979999,
+    "src:geom":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424881,
+    "woe:name_adm0":"Luxembourg",
+    "woe:name_adm1":"Diekirch",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85673865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2959985,
+        "gp:id":979999,
+        "qs_pg:id":182527,
+        "wd:id":"Q2784034"
+    },
+    "wof:country":"LU",
+    "wof:created":1625097279,
+    "wof:geomhash":"345c925a508705f2f27981937eaa3ff4",
+    "wof:hierarchy":[],
+    "wof:id":1745986697,
+    "wof:lastmodified":1625097279,
+    "wof:name":"Welscheid",
+    "wof:parent_id":85673865,
+    "wof:placetype":"neighbourhood",
+    "wof:population":149,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-lu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125932131
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.06778,
+    49.88806,
+    6.06778,
+    49.88806
+],
+  "geometry": {"coordinates":[6.06778,49.88806],"type":"Point"}
+}

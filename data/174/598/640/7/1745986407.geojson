@@ -1,0 +1,64 @@
+{
+  "id": 1745986407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.87861,49.92306,5.87861,49.92306",
+    "geom:latitude":49.92306,
+    "geom:longitude":5.87861,
+    "gn:admin1_code":"WI",
+    "gn:admin2_code":"5.0",
+    "gn:asciiname":"Dunkrodt",
+    "gn:country_code":"LU",
+    "gn:dem":373,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3285196,
+    "gn:latitude":49.92306,
+    "gn:longitude":5.87861,
+    "gn:modification_date":"2017-01-28",
+    "gn:name":"Dunkrodt",
+    "gn:population":0,
+    "gn:timezone":"Europe/Luxembourg",
+    "iso:country":"LU",
+    "lbl:bbox":"5.85861,49.90306,5.89861,49.94306",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85673865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3285196
+    },
+    "wof:country":"LU",
+    "wof:created":1625097090,
+    "wof:geomhash":"28f294401c3136282af1ae1593d5227a",
+    "wof:hierarchy":[],
+    "wof:id":1745986407,
+    "wof:lastmodified":1625097090,
+    "wof:name":"Dunkrodt",
+    "wof:parent_id":85673865,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-lu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1343490085
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.87861,
+    49.92306,
+    5.87861,
+    49.92306
+],
+  "geometry": {"coordinates":[5.87861,49.92306],"type":"Point"}
+}

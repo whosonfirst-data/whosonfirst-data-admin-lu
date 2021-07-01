@@ -1,0 +1,70 @@
+{
+  "id": 1745986593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.49,49.71639,6.49,49.71639",
+    "geom:latitude":49.71639,
+    "geom:longitude":6.49,
+    "gn:admin1_code":"GR",
+    "gn:admin2_code":"7.0",
+    "gn:asciiname":"Wollefsmillen",
+    "gn:cc2":"LU",
+    "gn:country_code":"LU",
+    "gn:dem":233,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2959966,
+    "gn:latitude":49.71639,
+    "gn:longitude":6.49,
+    "gn:modification_date":"2017-01-28",
+    "gn:name":"Wollefsmillen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Luxembourg",
+    "iso:country":"LU",
+    "lbl:bbox":"6.47,49.69639,6.51,49.73639",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Wolfsm\u00fchle",
+        "Wolfsmuhle l\u00e8s Wasserbillig",
+        "Wollefsmillen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85673869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2959966
+    },
+    "wof:country":"LU",
+    "wof:created":1625097170,
+    "wof:geomhash":"b5fa99a2a60d242c250da28fbc9e1f9d",
+    "wof:hierarchy":[],
+    "wof:id":1745986593,
+    "wof:lastmodified":1625097170,
+    "wof:name":"Wollefsmillen",
+    "wof:parent_id":85673869,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-lu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1260013713
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.49,
+    49.71639,
+    6.49,
+    49.71639
+],
+  "geometry": {"coordinates":[6.49,49.71639],"type":"Point"}
+}

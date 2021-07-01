@@ -1,0 +1,100 @@
+{
+  "id": 1745987127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.895,49.77833,5.895,49.77833",
+    "geom:latitude":49.77833,
+    "geom:longitude":5.895,
+    "gn:country":"LU",
+    "gn:fcode":"PPLL",
+    "gn:population":34,
+    "iso:country":"LU",
+    "lbl:bbox":"5.875,49.75833,5.915,49.79833",
+    "lbl:latitude":49.77833,
+    "lbl:longitude":5.895,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":11.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ces_x_preferred":[
+        "Eltzov\u00e9"
+    ],
+    "name:deu_x_preferred":[
+        "Eltz"
+    ],
+    "name:epo_x_preferred":[
+        "Eltz"
+    ],
+    "name:hrv_x_preferred":[
+        "Eltz"
+    ],
+    "name:por_x_preferred":[
+        "Casa Eltz"
+    ],
+    "name:und_x_variant":[
+        "Els"
+    ],
+    "qs_pg:aaroncc":"LU",
+    "qs_pg:gn_country":"LU",
+    "qs_pg:gn_fcode":"PPLL",
+    "qs_pg:gn_id":2960614,
+    "qs_pg:gn_pop":34,
+    "qs_pg:name":"Eltz",
+    "qs_pg:name_adm0":"Luxembourg",
+    "qs_pg:name_adm1":"Diekirch",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":505392,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424881,
+    "qs_pg:woe_id":22658438,
+    "src:geom":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424881,
+    "woe:name_adm0":"Luxembourg",
+    "woe:name_adm1":"Diekirch",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85673865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2960614,
+        "gp:id":22658438,
+        "qs_pg:id":505392
+    },
+    "wof:country":"LU",
+    "wof:created":1625097445,
+    "wof:geomhash":"2dec757395bdb107f088c0cc129ee0be",
+    "wof:hierarchy":[],
+    "wof:id":1745987127,
+    "wof:lastmodified":1625097445,
+    "wof:name":"Eltz",
+    "wof:parent_id":85673865,
+    "wof:placetype":"neighbourhood",
+    "wof:population":34,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-lu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125961319
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.895,
+    49.77833,
+    5.895,
+    49.77833
+],
+  "geometry": {"coordinates":[5.895,49.77833],"type":"Point"}
+}

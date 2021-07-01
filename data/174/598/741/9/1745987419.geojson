@@ -1,0 +1,94 @@
+{
+  "id": 1745987419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.88833,49.82306,5.88833,49.82306",
+    "geom:latitude":49.82306,
+    "geom:longitude":5.88833,
+    "gn:country":"LU",
+    "gn:fcode":"PPL",
+    "gn:population":34,
+    "iso:country":"LU",
+    "lbl:bbox":"5.86833,49.80306,5.90833,49.84306",
+    "lbl:latitude":49.82306,
+    "lbl:longitude":5.88833,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":11.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Eschette"
+    ],
+    "name:deu_x_preferred":[
+        "Escheid"
+    ],
+    "name:eng_x_preferred":[
+        "Eschette"
+    ],
+    "name:fra_x_preferred":[
+        "Eschette"
+    ],
+    "name:ltz_x_preferred":[
+        "Eschent"
+    ],
+    "name:msa_x_preferred":[
+        "Eschette"
+    ],
+    "name:nld_x_preferred":[
+        "Eschette"
+    ],
+    "qs_pg:aaroncc":"LU",
+    "qs_pg:gn_country":"LU",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2960597,
+    "qs_pg:gn_pop":34,
+    "qs_pg:name":"Eschette",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":94250,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85673865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2960597,
+        "qs_pg:id":94250,
+        "wd:id":"Q1825120"
+    },
+    "wof:country":"LU",
+    "wof:created":1625097558,
+    "wof:geomhash":"fd3394109e0513a55abacaa2003b4b04",
+    "wof:hierarchy":[],
+    "wof:id":1745987419,
+    "wof:lastmodified":1625097558,
+    "wof:name":"Eschette",
+    "wof:parent_id":85673865,
+    "wof:placetype":"neighbourhood",
+    "wof:population":34,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-lu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125846983
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.88833,
+    49.82306,
+    5.88833,
+    49.82306
+],
+  "geometry": {"coordinates":[5.88833,49.82306],"type":"Point"}
+}

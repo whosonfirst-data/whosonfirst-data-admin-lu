@@ -1,0 +1,107 @@
+{
+  "id": 1745987405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.24722,49.67556,6.24722,49.67556",
+    "geom:latitude":49.67556,
+    "geom:longitude":6.24722,
+    "gn:country":"LU",
+    "gn:fcode":"PPL",
+    "gn:population":350,
+    "iso:country":"LU",
+    "lbl:bbox":"6.22722,49.65556,6.26722,49.69556",
+    "lbl:latitude":49.67556,
+    "lbl:longitude":6.24722,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":11.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Ernster"
+    ],
+    "name:ceb_x_preferred":[
+        "Ernster"
+    ],
+    "name:eng_x_preferred":[
+        "Ernster"
+    ],
+    "name:fra_x_preferred":[
+        "Ernster"
+    ],
+    "name:ltz_x_preferred":[
+        "Iernster"
+    ],
+    "name:nld_x_preferred":[
+        "Ernster"
+    ],
+    "name:pol_x_preferred":[
+        "Ernster"
+    ],
+    "name:swe_x_preferred":[
+        "Ernster"
+    ],
+    "qs_pg:aaroncc":"LU",
+    "qs_pg:gn_country":"LU",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2960607,
+    "qs_pg:gn_pop":350,
+    "qs_pg:name":"Ernster",
+    "qs_pg:name_adm0":"Luxembourg",
+    "qs_pg:name_adm1":"Luxembourg",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":205310,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424881,
+    "qs_pg:woe_id":20104993,
+    "src:geom":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424881,
+    "woe:name_adm0":"Luxembourg",
+    "woe:name_adm1":"Luxembourg",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85673875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2960607,
+        "gp:id":20104993,
+        "qs_pg:id":205310,
+        "wd:id":"Q618072"
+    },
+    "wof:country":"LU",
+    "wof:created":1625097553,
+    "wof:geomhash":"88d4c45e74dd995ce3c3112b2f3844bf",
+    "wof:hierarchy":[],
+    "wof:id":1745987405,
+    "wof:lastmodified":1625097553,
+    "wof:name":"Ernster",
+    "wof:parent_id":85673875,
+    "wof:placetype":"neighbourhood",
+    "wof:population":350,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-lu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125846249
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.24722,
+    49.67556,
+    6.24722,
+    49.67556
+],
+  "geometry": {"coordinates":[6.24722,49.67556],"type":"Point"}
+}

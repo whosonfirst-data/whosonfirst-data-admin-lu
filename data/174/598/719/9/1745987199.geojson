@@ -1,0 +1,112 @@
+{
+  "id": 1745987199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.51389,49.75417,6.51389,49.75417",
+    "geom:latitude":49.75417,
+    "geom:longitude":6.51389,
+    "gn:country":"LU",
+    "gn:fcode":"PPL",
+    "gn:population":336,
+    "iso:country":"LU",
+    "lbl:bbox":"6.49389,49.73417,6.53389,49.77417",
+    "lbl:latitude":49.75417,
+    "lbl:longitude":6.51389,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":11.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Born"
+    ],
+    "name:ceb_x_preferred":[
+        "Born"
+    ],
+    "name:deu_x_preferred":[
+        "Born"
+    ],
+    "name:eng_x_preferred":[
+        "Born"
+    ],
+    "name:fra_x_preferred":[
+        "Born"
+    ],
+    "name:ltz_x_preferred":[
+        "Bur"
+    ],
+    "name:nld_x_preferred":[
+        "Born"
+    ],
+    "name:pol_x_preferred":[
+        "Born"
+    ],
+    "name:swe_x_preferred":[
+        "Born"
+    ],
+    "qs_pg:aaroncc":"LU",
+    "qs_pg:gn_country":"LU",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2960739,
+    "qs_pg:gn_pop":336,
+    "qs_pg:name":"Moulin de Born",
+    "qs_pg:name_adm0":"Luxembourg",
+    "qs_pg:name_adm1":"Grevenmacher",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":44,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":942925,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424881,
+    "qs_pg:woe_id":979773,
+    "src:geom":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424881,
+    "woe:name_adm0":"Luxembourg",
+    "woe:name_adm1":"Grevenmacher",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102063545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2960739,
+        "gp:id":979773,
+        "qs_pg:id":942925,
+        "wd:id":"Q2314501"
+    },
+    "wof:country":"LU",
+    "wof:created":1625097471,
+    "wof:geomhash":"8019c740abcc99063a9eabf7a22cdf67",
+    "wof:hierarchy":[],
+    "wof:id":1745987199,
+    "wof:lastmodified":1625097471,
+    "wof:name":"Moulin de Born",
+    "wof:parent_id":102063545,
+    "wof:placetype":"neighbourhood",
+    "wof:population":336,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-lu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1126019743
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.51389,
+    49.75417,
+    6.51389,
+    49.75417
+],
+  "geometry": {"coordinates":[6.51389,49.75417],"type":"Point"}
+}

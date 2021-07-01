@@ -1,0 +1,69 @@
+{
+  "id": 1745986439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.81278,49.89917,5.81278,49.89917",
+    "geom:latitude":49.89917,
+    "geom:longitude":5.81278,
+    "gn:admin1_code":"WI",
+    "gn:admin2_code":"1.0",
+    "gn:asciiname":"Fleibur",
+    "gn:cc2":"LU",
+    "gn:country_code":"LU",
+    "gn:dem":459,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":2960567,
+    "gn:latitude":49.89917,
+    "gn:longitude":5.81278,
+    "gn:modification_date":"2017-01-28",
+    "gn:name":"Fleibur",
+    "gn:population":0,
+    "gn:timezone":"Europe/Luxembourg",
+    "iso:country":"LU",
+    "lbl:bbox":"5.79278,49.87917,5.83278,49.91917",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Flebour",
+        "Fleibur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85673865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2960567
+    },
+    "wof:country":"LU",
+    "wof:created":1625097102,
+    "wof:geomhash":"47e4dd11166dd8bcb2c0d3af9b87f9b4",
+    "wof:hierarchy":[],
+    "wof:id":1745986439,
+    "wof:lastmodified":1625097102,
+    "wof:name":"Fleibur",
+    "wof:parent_id":85673865,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-lu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1293917065
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.81278,
+    49.89917,
+    5.81278,
+    49.89917
+],
+  "geometry": {"coordinates":[5.81278,49.89917],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1745986659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.87806,50.04611,5.87806,50.04611",
+    "geom:latitude":50.04611,
+    "geom:longitude":5.87806,
+    "gn:admin1_code":"CL",
+    "gn:admin2_code":"1.0",
+    "gn:asciiname":"Troine-Route",
+    "gn:cc2":"LU",
+    "gn:country_code":"LU",
+    "gn:dem":496,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2960817,
+    "gn:latitude":50.04611,
+    "gn:longitude":5.87806,
+    "gn:modification_date":"2017-10-02",
+    "gn:name":"Troine-Route",
+    "gn:population":0,
+    "gn:timezone":"Europe/Luxembourg",
+    "iso:country":"LU",
+    "lbl:bbox":"5.85806,50.02611,5.89806,50.06611",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Baraques de Troine",
+        "Troine-Baraques",
+        "Troine-Route"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85673865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2960817
+    },
+    "wof:country":"LU",
+    "wof:created":1625097246,
+    "wof:geomhash":"a1952d9dae4e24c0f8af5a5a14c6d169",
+    "wof:hierarchy":[],
+    "wof:id":1745986659,
+    "wof:lastmodified":1625097246,
+    "wof:name":"Troine-Route",
+    "wof:parent_id":85673865,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-lu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1309740719
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.87806,
+    50.04611,
+    5.87806,
+    50.04611
+],
+  "geometry": {"coordinates":[5.87806,50.04611],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1745986919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.3275,49.54444,6.3275,49.54444",
+    "geom:latitude":49.54444,
+    "geom:longitude":6.3275,
+    "gn:country":"LU",
+    "gn:fcode":"PPL",
+    "gn:population":359,
+    "iso:country":"LU",
+    "lbl:bbox":"6.3075,49.52444,6.3475,49.56444",
+    "lbl:latitude":49.54444,
+    "lbl:longitude":6.3275,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":11.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:und_x_variant":[
+        "Erpeldange"
+    ],
+    "qs_pg:aaroncc":"LU",
+    "qs_pg:gn_country":"LU",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2960602,
+    "qs_pg:gn_pop":359,
+    "qs_pg:name":"Erpeldange-lez-Bous",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":94252,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85673869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2960602,
+        "qs_pg:id":94252
+    },
+    "wof:country":"LU",
+    "wof:created":1625097362,
+    "wof:geomhash":"1dd8b5dc0bdd338e16650a512464035a",
+    "wof:hierarchy":[],
+    "wof:id":1745986919,
+    "wof:lastmodified":1625097362,
+    "wof:name":"Erpeldange-lez-Bous",
+    "wof:parent_id":85673869,
+    "wof:placetype":"neighbourhood",
+    "wof:population":359,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-lu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1126037825
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.3275,
+    49.54444,
+    6.3275,
+    49.54444
+],
+  "geometry": {"coordinates":[6.3275,49.54444],"type":"Point"}
+}

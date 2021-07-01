@@ -1,0 +1,75 @@
+{
+  "id": 1745987487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.23972,49.75917,6.23972,49.75917",
+    "geom:latitude":49.75917,
+    "geom:longitude":6.23972,
+    "gn:admin1_code":"ME",
+    "gn:admin2_code":"5.0",
+    "gn:asciiname":"Beil",
+    "gn:cc2":"LU",
+    "gn:country_code":"LU",
+    "gn:dem":366,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":2960767,
+    "gn:latitude":49.75917,
+    "gn:longitude":6.23972,
+    "gn:modification_date":"2017-01-28",
+    "gn:name":"B\u00e9il",
+    "gn:population":0,
+    "gn:timezone":"Europe/Luxembourg",
+    "iso:country":"LU",
+    "lbl:bbox":"6.21972,49.73917,6.25972,49.77917",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "name:deu_x_preferred":[
+        "Beil"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u0439\u043b\u044c"
+    ],
+    "name:und_x_variant":[
+        "Bihl",
+        "B\u00e9il"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85673875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2960767
+    },
+    "wof:country":"LU",
+    "wof:created":1625097584,
+    "wof:geomhash":"fe8d491cba236b92be6cb8f2baa4e079",
+    "wof:hierarchy":[],
+    "wof:id":1745987487,
+    "wof:lastmodified":1625097584,
+    "wof:name":"Beil",
+    "wof:parent_id":85673875,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-lu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1259913455
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.23972,
+    49.75917,
+    6.23972,
+    49.75917
+],
+  "geometry": {"coordinates":[6.23972,49.75917],"type":"Point"}
+}

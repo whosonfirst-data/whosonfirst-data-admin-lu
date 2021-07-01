@@ -1,0 +1,70 @@
+{
+  "id": 1745986589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.38754,49.76552,6.38754,49.76552",
+    "geom:latitude":49.76552,
+    "geom:longitude":6.38754,
+    "gn:admin1_code":"EC",
+    "gn:admin2_code":"2.0",
+    "gn:asciiname":"Geyershaff",
+    "gn:cc2":"LU",
+    "gn:country_code":"LU",
+    "gn:dem":345,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":2960545,
+    "gn:latitude":49.76552,
+    "gn:longitude":6.38754,
+    "gn:modification_date":"2017-10-02",
+    "gn:name":"Geyershaff",
+    "gn:population":0,
+    "gn:timezone":"Europe/Luxembourg",
+    "iso:country":"LU",
+    "lbl:bbox":"6.36754,49.74552,6.40754,49.78552",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Geyershof",
+        "Geyershaff",
+        "Geyershof (Bech)"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85673869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2960545
+    },
+    "wof:country":"LU",
+    "wof:created":1625097166,
+    "wof:geomhash":"4adc7a03ec812473829df6df97b6d2ab",
+    "wof:hierarchy":[],
+    "wof:id":1745986589,
+    "wof:lastmodified":1625097166,
+    "wof:name":"Geyershaff",
+    "wof:parent_id":85673869,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-lu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1193174117
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.38754,
+    49.76552,
+    6.38754,
+    49.76552
+],
+  "geometry": {"coordinates":[6.38754,49.76552],"type":"Point"}
+}

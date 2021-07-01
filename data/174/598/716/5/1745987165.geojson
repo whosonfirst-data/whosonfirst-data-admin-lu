@@ -1,0 +1,115 @@
+{
+  "id": 1745987165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.98944,50.03833,5.98944,50.03833",
+    "geom:latitude":50.03833,
+    "geom:longitude":5.98944,
+    "gn:country":"LU",
+    "gn:fcode":"PPL",
+    "gn:population":220,
+    "iso:country":"LU",
+    "lbl:bbox":"5.96944,50.01833,6.00944,50.05833",
+    "lbl:latitude":50.03833,
+    "lbl:longitude":5.98944,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":11.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Weicherdange"
+    ],
+    "name:ceb_x_preferred":[
+        "Weicherdange"
+    ],
+    "name:deu_x_preferred":[
+        "Weicherdingen"
+    ],
+    "name:eng_x_preferred":[
+        "Weicherdange"
+    ],
+    "name:fra_x_preferred":[
+        "Weicherdange"
+    ],
+    "name:ltz_x_preferred":[
+        "W\u00e4icherdang"
+    ],
+    "name:msa_x_preferred":[
+        "Weicherdange"
+    ],
+    "name:nld_x_preferred":[
+        "Weicherdange"
+    ],
+    "name:pol_x_preferred":[
+        "Weicherdange"
+    ],
+    "name:swe_x_preferred":[
+        "Weicherdange"
+    ],
+    "qs_pg:aaroncc":"LU",
+    "qs_pg:gn_country":"LU",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2960002,
+    "qs_pg:gn_pop":220,
+    "qs_pg:name":"Weicherdange",
+    "qs_pg:name_adm0":"Luxembourg",
+    "qs_pg:name_adm1":"Diekirch",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":942955,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424881,
+    "qs_pg:woe_id":979984,
+    "src:geom":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424881,
+    "woe:name_adm0":"Luxembourg",
+    "woe:name_adm1":"Diekirch",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85673865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2960002,
+        "gp:id":979984,
+        "qs_pg:id":942955,
+        "wd:id":"Q2662275"
+    },
+    "wof:country":"LU",
+    "wof:created":1625097460,
+    "wof:geomhash":"35f9bd1ef9401fdc4b8ad5110a426e89",
+    "wof:hierarchy":[],
+    "wof:id":1745987165,
+    "wof:lastmodified":1625097460,
+    "wof:name":"Weicherdange",
+    "wof:parent_id":85673865,
+    "wof:placetype":"neighbourhood",
+    "wof:population":220,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-lu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1126019831
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.98944,
+    50.03833,
+    5.98944,
+    50.03833
+],
+  "geometry": {"coordinates":[5.98944,50.03833],"type":"Point"}
+}

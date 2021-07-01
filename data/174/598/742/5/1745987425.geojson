@@ -1,0 +1,103 @@
+{
+  "id": 1745987425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.02944,49.53639,6.02944,49.53639",
+    "geom:latitude":49.53639,
+    "geom:longitude":6.02944,
+    "gn:country":"LU",
+    "gn:fcode":"PPL",
+    "gn:population":1009,
+    "iso:country":"LU",
+    "lbl:bbox":"6.00944,49.51639,6.04944,49.55639",
+    "lbl:latitude":49.53639,
+    "lbl:longitude":6.02944,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":11.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Pontpierre"
+    ],
+    "name:ceb_x_preferred":[
+        "Pontpierre"
+    ],
+    "name:deu_x_preferred":[
+        "Steinbr\u00fccken"
+    ],
+    "name:eng_x_preferred":[
+        "Pontpierre"
+    ],
+    "name:fra_x_preferred":[
+        "Pontpierre"
+    ],
+    "name:ltz_x_preferred":[
+        "Steebr\u00e9cken"
+    ],
+    "name:nld_x_preferred":[
+        "Pontpierre"
+    ],
+    "name:pol_x_preferred":[
+        "Pontpierre"
+    ],
+    "name:swe_x_preferred":[
+        "Pontpierre"
+    ],
+    "name:und_x_variant":[
+        "Steinbrucken"
+    ],
+    "qs_pg:aaroncc":"LU",
+    "qs_pg:gn_country":"LU",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2960174,
+    "qs_pg:gn_pop":1009,
+    "qs_pg:name":"Pontpierre",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":847779,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85673875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2960174,
+        "qs_pg:id":847779,
+        "wd:id":"Q1016106"
+    },
+    "wof:country":"LU",
+    "wof:created":1625097561,
+    "wof:geomhash":"43a855765b049cb5c84ee8952f2472e3",
+    "wof:hierarchy":[],
+    "wof:id":1745987425,
+    "wof:lastmodified":1625097561,
+    "wof:name":"Pontpierre",
+    "wof:parent_id":85673875,
+    "wof:placetype":"neighbourhood",
+    "wof:population":1009,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-lu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125777307
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.02944,
+    49.53639,
+    6.02944,
+    49.53639
+],
+  "geometry": {"coordinates":[6.02944,49.53639],"type":"Point"}
+}

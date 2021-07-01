@@ -1,0 +1,100 @@
+{
+  "id": 1745986857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.04222,49.525,6.04222,49.525",
+    "geom:latitude":49.525,
+    "geom:longitude":6.04222,
+    "gn:country":"LU",
+    "gn:fcode":"PPL",
+    "gn:population":1535,
+    "iso:country":"LU",
+    "lbl:bbox":"6.02222,49.505,6.06222,49.545",
+    "lbl:latitude":49.525,
+    "lbl:longitude":6.04222,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":11.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Bergem"
+    ],
+    "name:ceb_x_preferred":[
+        "Bergem"
+    ],
+    "name:deu_x_preferred":[
+        "Bergem"
+    ],
+    "name:eng_x_preferred":[
+        "Bergem"
+    ],
+    "name:fra_x_preferred":[
+        "Bergem"
+    ],
+    "name:ltz_x_preferred":[
+        "Biergem"
+    ],
+    "name:nld_x_preferred":[
+        "Bergem"
+    ],
+    "name:pol_x_preferred":[
+        "Bergem"
+    ],
+    "name:swe_x_preferred":[
+        "Bergem"
+    ],
+    "qs_pg:aaroncc":"LU",
+    "qs_pg:gn_country":"LU",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2960791,
+    "qs_pg:gn_pop":1535,
+    "qs_pg:name":"Bergem",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":1238095,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85673875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2960791,
+        "qs_pg:id":1238095,
+        "wd:id":"Q819508"
+    },
+    "wof:country":"LU",
+    "wof:created":1625097338,
+    "wof:geomhash":"ba360835a685b0c0f61747f5fef4818a",
+    "wof:hierarchy":[],
+    "wof:id":1745986857,
+    "wof:lastmodified":1625097338,
+    "wof:name":"Bergem",
+    "wof:parent_id":85673875,
+    "wof:placetype":"neighbourhood",
+    "wof:population":1535,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-lu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1126024567
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.04222,
+    49.525,
+    6.04222,
+    49.525
+],
+  "geometry": {"coordinates":[6.04222,49.525],"type":"Point"}
+}

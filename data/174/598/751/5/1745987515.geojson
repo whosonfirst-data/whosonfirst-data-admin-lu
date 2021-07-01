@@ -1,0 +1,70 @@
+{
+  "id": 1745987515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.33028,49.66833,6.33028,49.66833",
+    "geom:latitude":49.66833,
+    "geom:longitude":6.33028,
+    "gn:admin1_code":"GR",
+    "gn:admin2_code":"3.0",
+    "gn:asciiname":"Banzelt",
+    "gn:cc2":"LU",
+    "gn:country_code":"LU",
+    "gn:dem":277,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":2960818,
+    "gn:latitude":49.66833,
+    "gn:longitude":6.33028,
+    "gn:modification_date":"2017-01-28",
+    "gn:name":"Banzelt",
+    "gn:population":0,
+    "gn:timezone":"Europe/Luxembourg",
+    "iso:country":"LU",
+    "lbl:bbox":"6.31028,49.64833,6.35028,49.68833",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Maisons Banzelt",
+        "Olingerbarri\u00e9re",
+        "Banzelt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85673869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2960818
+    },
+    "wof:country":"LU",
+    "wof:created":1625097595,
+    "wof:geomhash":"318a52215ece2ee03745f40a9e1fd512",
+    "wof:hierarchy":[],
+    "wof:id":1745987515,
+    "wof:lastmodified":1625097595,
+    "wof:name":"Banzelt",
+    "wof:parent_id":85673869,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-lu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1225878261
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.33028,
+    49.66833,
+    6.33028,
+    49.66833
+],
+  "geometry": {"coordinates":[6.33028,49.66833],"type":"Point"}
+}

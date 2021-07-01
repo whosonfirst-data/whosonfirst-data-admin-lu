@@ -1,0 +1,115 @@
+{
+  "id": 1745987253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.04222,49.47583,6.04222,49.47583",
+    "geom:latitude":49.47583,
+    "geom:longitude":6.04222,
+    "gn:country":"LU",
+    "gn:fcode":"PPL",
+    "gn:population":2929,
+    "iso:country":"LU",
+    "lbl:bbox":"6.02222,49.45583,6.06222,49.49583",
+    "lbl:latitude":49.47583,
+    "lbl:longitude":6.04222,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":11.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "T\u00e9tange"
+    ],
+    "name:eng_x_preferred":[
+        "T\u00e9tange"
+    ],
+    "name:fra_x_preferred":[
+        "T\u00e9tange"
+    ],
+    "name:hun_x_preferred":[
+        "T\u00e9tange"
+    ],
+    "name:lit_x_preferred":[
+        "Tetan\u017eas"
+    ],
+    "name:ltz_x_preferred":[
+        "T\u00e9iteng"
+    ],
+    "name:nld_x_preferred":[
+        "T\u00e9tange"
+    ],
+    "name:pol_x_preferred":[
+        "Tetange"
+    ],
+    "name:por_x_preferred":[
+        "T\u00e9tange"
+    ],
+    "name:swe_x_preferred":[
+        "T\u00e9tange"
+    ],
+    "qs_pg:aaroncc":"LU",
+    "qs_pg:gn_country":"LU",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2960042,
+    "qs_pg:gn_pop":2929,
+    "qs_pg:name":"T\u00e9tange",
+    "qs_pg:name_adm0":"Luxembourg",
+    "qs_pg:name_adm1":"Luxembourg",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":201,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":187162,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424881,
+    "qs_pg:woe_id":979949,
+    "src:geom":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424881,
+    "woe:name_adm0":"Luxembourg",
+    "woe:name_adm1":"Luxembourg",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85673875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2960042,
+        "gp:id":979949,
+        "qs_pg:id":187162,
+        "wd:id":"Q1903325"
+    },
+    "wof:country":"LU",
+    "wof:created":1625097493,
+    "wof:geomhash":"e4f80a9ad441a2a118cf3a507513138b",
+    "wof:hierarchy":[],
+    "wof:id":1745987253,
+    "wof:lastmodified":1625097493,
+    "wof:name":"T\u00e9tange",
+    "wof:parent_id":85673875,
+    "wof:placetype":"neighbourhood",
+    "wof:population":2929,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-lu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125822313
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.04222,
+    49.47583,
+    6.04222,
+    49.47583
+],
+  "geometry": {"coordinates":[6.04222,49.47583],"type":"Point"}
+}

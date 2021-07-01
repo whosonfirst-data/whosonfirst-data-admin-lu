@@ -1,0 +1,110 @@
+{
+  "id": 1745986933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.42167,49.62444,6.42167,49.62444",
+    "geom:latitude":49.62444,
+    "geom:longitude":6.42167,
+    "gn:country":"LU",
+    "gn:fcode":"PPL",
+    "gn:population":0,
+    "iso:country":"LU",
+    "lbl:bbox":"6.40167,49.60444,6.44167,49.64444",
+    "lbl:latitude":49.62444,
+    "lbl:longitude":6.42167,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u0410\u0445\u043d"
+    ],
+    "name:cat_x_preferred":[
+        "Ahn"
+    ],
+    "name:ceb_x_preferred":[
+        "Ahn"
+    ],
+    "name:eng_x_preferred":[
+        "Ahn"
+    ],
+    "name:fra_x_preferred":[
+        "Ahn"
+    ],
+    "name:ltz_x_preferred":[
+        "On"
+    ],
+    "name:msa_x_preferred":[
+        "Ahn"
+    ],
+    "name:nld_x_preferred":[
+        "Ahn"
+    ],
+    "name:pol_x_preferred":[
+        "Ahn"
+    ],
+    "name:swe_x_preferred":[
+        "Ahn"
+    ],
+    "qs_pg:aaroncc":"LU",
+    "qs_pg:gn_country":"LU",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2960842,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Ahn",
+    "qs_pg:name_adm0":"Luxembourg",
+    "qs_pg:name_adm1":"Grevenmacher",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":295578,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424881,
+    "qs_pg:woe_id":20105012,
+    "src:geom":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
+    "woe:adm0_id":23424881,
+    "woe:name_adm0":"Luxembourg",
+    "woe:name_adm1":"Grevenmacher",
+    "woe:placetype":"Town",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2960842,
+        "gp:id":20105012,
+        "qs_pg:id":295578,
+        "wd:id":"Q2827709"
+    },
+    "wof:country":"LU",
+    "wof:created":1625097368,
+    "wof:geomhash":"51167feaadfb229b8b55d6e0c74ca208",
+    "wof:hierarchy":[],
+    "wof:id":1745986933,
+    "wof:lastmodified":1625097368,
+    "wof:name":"Ahn",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-lu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125869635
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.42167,
+    49.62444,
+    6.42167,
+    49.62444
+],
+  "geometry": {"coordinates":[6.42167,49.62444],"type":"Point"}
+}

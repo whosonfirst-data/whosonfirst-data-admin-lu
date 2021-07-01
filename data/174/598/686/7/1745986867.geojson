@@ -1,0 +1,106 @@
+{
+  "id": 1745986867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.12944,49.94833,6.12944,49.94833",
+    "geom:latitude":49.94833,
+    "geom:longitude":6.12944,
+    "gn:country":"LU",
+    "gn:fcode":"PPL",
+    "gn:population":70,
+    "iso:country":"LU",
+    "lbl:bbox":"6.10944,49.92833,6.14944,49.96833",
+    "lbl:latitude":49.94833,
+    "lbl:longitude":6.12944,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":11.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Nachtmanderscheid"
+    ],
+    "name:deu_x_preferred":[
+        "Nachtmanderscheid"
+    ],
+    "name:eng_x_preferred":[
+        "Nachtmanderscheid"
+    ],
+    "name:fra_x_preferred":[
+        "Nachtmanderscheid"
+    ],
+    "name:ltz_x_preferred":[
+        "Nuechtmanescht"
+    ],
+    "name:msa_x_preferred":[
+        "Nachtmanderscheid"
+    ],
+    "name:nld_x_preferred":[
+        "Nachtmanderscheid"
+    ],
+    "qs_pg:aaroncc":"LU",
+    "qs_pg:gn_country":"LU",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2960245,
+    "qs_pg:gn_pop":70,
+    "qs_pg:name":"Nachtmanderscheid",
+    "qs_pg:name_adm0":"Luxembourg",
+    "qs_pg:name_adm1":"Diekirch",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":955382,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424881,
+    "qs_pg:woe_id":20105043,
+    "src:geom":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424881,
+    "woe:name_adm0":"Luxembourg",
+    "woe:name_adm1":"Diekirch",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85673865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2960245,
+        "gp:id":20105043,
+        "qs_pg:id":955382,
+        "wd:id":"Q2206498"
+    },
+    "wof:country":"LU",
+    "wof:created":1625097343,
+    "wof:geomhash":"13b5fb2f91bf68e6b4e9395e9862b4be",
+    "wof:hierarchy":[],
+    "wof:id":1745986867,
+    "wof:lastmodified":1625097343,
+    "wof:name":"Nachtmanderscheid",
+    "wof:parent_id":85673865,
+    "wof:placetype":"neighbourhood",
+    "wof:population":70,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-lu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1126026065
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.12944,
+    49.94833,
+    6.12944,
+    49.94833
+],
+  "geometry": {"coordinates":[6.12944,49.94833],"type":"Point"}
+}

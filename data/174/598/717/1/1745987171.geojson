@@ -1,0 +1,126 @@
+{
+  "id": 1745987171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.31722,49.54889,6.31722,49.54889",
+    "geom:latitude":49.54889,
+    "geom:longitude":6.31722,
+    "gn:country":"LU",
+    "gn:fcode":"PPL",
+    "gn:population":117,
+    "iso:country":"LU",
+    "lbl:bbox":"6.29722,49.52889,6.33722,49.56889",
+    "lbl:latitude":49.54889,
+    "lbl:longitude":6.31722,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":11.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u062a\u062f\u062d\u0631\u062c"
+    ],
+    "name:bel_x_preferred":[
+        "\u041f\u043b\u043e\u0441\u043a\u0430\u043f\u0430\u0440\u0430\u043b\u0435\u043b\u044c\u043d\u044b \u0440\u0443\u0445"
+    ],
+    "name:ces_x_preferred":[
+        "Valiv\u00fd pohyb"
+    ],
+    "name:deu_x_preferred":[
+        "Rollen"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03cd\u03bb\u03b9\u03c3\u03b7"
+    ],
+    "name:est_x_preferred":[
+        "Veeremine"
+    ],
+    "name:eus_x_preferred":[
+        "Errodadura"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d2\u05dc\u05d2\u05d5\u05dc"
+    ],
+    "name:hin_x_preferred":[
+        "\u092c\u0947\u0932\u094d\u0932\u0928"
+    ],
+    "name:kor_x_preferred":[
+        "\uad74\ub9bc \uc6b4\ub3d9"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u043b\u043e\u0441\u043a\u043e\u043f\u0430\u0440\u0430\u043b\u043b\u0435\u043b\u044c\u043d\u043e\u0435 \u0434\u0432\u0438\u0436\u0435\u043d\u0438\u0435"
+    ],
+    "name:spa_x_preferred":[
+        "Rodadura"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u043b\u043e\u0441\u043a\u043e\u043f\u0430\u0440\u0430\u043b\u0435\u043b\u044c\u043d\u0438\u0439 \u0440\u0443\u0445"
+    ],
+    "name:und_x_variant":[
+        "Rollingen"
+    ],
+    "qs_pg:aaroncc":"LU",
+    "qs_pg:gn_country":"LU",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2960134,
+    "qs_pg:gn_pop":117,
+    "qs_pg:name":"Rolling",
+    "qs_pg:name_adm0":"Luxembourg",
+    "qs_pg:name_adm1":"Grevenmacher",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":942939,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424881,
+    "qs_pg:woe_id":979877,
+    "src:geom":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424881,
+    "woe:name_adm0":"Luxembourg",
+    "woe:name_adm1":"Grevenmacher",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85673869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2960134,
+        "gp:id":979877,
+        "qs_pg:id":942939
+    },
+    "wof:country":"LU",
+    "wof:created":1625097462,
+    "wof:geomhash":"788c6a39215b217988237c05caa20730",
+    "wof:hierarchy":[],
+    "wof:id":1745987171,
+    "wof:lastmodified":1625097462,
+    "wof:name":"Rolling",
+    "wof:parent_id":85673869,
+    "wof:placetype":"neighbourhood",
+    "wof:population":117,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-lu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1126019783
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.31722,
+    49.54889,
+    6.31722,
+    49.54889
+],
+  "geometry": {"coordinates":[6.31722,49.54889],"type":"Point"}
+}

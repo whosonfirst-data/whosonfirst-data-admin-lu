@@ -1,0 +1,114 @@
+{
+  "id": 1745986813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.08667,49.91861,6.08667,49.91861",
+    "geom:latitude":49.91861,
+    "geom:longitude":6.08667,
+    "gn:country":"LU",
+    "gn:fcode":"PPL",
+    "gn:population":186,
+    "iso:country":"LU",
+    "lbl:bbox":"6.06667,49.89861,6.10667,49.93861",
+    "lbl:latitude":49.91861,
+    "lbl:longitude":6.08667,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":11.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Lipperscheid"
+    ],
+    "name:ceb_x_preferred":[
+        "Lipperscheid"
+    ],
+    "name:deu_x_preferred":[
+        "Lipperscheid"
+    ],
+    "name:eng_x_preferred":[
+        "Lipperscheid"
+    ],
+    "name:fra_x_preferred":[
+        "Lipperscheid"
+    ],
+    "name:ltz_x_preferred":[
+        "L\u00ebppschent"
+    ],
+    "name:msa_x_preferred":[
+        "Lipperscheid"
+    ],
+    "name:nld_x_preferred":[
+        "Lipperscheid"
+    ],
+    "name:swe_x_preferred":[
+        "Lipperscheid"
+    ],
+    "qs_pg:aaroncc":"LU",
+    "qs_pg:gn_country":"LU",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2960327,
+    "qs_pg:gn_pop":186,
+    "qs_pg:name":"Lippenscheid",
+    "qs_pg:name_adm0":"Luxembourg",
+    "qs_pg:name_adm1":"Diekirch",
+    "qs_pg:photos":99,
+    "qs_pg:photos_1k":20,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":99,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":1287971,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424881,
+    "qs_pg:woe_id":979712,
+    "src:geom":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424881,
+    "woe:name_adm0":"Luxembourg",
+    "woe:name_adm1":"Diekirch",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85673865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2960327,
+        "gp:id":979712,
+        "qs_pg:id":1287971,
+        "wd:id":"Q2388862"
+    },
+    "wof:country":"LU",
+    "wof:created":1625097322,
+    "wof:geomhash":"23a516215556a243a60667381e8a15b6",
+    "wof:hierarchy":[],
+    "wof:id":1745986813,
+    "wof:lastmodified":1625097322,
+    "wof:name":"Lippenscheid",
+    "wof:parent_id":85673865,
+    "wof:placetype":"neighbourhood",
+    "wof:population":186,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-lu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125951827
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.08667,
+    49.91861,
+    6.08667,
+    49.91861
+],
+  "geometry": {"coordinates":[6.08667,49.91861],"type":"Point"}
+}

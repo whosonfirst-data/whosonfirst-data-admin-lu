@@ -1,0 +1,73 @@
+{
+  "id": 1745986517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.95667,50.09361,5.95667,50.09361",
+    "geom:latitude":50.09361,
+    "geom:longitude":5.95667,
+    "gn:admin1_code":"CL",
+    "gn:admin2_code":"1.0",
+    "gn:asciiname":"Eimeschbaach",
+    "gn:cc2":"LU",
+    "gn:country_code":"LU",
+    "gn:dem":434,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":2960626,
+    "gn:latitude":50.09361,
+    "gn:longitude":5.95667,
+    "gn:modification_date":"2017-01-28",
+    "gn:name":"\u00c9imeschbaach",
+    "gn:population":0,
+    "gn:timezone":"Europe/Luxembourg",
+    "iso:country":"LU",
+    "lbl:bbox":"5.93667,50.07361,5.97667,50.11361",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Dehmeschbach",
+        "Ehmeschhof",
+        "Emeschbach",
+        "Emeschterhof",
+        "Ehmeschbach",
+        "\u00c9imeschbaach"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85673865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2960626
+    },
+    "wof:country":"LU",
+    "wof:created":1625097135,
+    "wof:geomhash":"16dcf1fd16ac16df80d18ddc501aec07",
+    "wof:hierarchy":[],
+    "wof:id":1745986517,
+    "wof:lastmodified":1625097135,
+    "wof:name":"Eimeschbaach",
+    "wof:parent_id":85673865,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-lu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1276481239
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.95667,
+    50.09361,
+    5.95667,
+    50.09361
+],
+  "geometry": {"coordinates":[5.95667,50.09361],"type":"Point"}
+}

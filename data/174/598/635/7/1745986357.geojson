@@ -1,0 +1,70 @@
+{
+  "id": 1745986357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.31611,49.59,6.31611,49.59",
+    "geom:latitude":49.59,
+    "geom:longitude":6.31611,
+    "gn:admin1_code":"RM",
+    "gn:admin2_code":"3.0",
+    "gn:asciiname":"Scheierhaff",
+    "gn:cc2":"LU",
+    "gn:country_code":"LU",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2960106,
+    "gn:latitude":49.59,
+    "gn:longitude":6.31611,
+    "gn:modification_date":"2017-01-28",
+    "gn:name":"Scheierhaff",
+    "gn:population":0,
+    "gn:timezone":"Europe/Luxembourg",
+    "iso:country":"LU",
+    "lbl:bbox":"6.29611,49.57,6.33611,49.61",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Scheuerhof-l\u00e8s-Canach",
+        "Scheuerhof",
+        "Scheierhaff"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85673869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2960106
+    },
+    "wof:country":"LU",
+    "wof:created":1625097070,
+    "wof:geomhash":"0f476cbba5a822fec866c861e7886c62",
+    "wof:hierarchy":[],
+    "wof:id":1745986357,
+    "wof:lastmodified":1625097070,
+    "wof:name":"Scheierhaff",
+    "wof:parent_id":85673869,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-lu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1326459157
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.31611,
+    49.59,
+    6.31611,
+    49.59
+],
+  "geometry": {"coordinates":[6.31611,49.59],"type":"Point"}
+}

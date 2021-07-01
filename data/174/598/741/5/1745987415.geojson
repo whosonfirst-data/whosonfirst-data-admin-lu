@@ -1,0 +1,96 @@
+{
+  "id": 1745987415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.94194,50.06,5.94194,50.06",
+    "geom:latitude":50.06,
+    "geom:longitude":5.94194,
+    "gn:country":"LU",
+    "gn:fcode":"PPL",
+    "gn:population":132,
+    "iso:country":"LU",
+    "lbl:bbox":"5.92194,50.04,5.96194,50.08",
+    "lbl:latitude":50.06,
+    "lbl:longitude":5.94194,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":11.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Lallange"
+    ],
+    "name:fra_x_preferred":[
+        "Lallange"
+    ],
+    "name:ltz_x_preferred":[
+        "Lalleng"
+    ],
+    "name:und_x_variant":[
+        "Lullange"
+    ],
+    "qs_pg:aaroncc":"LU",
+    "qs_pg:gn_country":"LU",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2960319,
+    "qs_pg:gn_pop":132,
+    "qs_pg:name":"Lallange",
+    "qs_pg:name_adm0":"Luxembourg",
+    "qs_pg:name_adm1":"Luxembourg",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":39,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":1095763,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424881,
+    "qs_pg:woe_id":20105090,
+    "src:geom":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424881,
+    "woe:name_adm0":"Luxembourg",
+    "woe:name_adm1":"Luxembourg",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85673865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2960319,
+        "gp:id":20105090,
+        "qs_pg:id":1095763
+    },
+    "wof:country":"LU",
+    "wof:created":1625097556,
+    "wof:geomhash":"fb4187a2e90c8d9c0b0e70825dcf50bf",
+    "wof:hierarchy":[],
+    "wof:id":1745987415,
+    "wof:lastmodified":1625097556,
+    "wof:name":"Lallange",
+    "wof:parent_id":85673865,
+    "wof:placetype":"neighbourhood",
+    "wof:population":132,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-lu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125848539
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.94194,
+    50.06,
+    5.94194,
+    50.06
+],
+  "geometry": {"coordinates":[5.94194,50.06],"type":"Point"}
+}

@@ -2,13 +2,13 @@
   "id": 1126011619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2021-06-30",
     "edtf:deprecated":"2018-08-15",
     "edtf:inception":"uuuu",
     "edtf:superseded":"2018-08-15",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"6.0373915,49.927273,6.0373915,49.927273",
+    "geom:bbox":"6.037392,49.927273,6.037392,49.927273",
     "geom:latitude":49.927273,
     "geom:longitude":6.037392,
     "gn:gn_country":null,
@@ -53,7 +53,7 @@
     },
     "wof:country":"LU",
     "wof:created":1497300308,
-    "wof:geomhash":"d807a5bf564eab2025226be57a118ae5",
+    "wof:geomhash":"fa7634cbb43d3a8092421cf09f32dd87",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,22 +63,23 @@
         }
     ],
     "wof:id":1126011619,
-    "wof:lastmodified":1534379377,
+    "wof:lastmodified":1625098656,
     "wof:name":"Masseler",
     "wof:parent_id":85673865,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-lu",
     "wof:superseded_by":[
-        1125849553
+        1125849553,
+        1745987371
     ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    6.0373915,
+    6.037392,
     49.927273,
-    6.0373915,
+    6.037392,
     49.927273
 ],
-  "geometry": {"coordinates":[6.0373915,49.927273],"type":"Point"}
+  "geometry": {"coordinates":[6.037392,49.927273],"type":"Point"}
 }

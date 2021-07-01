@@ -1,0 +1,111 @@
+{
+  "id": 1745987343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.09194,49.9,6.09194,49.9",
+    "geom:latitude":49.9,
+    "geom:longitude":6.09194,
+    "gn:country":"LU",
+    "gn:fcode":"PPL",
+    "gn:population":281,
+    "iso:country":"LU",
+    "lbl:bbox":"6.07194,49.88,6.11194,49.92",
+    "lbl:latitude":49.9,
+    "lbl:longitude":6.09194,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":11.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Michelau"
+    ],
+    "name:ceb_x_preferred":[
+        "Michelau"
+    ],
+    "name:deu_x_preferred":[
+        "Michelau"
+    ],
+    "name:eng_x_preferred":[
+        "Michelau"
+    ],
+    "name:fra_x_preferred":[
+        "Michelau"
+    ],
+    "name:ltz_x_preferred":[
+        "M\u00e9chela"
+    ],
+    "name:nld_x_preferred":[
+        "Michelau"
+    ],
+    "name:swe_x_preferred":[
+        "Michelau"
+    ],
+    "qs_pg:aaroncc":"LU",
+    "qs_pg:gn_country":"LU",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2960267,
+    "qs_pg:gn_pop":281,
+    "qs_pg:name":"Michelau",
+    "qs_pg:name_adm0":"Luxembourg",
+    "qs_pg:name_adm1":"Diekirch",
+    "qs_pg:photos":62,
+    "qs_pg:photos_1k":13,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":62,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":472121,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424881,
+    "qs_pg:woe_id":979759,
+    "src:geom":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424881,
+    "woe:name_adm0":"Luxembourg",
+    "woe:name_adm1":"Diekirch",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85673865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2960267,
+        "gp:id":979759,
+        "qs_pg:id":472121,
+        "wd:id":"Q2708173"
+    },
+    "wof:country":"LU",
+    "wof:created":1625097529,
+    "wof:geomhash":"580b86f1a2394fcb8abbbbb4fb8ccf90",
+    "wof:hierarchy":[],
+    "wof:id":1745987343,
+    "wof:lastmodified":1625097529,
+    "wof:name":"Michelau",
+    "wof:parent_id":85673865,
+    "wof:placetype":"neighbourhood",
+    "wof:population":281,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-lu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125794129
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.09194,
+    49.9,
+    6.09194,
+    49.9
+],
+  "geometry": {"coordinates":[6.09194,49.9],"type":"Point"}
+}

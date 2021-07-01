@@ -1,0 +1,64 @@
+{
+  "id": 1745986655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.85222,50.01028,5.85222,50.01028",
+    "geom:latitude":50.01028,
+    "geom:longitude":5.85222,
+    "gn:admin1_code":"CL",
+    "gn:admin2_code":"1.0",
+    "gn:asciiname":"Schimpach",
+    "gn:country_code":"LU",
+    "gn:dem":404,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2960100,
+    "gn:latitude":50.01028,
+    "gn:longitude":5.85222,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Schimpach",
+    "gn:population":0,
+    "gn:timezone":"Europe/Luxembourg",
+    "iso:country":"LU",
+    "lbl:bbox":"5.83222,49.99028,5.87222,50.03028",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85673865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2960100
+    },
+    "wof:country":"LU",
+    "wof:created":1625097240,
+    "wof:geomhash":"f3b6e09363fa69b69b0c815eb1aa2899",
+    "wof:hierarchy":[],
+    "wof:id":1745986655,
+    "wof:lastmodified":1625097240,
+    "wof:name":"Schimpach",
+    "wof:parent_id":85673865,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-lu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1309936395
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.85222,
+    50.01028,
+    5.85222,
+    50.01028
+],
+  "geometry": {"coordinates":[5.85222,50.01028],"type":"Point"}
+}

@@ -1,0 +1,111 @@
+{
+  "id": 1745986665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.09222,49.71889,6.09222,49.71889",
+    "geom:latitude":49.71889,
+    "geom:longitude":6.09222,
+    "gn:country":"LU",
+    "gn:fcode":"PPL",
+    "gn:population":216,
+    "iso:country":"LU",
+    "lbl:bbox":"6.07222,49.69889,6.11222,49.73889",
+    "lbl:latitude":49.71889,
+    "lbl:longitude":6.09222,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":11.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Schoenfels"
+    ],
+    "name:ceb_x_preferred":[
+        "Schoenfels"
+    ],
+    "name:eng_x_preferred":[
+        "Schoenfels"
+    ],
+    "name:fra_x_preferred":[
+        "Schoenfels"
+    ],
+    "name:ltz_x_preferred":[
+        "Sch\u00ebndels"
+    ],
+    "name:nld_x_preferred":[
+        "Schoenfels"
+    ],
+    "name:pol_x_preferred":[
+        "Schoenfels"
+    ],
+    "name:swe_x_preferred":[
+        "Schoenfels"
+    ],
+    "qs_pg:aaroncc":"LU",
+    "qs_pg:gn_country":"LU",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2960089,
+    "qs_pg:gn_pop":216,
+    "qs_pg:name":"Schoenfels",
+    "qs_pg:name_adm0":"Luxembourg",
+    "qs_pg:name_adm1":"Luxembourg",
+    "qs_pg:photos":9,
+    "qs_pg:photos_1k":2,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":9,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":39801,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424881,
+    "qs_pg:woe_id":979912,
+    "src:geom":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424881,
+    "woe:name_adm0":"Luxembourg",
+    "woe:name_adm1":"Luxembourg",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85673875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2960089,
+        "gp:id":979912,
+        "qs_pg:id":39801,
+        "wd:id":"Q2193764"
+    },
+    "wof:country":"LU",
+    "wof:created":1625097251,
+    "wof:geomhash":"64106aaf7dba65243a0748a13e8ec872",
+    "wof:hierarchy":[],
+    "wof:id":1745986665,
+    "wof:lastmodified":1625097251,
+    "wof:name":"Schoenfels",
+    "wof:parent_id":85673875,
+    "wof:placetype":"neighbourhood",
+    "wof:population":216,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-lu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125943017
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.09222,
+    49.71889,
+    6.09222,
+    49.71889
+],
+  "geometry": {"coordinates":[6.09222,49.71889],"type":"Point"}
+}

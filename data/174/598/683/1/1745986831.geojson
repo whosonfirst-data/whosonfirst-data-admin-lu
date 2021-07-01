@@ -1,0 +1,112 @@
+{
+  "id": 1745986831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.82028,49.89833,5.82028,49.89833",
+    "geom:latitude":49.89833,
+    "geom:longitude":5.82028,
+    "gn:country":"LU",
+    "gn:fcode":"PPL",
+    "gn:population":185,
+    "iso:country":"LU",
+    "lbl:bbox":"5.80028,49.87833,5.84028,49.91833",
+    "lbl:latitude":49.89833,
+    "lbl:longitude":5.82028,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":11.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Baschleiden"
+    ],
+    "name:ceb_x_preferred":[
+        "Baschleiden"
+    ],
+    "name:eng_x_preferred":[
+        "Baschleiden"
+    ],
+    "name:fra_x_preferred":[
+        "Baschleiden"
+    ],
+    "name:ltz_x_preferred":[
+        "Baschelt"
+    ],
+    "name:msa_x_preferred":[
+        "Baschleiden"
+    ],
+    "name:nld_x_preferred":[
+        "Baschleiden"
+    ],
+    "name:pol_x_preferred":[
+        "Baschleiden"
+    ],
+    "name:swe_x_preferred":[
+        "Baschleiden"
+    ],
+    "qs_pg:aaroncc":"LU",
+    "qs_pg:gn_country":"LU",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2960814,
+    "qs_pg:gn_pop":185,
+    "qs_pg:name":"Baschleiden",
+    "qs_pg:name_adm0":"Luxembourg",
+    "qs_pg:name_adm1":"Diekirch",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":955381,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424881,
+    "qs_pg:woe_id":20105013,
+    "src:geom":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424881,
+    "woe:name_adm0":"Luxembourg",
+    "woe:name_adm1":"Diekirch",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85673865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2960814,
+        "gp:id":20105013,
+        "qs_pg:id":955381,
+        "wd:id":"Q2104320"
+    },
+    "wof:country":"LU",
+    "wof:created":1625097329,
+    "wof:geomhash":"1c844ee2d21c11277a84ba780f02f1d2",
+    "wof:hierarchy":[],
+    "wof:id":1745986831,
+    "wof:lastmodified":1625097329,
+    "wof:name":"Baschleiden",
+    "wof:parent_id":85673865,
+    "wof:placetype":"neighbourhood",
+    "wof:population":185,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-lu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1126026053
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.82028,
+    49.89833,
+    5.82028,
+    49.89833
+],
+  "geometry": {"coordinates":[5.82028,49.89833],"type":"Point"}
+}

@@ -1,0 +1,87 @@
+{
+  "id": 1745986391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.85444,49.83056,5.85444,49.83056",
+    "geom:latitude":49.83056,
+    "geom:longitude":5.85444,
+    "gn:admin1_code":"RD",
+    "gn:admin2_code":"6.0",
+    "gn:asciiname":"Schwidelbrouch",
+    "gn:cc2":"LU",
+    "gn:country_code":"LU",
+    "gn:dem":480,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2960076,
+    "gn:latitude":49.83056,
+    "gn:longitude":5.85444,
+    "gn:modification_date":"2017-01-28",
+    "gn:name":"Schwidelbrouch",
+    "gn:population":0,
+    "gn:timezone":"Europe/Luxembourg",
+    "iso:country":"LU",
+    "lbl:bbox":"5.83444,49.81056,5.87444,49.85056",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "name:cat_x_preferred":[
+        "Schwiedelbrouch"
+    ],
+    "name:deu_x_preferred":[
+        "Schwiedelbruch"
+    ],
+    "name:fra_x_preferred":[
+        "Schwiedelbrouch"
+    ],
+    "name:ltz_x_preferred":[
+        "Schwiddelbruch"
+    ],
+    "name:msa_x_preferred":[
+        "Schwiedelbrouch"
+    ],
+    "name:pol_x_preferred":[
+        "Schwiedelbrouch"
+    ],
+    "name:und_x_variant":[
+        "Schwidelbrouch"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85673865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2960076,
+        "wk:page":"Schwiedelbrouch"
+    },
+    "wof:country":"LU",
+    "wof:created":1625097084,
+    "wof:geomhash":"e11c122110ff8ce360d1341d79490d56",
+    "wof:hierarchy":[],
+    "wof:id":1745986391,
+    "wof:lastmodified":1625097084,
+    "wof:name":"Schwidelbrouch",
+    "wof:parent_id":85673865,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-lu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1343994613
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.85444,
+    49.83056,
+    5.85444,
+    49.83056
+],
+  "geometry": {"coordinates":[5.85444,49.83056],"type":"Point"}
+}

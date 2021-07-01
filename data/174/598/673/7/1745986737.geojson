@@ -1,0 +1,107 @@
+{
+  "id": 1745986737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.15917,49.79778,6.15917,49.79778",
+    "geom:latitude":49.79778,
+    "geom:longitude":6.15917,
+    "gn:country":"LU",
+    "gn:fcode":"PPL",
+    "gn:population":285,
+    "iso:country":"LU",
+    "lbl:bbox":"6.13917,49.77778,6.17917,49.81778",
+    "lbl:latitude":49.79778,
+    "lbl:longitude":6.15917,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":11.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Schrondweiler"
+    ],
+    "name:ceb_x_preferred":[
+        "Schrondweiler"
+    ],
+    "name:eng_x_preferred":[
+        "Schrondweiler"
+    ],
+    "name:fra_x_preferred":[
+        "Schrondweiler"
+    ],
+    "name:ltz_x_preferred":[
+        "Schrondweiler"
+    ],
+    "name:nld_x_preferred":[
+        "Schrondweiler"
+    ],
+    "name:pol_x_preferred":[
+        "Schrondweiler"
+    ],
+    "name:swe_x_preferred":[
+        "Schrondweiler"
+    ],
+    "qs_pg:aaroncc":"LU",
+    "qs_pg:gn_country":"LU",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2960083,
+    "qs_pg:gn_pop":285,
+    "qs_pg:name":"Schrondweiler",
+    "qs_pg:name_adm0":"Luxembourg",
+    "qs_pg:name_adm1":"Luxembourg",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1288045,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424881,
+    "qs_pg:woe_id":979917,
+    "src:geom":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424881,
+    "woe:name_adm0":"Luxembourg",
+    "woe:name_adm1":"Luxembourg",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85673875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2960083,
+        "gp:id":979917,
+        "qs_pg:id":1288045,
+        "wd:id":"Q646658"
+    },
+    "wof:country":"LU",
+    "wof:created":1625097294,
+    "wof:geomhash":"84c4ddb678ffc835a8665cb1b6df5184",
+    "wof:hierarchy":[],
+    "wof:id":1745986737,
+    "wof:lastmodified":1625097294,
+    "wof:name":"Schrondweiler",
+    "wof:parent_id":85673875,
+    "wof:placetype":"neighbourhood",
+    "wof:population":285,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-lu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125952277
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.15917,
+    49.79778,
+    6.15917,
+    49.79778
+],
+  "geometry": {"coordinates":[6.15917,49.79778],"type":"Point"}
+}

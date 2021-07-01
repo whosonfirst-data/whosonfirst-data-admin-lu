@@ -1,0 +1,113 @@
+{
+  "id": 1745986727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.98167,49.66028,5.98167,49.66028",
+    "geom:latitude":49.66028,
+    "geom:longitude":5.98167,
+    "gn:country":"LU",
+    "gn:fcode":"PPL",
+    "gn:population":341,
+    "iso:country":"LU",
+    "lbl:bbox":"5.96167,49.64028,6.00167,49.68028",
+    "lbl:latitude":49.66028,
+    "lbl:longitude":5.98167,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":11.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Goetzingen"
+    ],
+    "name:ceb_x_preferred":[
+        "Goetzingen"
+    ],
+    "name:eng_x_preferred":[
+        "Goetzingen"
+    ],
+    "name:fra_x_preferred":[
+        "Goetzingen"
+    ],
+    "name:ltz_x_preferred":[
+        "G\u00ebtzen"
+    ],
+    "name:msa_x_preferred":[
+        "Goetzingen"
+    ],
+    "name:nld_x_preferred":[
+        "Goetzingen"
+    ],
+    "name:pol_x_preferred":[
+        "Goetzingen"
+    ],
+    "name:swe_x_preferred":[
+        "Goetzingen"
+    ],
+    "name:und_x_variant":[
+        "G\u00f6tzange"
+    ],
+    "qs_pg:aaroncc":"LU",
+    "qs_pg:gn_country":"LU",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2960533,
+    "qs_pg:gn_pop":341,
+    "qs_pg:name":"Goetzange",
+    "qs_pg:name_adm0":"Luxembourg",
+    "qs_pg:name_adm1":"Luxembourg",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1287888,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424881,
+    "qs_pg:woe_id":979547,
+    "src:geom":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424881,
+    "woe:name_adm0":"Luxembourg",
+    "woe:name_adm1":"Luxembourg",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85673875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2960533,
+        "gp:id":979547,
+        "qs_pg:id":1287888,
+        "wd:id":"Q2620951"
+    },
+    "wof:country":"LU",
+    "wof:created":1625097290,
+    "wof:geomhash":"1152edcf624f55be7473730c553a834e",
+    "wof:hierarchy":[],
+    "wof:id":1745986727,
+    "wof:lastmodified":1625097290,
+    "wof:name":"Goetzange",
+    "wof:parent_id":85673875,
+    "wof:placetype":"neighbourhood",
+    "wof:population":341,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-lu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125951033
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.98167,
+    49.66028,
+    5.98167,
+    49.66028
+],
+  "geometry": {"coordinates":[5.98167,49.66028],"type":"Point"}
+}

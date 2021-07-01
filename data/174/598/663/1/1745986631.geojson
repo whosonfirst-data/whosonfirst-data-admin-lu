@@ -1,0 +1,64 @@
+{
+  "id": 1745986631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.02823,50.09619,6.02823,50.09619",
+    "geom:latitude":50.09619,
+    "geom:longitude":6.02823,
+    "gn:admin1_code":"CL",
+    "gn:admin2_code":"3.0",
+    "gn:asciiname":"Maulusmuehle",
+    "gn:country_code":"LU",
+    "gn:dem":408,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8714252,
+    "gn:latitude":50.09619,
+    "gn:longitude":6.02823,
+    "gn:modification_date":"2017-10-02",
+    "gn:name":"Maulusm\u00fchle",
+    "gn:population":0,
+    "gn:timezone":"Europe/Luxembourg",
+    "iso:country":"LU",
+    "lbl:bbox":"6.00823,50.07619,6.04823,50.11619",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85673865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8714252
+    },
+    "wof:country":"LU",
+    "wof:created":1625097218,
+    "wof:geomhash":"d7f32dbf3f1a9ceed459c00281c6d859",
+    "wof:hierarchy":[],
+    "wof:id":1745986631,
+    "wof:lastmodified":1625097218,
+    "wof:name":"Maulusmuehle",
+    "wof:parent_id":85673865,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-lu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1360019311
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.02823,
+    50.09619,
+    6.02823,
+    50.09619
+],
+  "geometry": {"coordinates":[6.02823,50.09619],"type":"Point"}
+}

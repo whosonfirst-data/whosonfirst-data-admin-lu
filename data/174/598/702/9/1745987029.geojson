@@ -1,0 +1,111 @@
+{
+  "id": 1745987029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.93917,49.80167,5.93917,49.80167",
+    "geom:latitude":49.80167,
+    "geom:longitude":5.93917,
+    "gn:country":"LU",
+    "gn:fcode":"PPL",
+    "gn:population":367,
+    "iso:country":"LU",
+    "lbl:bbox":"5.91917,49.78167,5.95917,49.82167",
+    "lbl:latitude":49.80167,
+    "lbl:longitude":5.93917,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":11.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Pratz"
+    ],
+    "name:ceb_x_preferred":[
+        "Pratz"
+    ],
+    "name:eng_x_preferred":[
+        "Pratz"
+    ],
+    "name:fra_x_preferred":[
+        "Pratz"
+    ],
+    "name:ltz_x_preferred":[
+        "Proz"
+    ],
+    "name:nld_x_preferred":[
+        "Pratz"
+    ],
+    "name:pol_x_preferred":[
+        "Pratz"
+    ],
+    "name:swe_x_preferred":[
+        "Pratz"
+    ],
+    "qs_pg:aaroncc":"LU",
+    "qs_pg:gn_country":"LU",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2960171,
+    "qs_pg:gn_pop":367,
+    "qs_pg:name":"Pratz",
+    "qs_pg:name_adm0":"Luxembourg",
+    "qs_pg:name_adm1":"Diekirch",
+    "qs_pg:photos":22,
+    "qs_pg:photos_1k":4,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":22,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":39799,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424881,
+    "qs_pg:woe_id":979845,
+    "src:geom":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424881,
+    "woe:name_adm0":"Luxembourg",
+    "woe:name_adm1":"Diekirch",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85673865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2960171,
+        "gp:id":979845,
+        "qs_pg:id":39799,
+        "wd:id":"Q3246634"
+    },
+    "wof:country":"LU",
+    "wof:created":1625097406,
+    "wof:geomhash":"a05b275b5840ba46d0a2fa99bd093862",
+    "wof:hierarchy":[],
+    "wof:id":1745987029,
+    "wof:lastmodified":1625097406,
+    "wof:name":"Pratz",
+    "wof:parent_id":85673865,
+    "wof:placetype":"neighbourhood",
+    "wof:population":367,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-lu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125872333
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.93917,
+    49.80167,
+    5.93917,
+    49.80167
+],
+  "geometry": {"coordinates":[5.93917,49.80167],"type":"Point"}
+}

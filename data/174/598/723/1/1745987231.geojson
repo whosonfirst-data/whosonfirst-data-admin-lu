@@ -1,0 +1,115 @@
+{
+  "id": 1745987231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.12667,49.98528,6.12667,49.98528",
+    "geom:latitude":49.98528,
+    "geom:longitude":6.12667,
+    "gn:country":"LU",
+    "gn:fcode":"PPL",
+    "gn:population":246,
+    "iso:country":"LU",
+    "lbl:bbox":"6.10667,49.96528,6.14667,50.00528",
+    "lbl:latitude":49.98528,
+    "lbl:longitude":6.12667,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":11.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Wahlhausen"
+    ],
+    "name:ceb_x_preferred":[
+        "Wahlhausen"
+    ],
+    "name:eng_x_preferred":[
+        "Wahlhausen"
+    ],
+    "name:fra_x_preferred":[
+        "Wahlhausen"
+    ],
+    "name:ltz_x_preferred":[
+        "Wuelessen"
+    ],
+    "name:msa_x_preferred":[
+        "Wahlhausen"
+    ],
+    "name:nld_x_preferred":[
+        "Wahlhausen"
+    ],
+    "name:pol_x_preferred":[
+        "Wahlhausen"
+    ],
+    "name:swe_x_preferred":[
+        "Wahlhausen"
+    ],
+    "name:und_x_variant":[
+        "Wahlhousen"
+    ],
+    "qs_pg:aaroncc":"LU",
+    "qs_pg:gn_country":"LU",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2960016,
+    "qs_pg:gn_pop":246,
+    "qs_pg:name":"Wahlhausen",
+    "qs_pg:name_adm0":"Luxembourg",
+    "qs_pg:name_adm1":"Diekirch",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":3,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1005291,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424881,
+    "qs_pg:woe_id":979970,
+    "src:geom":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424881,
+    "woe:name_adm0":"Luxembourg",
+    "woe:name_adm1":"Diekirch",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85673865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2960016,
+        "gp:id":979970,
+        "qs_pg:id":1005291,
+        "wd:id":"Q3246443"
+    },
+    "wof:country":"LU",
+    "wof:created":1625097483,
+    "wof:geomhash":"8871a664ae03128b4d60a1981a9592b9",
+    "wof:hierarchy":[],
+    "wof:id":1745987231,
+    "wof:lastmodified":1625097483,
+    "wof:name":"Wahlhausen",
+    "wof:parent_id":85673865,
+    "wof:placetype":"neighbourhood",
+    "wof:population":246,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-lu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1126003511
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.12667,
+    49.98528,
+    6.12667,
+    49.98528
+],
+  "geometry": {"coordinates":[6.12667,49.98528],"type":"Point"}
+}

@@ -2,7 +2,7 @@
   "id": 1259614103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2021-06-30",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Bonnal"
@@ -65,12 +65,14 @@
         }
     ],
     "wof:id":1259614103,
-    "wof:lastmodified":1566598701,
+    "wof:lastmodified":1625098667,
     "wof:name":"Bonnal",
     "wof:parent_id":85673865,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-lu",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1745987495
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

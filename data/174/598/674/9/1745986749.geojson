@@ -1,0 +1,112 @@
+{
+  "id": 1745986749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.38278,49.83333,6.38278,49.83333",
+    "geom:latitude":49.83333,
+    "geom:longitude":6.38278,
+    "gn:country":"LU",
+    "gn:fcode":"PPL",
+    "gn:population":274,
+    "iso:country":"LU",
+    "lbl:bbox":"6.36278,49.81333,6.40278,49.85333",
+    "lbl:latitude":49.83333,
+    "lbl:longitude":6.38278,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":11.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Weilerbach"
+    ],
+    "name:ceb_x_preferred":[
+        "Weilerbach"
+    ],
+    "name:deu_x_preferred":[
+        "Weilerbach"
+    ],
+    "name:eng_x_preferred":[
+        "Weilerbach"
+    ],
+    "name:fra_x_preferred":[
+        "Weilerbach"
+    ],
+    "name:ltz_x_preferred":[
+        "Weilerbaach"
+    ],
+    "name:nld_x_preferred":[
+        "Weilerbach"
+    ],
+    "name:pol_x_preferred":[
+        "Weilerbach"
+    ],
+    "name:swe_x_preferred":[
+        "Weilerbach"
+    ],
+    "qs_pg:aaroncc":"LU",
+    "qs_pg:gn_country":"LU",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2959997,
+    "qs_pg:gn_pop":274,
+    "qs_pg:name":"Weilerbach",
+    "qs_pg:name_adm0":"Deutschland",
+    "qs_pg:name_adm1":"Rheinland-Pfalz",
+    "qs_pg:photos":6,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":6,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":52227,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424829,
+    "qs_pg:woe_id":20163177,
+    "src:geom":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424829,
+    "woe:name_adm0":"Deutschland",
+    "woe:name_adm1":"Rheinland-Pfalz",
+    "woe:placetype":"Town",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2959997,
+        "gp:id":20163177,
+        "qs_pg:id":52227,
+        "wd:id":"Q3121108"
+    },
+    "wof:country":"LU",
+    "wof:created":1625097298,
+    "wof:geomhash":"3de913590b73202d30074f68bb9f0684",
+    "wof:hierarchy":[],
+    "wof:id":1745986749,
+    "wof:lastmodified":1625097298,
+    "wof:name":"Weilerbach",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:population":274,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-lu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125952897
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.38278,
+    49.83333,
+    6.38278,
+    49.83333
+],
+  "geometry": {"coordinates":[6.38278,49.83333],"type":"Point"}
+}

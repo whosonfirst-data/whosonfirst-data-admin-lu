@@ -1,0 +1,109 @@
+{
+  "id": 1745986899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.35694,49.51167,6.35694,49.51167",
+    "geom:latitude":49.51167,
+    "geom:longitude":6.35694,
+    "gn:country":"LU",
+    "gn:fcode":"PPL",
+    "gn:population":307,
+    "iso:country":"LU",
+    "lbl:bbox":"6.33694,49.49167,6.37694,49.53167",
+    "lbl:latitude":49.51167,
+    "lbl:longitude":6.35694,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":11.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Schwebsange"
+    ],
+    "name:ceb_x_preferred":[
+        "Schwebsange"
+    ],
+    "name:eng_x_preferred":[
+        "Schwebsange"
+    ],
+    "name:fra_x_preferred":[
+        "Schwebsange"
+    ],
+    "name:ltz_x_preferred":[
+        "Schw\u00e9idsbeng"
+    ],
+    "name:nld_x_preferred":[
+        "Schwebsange"
+    ],
+    "name:pol_x_preferred":[
+        "Schwebsange"
+    ],
+    "name:swe_x_preferred":[
+        "Schwebsange"
+    ],
+    "qs_pg:aaroncc":"LU",
+    "qs_pg:gn_country":"LU",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2960079,
+    "qs_pg:gn_pop":307,
+    "qs_pg:name":"Schwebsingen",
+    "qs_pg:name_adm0":"Luxembourg",
+    "qs_pg:name_adm1":"Grevenmacher",
+    "qs_pg:photos":24,
+    "qs_pg:photos_1k":5,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":24,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":326599,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424881,
+    "qs_pg:woe_id":979921,
+    "src:geom":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424881,
+    "woe:name_adm0":"Luxembourg",
+    "woe:name_adm1":"Grevenmacher",
+    "woe:placetype":"Town",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2960079,
+        "gp:id":979921,
+        "qs_pg:id":326599,
+        "wd:id":"Q1895827"
+    },
+    "wof:country":"LU",
+    "wof:created":1625097354,
+    "wof:geomhash":"826715d189eefdd9264eb5bbe4a6354b",
+    "wof:hierarchy":[],
+    "wof:id":1745986899,
+    "wof:lastmodified":1625097354,
+    "wof:name":"Schwebsingen",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:population":307,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-lu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1126047517
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.35694,
+    49.51167,
+    6.35694,
+    49.51167
+],
+  "geometry": {"coordinates":[6.35694,49.51167],"type":"Point"}
+}

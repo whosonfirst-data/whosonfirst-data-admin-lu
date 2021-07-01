@@ -1,0 +1,87 @@
+{
+  "id": 1745986375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.97556,50.08,5.97556,50.08",
+    "geom:latitude":50.08,
+    "geom:longitude":5.97556,
+    "gn:admin1_code":"CL",
+    "gn:admin2_code":"1.0",
+    "gn:asciiname":"Rumlange",
+    "gn:cc2":"LU",
+    "gn:country_code":"LU",
+    "gn:dem":464,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2960122,
+    "gn:latitude":50.08,
+    "gn:longitude":5.97556,
+    "gn:modification_date":"2017-10-02",
+    "gn:name":"Rumlange",
+    "gn:population":0,
+    "gn:timezone":"Europe/Luxembourg",
+    "iso:country":"LU",
+    "lbl:bbox":"5.95556,50.06,5.99556,50.1",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "name:cat_x_preferred":[
+        "Rumlange"
+    ],
+    "name:deu_x_preferred":[
+        "R\u00fcmlingen"
+    ],
+    "name:fra_x_preferred":[
+        "Rumlange"
+    ],
+    "name:ltz_x_preferred":[
+        "R\u00ebmeljen"
+    ],
+    "name:msa_x_preferred":[
+        "Rumlange"
+    ],
+    "name:pol_x_preferred":[
+        "Rumlange"
+    ],
+    "name:und_x_variant":[
+        "Rimlingen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85673865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2960122,
+        "wk:page":"Rumlange"
+    },
+    "wof:country":"LU",
+    "wof:created":1625097078,
+    "wof:geomhash":"1ff55094f685eca9d0c61f329cf5274b",
+    "wof:hierarchy":[],
+    "wof:id":1745986375,
+    "wof:lastmodified":1625097078,
+    "wof:name":"Rumlange",
+    "wof:parent_id":85673865,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-lu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1327165211
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.97556,
+    50.08,
+    5.97556,
+    50.08
+],
+  "geometry": {"coordinates":[5.97556,50.08],"type":"Point"}
+}

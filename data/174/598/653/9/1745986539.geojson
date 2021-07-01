@@ -1,0 +1,64 @@
+{
+  "id": 1745986539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.98051,50.0667,5.98051,50.0667",
+    "geom:latitude":50.0667,
+    "geom:longitude":5.98051,
+    "gn:admin1_code":"CL",
+    "gn:admin2_code":"1.0",
+    "gn:asciiname":"Lentzweiler",
+    "gn:country_code":"LU",
+    "gn:dem":520,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":2960336,
+    "gn:latitude":50.0667,
+    "gn:longitude":5.98051,
+    "gn:modification_date":"2017-10-02",
+    "gn:name":"Lentzweiler",
+    "gn:population":0,
+    "gn:timezone":"Europe/Luxembourg",
+    "iso:country":"LU",
+    "lbl:bbox":"5.96051,50.0467,6.00051,50.0867",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2960336
+    },
+    "wof:country":"LU",
+    "wof:created":1625097144,
+    "wof:geomhash":"08171f3f399b3808645081e2ad94a80b",
+    "wof:hierarchy":[],
+    "wof:id":1745986539,
+    "wof:lastmodified":1625097144,
+    "wof:name":"Lentzweiler",
+    "wof:parent_id":85633275,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-lu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1209649283
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.98051,
+    50.0667,
+    5.98051,
+    50.0667
+],
+  "geometry": {"coordinates":[5.98051,50.0667],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1745986443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.01667,49.83333,6.01667,49.83333",
+    "geom:latitude":49.83333,
+    "geom:longitude":6.01667,
+    "gn:admin1_code":"DI",
+    "gn:admin2_code":"11.0",
+    "gn:asciiname":"Ober-Merzig",
+    "gn:country_code":"LU",
+    "gn:dem":347,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2960206,
+    "gn:latitude":49.83333,
+    "gn:longitude":6.01667,
+    "gn:modification_date":"2017-01-28",
+    "gn:name":"Ober-Merzig",
+    "gn:population":0,
+    "gn:timezone":"Europe/Luxembourg",
+    "iso:country":"LU",
+    "lbl:bbox":"5.99667,49.81333,6.03667,49.85333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Haut-Merzig",
+        "Ober-Merzig"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85673865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2960206
+    },
+    "wof:country":"LU",
+    "wof:created":1625097103,
+    "wof:geomhash":"00e61d6a9c82cc61696494280eb3a57a",
+    "wof:hierarchy":[],
+    "wof:id":1745986443,
+    "wof:lastmodified":1625097103,
+    "wof:name":"Ober-Merzig",
+    "wof:parent_id":85673865,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-lu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1293523757
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.01667,
+    49.83333,
+    6.01667,
+    49.83333
+],
+  "geometry": {"coordinates":[6.01667,49.83333],"type":"Point"}
+}

@@ -1,0 +1,102 @@
+{
+  "id": 1745987221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.98389,49.57583,5.98389,49.57583",
+    "geom:latitude":49.57583,
+    "geom:longitude":5.98389,
+    "gn:country":"LU",
+    "gn:fcode":"PPL",
+    "gn:population":992,
+    "iso:country":"LU",
+    "lbl:bbox":"5.96389,49.55583,6.00389,49.59583",
+    "lbl:latitude":49.57583,
+    "lbl:longitude":5.98389,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":11.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Bettange-sur-Mess"
+    ],
+    "name:ceb_x_preferred":[
+        "Bettange-sur-Mess"
+    ],
+    "name:fra_x_preferred":[
+        "Bettange-sur-Mess"
+    ],
+    "name:pol_x_preferred":[
+        "Bettange-sur-Mess"
+    ],
+    "name:swe_x_preferred":[
+        "Bettange-sur-Mess"
+    ],
+    "name:und_x_variant":[
+        "Bettange"
+    ],
+    "qs_pg:aaroncc":"LU",
+    "qs_pg:gn_country":"LU",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2960781,
+    "qs_pg:gn_pop":992,
+    "qs_pg:name":"Bettange-sur-Mess",
+    "qs_pg:name_adm0":"Luxembourg",
+    "qs_pg:name_adm1":"Luxembourg",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":918762,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424881,
+    "qs_pg:woe_id":20105056,
+    "src:geom":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424881,
+    "woe:name_adm0":"Luxembourg",
+    "woe:name_adm1":"Luxembourg",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85673875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2960781,
+        "gp:id":20105056,
+        "qs_pg:id":918762
+    },
+    "wof:country":"LU",
+    "wof:created":1625097480,
+    "wof:geomhash":"a235e19736571530fd4dd1566b703441",
+    "wof:hierarchy":[],
+    "wof:id":1745987221,
+    "wof:lastmodified":1625097480,
+    "wof:name":"Bettange-sur-Mess",
+    "wof:parent_id":85673875,
+    "wof:placetype":"neighbourhood",
+    "wof:population":992,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-lu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1126005101
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.98389,
+    49.57583,
+    5.98389,
+    49.57583
+],
+  "geometry": {"coordinates":[5.98389,49.57583],"type":"Point"}
+}
