@@ -132,7 +132,7 @@
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-lu",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[1444828089],
     "wof:tags":[]
 },
   "bbox": [

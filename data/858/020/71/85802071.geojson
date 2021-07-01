@@ -1,3 +1,4 @@
+
 {
   "id": 85802071,
   "type": "Feature",
@@ -127,7 +128,7 @@
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-lu",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[1125967531],
     "wof:tags":[]
 },
   "bbox": [
