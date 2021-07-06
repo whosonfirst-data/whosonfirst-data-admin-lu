@@ -2,7 +2,7 @@
   "id": 1292934305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2021-06-30",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Roost"
@@ -62,12 +62,14 @@
         }
     ],
     "wof:id":1292934305,
-    "wof:lastmodified":1566598609,
+    "wof:lastmodified":1625098660,
     "wof:name":"Roost",
     "wof:parent_id":85673875,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-lu",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1745986447
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

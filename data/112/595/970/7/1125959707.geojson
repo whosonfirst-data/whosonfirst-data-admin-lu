@@ -2,11 +2,11 @@
   "id": 1125959707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2021-06-30",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"6.055857,49.9520545,6.055857,49.9520545",
+    "geom:bbox":"6.055857,49.952055,6.055857,49.952055",
     "geom:latitude":49.952055,
     "geom:longitude":6.055857,
     "gn:country":null,
@@ -17,7 +17,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "qs_pg:aaroncc":"LU",
@@ -55,7 +55,7 @@
     },
     "wof:country":"LU",
     "wof:created":1497297751,
-    "wof:geomhash":"2b1932596bcf15cb9601dae14c40b2c2",
+    "wof:geomhash":"0e1e633746b3b265d77ecd7ac8e6e090",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,20 +65,22 @@
         }
     ],
     "wof:id":1125959707,
-    "wof:lastmodified":1566598641,
+    "wof:lastmodified":1625098672,
     "wof:name":"Friedboesch",
     "wof:parent_id":85673865,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-lu",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1745986765
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     6.055857,
-    49.9520545,
+    49.952055,
     6.055857,
-    49.9520545
+    49.952055
 ],
-  "geometry": {"coordinates":[6.055857,49.9520545],"type":"Point"}
+  "geometry": {"coordinates":[6.055857,49.952055],"type":"Point"}
 }
