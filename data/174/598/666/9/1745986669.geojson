@@ -84,7 +84,11 @@
     "woe:name_adm1":"Luxembourg",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85673875
+        1745977435,
+        102191581,
+        1125324091,
+        85633275,
+        1125947927
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -96,7 +100,16 @@
     "wof:country":"LU",
     "wof:created":1625097258,
     "wof:geomhash":"668bfcb4607b7353aec7f69f26287973",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1125324091,
+            "locality_id":1125947927,
+            "neighbourhood_id":1745986669,
+            "region_id":1745977435
+        }
+    ],
     "wof:id":1745986669,
     "wof:lang_x_official":[
         "fra",
@@ -108,9 +121,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625178002,
+    "wof:lastmodified":1626733076,
     "wof:name":"Berchiwe",
-    "wof:parent_id":85673875,
+    "wof:parent_id":1125947927,
     "wof:placetype":"neighbourhood",
     "wof:population":863,
     "wof:population_rank":2,

@@ -108,8 +108,9 @@
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
+        1125296455,
         85633275,
-        85673869
+        1745977447
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -129,8 +130,9 @@
         {
             "continent_id":102191581,
             "country_id":85633275,
+            "localadmin_id":1125296455,
             "locality_id":101812889,
-            "region_id":85673869
+            "region_id":1745977447
         }
     ],
     "wof:id":101812889,
@@ -147,9 +149,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625177980,
+    "wof:lastmodified":1626732130,
     "wof:name":"Junglinster",
-    "wof:parent_id":85673869,
+    "wof:parent_id":1125296455,
     "wof:placetype":"locality",
     "wof:population":2358,
     "wof:population_rank":4,

@@ -44,7 +44,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85673865
+        1745977451,
+        102191581,
+        1125411213,
+        85633275,
+        101811723
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,7 +57,16 @@
     "wof:country":"LU",
     "wof:created":1625097598,
     "wof:geomhash":"700a6f557b4e45d7efb522e755bb4d5f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1125411213,
+            "locality_id":101811723,
+            "neighbourhood_id":1745987525,
+            "region_id":1745977451
+        }
+    ],
     "wof:id":1745987525,
     "wof:lang_x_official":[
         "fra",
@@ -65,9 +78,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625178022,
+    "wof:lastmodified":1626733523,
     "wof:name":"Mecher",
-    "wof:parent_id":85673865,
+    "wof:parent_id":101811723,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-lu",
     "wof:superseded_by":[],

@@ -121,8 +121,9 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
+        1125294519,
         85633275,
-        85673869
+        1745977447
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -141,8 +142,9 @@
         {
             "continent_id":102191581,
             "country_id":85633275,
+            "localadmin_id":1125294519,
             "locality_id":1125781071,
-            "region_id":85673869
+            "region_id":1745977447
         }
     ],
     "wof:id":1125781071,
@@ -156,9 +158,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625177989,
+    "wof:lastmodified":1626732182,
     "wof:name":"Biwer",
-    "wof:parent_id":85673869,
+    "wof:parent_id":1125294519,
     "wof:placetype":"locality",
     "wof:population":653,
     "wof:population_rank":2,

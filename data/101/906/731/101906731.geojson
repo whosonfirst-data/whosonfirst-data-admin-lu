@@ -109,7 +109,9 @@
     "wd:wordcount":6394,
     "wof:belongsto":[
         102191581,
-        85633275
+        1745980855,
+        85633275,
+        1745977445
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -124,14 +126,15 @@
         {
             "continent_id":102191581,
             "country_id":85633275,
+            "localadmin_id":1745980855,
             "locality_id":101906731,
-            "region_id":-1
+            "region_id":1745977445
         }
     ],
     "wof:id":101906731,
-    "wof:lastmodified":1625090161,
+    "wof:lastmodified":1626732246,
     "wof:name":"Minden",
-    "wof:parent_id":-1,
+    "wof:parent_id":1745980855,
     "wof:placetype":"locality",
     "wof:population":135,
     "wof:population_rank":1,

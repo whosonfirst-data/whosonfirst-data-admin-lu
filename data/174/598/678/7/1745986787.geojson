@@ -69,7 +69,11 @@
     "woe:name_adm1":"Luxembourg",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85673875
+        1745977427,
+        102191581,
+        1125410759,
+        85633275,
+        101753075
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -81,7 +85,16 @@
     "wof:country":"LU",
     "wof:created":1625097313,
     "wof:geomhash":"940bfc120a171894b208f70f6f7f0779",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1125410759,
+            "locality_id":101753075,
+            "neighbourhood_id":1745986787,
+            "region_id":1745977427
+        }
+    ],
     "wof:id":1745986787,
     "wof:lang_x_official":[
         "fra",
@@ -93,9 +106,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625178005,
+    "wof:lastmodified":1626733137,
     "wof:name":"Rammeldange",
-    "wof:parent_id":85673875,
+    "wof:parent_id":101753075,
     "wof:placetype":"neighbourhood",
     "wof:population":682,
     "wof:population_rank":2,

@@ -39,7 +39,11 @@
     "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85673865
+        1745977431,
+        102191581,
+        1125325865,
+        85633275,
+        101845563
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,7 +53,16 @@
     "wof:country":"LU",
     "wof:created":1625097498,
     "wof:geomhash":"f5b187c5c49d864c37c37f43f2f53d6e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1125325865,
+            "locality_id":101845563,
+            "neighbourhood_id":1745987267,
+            "region_id":1745977431
+        }
+    ],
     "wof:id":1745987267,
     "wof:lang_x_official":[
         "fra",
@@ -61,9 +74,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625178016,
+    "wof:lastmodified":1626733388,
     "wof:name":"Elvange-l\u00e8s-Beckerich",
-    "wof:parent_id":85673865,
+    "wof:parent_id":101845563,
     "wof:placetype":"neighbourhood",
     "wof:population":96,
     "wof:population_rank":1,

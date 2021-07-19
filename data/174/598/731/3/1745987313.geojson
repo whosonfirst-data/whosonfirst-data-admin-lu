@@ -50,7 +50,11 @@
     "woe:name_adm1":"Luxembourg",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85673875
+        1745977439,
+        102191581,
+        1125288915,
+        85633275,
+        101812885
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,7 +65,16 @@
     "wof:country":"LU",
     "wof:created":1625097517,
     "wof:geomhash":"39ea27865ad727001580c104e13a7bd5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1125288915,
+            "locality_id":101812885,
+            "neighbourhood_id":1745987313,
+            "region_id":1745977439
+        }
+    ],
     "wof:id":1745987313,
     "wof:lang_x_official":[
         "fra",
@@ -73,9 +86,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625178017,
+    "wof:lastmodified":1626733413,
     "wof:name":"Prettingen",
-    "wof:parent_id":85673875,
+    "wof:parent_id":101812885,
     "wof:placetype":"neighbourhood",
     "wof:population":101,
     "wof:population_rank":1,

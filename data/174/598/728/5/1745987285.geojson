@@ -66,7 +66,11 @@
     "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85673865
+        1745977431,
+        102191581,
+        1125306051,
+        85633275,
+        1745984173
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -77,7 +81,16 @@
     "wof:country":"LU",
     "wof:created":1625097505,
     "wof:geomhash":"d096e3c363b6110057e6fc2409ee660d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1125306051,
+            "locality_id":1745984173,
+            "neighbourhood_id":1745987285,
+            "region_id":1745977431
+        }
+    ],
     "wof:id":1745987285,
     "wof:lang_x_official":[
         "fra",
@@ -89,9 +102,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625178016,
+    "wof:lastmodified":1626733398,
     "wof:name":"Colpach-Haut",
-    "wof:parent_id":85673865,
+    "wof:parent_id":1745984173,
     "wof:placetype":"neighbourhood",
     "wof:population":152,
     "wof:population_rank":1,

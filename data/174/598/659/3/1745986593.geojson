@@ -37,7 +37,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85673869
+        1745977447,
+        102191581,
+        1125366357,
+        85633275,
+        101839799
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,7 +50,16 @@
     "wof:country":"LU",
     "wof:created":1625097170,
     "wof:geomhash":"b5fa99a2a60d242c250da28fbc9e1f9d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1125366357,
+            "locality_id":101839799,
+            "neighbourhood_id":1745986593,
+            "region_id":1745977447
+        }
+    ],
     "wof:id":1745986593,
     "wof:lang_x_official":[
         "fra",
@@ -58,9 +71,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625178001,
+    "wof:lastmodified":1626733036,
     "wof:name":"Wollefsmillen",
-    "wof:parent_id":85673869,
+    "wof:parent_id":101839799,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-lu",
     "wof:superseded_by":[],

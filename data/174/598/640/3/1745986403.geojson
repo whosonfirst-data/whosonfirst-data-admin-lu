@@ -36,7 +36,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85673875
+        1745977439,
+        102191581,
+        1125284735,
+        85633275,
+        1125984279
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,7 +49,16 @@
     "wof:country":"LU",
     "wof:created":1625097088,
     "wof:geomhash":"0a51521b97add8a22d2ffe313b35898f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1125284735,
+            "locality_id":1125984279,
+            "neighbourhood_id":1745986403,
+            "region_id":1745977439
+        }
+    ],
     "wof:id":1745986403,
     "wof:lang_x_official":[
         "fra",
@@ -57,9 +70,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625177996,
+    "wof:lastmodified":1626732936,
     "wof:name":"Wues",
-    "wof:parent_id":85673875,
+    "wof:parent_id":1125984279,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-lu",
     "wof:superseded_by":[],

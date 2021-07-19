@@ -75,7 +75,14 @@
     "woe:name_adm0":"Luxembourg",
     "woe:name_adm1":"Grevenmacher",
     "woe:placetype":"Town",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85682491,
+        102191581,
+        1125311551,
+        85633111,
+        101813323,
+        102063545
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2960842,
@@ -86,7 +93,17 @@
     "wof:country":"LU",
     "wof:created":1625097368,
     "wof:geomhash":"51167feaadfb229b8b55d6e0c74ca208",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063545,
+            "localadmin_id":1125311551,
+            "locality_id":101813323,
+            "neighbourhood_id":1745986933,
+            "region_id":85682491
+        }
+    ],
     "wof:id":1745986933,
     "wof:lang_x_official":[
         "fra",
@@ -98,9 +115,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625178008,
+    "wof:lastmodified":1626733215,
     "wof:name":"Ahn",
-    "wof:parent_id":-1,
+    "wof:parent_id":101813323,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-lu",
     "wof:superseded_by":[],

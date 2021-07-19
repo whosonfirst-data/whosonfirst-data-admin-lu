@@ -73,7 +73,11 @@
     "woe:name_adm1":"Luxembourg",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85673875
+        1745977433,
+        102191581,
+        1125286175,
+        85633275,
+        101810571
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -85,7 +89,16 @@
     "wof:country":"LU",
     "wof:created":1625097351,
     "wof:geomhash":"3663bef63f0f4a181f57443055ff78d4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1125286175,
+            "locality_id":101810571,
+            "neighbourhood_id":1745986891,
+            "region_id":1745977433
+        }
+    ],
     "wof:id":1745986891,
     "wof:lang_x_official":[
         "fra",
@@ -97,9 +110,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625178007,
+    "wof:lastmodified":1626733192,
     "wof:name":"Bridel",
-    "wof:parent_id":85673875,
+    "wof:parent_id":101810571,
     "wof:placetype":"neighbourhood",
     "wof:population":2404,
     "wof:population_rank":4,

@@ -626,8 +626,9 @@
     "wd:wordcount":3181,
     "wof:belongsto":[
         102191581,
+        1125286201,
         85633275,
-        85673875
+        1745977427
     ],
     "wof:breaches":[],
     "wof:capital_of":[
@@ -655,8 +656,9 @@
         {
             "continent_id":102191581,
             "country_id":85633275,
+            "localadmin_id":1125286201,
             "locality_id":101751765,
-            "region_id":85673875
+            "region_id":1745977427
         }
     ],
     "wof:id":101751765,
@@ -673,10 +675,10 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625177978,
+    "wof:lastmodified":1626732094,
     "wof:megacity":0,
     "wof:name":"Luxembourg",
-    "wof:parent_id":85673875,
+    "wof:parent_id":1125286201,
     "wof:placetype":"locality",
     "wof:population":111287,
     "wof:population_rank":9,

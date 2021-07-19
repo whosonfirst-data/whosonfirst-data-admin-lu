@@ -74,7 +74,11 @@
     "woe:name_adm1":"Grevenmacher",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85673869
+        1745977445,
+        102191581,
+        1745980855,
+        85633275,
+        1745984189
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -86,7 +90,16 @@
     "wof:country":"LU",
     "wof:created":1625097345,
     "wof:geomhash":"a232290d7cfc9b593e35f188aaffaa59",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1745980855,
+            "locality_id":1745984189,
+            "neighbourhood_id":1745986875,
+            "region_id":1745977445
+        }
+    ],
     "wof:id":1745986875,
     "wof:lang_x_official":[
         "fra",
@@ -98,9 +111,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625178007,
+    "wof:lastmodified":1626733184,
     "wof:name":"Osweiler",
-    "wof:parent_id":85673869,
+    "wof:parent_id":1745984189,
     "wof:placetype":"neighbourhood",
     "wof:population":381,
     "wof:population_rank":2,

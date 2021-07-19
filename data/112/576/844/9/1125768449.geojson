@@ -38,8 +38,9 @@
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
+        1745980831,
         85633275,
-        85673875
+        1745977431
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,15 @@
         {
             "continent_id":102191581,
             "country_id":85633275,
+            "localadmin_id":1745980831,
             "locality_id":1125768449,
-            "region_id":85673875
+            "region_id":1745977431
         }
     ],
     "wof:id":1125768449,
-    "wof:lastmodified":1625098680,
+    "wof:lastmodified":1626732258,
     "wof:name":"Ehner",
-    "wof:parent_id":85673875,
+    "wof:parent_id":1745980831,
     "wof:placetype":"locality",
     "wof:population":13,
     "wof:population_rank":1,

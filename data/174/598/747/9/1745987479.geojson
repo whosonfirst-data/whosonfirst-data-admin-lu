@@ -46,7 +46,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85673865
+        1745977431,
+        102191581,
+        1125284431,
+        85633275,
+        1125774453
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,7 +60,16 @@
     "wof:country":"LU",
     "wof:created":1625097581,
     "wof:geomhash":"0fd32fcd83c607e6f0582cd0b47768aa",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1125284431,
+            "locality_id":1125774453,
+            "neighbourhood_id":1745987479,
+            "region_id":1745977431
+        }
+    ],
     "wof:id":1745987479,
     "wof:lang_x_official":[
         "fra",
@@ -68,9 +81,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625178021,
+    "wof:lastmodified":1626733500,
     "wof:name":"Dellen",
-    "wof:parent_id":85673865,
+    "wof:parent_id":1125774453,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-lu",
     "wof:superseded_by":[],

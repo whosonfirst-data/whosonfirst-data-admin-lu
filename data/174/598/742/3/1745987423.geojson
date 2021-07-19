@@ -48,7 +48,11 @@
     "woe:name_adm1":"Lorraine",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85673869
+        1745977443,
+        102191581,
+        1125288845,
+        85633275,
+        101853467
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,7 +63,16 @@
     "wof:country":"LU",
     "wof:created":1625097560,
     "wof:geomhash":"6f8b38ad4e53bfb89b943b7ffc070ad6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1125288845,
+            "locality_id":101853467,
+            "neighbourhood_id":1745987423,
+            "region_id":1745977443
+        }
+    ],
     "wof:id":1745987423,
     "wof:lang_x_official":[
         "fra",
@@ -71,9 +84,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625178019,
+    "wof:lastmodified":1626733471,
     "wof:name":"Reinange",
-    "wof:parent_id":85673869,
+    "wof:parent_id":101853467,
     "wof:placetype":"neighbourhood",
     "wof:population":289,
     "wof:population_rank":2,

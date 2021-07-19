@@ -54,7 +54,13 @@
         "Bech"
     ],
     "src:geom":"geonames",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1745977443,
+        102191581,
+        1745980847,
+        85633275,
+        1125883515
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2960808
@@ -62,7 +68,16 @@
     "wof:country":"LU",
     "wof:created":1625097598,
     "wof:geomhash":"1130eb3d802c6f8e40d3e82effa5dbe3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1745980847,
+            "locality_id":1125883515,
+            "neighbourhood_id":1745987523,
+            "region_id":1745977443
+        }
+    ],
     "wof:id":1745987523,
     "wof:lang_x_official":[
         "fra",
@@ -74,9 +89,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625178022,
+    "wof:lastmodified":1626733522,
     "wof:name":"Bech-Kleinmacher",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125883515,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-lu",
     "wof:superseded_by":[],

@@ -38,8 +38,9 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1745980851,
         85633275,
-        85673865
+        1745977449
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,15 @@
         {
             "continent_id":102191581,
             "country_id":85633275,
+            "localadmin_id":1745980851,
             "locality_id":1293525555,
-            "region_id":85673865
+            "region_id":1745977449
         }
     ],
     "wof:id":1293525555,
-    "wof:lastmodified":1625098660,
+    "wof:lastmodified":1626732815,
     "wof:name":"Tomm",
-    "wof:parent_id":85673865,
+    "wof:parent_id":1745980851,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-lu",
     "wof:superseded_by":[

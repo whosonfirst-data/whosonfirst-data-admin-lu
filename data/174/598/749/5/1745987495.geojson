@@ -44,7 +44,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85673865
+        1745977429,
+        102191581,
+        1125333105,
+        85633275,
+        1125776761
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,7 +58,16 @@
     "wof:country":"LU",
     "wof:created":1625097587,
     "wof:geomhash":"74d33f41be6d08d6b135c51947c4f3a4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1125333105,
+            "locality_id":1125776761,
+            "neighbourhood_id":1745987495,
+            "region_id":1745977429
+        }
+    ],
     "wof:id":1745987495,
     "wof:lang_x_official":[
         "fra",
@@ -66,9 +79,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625178021,
+    "wof:lastmodified":1626733508,
     "wof:name":"Bonnal",
-    "wof:parent_id":85673865,
+    "wof:parent_id":1125776761,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-lu",
     "wof:superseded_by":[],

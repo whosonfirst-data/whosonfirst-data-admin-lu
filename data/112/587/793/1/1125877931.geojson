@@ -81,8 +81,9 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
+        1125305925,
         85633275,
-        85673875
+        1745977427
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -98,14 +99,15 @@
         {
             "continent_id":102191581,
             "country_id":85633275,
+            "localadmin_id":1125305925,
             "locality_id":1125877931,
-            "region_id":85673875
+            "region_id":1745977427
         }
     ],
     "wof:id":1125877931,
-    "wof:lastmodified":1625098671,
+    "wof:lastmodified":1626732405,
     "wof:name":"Alzingen",
-    "wof:parent_id":85673875,
+    "wof:parent_id":1125305925,
     "wof:placetype":"locality",
     "wof:population":1376,
     "wof:population_rank":3,

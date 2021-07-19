@@ -88,7 +88,11 @@
     "woe:name_adm1":"Diekirch",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85673865
+        1745977431,
+        102191581,
+        1745980841,
+        85633275,
+        1745984183
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -100,7 +104,16 @@
     "wof:country":"LU",
     "wof:created":1625097431,
     "wof:geomhash":"dfba39314b9bb0a7ce3e47ee90210c40",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1745980841,
+            "locality_id":1745984183,
+            "neighbourhood_id":1745987091,
+            "region_id":1745977431
+        }
+    ],
     "wof:id":1745987091,
     "wof:lang_x_official":[
         "fra",
@@ -112,9 +125,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625178011,
+    "wof:lastmodified":1626733297,
     "wof:name":"Bettborn",
-    "wof:parent_id":85673865,
+    "wof:parent_id":1745984183,
     "wof:placetype":"neighbourhood",
     "wof:population":231,
     "wof:population_rank":2,

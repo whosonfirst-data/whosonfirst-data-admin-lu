@@ -83,7 +83,11 @@
     "woe:name_adm1":"Diekirch",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85673865
+        1745977451,
+        102191581,
+        1125411213,
+        85633275,
+        101811723
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -95,7 +99,16 @@
     "wof:country":"LU",
     "wof:created":1625097503,
     "wof:geomhash":"57c0735419f9552bdb90532a31baf289",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1125411213,
+            "locality_id":101811723,
+            "neighbourhood_id":1745987277,
+            "region_id":1745977451
+        }
+    ],
     "wof:id":1745987277,
     "wof:lang_x_official":[
         "fra",
@@ -107,9 +120,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625178016,
+    "wof:lastmodified":1626733395,
     "wof:name":"Drauffelt",
-    "wof:parent_id":85673865,
+    "wof:parent_id":101811723,
     "wof:placetype":"neighbourhood",
     "wof:population":143,
     "wof:population_rank":1,

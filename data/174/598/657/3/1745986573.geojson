@@ -202,7 +202,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85673865
+        1745977431,
+        102191581,
+        1125402395,
+        85633275,
+        101845561
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -211,7 +215,16 @@
     "wof:country":"LU",
     "wof:created":1625097158,
     "wof:geomhash":"fdb6a98c9d7d6a96efe18f2278210930",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1125402395,
+            "locality_id":101845561,
+            "neighbourhood_id":1745986573,
+            "region_id":1745977431
+        }
+    ],
     "wof:id":1745986573,
     "wof:lang_x_official":[
         "fra",
@@ -223,9 +236,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625178000,
+    "wof:lastmodified":1626733026,
     "wof:name":"Amberg",
-    "wof:parent_id":85673865,
+    "wof:parent_id":101845561,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-lu",
     "wof:superseded_by":[],

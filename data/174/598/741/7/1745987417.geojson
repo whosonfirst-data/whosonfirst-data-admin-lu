@@ -63,7 +63,11 @@
     "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85673865
+        1745977429,
+        102191581,
+        1125283425,
+        85633275,
+        1126028027
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -74,7 +78,16 @@
     "wof:country":"LU",
     "wof:created":1625097557,
     "wof:geomhash":"b23b92552030579aff2ac9ad2620db96",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1125283425,
+            "locality_id":1126028027,
+            "neighbourhood_id":1745987417,
+            "region_id":1745977429
+        }
+    ],
     "wof:id":1745987417,
     "wof:lang_x_official":[
         "fra",
@@ -86,9 +99,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625178019,
+    "wof:lastmodified":1626733467,
     "wof:name":"Kaundorf",
-    "wof:parent_id":85673865,
+    "wof:parent_id":1126028027,
     "wof:placetype":"neighbourhood",
     "wof:population":192,
     "wof:population_rank":1,

@@ -40,7 +40,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85673865
+        1745977451,
+        102191581,
+        1745980853,
+        85633275,
+        101811727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,7 +53,16 @@
     "wof:country":"LU",
     "wof:created":1625097135,
     "wof:geomhash":"16dcf1fd16ac16df80d18ddc501aec07",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1745980853,
+            "locality_id":101811727,
+            "neighbourhood_id":1745986517,
+            "region_id":1745977451
+        }
+    ],
     "wof:id":1745986517,
     "wof:lang_x_official":[
         "fra",
@@ -61,9 +74,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625177999,
+    "wof:lastmodified":1626732998,
     "wof:name":"Eimeschbaach",
-    "wof:parent_id":85673865,
+    "wof:parent_id":101811727,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-lu",
     "wof:superseded_by":[],

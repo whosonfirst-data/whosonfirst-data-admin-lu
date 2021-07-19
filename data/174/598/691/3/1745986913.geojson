@@ -61,7 +61,13 @@
     "woe:name_adm0":"Luxembourg",
     "woe:name_adm1":"Diekirch",
     "woe:placetype":"Town",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1745977451,
+        102191581,
+        1125352025,
+        85633275,
+        1125800297
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2960343,
@@ -72,7 +78,16 @@
     "wof:country":"LU",
     "wof:created":1625097359,
     "wof:geomhash":"e7d2bbd9a473f30a1a21bf60e458a4fe",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1125352025,
+            "locality_id":1125800297,
+            "neighbourhood_id":1745986913,
+            "region_id":1745977451
+        }
+    ],
     "wof:id":1745986913,
     "wof:lang_x_official":[
         "fra",
@@ -84,9 +99,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625178008,
+    "wof:lastmodified":1626733204,
     "wof:name":"Leithum",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125800297,
     "wof:placetype":"neighbourhood",
     "wof:population":78,
     "wof:population_rank":1,

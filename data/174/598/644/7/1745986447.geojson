@@ -42,7 +42,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85673875
+        1745977439,
+        102191581,
+        1125303385,
+        85633275,
+        101812877
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,7 +55,16 @@
     "wof:country":"LU",
     "wof:created":1625097105,
     "wof:geomhash":"5c9f8edf9acef60afbaec19da95845ff",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1125303385,
+            "locality_id":101812877,
+            "neighbourhood_id":1745986447,
+            "region_id":1745977439
+        }
+    ],
     "wof:id":1745986447,
     "wof:lang_x_official":[
         "fra",
@@ -63,9 +76,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625177997,
+    "wof:lastmodified":1626732960,
     "wof:name":"Roost",
-    "wof:parent_id":85673875,
+    "wof:parent_id":101812877,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-lu",
     "wof:superseded_by":[],

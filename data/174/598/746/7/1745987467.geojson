@@ -31,7 +31,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85673869
+        1745977447,
+        102191581,
+        1125305331,
+        85633275,
+        101812891
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,7 +44,16 @@
     "wof:country":"LU",
     "wof:created":1625097576,
     "wof:geomhash":"38faf7db5f06b7021b8edc62a07adc6a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1125305331,
+            "locality_id":101812891,
+            "neighbourhood_id":1745987467,
+            "region_id":1745977447
+        }
+    ],
     "wof:id":1745987467,
     "wof:lang_x_official":[
         "fra",
@@ -52,9 +65,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625178021,
+    "wof:lastmodified":1626733493,
     "wof:name":"Thillen",
-    "wof:parent_id":85673869,
+    "wof:parent_id":101812891,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-lu",
     "wof:superseded_by":[],

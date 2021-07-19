@@ -56,7 +56,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        102191581
+        102191581,
+        1745980847,
+        85633275,
+        1745977443
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,15 +70,16 @@
     "wof:hierarchy":[
         {
             "continent_id":102191581,
-            "country_id":-1,
+            "country_id":85633275,
+            "localadmin_id":1745980847,
             "locality_id":1225875765,
-            "region_id":-1
+            "region_id":1745977443
         }
     ],
     "wof:id":1225875765,
-    "wof:lastmodified":1625098655,
+    "wof:lastmodified":1626732710,
     "wof:name":"Bech-Kleinmacher",
-    "wof:parent_id":-1,
+    "wof:parent_id":1745980847,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-lu",
     "wof:superseded_by":[

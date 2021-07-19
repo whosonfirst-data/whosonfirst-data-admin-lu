@@ -122,7 +122,7 @@
     "wof:belongsto":[
         102191581,
         85633275,
-        85673865
+        1745977431
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -141,7 +141,7 @@
             "continent_id":102191581,
             "country_id":85633275,
             "localadmin_id":1125410765,
-            "region_id":85673865
+            "region_id":1745977431
         }
     ],
     "wof:id":1125410765,
@@ -155,9 +155,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625177988,
+    "wof:lastmodified":1626732034,
     "wof:name":"Rambrouch",
-    "wof:parent_id":85673865,
+    "wof:parent_id":1745977431,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-lu",
     "wof:superseded_by":[],

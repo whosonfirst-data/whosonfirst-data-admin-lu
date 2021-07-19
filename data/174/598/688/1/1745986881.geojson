@@ -123,7 +123,11 @@
     "woe:name_adm1":"Rheinland-Pfalz",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85673869
+        1745977447,
+        102191581,
+        1125294519,
+        85633275,
+        1125781071
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -134,7 +138,16 @@
     "wof:country":"LU",
     "wof:created":1625097348,
     "wof:geomhash":"b467d4da75f8b1f807d39387cb548109",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1125294519,
+            "locality_id":1125781071,
+            "neighbourhood_id":1745986881,
+            "region_id":1745977447
+        }
+    ],
     "wof:id":1745986881,
     "wof:lang_x_official":[
         "fra",
@@ -146,9 +159,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625178007,
+    "wof:lastmodified":1626733187,
     "wof:name":"Wilsecker",
-    "wof:parent_id":85673869,
+    "wof:parent_id":1125781071,
     "wof:placetype":"neighbourhood",
     "wof:population":667,
     "wof:population_rank":2,

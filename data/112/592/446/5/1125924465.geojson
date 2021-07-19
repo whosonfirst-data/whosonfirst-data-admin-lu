@@ -75,8 +75,9 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
+        1125299915,
         85633275,
-        85673875
+        1745977435
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -92,14 +93,15 @@
         {
             "continent_id":102191581,
             "country_id":85633275,
+            "localadmin_id":1125299915,
             "locality_id":1125924465,
-            "region_id":85673875
+            "region_id":1745977435
         }
     ],
     "wof:id":1125924465,
-    "wof:lastmodified":1625098674,
+    "wof:lastmodified":1626732446,
     "wof:name":"Ehlerange",
-    "wof:parent_id":85673875,
+    "wof:parent_id":1125299915,
     "wof:placetype":"locality",
     "wof:population":756,
     "wof:population_rank":2,

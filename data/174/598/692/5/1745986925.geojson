@@ -77,7 +77,11 @@
     "woe:name_adm1":"Luxembourg",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85673875
+        1745977427,
+        102191581,
+        1125375263,
+        85633275,
+        101812899
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -89,7 +93,16 @@
     "wof:country":"LU",
     "wof:created":1625097364,
     "wof:geomhash":"d288ecb56238628c6b4c090608220180",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1125375263,
+            "locality_id":101812899,
+            "neighbourhood_id":1745986925,
+            "region_id":1745977427
+        }
+    ],
     "wof:id":1745986925,
     "wof:lang_x_official":[
         "fra",
@@ -101,9 +114,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625178008,
+    "wof:lastmodified":1626733210,
     "wof:name":"Schrassig",
-    "wof:parent_id":85673875,
+    "wof:parent_id":101812899,
     "wof:placetype":"neighbourhood",
     "wof:population":1051,
     "wof:population_rank":3,

@@ -35,7 +35,13 @@
     "src:geom":"qs_pg",
     "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1745977451,
+        102191581,
+        1125352025,
+        85633275,
+        1125800297
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2960802,
@@ -44,7 +50,16 @@
     "wof:country":"LU",
     "wof:created":1625097334,
     "wof:geomhash":"710fe7867621fb640cc322fc65afaf24",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1125352025,
+            "locality_id":1125800297,
+            "neighbourhood_id":1745986845,
+            "region_id":1745977451
+        }
+    ],
     "wof:id":1745986845,
     "wof:lang_x_official":[
         "fra",
@@ -56,9 +71,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625178006,
+    "wof:lastmodified":1626733168,
     "wof:name":"Beiler",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125800297,
     "wof:placetype":"neighbourhood",
     "wof:population":87,
     "wof:population_rank":1,

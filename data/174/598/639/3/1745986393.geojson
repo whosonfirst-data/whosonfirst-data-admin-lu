@@ -35,7 +35,9 @@
         "Schm\u00ebtt"
     ],
     "src:geom":"geonames",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2960092
@@ -43,7 +45,15 @@
     "wof:country":"LU",
     "wof:created":1625097085,
     "wof:geomhash":"39553f0037ffee1ca203de86ea46d66d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":1745986393,
+            "region_id":-1
+        }
+    ],
     "wof:id":1745986393,
     "wof:lang_x_official":[
         "fra",
@@ -55,7 +65,7 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625177996,
+    "wof:lastmodified":1626732932,
     "wof:name":"Schmett",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

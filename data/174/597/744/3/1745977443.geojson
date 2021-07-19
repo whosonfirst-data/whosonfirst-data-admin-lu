@@ -20,12 +20,21 @@
     ],
     "src:geom":"lu-act",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633275
+    ],
     "wof:breaches":[],
     "wof:country":"LU",
     "wof:created":1624925186,
     "wof:geomhash":"368402cf8946de95fb84773d4dd1e926",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "region_id":1745977443
+        }
+    ],
     "wof:id":1745977443,
     "wof:lang_x_official":[
         "fra",
@@ -37,9 +46,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625177993,
+    "wof:lastmodified":1626731832,
     "wof:name":"Remich",
-    "wof:parent_id":-1,
+    "wof:parent_id":85633275,
     "wof:placetype":"region",
     "wof:repo":"whosonfirst-data-admin-lu",
     "wof:superseded_by":[],

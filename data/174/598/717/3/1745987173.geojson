@@ -80,7 +80,11 @@
     "woe:name_adm1":"Diekirch",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85673865
+        1745977429,
+        102191581,
+        1125312135,
+        85633275,
+        1745984181
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -92,7 +96,16 @@
     "wof:country":"LU",
     "wof:created":1625097463,
     "wof:geomhash":"a72f07fede56b117f5895e18d3a5a4f1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1125312135,
+            "locality_id":1745984181,
+            "neighbourhood_id":1745987173,
+            "region_id":1745977429
+        }
+    ],
     "wof:id":1745987173,
     "wof:lang_x_official":[
         "fra",
@@ -104,9 +117,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625178013,
+    "wof:lastmodified":1626733340,
     "wof:name":"Merkholz",
-    "wof:parent_id":85673865,
+    "wof:parent_id":1745984181,
     "wof:placetype":"neighbourhood",
     "wof:population":94,
     "wof:population_rank":1,

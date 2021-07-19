@@ -37,7 +37,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85673865
+        1745977451,
+        102191581,
+        1745980853,
+        85633275,
+        101811727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,7 +50,16 @@
     "wof:country":"LU",
     "wof:created":1625097246,
     "wof:geomhash":"a1952d9dae4e24c0f8af5a5a14c6d169",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1745980853,
+            "locality_id":101811727,
+            "neighbourhood_id":1745986659,
+            "region_id":1745977451
+        }
+    ],
     "wof:id":1745986659,
     "wof:lang_x_official":[
         "fra",
@@ -58,9 +71,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625178002,
+    "wof:lastmodified":1626733070,
     "wof:name":"Troine-Route",
-    "wof:parent_id":85673865,
+    "wof:parent_id":101811727,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-lu",
     "wof:superseded_by":[],

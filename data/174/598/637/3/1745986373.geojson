@@ -60,7 +60,13 @@
         "Wallendorf-Pont"
     ],
     "src:geom":"geonames",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1745977441,
+        102191581,
+        1125285897,
+        85633275,
+        1125799187
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6691847,
@@ -69,7 +75,16 @@
     "wof:country":"LU",
     "wof:created":1625097077,
     "wof:geomhash":"a617553e9397ad7910fe4e34a7641816",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1125285897,
+            "locality_id":1125799187,
+            "neighbourhood_id":1745986373,
+            "region_id":1745977441
+        }
+    ],
     "wof:id":1745986373,
     "wof:lang_x_official":[
         "fra",
@@ -81,9 +96,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625177996,
+    "wof:lastmodified":1626732921,
     "wof:name":"Wallendorf-Pont",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125799187,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-lu",
     "wof:superseded_by":[],

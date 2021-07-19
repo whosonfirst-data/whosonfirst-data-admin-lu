@@ -122,7 +122,13 @@
     "woe:name_adm0":"Deutschland",
     "woe:name_adm1":"Rheinland-Pfalz",
     "woe:placetype":"Town",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1745977451,
+        102191581,
+        1125324097,
+        85633275,
+        101845555
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2960139,
@@ -133,7 +139,16 @@
     "wof:country":"LU",
     "wof:created":1625097291,
     "wof:geomhash":"4ddca93aa083525f604d14a30c861627",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1125324097,
+            "locality_id":101845555,
+            "neighbourhood_id":1745986731,
+            "region_id":1745977451
+        }
+    ],
     "wof:id":1745986731,
     "wof:lang_x_official":[
         "fra",
@@ -145,9 +160,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625178004,
+    "wof:lastmodified":1626733108,
     "wof:name":"Rodershausen",
-    "wof:parent_id":-1,
+    "wof:parent_id":101845555,
     "wof:placetype":"neighbourhood",
     "wof:population":96,
     "wof:population_rank":1,

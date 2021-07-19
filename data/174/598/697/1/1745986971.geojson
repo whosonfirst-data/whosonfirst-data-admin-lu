@@ -79,7 +79,11 @@
     "woe:name_adm1":"Grevenmacher",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85673869
+        1745977447,
+        102191581,
+        1125296455,
+        85633275,
+        101812889
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -91,7 +95,16 @@
     "wof:country":"LU",
     "wof:created":1625097382,
     "wof:geomhash":"42654b302890c1d4f5e4af2c321b30e3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1125296455,
+            "locality_id":101812889,
+            "neighbourhood_id":1745986971,
+            "region_id":1745977447
+        }
+    ],
     "wof:id":1745986971,
     "wof:lang_x_official":[
         "fra",
@@ -103,9 +116,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625178009,
+    "wof:lastmodified":1626733235,
     "wof:name":"Gonderange",
-    "wof:parent_id":85673869,
+    "wof:parent_id":101812889,
     "wof:placetype":"neighbourhood",
     "wof:population":1469,
     "wof:population_rank":3,

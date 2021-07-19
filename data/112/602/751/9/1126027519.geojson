@@ -68,8 +68,9 @@
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
+        1125283425,
         85633275,
-        85673865
+        1745977429
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -84,14 +85,15 @@
         {
             "continent_id":102191581,
             "country_id":85633275,
+            "localadmin_id":1125283425,
             "locality_id":1126027519,
-            "region_id":85673865
+            "region_id":1745977429
         }
     ],
     "wof:id":1126027519,
-    "wof:lastmodified":1625098675,
+    "wof:lastmodified":1626732649,
     "wof:name":"Bavigne",
-    "wof:parent_id":85673865,
+    "wof:parent_id":1125283425,
     "wof:placetype":"locality",
     "wof:population":132,
     "wof:population_rank":1,

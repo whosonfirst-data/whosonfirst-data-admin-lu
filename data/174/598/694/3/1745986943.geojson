@@ -74,7 +74,11 @@
     "woe:name_adm1":"Luxembourg",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85673875
+        1745977427,
+        102191581,
+        1745980849,
+        85633275,
+        101812909
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -86,7 +90,16 @@
     "wof:country":"LU",
     "wof:created":1625097371,
     "wof:geomhash":"c5821aa715598635e88195757851e28f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1745980849,
+            "locality_id":101812909,
+            "neighbourhood_id":1745986943,
+            "region_id":1745977427
+        }
+    ],
     "wof:id":1745986943,
     "wof:lang_x_official":[
         "fra",
@@ -98,9 +111,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625178008,
+    "wof:lastmodified":1626733219,
     "wof:name":"Medingen",
-    "wof:parent_id":85673875,
+    "wof:parent_id":101812909,
     "wof:placetype":"neighbourhood",
     "wof:population":102,
     "wof:population_rank":1,

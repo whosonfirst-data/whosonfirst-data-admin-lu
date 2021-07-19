@@ -73,7 +73,11 @@
     "woe:name_adm1":"Luxembourg",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85673875
+        1745977439,
+        102191581,
+        1125284735,
+        85633275,
+        1125984279
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -84,7 +88,16 @@
     "wof:country":"LU",
     "wof:created":1625097287,
     "wof:geomhash":"69c3b821429955f4628a601e56b00a36",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1125284735,
+            "locality_id":1125984279,
+            "neighbourhood_id":1745986717,
+            "region_id":1745977439
+        }
+    ],
     "wof:id":1745986717,
     "wof:lang_x_official":[
         "fra",
@@ -96,9 +109,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625178003,
+    "wof:lastmodified":1626733101,
     "wof:name":"Cruchten",
-    "wof:parent_id":85673875,
+    "wof:parent_id":1125984279,
     "wof:placetype":"neighbourhood",
     "wof:population":404,
     "wof:population_rank":2,

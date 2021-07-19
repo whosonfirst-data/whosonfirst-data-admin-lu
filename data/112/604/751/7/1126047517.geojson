@@ -75,7 +75,9 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
-        85633275
+        1745980847,
+        85633275,
+        1745977443
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -91,14 +93,15 @@
         {
             "continent_id":102191581,
             "country_id":85633275,
+            "localadmin_id":1745980847,
             "locality_id":1126047517,
-            "region_id":-1
+            "region_id":1745977443
         }
     ],
     "wof:id":1126047517,
-    "wof:lastmodified":1625098660,
+    "wof:lastmodified":1626732667,
     "wof:name":"Schwebsingen",
-    "wof:parent_id":-1,
+    "wof:parent_id":1745980847,
     "wof:placetype":"locality",
     "wof:population":307,
     "wof:population_rank":2,

@@ -128,8 +128,9 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
+        1125333105,
         85633275,
-        85673865
+        1745977429
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -148,8 +149,9 @@
         {
             "continent_id":102191581,
             "country_id":85633275,
+            "localadmin_id":1125333105,
             "locality_id":1125776761,
-            "region_id":85673865
+            "region_id":1745977429
         }
     ],
     "wof:id":1125776761,
@@ -163,9 +165,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625177989,
+    "wof:lastmodified":1626732180,
     "wof:name":"Esch-sur-S\u00fbre",
-    "wof:parent_id":85673865,
+    "wof:parent_id":1125333105,
     "wof:placetype":"locality",
     "wof:population":333,
     "wof:population_rank":2,

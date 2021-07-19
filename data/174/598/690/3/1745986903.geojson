@@ -110,7 +110,11 @@
     "woe:name_adm1":"Grevenmacher",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85673869
+        1745977443,
+        102191581,
+        1745980847,
+        85633275,
+        1125883515
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -122,7 +126,16 @@
     "wof:country":"LU",
     "wof:created":1625097356,
     "wof:geomhash":"cdaf0ae04bcea934eb7e2efd89363172",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1745980847,
+            "locality_id":1125883515,
+            "neighbourhood_id":1745986903,
+            "region_id":1745977443
+        }
+    ],
     "wof:id":1745986903,
     "wof:lang_x_official":[
         "fra",
@@ -134,9 +147,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625178007,
+    "wof:lastmodified":1626733199,
     "wof:name":"Burmerange",
-    "wof:parent_id":85673869,
+    "wof:parent_id":1125883515,
     "wof:placetype":"neighbourhood",
     "wof:population":191,
     "wof:population_rank":1,

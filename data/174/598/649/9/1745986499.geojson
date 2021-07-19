@@ -30,7 +30,13 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1745977451,
+        102191581,
+        1125352025,
+        85633275,
+        1125800297
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2960581
@@ -38,7 +44,16 @@
     "wof:country":"LU",
     "wof:created":1625097125,
     "wof:geomhash":"eeae4ace1412eaf6bbf6d2e7b2316f1c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1125352025,
+            "locality_id":1125800297,
+            "neighbourhood_id":1745986499,
+            "region_id":1745977451
+        }
+    ],
     "wof:id":1745986499,
     "wof:lang_x_official":[
         "fra",
@@ -50,9 +65,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625177998,
+    "wof:lastmodified":1626732988,
     "wof:name":"Ferme du Flamand",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125800297,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-lu",
     "wof:superseded_by":[],

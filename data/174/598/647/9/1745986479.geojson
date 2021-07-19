@@ -31,7 +31,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85673869
+        1745977445,
+        102191581,
+        1125305359,
+        85633275,
+        1125809215
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,7 +44,16 @@
     "wof:country":"LU",
     "wof:created":1625097116,
     "wof:geomhash":"0c1c3f7d4f5fc01e56199a4765f2b8c2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1125305359,
+            "locality_id":1125809215,
+            "neighbourhood_id":1745986479,
+            "region_id":1745977445
+        }
+    ],
     "wof:id":1745986479,
     "wof:lang_x_official":[
         "fra",
@@ -52,9 +65,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625177998,
+    "wof:lastmodified":1626732977,
     "wof:name":"Wakelterhof",
-    "wof:parent_id":85673869,
+    "wof:parent_id":1125809215,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-lu",
     "wof:superseded_by":[],

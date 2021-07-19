@@ -152,8 +152,9 @@
     "wd:wordcount":1009,
     "wof:belongsto":[
         102191581,
+        1125366329,
         85633275,
-        85673869
+        1745977443
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -174,8 +175,9 @@
         {
             "continent_id":102191581,
             "country_id":85633275,
+            "localadmin_id":1125366329,
             "locality_id":101812921,
-            "region_id":85673869
+            "region_id":1745977443
         }
     ],
     "wof:id":101812921,
@@ -192,9 +194,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625177981,
+    "wof:lastmodified":1626732147,
     "wof:name":"Mondorf-les-Bains",
-    "wof:parent_id":85673869,
+    "wof:parent_id":1125366329,
     "wof:placetype":"locality",
     "wof:population":3113,
     "wof:population_rank":4,

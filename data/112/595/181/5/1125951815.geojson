@@ -54,8 +54,9 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
+        1125312135,
         85633275,
-        85673865
+        1745977429
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -70,14 +71,15 @@
         {
             "continent_id":102191581,
             "country_id":85633275,
+            "localadmin_id":1125312135,
             "locality_id":1125951815,
-            "region_id":85673865
+            "region_id":1745977429
         }
     ],
     "wof:id":1125951815,
-    "wof:lastmodified":1625098675,
+    "wof:lastmodified":1626732493,
     "wof:name":"Lellingen",
-    "wof:parent_id":85673865,
+    "wof:parent_id":1125312135,
     "wof:placetype":"locality",
     "wof:population":93,
     "wof:population_rank":1,

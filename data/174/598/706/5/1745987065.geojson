@@ -73,7 +73,11 @@
     "woe:name_adm1":"Grevenmacher",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85673869
+        1745977447,
+        102191581,
+        1125325873,
+        85633275,
+        101854569
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -85,7 +89,16 @@
     "wof:country":"LU",
     "wof:created":1625097419,
     "wof:geomhash":"a8c76d973ec55f75b04e19b631d7e8b8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1125325873,
+            "locality_id":101854569,
+            "neighbourhood_id":1745987065,
+            "region_id":1745977447
+        }
+    ],
     "wof:id":1745987065,
     "wof:lang_x_official":[
         "fra",
@@ -97,9 +110,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625178011,
+    "wof:lastmodified":1626733284,
     "wof:name":"Mensdorf",
-    "wof:parent_id":85673869,
+    "wof:parent_id":101854569,
     "wof:placetype":"neighbourhood",
     "wof:population":813,
     "wof:population_rank":2,

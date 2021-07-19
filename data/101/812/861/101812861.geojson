@@ -79,8 +79,9 @@
     "wd:wordcount":57,
     "wof:belongsto":[
         102191581,
+        1125284603,
         85633275,
-        85673865
+        1745977441
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -100,17 +101,18 @@
         {
             "continent_id":102191581,
             "country_id":85633275,
+            "localadmin_id":1125284603,
             "locality_id":101812861,
-            "region_id":85673865
+            "region_id":1745977441
         }
     ],
     "wof:id":101812861,
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1625090161,
+    "wof:lastmodified":1626732236,
     "wof:name":"Niederfeulen",
-    "wof:parent_id":85673865,
+    "wof:parent_id":1125284603,
     "wof:placetype":"locality",
     "wof:population":1125,
     "wof:population_rank":3,

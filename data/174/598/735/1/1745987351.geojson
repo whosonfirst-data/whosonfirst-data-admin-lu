@@ -72,7 +72,11 @@
     "woe:name_adm1":"Diekirch",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85673865
+        1745977429,
+        102191581,
+        1125298213,
+        85633275,
+        1125882147
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -84,7 +88,16 @@
     "wof:country":"LU",
     "wof:created":1625097532,
     "wof:geomhash":"a2b4ac1980c79344bd5c25f0de24ef61",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1125298213,
+            "locality_id":1125882147,
+            "neighbourhood_id":1745987351,
+            "region_id":1745977429
+        }
+    ],
     "wof:id":1745987351,
     "wof:lang_x_official":[
         "fra",
@@ -96,9 +109,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625178018,
+    "wof:lastmodified":1626733433,
     "wof:name":"Dahl",
-    "wof:parent_id":85673865,
+    "wof:parent_id":1125882147,
     "wof:placetype":"neighbourhood",
     "wof:population":246,
     "wof:population_rank":2,

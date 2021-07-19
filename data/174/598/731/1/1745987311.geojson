@@ -74,7 +74,11 @@
     "woe:name_adm1":"Grevenmacher",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85673869
+        1745977447,
+        102191581,
+        1125305331,
+        85633275,
+        101812891
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -86,7 +90,16 @@
     "wof:country":"LU",
     "wof:created":1625097516,
     "wof:geomhash":"f3c7c966d074f354de502fe05dd949ae",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1125305331,
+            "locality_id":101812891,
+            "neighbourhood_id":1745987311,
+            "region_id":1745977447
+        }
+    ],
     "wof:id":1745987311,
     "wof:lang_x_official":[
         "fra",
@@ -98,9 +111,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625178017,
+    "wof:lastmodified":1626733412,
     "wof:name":"Berbourg",
-    "wof:parent_id":85673869,
+    "wof:parent_id":101812891,
     "wof:placetype":"neighbourhood",
     "wof:population":664,
     "wof:population_rank":2,

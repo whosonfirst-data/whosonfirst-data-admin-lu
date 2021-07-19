@@ -72,7 +72,11 @@
     "woe:name_adm1":"Diekirch",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85673865
+        1745977431,
+        102191581,
+        1745980841,
+        85633275,
+        1745984183
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -84,7 +88,16 @@
     "wof:country":"LU",
     "wof:created":1625097296,
     "wof:geomhash":"0a633e96b6fa2d61fd75b7927358a23b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1745980841,
+            "locality_id":1745984183,
+            "neighbourhood_id":1745986741,
+            "region_id":1745977431
+        }
+    ],
     "wof:id":1745986741,
     "wof:lang_x_official":[
         "fra",
@@ -96,9 +109,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625178004,
+    "wof:lastmodified":1626733114,
     "wof:name":"Reimberg",
-    "wof:parent_id":85673865,
+    "wof:parent_id":1745984183,
     "wof:placetype":"neighbourhood",
     "wof:population":182,
     "wof:population_rank":1,

@@ -71,7 +71,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85673865
+        1745977429,
+        102191581,
+        1125284497,
+        85633275,
+        1126025653
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -80,7 +84,16 @@
     "wof:country":"LU",
     "wof:created":1625097071,
     "wof:geomhash":"06805fd65096d27ac4fc1e4f87db1c60",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1125284497,
+            "locality_id":1126025653,
+            "neighbourhood_id":1745986359,
+            "region_id":1745977429
+        }
+    ],
     "wof:id":1745986359,
     "wof:lang_x_official":[
         "fra",
@@ -92,9 +105,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625177995,
+    "wof:lastmodified":1626732913,
     "wof:name":"Brill",
-    "wof:parent_id":85673865,
+    "wof:parent_id":1126025653,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-lu",
     "wof:superseded_by":[],

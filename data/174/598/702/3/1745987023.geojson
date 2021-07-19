@@ -77,7 +77,11 @@
     "woe:name_adm1":"Luxembourg",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85673875
+        1745977435,
+        102191581,
+        1125357423,
+        85633275,
+        101812917
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -89,7 +93,16 @@
     "wof:country":"LU",
     "wof:created":1625097403,
     "wof:geomhash":"ee7eb1fbbdf6620cd577acf8e74579bb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1125357423,
+            "locality_id":101812917,
+            "neighbourhood_id":1745987023,
+            "region_id":1745977435
+        }
+    ],
     "wof:id":1745987023,
     "wof:lang_x_official":[
         "fra",
@@ -101,9 +114,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625178010,
+    "wof:lastmodified":1626733262,
     "wof:name":"Fennange",
-    "wof:parent_id":85673875,
+    "wof:parent_id":101812917,
     "wof:placetype":"neighbourhood",
     "wof:population":293,
     "wof:population_rank":2,

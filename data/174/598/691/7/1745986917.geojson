@@ -72,7 +72,11 @@
     "woe:name_adm1":"Luxembourg",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85673875
+        1745977427,
+        102191581,
+        1125305385,
+        85633275,
+        101753069
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -84,7 +88,16 @@
     "wof:country":"LU",
     "wof:created":1625097362,
     "wof:geomhash":"2c4220b997c2e4029f48411d3d1c1188",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1125305385,
+            "locality_id":101753069,
+            "neighbourhood_id":1745986917,
+            "region_id":1745977427
+        }
+    ],
     "wof:id":1745986917,
     "wof:lang_x_official":[
         "fra",
@@ -96,9 +109,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625178008,
+    "wof:lastmodified":1626733206,
     "wof:name":"M\u00fcllendorf",
-    "wof:parent_id":85673875,
+    "wof:parent_id":101753069,
     "wof:placetype":"neighbourhood",
     "wof:population":1024,
     "wof:population_rank":3,

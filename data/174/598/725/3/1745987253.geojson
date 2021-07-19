@@ -77,7 +77,11 @@
     "woe:name_adm1":"Luxembourg",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85673875
+        1745977435,
+        102191581,
+        1125407267,
+        85633275,
+        101839805
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -89,7 +93,16 @@
     "wof:country":"LU",
     "wof:created":1625097493,
     "wof:geomhash":"e4f80a9ad441a2a118cf3a507513138b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1125407267,
+            "locality_id":101839805,
+            "neighbourhood_id":1745987253,
+            "region_id":1745977435
+        }
+    ],
     "wof:id":1745987253,
     "wof:lang_x_official":[
         "fra",
@@ -101,9 +114,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625178015,
+    "wof:lastmodified":1626733381,
     "wof:name":"T\u00e9tange",
-    "wof:parent_id":85673875,
+    "wof:parent_id":101839805,
     "wof:placetype":"neighbourhood",
     "wof:population":2929,
     "wof:population_rank":4,

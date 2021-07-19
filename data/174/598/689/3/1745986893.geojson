@@ -83,7 +83,11 @@
     "woe:name_adm1":"Luxembourg",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85673875
+        1745977435,
+        102191581,
+        1125324091,
+        85633275,
+        1125947927
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -95,7 +99,16 @@
     "wof:country":"LU",
     "wof:created":1625097352,
     "wof:geomhash":"ef24076409750fb5d85d402495801b28",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1125324091,
+            "locality_id":1125947927,
+            "neighbourhood_id":1745986893,
+            "region_id":1745977435
+        }
+    ],
     "wof:id":1745986893,
     "wof:lang_x_official":[
         "fra",
@@ -107,9 +120,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625178007,
+    "wof:lastmodified":1626733193,
     "wof:name":"Bivange",
-    "wof:parent_id":85673875,
+    "wof:parent_id":1125947927,
     "wof:placetype":"neighbourhood",
     "wof:population":617,
     "wof:population_rank":2,

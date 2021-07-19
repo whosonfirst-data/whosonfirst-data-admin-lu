@@ -44,7 +44,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85673875
+        1745977435,
+        102191581,
+        1125299915,
+        85633275,
+        1126007057
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,7 +58,16 @@
     "wof:country":"LU",
     "wof:created":1625097129,
     "wof:geomhash":"fa85cac30453cfb7092ee21014c17c60",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1125299915,
+            "locality_id":1126007057,
+            "neighbourhood_id":1745986505,
+            "region_id":1745977435
+        }
+    ],
     "wof:id":1745986505,
     "wof:lang_x_official":[
         "fra",
@@ -66,9 +79,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625177999,
+    "wof:lastmodified":1626732992,
     "wof:name":"Belval",
-    "wof:parent_id":85673875,
+    "wof:parent_id":1126007057,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-lu",
     "wof:superseded_by":[],

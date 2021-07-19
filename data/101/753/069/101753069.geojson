@@ -114,8 +114,9 @@
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
+        1125305385,
         85633275,
-        85673875
+        1745977427
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -135,8 +136,9 @@
         {
             "continent_id":102191581,
             "country_id":85633275,
+            "localadmin_id":1125305385,
             "locality_id":101753069,
-            "region_id":85673875
+            "region_id":1745977427
         }
     ],
     "wof:id":101753069,
@@ -153,9 +155,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625177979,
+    "wof:lastmodified":1626732096,
     "wof:name":"Steinsel",
-    "wof:parent_id":85673875,
+    "wof:parent_id":1125305385,
     "wof:placetype":"locality",
     "wof:population":1879,
     "wof:population_rank":3,

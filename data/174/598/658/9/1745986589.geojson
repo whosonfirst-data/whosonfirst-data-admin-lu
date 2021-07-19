@@ -37,7 +37,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85673869
+        1745977445,
+        102191581,
+        1125328045,
+        85633275,
+        1125921467
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,7 +50,16 @@
     "wof:country":"LU",
     "wof:created":1625097166,
     "wof:geomhash":"4adc7a03ec812473829df6df97b6d2ab",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1125328045,
+            "locality_id":1125921467,
+            "neighbourhood_id":1745986589,
+            "region_id":1745977445
+        }
+    ],
     "wof:id":1745986589,
     "wof:lang_x_official":[
         "fra",
@@ -58,9 +71,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625178001,
+    "wof:lastmodified":1626733034,
     "wof:name":"Geyershaff",
-    "wof:parent_id":85673869,
+    "wof:parent_id":1125921467,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-lu",
     "wof:superseded_by":[],

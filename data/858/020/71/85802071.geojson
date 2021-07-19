@@ -87,10 +87,11 @@
     "wd:longitude":6.15,
     "wd:wordcount":44,
     "wof:belongsto":[
+        1745977427,
         102191581,
-        101751765,
+        1125305925,
         85633275,
-        85673875
+        1125957373
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -109,9 +110,10 @@
         {
             "continent_id":102191581,
             "country_id":85633275,
-            "locality_id":101751765,
+            "localadmin_id":1125305925,
+            "locality_id":1125957373,
             "neighbourhood_id":85802071,
-            "region_id":85673875
+            "region_id":1745977427
         }
     ],
     "wof:id":85802071,
@@ -128,9 +130,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625178023,
+    "wof:lastmodified":1626733537,
     "wof:name":"Fentange",
-    "wof:parent_id":101751765,
+    "wof:parent_id":1125957373,
     "wof:placetype":"neighbourhood",
     "wof:population":1302,
     "wof:population_rank":3,

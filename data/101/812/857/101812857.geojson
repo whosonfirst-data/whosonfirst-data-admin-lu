@@ -120,8 +120,9 @@
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
+        1125351511,
         85633275,
-        85673865
+        1745977441
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -141,8 +142,9 @@
         {
             "continent_id":102191581,
             "country_id":85633275,
+            "localadmin_id":1125351511,
             "locality_id":101812857,
-            "region_id":85673865
+            "region_id":1745977441
         }
     ],
     "wof:id":101812857,
@@ -159,9 +161,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625177979,
+    "wof:lastmodified":1626732114,
     "wof:name":"Bettendorf",
-    "wof:parent_id":85673865,
+    "wof:parent_id":1125351511,
     "wof:placetype":"locality",
     "wof:population":1072,
     "wof:population_rank":3,

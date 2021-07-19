@@ -134,8 +134,9 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
+        1745980861,
         85633275,
-        85673875
+        1745977435
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -154,8 +155,9 @@
         {
             "continent_id":102191581,
             "country_id":85633275,
+            "localadmin_id":1745980861,
             "locality_id":1126015453,
-            "region_id":85673875
+            "region_id":1745977435
         }
     ],
     "wof:id":1126015453,
@@ -169,9 +171,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625177990,
+    "wof:lastmodified":1626732210,
     "wof:name":"Schifflange",
-    "wof:parent_id":85673875,
+    "wof:parent_id":1745980861,
     "wof:placetype":"locality",
     "wof:population":8155,
     "wof:population_rank":5,

@@ -69,8 +69,9 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1125296455,
         85633275,
-        85673875
+        1745977447
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -82,14 +83,15 @@
         {
             "continent_id":102191581,
             "country_id":85633275,
+            "localadmin_id":1125296455,
             "locality_id":1343994097,
-            "region_id":85673875
+            "region_id":1745977447
         }
     ],
     "wof:id":1343994097,
-    "wof:lastmodified":1625098679,
+    "wof:lastmodified":1626732880,
     "wof:name":"Weyer",
-    "wof:parent_id":85673875,
+    "wof:parent_id":1125296455,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-lu",
     "wof:superseded_by":[

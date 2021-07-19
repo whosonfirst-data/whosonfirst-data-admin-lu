@@ -46,7 +46,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85673875
+        1745977433,
+        102191581,
+        1125285649,
+        85633275,
+        101812907
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,7 +59,16 @@
     "wof:country":"LU",
     "wof:created":1625097592,
     "wof:geomhash":"16d0c91064bd49330499081547d3eddd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1125285649,
+            "locality_id":101812907,
+            "neighbourhood_id":1745987507,
+            "region_id":1745977433
+        }
+    ],
     "wof:id":1745987507,
     "wof:lang_x_official":[
         "fra",
@@ -67,9 +80,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625178021,
+    "wof:lastmodified":1626733514,
     "wof:name":"Sprinkange",
-    "wof:parent_id":85673875,
+    "wof:parent_id":101812907,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-lu",
     "wof:superseded_by":[],

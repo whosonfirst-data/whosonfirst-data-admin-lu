@@ -79,7 +79,11 @@
     "woe:name_adm1":"Luxembourg",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85673875
+        1745977439,
+        102191581,
+        1125286143,
+        85633275,
+        101812883
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -91,7 +95,16 @@
     "wof:country":"LU",
     "wof:created":1625097355,
     "wof:geomhash":"4c0cebacd83399097fd9678c066fad59",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1125286143,
+            "locality_id":101812883,
+            "neighbourhood_id":1745986901,
+            "region_id":1745977439
+        }
+    ],
     "wof:id":1745986901,
     "wof:lang_x_official":[
         "fra",
@@ -103,9 +116,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625178007,
+    "wof:lastmodified":1626733198,
     "wof:name":"Pettingen",
-    "wof:parent_id":85673875,
+    "wof:parent_id":101812883,
     "wof:placetype":"neighbourhood",
     "wof:population":206,
     "wof:population_rank":2,

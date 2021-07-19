@@ -77,7 +77,11 @@
     "woe:name_adm1":"Grevenmacher",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85673869
+        1745977447,
+        102191581,
+        1125296455,
+        85633275,
+        101812889
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -89,7 +93,16 @@
     "wof:country":"LU",
     "wof:created":1625097468,
     "wof:geomhash":"1ddb02f9fba98f040f406df61b656607",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1125296455,
+            "locality_id":101812889,
+            "neighbourhood_id":1745987187,
+            "region_id":1745977447
+        }
+    ],
     "wof:id":1745987187,
     "wof:lang_x_official":[
         "fra",
@@ -101,9 +114,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625178014,
+    "wof:lastmodified":1626733347,
     "wof:name":"Beidweiler",
-    "wof:parent_id":85673869,
+    "wof:parent_id":101812889,
     "wof:placetype":"neighbourhood",
     "wof:population":227,
     "wof:population_rank":2,

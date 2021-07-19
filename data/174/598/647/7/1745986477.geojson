@@ -36,7 +36,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85673865
+        1745977431,
+        102191581,
+        1125410765,
+        85633275,
+        101812867
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,7 +49,16 @@
     "wof:country":"LU",
     "wof:created":1625097116,
     "wof:geomhash":"f5b34a63370ab8b887c2794808fc6395",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1125410765,
+            "locality_id":101812867,
+            "neighbourhood_id":1745986477,
+            "region_id":1745977431
+        }
+    ],
     "wof:id":1745986477,
     "wof:lang_x_official":[
         "fra",
@@ -57,9 +70,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625177998,
+    "wof:lastmodified":1626732976,
     "wof:name":"Miserehof",
-    "wof:parent_id":85673865,
+    "wof:parent_id":101812867,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-lu",
     "wof:superseded_by":[],

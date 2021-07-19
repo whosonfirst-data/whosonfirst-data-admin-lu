@@ -35,7 +35,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85673875
+        1745977439,
+        102191581,
+        1125305509,
+        85633275,
+        1126048921
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,7 +48,16 @@
     "wof:country":"LU",
     "wof:created":1625097159,
     "wof:geomhash":"e3927c2edcdfc51053fa8b4ad5771480",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1125305509,
+            "locality_id":1126048921,
+            "neighbourhood_id":1745986575,
+            "region_id":1745977439
+        }
+    ],
     "wof:id":1745986575,
     "wof:lang_x_official":[
         "fra",
@@ -56,9 +69,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625178000,
+    "wof:lastmodified":1626733027,
     "wof:name":"Wickelscheid",
-    "wof:parent_id":85673875,
+    "wof:parent_id":1126048921,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-lu",
     "wof:superseded_by":[],

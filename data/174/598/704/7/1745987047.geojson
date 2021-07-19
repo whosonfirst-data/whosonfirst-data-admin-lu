@@ -107,7 +107,11 @@
     "woe:name_adm1":"Rheinland-Pfalz",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85673865
+        1745977449,
+        102191581,
+        1745980851,
+        85633275,
+        1125952365
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -118,7 +122,16 @@
     "wof:country":"LU",
     "wof:created":1625097412,
     "wof:geomhash":"a522ef409b3062a6cc8026b6dbc8ee35",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1745980851,
+            "locality_id":1125952365,
+            "neighbourhood_id":1745987047,
+            "region_id":1745977449
+        }
+    ],
     "wof:id":1745987047,
     "wof:lang_x_official":[
         "fra",
@@ -130,9 +143,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625178010,
+    "wof:lastmodified":1626733275,
     "wof:name":"Landscheid",
-    "wof:parent_id":85673865,
+    "wof:parent_id":1125952365,
     "wof:placetype":"neighbourhood",
     "wof:population":76,
     "wof:population_rank":1,

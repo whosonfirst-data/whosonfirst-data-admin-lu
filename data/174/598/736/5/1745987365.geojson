@@ -66,7 +66,11 @@
     "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85673865
+        1745977449,
+        102191581,
+        1125410761,
+        85633275,
+        1745984185
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -77,7 +81,16 @@
     "wof:country":"LU",
     "wof:created":1625097537,
     "wof:geomhash":"d288a4e482d657cd4ee409004da199ad",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1125410761,
+            "locality_id":1745984185,
+            "neighbourhood_id":1745987365,
+            "region_id":1745977449
+        }
+    ],
     "wof:id":1745987365,
     "wof:lang_x_official":[
         "fra",
@@ -89,9 +102,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625178018,
+    "wof:lastmodified":1626733440,
     "wof:name":"Merscheid-l\u00e8s-Putscheid",
-    "wof:parent_id":85673865,
+    "wof:parent_id":1745984185,
     "wof:placetype":"neighbourhood",
     "wof:population":103,
     "wof:population_rank":1,

@@ -74,7 +74,11 @@
     "woe:name_adm1":"Diekirch",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85673865
+        1745977429,
+        102191581,
+        1125366297,
+        85633275,
+        1125796641
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -86,7 +90,16 @@
     "wof:country":"LU",
     "wof:created":1625097329,
     "wof:geomhash":"1c844ee2d21c11277a84ba780f02f1d2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1125366297,
+            "locality_id":1125796641,
+            "neighbourhood_id":1745986831,
+            "region_id":1745977429
+        }
+    ],
     "wof:id":1745986831,
     "wof:lang_x_official":[
         "fra",
@@ -98,9 +111,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625178006,
+    "wof:lastmodified":1626733161,
     "wof:name":"Baschleiden",
-    "wof:parent_id":85673865,
+    "wof:parent_id":1125796641,
     "wof:placetype":"neighbourhood",
     "wof:population":185,
     "wof:population_rank":1,

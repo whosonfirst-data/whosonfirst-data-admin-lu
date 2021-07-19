@@ -124,8 +124,9 @@
     "wd:wordcount":125,
     "wof:belongsto":[
         102191581,
+        1125410765,
         85633275,
-        85673865
+        1745977431
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -146,8 +147,9 @@
         {
             "continent_id":102191581,
             "country_id":85633275,
+            "localadmin_id":1125410765,
             "locality_id":101812867,
-            "region_id":85673865
+            "region_id":1745977431
         }
     ],
     "wof:id":101812867,
@@ -164,9 +166,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625177980,
+    "wof:lastmodified":1626732119,
     "wof:name":"Rambrouch",
-    "wof:parent_id":85673865,
+    "wof:parent_id":1125410765,
     "wof:placetype":"locality",
     "wof:population":401,
     "wof:population_rank":2,

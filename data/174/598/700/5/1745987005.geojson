@@ -75,7 +75,11 @@
     "woe:name_adm1":"Grevenmacher",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85673869
+        1745977445,
+        102191581,
+        1745980855,
+        85633275,
+        1745984189
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -87,7 +91,16 @@
     "wof:country":"LU",
     "wof:created":1625097395,
     "wof:geomhash":"f58a7e4587bedca263d9692d575a5e67",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1745980855,
+            "locality_id":1745984189,
+            "neighbourhood_id":1745987005,
+            "region_id":1745977445
+        }
+    ],
     "wof:id":1745987005,
     "wof:lang_x_official":[
         "fra",
@@ -99,9 +112,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625178010,
+    "wof:lastmodified":1626733253,
     "wof:name":"Dickweiler",
-    "wof:parent_id":85673869,
+    "wof:parent_id":1745984189,
     "wof:placetype":"neighbourhood",
     "wof:population":111,
     "wof:population_rank":1,

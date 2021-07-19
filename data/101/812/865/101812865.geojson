@@ -135,8 +135,9 @@
     "wd:wordcount":107,
     "wof:belongsto":[
         102191581,
+        1125305933,
         85633275,
-        85673865
+        1745977441
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -157,8 +158,9 @@
         {
             "continent_id":102191581,
             "country_id":85633275,
+            "localadmin_id":1125305933,
             "locality_id":101812865,
-            "region_id":85673865
+            "region_id":1745977441
         }
     ],
     "wof:id":101812865,
@@ -175,9 +177,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625177979,
+    "wof:lastmodified":1626732118,
     "wof:name":"Mertzig",
-    "wof:parent_id":85673865,
+    "wof:parent_id":1125305933,
     "wof:placetype":"locality",
     "wof:population":1482,
     "wof:population_rank":3,

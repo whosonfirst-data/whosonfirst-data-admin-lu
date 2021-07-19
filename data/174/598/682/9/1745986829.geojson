@@ -74,7 +74,11 @@
     "woe:name_adm1":"Diekirch",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85673865
+        1745977429,
+        102191581,
+        1125390667,
+        85633275,
+        101811731
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -86,7 +90,16 @@
     "wof:country":"LU",
     "wof:created":1625097328,
     "wof:geomhash":"8d713574c39d55adb96f8b90b370721f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1125390667,
+            "locality_id":101811731,
+            "neighbourhood_id":1745986829,
+            "region_id":1745977429
+        }
+    ],
     "wof:id":1745986829,
     "wof:lang_x_official":[
         "fra",
@@ -98,9 +111,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625178006,
+    "wof:lastmodified":1626733160,
     "wof:name":"Knaphoscheid",
-    "wof:parent_id":85673865,
+    "wof:parent_id":101811731,
     "wof:placetype":"neighbourhood",
     "wof:population":180,
     "wof:population_rank":1,

@@ -36,7 +36,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633275
+        102191581,
+        1125366287,
+        85633275,
+        1745977427
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +49,17 @@
     "wof:geomhash":"656f584bb68b7772381592d86d1c7da4",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633275,
-            "locality_id":1209549859
+            "localadmin_id":1125366287,
+            "locality_id":1209549859,
+            "region_id":1745977427
         }
     ],
     "wof:id":1209549859,
-    "wof:lastmodified":1625098679,
+    "wof:lastmodified":1626732698,
     "wof:name":"Neumuehle",
-    "wof:parent_id":85633275,
+    "wof:parent_id":1125366287,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-lu",
     "wof:superseded_by":[

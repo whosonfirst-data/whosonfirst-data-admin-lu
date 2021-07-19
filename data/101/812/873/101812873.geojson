@@ -210,7 +210,9 @@
     "wd:wordcount":598,
     "wof:belongsto":[
         102191581,
-        85633275
+        1125303769,
+        85633275,
+        1745977445
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -230,8 +232,9 @@
         {
             "continent_id":102191581,
             "country_id":85633275,
+            "localadmin_id":1125303769,
             "locality_id":101812873,
-            "region_id":-1
+            "region_id":1745977445
         }
     ],
     "wof:id":101812873,
@@ -248,9 +251,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625177980,
+    "wof:lastmodified":1626732122,
     "wof:name":"Echternach",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125303769,
     "wof:placetype":"locality",
     "wof:population":5344,
     "wof:population_rank":5,

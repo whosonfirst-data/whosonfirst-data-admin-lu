@@ -39,7 +39,11 @@
     "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85673865
+        1745977429,
+        102191581,
+        1125298213,
+        85633275,
+        1125882147
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,7 +53,16 @@
     "wof:country":"LU",
     "wof:created":1625097337,
     "wof:geomhash":"25a82600537be7fa2aaaac1d978c9d2e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1125298213,
+            "locality_id":1125882147,
+            "neighbourhood_id":1745986853,
+            "region_id":1745977429
+        }
+    ],
     "wof:id":1745986853,
     "wof:lang_x_official":[
         "fra",
@@ -61,9 +74,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625178006,
+    "wof:lastmodified":1626733172,
     "wof:name":"Bockholtz",
-    "wof:parent_id":85673865,
+    "wof:parent_id":1125882147,
     "wof:placetype":"neighbourhood",
     "wof:population":60,
     "wof:population_rank":1,

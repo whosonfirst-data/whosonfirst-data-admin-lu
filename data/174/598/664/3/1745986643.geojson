@@ -54,7 +54,13 @@
         "Untereisenbach"
     ],
     "src:geom":"geonames",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1745977451,
+        102191581,
+        1125324097,
+        85633275,
+        101845555
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2960025,
@@ -63,7 +69,16 @@
     "wof:country":"LU",
     "wof:created":1625097229,
     "wof:geomhash":"6cd0d1365c81fb27f1f256421e8366b8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1125324097,
+            "locality_id":101845555,
+            "neighbourhood_id":1745986643,
+            "region_id":1745977451
+        }
+    ],
     "wof:id":1745986643,
     "wof:lang_x_official":[
         "fra",
@@ -75,9 +90,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625178002,
+    "wof:lastmodified":1626733062,
     "wof:name":"Untereisenbach",
-    "wof:parent_id":-1,
+    "wof:parent_id":101845555,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-lu",
     "wof:superseded_by":[],

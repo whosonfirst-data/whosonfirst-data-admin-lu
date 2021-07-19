@@ -38,8 +38,9 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1125351511,
         85633275,
-        85673865
+        1745977441
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,15 @@
         {
             "continent_id":102191581,
             "country_id":85633275,
+            "localadmin_id":1125351511,
             "locality_id":1276801103,
-            "region_id":85673865
+            "region_id":1745977441
         }
     ],
     "wof:id":1276801103,
-    "wof:lastmodified":1625098675,
+    "wof:lastmodified":1626732791,
     "wof:name":"Gruef",
-    "wof:parent_id":85673865,
+    "wof:parent_id":1125351511,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-lu",
     "wof:superseded_by":[

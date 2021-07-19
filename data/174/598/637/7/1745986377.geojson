@@ -36,7 +36,13 @@
         "Ch\u00e2teau Faubourg"
     ],
     "src:geom":"geonames",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1745977449,
+        102191581,
+        1125303779,
+        85633275,
+        101845559
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2960692
@@ -44,7 +50,16 @@
     "wof:country":"LU",
     "wof:created":1625097079,
     "wof:geomhash":"c65a90e54e64d5181aeb6bb0fd013583",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1125303779,
+            "locality_id":101845559,
+            "neighbourhood_id":1745986377,
+            "region_id":1745977449
+        }
+    ],
     "wof:id":1745986377,
     "wof:lang_x_official":[
         "fra",
@@ -56,9 +71,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625177996,
+    "wof:lastmodified":1626732923,
     "wof:name":"Chateau Faubourg",
-    "wof:parent_id":-1,
+    "wof:parent_id":101845559,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-lu",
     "wof:superseded_by":[],

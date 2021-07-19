@@ -79,7 +79,13 @@
     "woe:name_adm0":"Luxembourg",
     "woe:name_adm1":"Diekirch",
     "woe:placetype":"Town",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1745977449,
+        102191581,
+        1745980851,
+        85633275,
+        1125952365
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2960779,
@@ -90,7 +96,16 @@
     "wof:country":"LU",
     "wof:created":1625097510,
     "wof:geomhash":"ce3f2a8c72e7fee51a2b5eb986f27697",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1745980851,
+            "locality_id":1125952365,
+            "neighbourhood_id":1745987295,
+            "region_id":1745977449
+        }
+    ],
     "wof:id":1745987295,
     "wof:lang_x_official":[
         "fra",
@@ -102,9 +117,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625178016,
+    "wof:lastmodified":1626733404,
     "wof:name":"Bettel",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125952365,
     "wof:placetype":"neighbourhood",
     "wof:population":223,
     "wof:population_rank":2,

@@ -93,8 +93,9 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
+        1125285639,
         85633275,
-        85673869
+        1745977445
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -110,14 +111,15 @@
         {
             "continent_id":102191581,
             "country_id":85633275,
+            "localadmin_id":1125285639,
             "locality_id":1125923159,
-            "region_id":85673869
+            "region_id":1745977445
         }
     ],
     "wof:id":1125923159,
-    "wof:lastmodified":1625098673,
+    "wof:lastmodified":1626732445,
     "wof:name":"M\u00fcllerthal",
-    "wof:parent_id":85673869,
+    "wof:parent_id":1125285639,
     "wof:placetype":"locality",
     "wof:population":152,
     "wof:population_rank":1,

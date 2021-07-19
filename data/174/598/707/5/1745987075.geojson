@@ -76,7 +76,11 @@
     "woe:name_adm1":"Diekirch",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85673865
+        1745977431,
+        102191581,
+        1125366387,
+        85633275,
+        101812881
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -88,7 +92,16 @@
     "wof:country":"LU",
     "wof:created":1625097425,
     "wof:geomhash":"8831a1ef69707d22324509c2bd9a17c1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1125366387,
+            "locality_id":101812881,
+            "neighbourhood_id":1745987075,
+            "region_id":1745977431
+        }
+    ],
     "wof:id":1745987075,
     "wof:lang_x_official":[
         "fra",
@@ -100,9 +113,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625178011,
+    "wof:lastmodified":1626733289,
     "wof:name":"Schandel",
-    "wof:parent_id":85673865,
+    "wof:parent_id":101812881,
     "wof:placetype":"neighbourhood",
     "wof:population":194,
     "wof:population_rank":1,

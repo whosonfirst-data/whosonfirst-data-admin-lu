@@ -37,7 +37,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85673875
+        1745977439,
+        102191581,
+        1745980845,
+        85633275,
+        1745984177
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,7 +50,16 @@
     "wof:country":"LU",
     "wof:created":1625097165,
     "wof:geomhash":"2327f36506d6e161b08a1cc0c7e5a801",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1745980845,
+            "locality_id":1745984177,
+            "neighbourhood_id":1745986587,
+            "region_id":1745977439
+        }
+    ],
     "wof:id":1745986587,
     "wof:lang_x_official":[
         "fra",
@@ -58,9 +71,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625178001,
+    "wof:lastmodified":1626733032,
     "wof:name":"Kneppchen",
-    "wof:parent_id":85673875,
+    "wof:parent_id":1745984177,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-lu",
     "wof:superseded_by":[],

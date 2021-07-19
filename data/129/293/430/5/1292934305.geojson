@@ -44,8 +44,9 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1125303385,
         85633275,
-        85673875
+        1745977439
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,14 +58,15 @@
         {
             "continent_id":102191581,
             "country_id":85633275,
+            "localadmin_id":1125303385,
             "locality_id":1292934305,
-            "region_id":85673875
+            "region_id":1745977439
         }
     ],
     "wof:id":1292934305,
-    "wof:lastmodified":1625098660,
+    "wof:lastmodified":1626732802,
     "wof:name":"Roost",
-    "wof:parent_id":85673875,
+    "wof:parent_id":1125303385,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-lu",
     "wof:superseded_by":[

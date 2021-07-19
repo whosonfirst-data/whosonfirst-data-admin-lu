@@ -71,7 +71,11 @@
     "woe:name_adm1":"Grevenmacher",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85673869
+        1745977443,
+        102191581,
+        1125283997,
+        85633275,
+        101812913
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -83,7 +87,16 @@
     "wof:country":"LU",
     "wof:created":1625097497,
     "wof:geomhash":"07eac46c9a884a2a87c5fab8412da115",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1125283997,
+            "locality_id":101812913,
+            "neighbourhood_id":1745987261,
+            "region_id":1745977443
+        }
+    ],
     "wof:id":1745987261,
     "wof:lang_x_official":[
         "fra",
@@ -95,9 +108,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625178016,
+    "wof:lastmodified":1626733386,
     "wof:name":"Filsdorf",
-    "wof:parent_id":85673869,
+    "wof:parent_id":101812913,
     "wof:placetype":"neighbourhood",
     "wof:population":371,
     "wof:population_rank":2,

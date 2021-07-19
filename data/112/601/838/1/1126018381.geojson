@@ -71,8 +71,9 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
+        1125286143,
         85633275,
-        85673875
+        1745977439
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -88,14 +89,15 @@
         {
             "continent_id":102191581,
             "country_id":85633275,
+            "localadmin_id":1125286143,
             "locality_id":1126018381,
-            "region_id":85673875
+            "region_id":1745977439
         }
     ],
     "wof:id":1126018381,
-    "wof:lastmodified":1625098681,
+    "wof:lastmodified":1626732588,
     "wof:name":"Rohlingen",
-    "wof:parent_id":85673875,
+    "wof:parent_id":1125286143,
     "wof:placetype":"locality",
     "wof:population":1448,
     "wof:population_rank":3,

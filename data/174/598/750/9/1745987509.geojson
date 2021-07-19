@@ -54,7 +54,13 @@
         "Bollendorf-Pont"
     ],
     "src:geom":"geonames",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1745977445,
+        102191581,
+        1125350967,
+        85633275,
+        101812871
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6696267,
@@ -63,7 +69,16 @@
     "wof:country":"LU",
     "wof:created":1625097593,
     "wof:geomhash":"59a2de648092723523b22c133a5e9a2e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1125350967,
+            "locality_id":101812871,
+            "neighbourhood_id":1745987509,
+            "region_id":1745977445
+        }
+    ],
     "wof:id":1745987509,
     "wof:lang_x_official":[
         "fra",
@@ -75,9 +90,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625178022,
+    "wof:lastmodified":1626733515,
     "wof:name":"Bollendorf-Pont",
-    "wof:parent_id":-1,
+    "wof:parent_id":101812871,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-lu",
     "wof:superseded_by":[],

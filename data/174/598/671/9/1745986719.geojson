@@ -250,7 +250,11 @@
     "woe:name_adm1":"Luxembourg",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85673875
+        1745977439,
+        102191581,
+        1745980835,
+        85633275,
+        1745984171
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -261,7 +265,16 @@
     "wof:country":"LU",
     "wof:created":1625097288,
     "wof:geomhash":"e108f414d42677c75532c04685f214d4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1745980835,
+            "locality_id":1745984171,
+            "neighbourhood_id":1745986719,
+            "region_id":1745977439
+        }
+    ],
     "wof:id":1745986719,
     "wof:lang_x_official":[
         "fra",
@@ -273,9 +286,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625178003,
+    "wof:lastmodified":1626733102,
     "wof:name":"Colmar",
-    "wof:parent_id":85673875,
+    "wof:parent_id":1745984171,
     "wof:placetype":"neighbourhood",
     "wof:population":1776,
     "wof:population_rank":3,

@@ -56,7 +56,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        102191581
+        102191581,
+        1125350967,
+        85633275,
+        1745977445
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -68,15 +71,16 @@
     "wof:hierarchy":[
         {
             "continent_id":102191581,
-            "country_id":-1,
+            "country_id":85633275,
+            "localadmin_id":1125350967,
             "locality_id":1226680149,
-            "region_id":-1
+            "region_id":1745977445
         }
     ],
     "wof:id":1226680149,
-    "wof:lastmodified":1625098671,
+    "wof:lastmodified":1626732727,
     "wof:name":"Bollendorf-Pont",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125350967,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-lu",
     "wof:superseded_by":[

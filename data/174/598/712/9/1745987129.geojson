@@ -104,7 +104,11 @@
     "woe:name_adm1":"Diekirch",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85673865
+        1745977441,
+        102191581,
+        1745980859,
+        85633275,
+        1745984191
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -116,7 +120,16 @@
     "wof:country":"LU",
     "wof:created":1625097445,
     "wof:geomhash":"b772f523850ea8e9914ab8595cc89df2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1745980859,
+            "locality_id":1745984191,
+            "neighbourhood_id":1745987129,
+            "region_id":1745977441
+        }
+    ],
     "wof:id":1745987129,
     "wof:lang_x_official":[
         "fra",
@@ -128,9 +141,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625178012,
+    "wof:lastmodified":1626733317,
     "wof:name":"Medernach",
-    "wof:parent_id":85673865,
+    "wof:parent_id":1745984191,
     "wof:placetype":"neighbourhood",
     "wof:population":907,
     "wof:population_rank":2,

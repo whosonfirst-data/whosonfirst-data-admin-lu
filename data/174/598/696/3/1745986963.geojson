@@ -69,7 +69,11 @@
     "woe:name_adm1":"Diekirch",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85673865
+        1745977451,
+        102191581,
+        1745980853,
+        85633275,
+        101811727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -81,7 +85,16 @@
     "wof:country":"LU",
     "wof:created":1625097379,
     "wof:geomhash":"477fa59149070b42fe1f10e35ebb3e04",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1745980853,
+            "locality_id":101811727,
+            "neighbourhood_id":1745986963,
+            "region_id":1745977451
+        }
+    ],
     "wof:id":1745986963,
     "wof:lang_x_official":[
         "fra",
@@ -93,9 +106,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625178009,
+    "wof:lastmodified":1626733230,
     "wof:name":"Derenbach",
-    "wof:parent_id":85673865,
+    "wof:parent_id":101811727,
     "wof:placetype":"neighbourhood",
     "wof:population":287,
     "wof:population_rank":2,

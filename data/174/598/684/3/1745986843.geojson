@@ -66,7 +66,11 @@
     "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85673865
+        1745977429,
+        102191581,
+        1125283425,
+        85633275,
+        1126028027
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -77,7 +81,16 @@
     "wof:country":"LU",
     "wof:created":1625097333,
     "wof:geomhash":"6fbee6ad1c2e21f8507a4b51aa6501a5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1125283425,
+            "locality_id":1126028027,
+            "neighbourhood_id":1745986843,
+            "region_id":1745977429
+        }
+    ],
     "wof:id":1745986843,
     "wof:lang_x_official":[
         "fra",
@@ -89,9 +102,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625178006,
+    "wof:lastmodified":1626733167,
     "wof:name":"Bavigne",
-    "wof:parent_id":85673865,
+    "wof:parent_id":1126028027,
     "wof:placetype":"neighbourhood",
     "wof:population":132,
     "wof:population_rank":1,

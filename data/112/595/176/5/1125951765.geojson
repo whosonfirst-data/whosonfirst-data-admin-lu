@@ -62,8 +62,9 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
+        1125325865,
         85633275,
-        85673865
+        1745977431
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -79,14 +80,15 @@
         {
             "continent_id":102191581,
             "country_id":85633275,
+            "localadmin_id":1125325865,
             "locality_id":1125951765,
-            "region_id":85673865
+            "region_id":1745977431
         }
     ],
     "wof:id":1125951765,
-    "wof:lastmodified":1625098659,
+    "wof:lastmodified":1626732491,
     "wof:name":"Levelange",
-    "wof:parent_id":85673865,
+    "wof:parent_id":1125325865,
     "wof:placetype":"locality",
     "wof:population":43,
     "wof:population_rank":1,

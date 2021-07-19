@@ -41,8 +41,9 @@
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
+        1125284497,
         85633275,
-        85673865
+        1745977429
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,14 +57,15 @@
         {
             "continent_id":102191581,
             "country_id":85633275,
+            "localadmin_id":1125284497,
             "locality_id":1125783739,
-            "region_id":85673865
+            "region_id":1745977429
         }
     ],
     "wof:id":1125783739,
-    "wof:lastmodified":1625098670,
+    "wof:lastmodified":1626732287,
     "wof:name":"Schleif",
-    "wof:parent_id":85673865,
+    "wof:parent_id":1125284497,
     "wof:placetype":"locality",
     "wof:population":8,
     "wof:population_rank":1,

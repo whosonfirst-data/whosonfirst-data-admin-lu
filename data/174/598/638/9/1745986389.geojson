@@ -67,7 +67,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85673875
+        1745977447,
+        102191581,
+        1125296455,
+        85633275,
+        101812889
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -76,7 +80,16 @@
     "wof:country":"LU",
     "wof:created":1625097083,
     "wof:geomhash":"f11e9e07bc0c4ebea49913cde1e0df99",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1125296455,
+            "locality_id":101812889,
+            "neighbourhood_id":1745986389,
+            "region_id":1745977447
+        }
+    ],
     "wof:id":1745986389,
     "wof:lang_x_official":[
         "fra",
@@ -88,9 +101,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625177996,
+    "wof:lastmodified":1626732929,
     "wof:name":"Weyer",
-    "wof:parent_id":85673875,
+    "wof:parent_id":101812889,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-lu",
     "wof:superseded_by":[],

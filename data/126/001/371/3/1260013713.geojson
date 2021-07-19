@@ -39,8 +39,9 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1125366357,
         85633275,
-        85673869
+        1745977447
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,15 @@
         {
             "continent_id":102191581,
             "country_id":85633275,
+            "localadmin_id":1125366357,
             "locality_id":1260013713,
-            "region_id":85673869
+            "region_id":1745977447
         }
     ],
     "wof:id":1260013713,
-    "wof:lastmodified":1625098664,
+    "wof:lastmodified":1626732761,
     "wof:name":"Wollefsmillen",
-    "wof:parent_id":85673869,
+    "wof:parent_id":1125366357,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-lu",
     "wof:superseded_by":[

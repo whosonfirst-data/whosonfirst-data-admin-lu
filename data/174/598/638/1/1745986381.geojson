@@ -97,7 +97,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85673869
+        1745977445,
+        102191581,
+        1125328045,
+        85633275,
+        1125921467
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -106,7 +110,16 @@
     "wof:country":"LU",
     "wof:created":1625097080,
     "wof:geomhash":"00559ef275e02457ae6860183812dbfa",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1125328045,
+            "locality_id":1125921467,
+            "neighbourhood_id":1745986381,
+            "region_id":1745977445
+        }
+    ],
     "wof:id":1745986381,
     "wof:lang_x_official":[
         "fra",
@@ -118,9 +131,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625177996,
+    "wof:lastmodified":1626732925,
     "wof:name":"Hersberg",
-    "wof:parent_id":85673869,
+    "wof:parent_id":1125921467,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-lu",
     "wof:superseded_by":[],

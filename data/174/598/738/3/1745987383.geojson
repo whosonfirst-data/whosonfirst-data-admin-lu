@@ -63,7 +63,11 @@
     "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85673869
+        1745977445,
+        102191581,
+        1125350967,
+        85633275,
+        101812871
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -74,7 +78,16 @@
     "wof:country":"LU",
     "wof:created":1625097544,
     "wof:geomhash":"65ebd72fbdc6adc929275e1a9a425f32",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1125350967,
+            "locality_id":101812871,
+            "neighbourhood_id":1745987383,
+            "region_id":1745977445
+        }
+    ],
     "wof:id":1745987383,
     "wof:lang_x_official":[
         "fra",
@@ -86,9 +99,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625178018,
+    "wof:lastmodified":1626733449,
     "wof:name":"Grundhof",
-    "wof:parent_id":85673869,
+    "wof:parent_id":101812871,
     "wof:placetype":"neighbourhood",
     "wof:population":27,
     "wof:population_rank":1,

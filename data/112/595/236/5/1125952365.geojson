@@ -118,8 +118,9 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
+        1745980851,
         85633275,
-        85673865
+        1745977449
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -138,8 +139,9 @@
         {
             "continent_id":102191581,
             "country_id":85633275,
+            "localadmin_id":1745980851,
             "locality_id":1125952365,
-            "region_id":85673865
+            "region_id":1745977449
         }
     ],
     "wof:id":1125952365,
@@ -153,9 +155,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625177990,
+    "wof:lastmodified":1626732200,
     "wof:name":"Tandel",
-    "wof:parent_id":85673865,
+    "wof:parent_id":1745980851,
     "wof:placetype":"locality",
     "wof:population":89,
     "wof:population_rank":1,

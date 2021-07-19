@@ -62,8 +62,9 @@
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
+        1125293961,
         85633275,
-        85673875
+        1745977435
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -77,14 +78,15 @@
         {
             "continent_id":102191581,
             "country_id":85633275,
+            "localadmin_id":1125293961,
             "locality_id":1125885007,
-            "region_id":85673875
+            "region_id":1745977435
         }
     ],
     "wof:id":1125885007,
-    "wof:lastmodified":1625098679,
+    "wof:lastmodified":1626732413,
     "wof:name":"Foetz",
-    "wof:parent_id":85673875,
+    "wof:parent_id":1125293961,
     "wof:placetype":"locality",
     "wof:population":483,
     "wof:population_rank":2,

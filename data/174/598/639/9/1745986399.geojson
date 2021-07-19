@@ -37,7 +37,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85673875
+        1745977427,
+        102191581,
+        1125410759,
+        85633275,
+        101753075
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,7 +50,16 @@
     "wof:country":"LU",
     "wof:created":1625097087,
     "wof:geomhash":"127d9ea641c72f75a4581dd1b3ac71ff",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1125410759,
+            "locality_id":101753075,
+            "neighbourhood_id":1745986399,
+            "region_id":1745977427
+        }
+    ],
     "wof:id":1745986399,
     "wof:lang_x_official":[
         "fra",
@@ -58,9 +71,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625177996,
+    "wof:lastmodified":1626732935,
     "wof:name":"Heienhaff",
-    "wof:parent_id":85673875,
+    "wof:parent_id":101753075,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-lu",
     "wof:superseded_by":[],

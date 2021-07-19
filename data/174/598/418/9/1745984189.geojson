@@ -18,12 +18,25 @@
     ],
     "src:geom":"lu-act",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        1745980855,
+        85633275,
+        1745977445
+    ],
     "wof:breaches":[],
     "wof:country":"LU",
     "wof:created":1625088923,
     "wof:geomhash":"1bfcc37185e3f9fc6e7d1b74ed0fe2ac",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1745980855,
+            "locality_id":1745984189,
+            "region_id":1745977445
+        }
+    ],
     "wof:id":1745984189,
     "wof:lang_x_official":[
         "fra",
@@ -35,9 +48,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625177995,
+    "wof:lastmodified":1626732231,
     "wof:name":"Rosport-Mompach",
-    "wof:parent_id":-1,
+    "wof:parent_id":1745980855,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-lu",
     "wof:superseded_by":[],

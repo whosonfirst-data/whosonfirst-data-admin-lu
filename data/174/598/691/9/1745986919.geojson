@@ -39,7 +39,11 @@
     "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85673869
+        1745977443,
+        102191581,
+        1125294523,
+        85633275,
+        1125894071
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,7 +53,16 @@
     "wof:country":"LU",
     "wof:created":1625097362,
     "wof:geomhash":"1dd8b5dc0bdd338e16650a512464035a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1125294523,
+            "locality_id":1125894071,
+            "neighbourhood_id":1745986919,
+            "region_id":1745977443
+        }
+    ],
     "wof:id":1745986919,
     "wof:lang_x_official":[
         "fra",
@@ -61,9 +74,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625178008,
+    "wof:lastmodified":1626733208,
     "wof:name":"Erpeldange-lez-Bous",
-    "wof:parent_id":85673869,
+    "wof:parent_id":1125894071,
     "wof:placetype":"neighbourhood",
     "wof:population":359,
     "wof:population_rank":2,

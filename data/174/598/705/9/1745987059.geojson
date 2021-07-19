@@ -72,7 +72,11 @@
     "woe:name_adm1":"Lorraine",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85673875
+        1745977433,
+        102191581,
+        1125284213,
+        85633275,
+        101845565
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -84,7 +88,16 @@
     "wof:country":"LU",
     "wof:created":1625097416,
     "wof:geomhash":"92da1995ecc769ed3e0ec20f8db1bf70",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1125284213,
+            "locality_id":101845565,
+            "neighbourhood_id":1745987059,
+            "region_id":1745977433
+        }
+    ],
     "wof:id":1745987059,
     "wof:lang_x_official":[
         "fra",
@@ -96,9 +109,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625178011,
+    "wof:lastmodified":1626733280,
     "wof:name":"Preisch",
-    "wof:parent_id":85673875,
+    "wof:parent_id":101845565,
     "wof:placetype":"neighbourhood",
     "wof:population":210,
     "wof:population_rank":2,

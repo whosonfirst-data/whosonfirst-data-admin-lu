@@ -49,8 +49,9 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
+        1125324097,
         85633275,
-        85673865
+        1745977451
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -65,14 +66,15 @@
         {
             "continent_id":102191581,
             "country_id":85633275,
+            "localadmin_id":1125324097,
             "locality_id":1126019751,
-            "region_id":85673865
+            "region_id":1745977451
         }
     ],
     "wof:id":1126019751,
-    "wof:lastmodified":1625098681,
+    "wof:lastmodified":1626732607,
     "wof:name":"Neidhausen",
-    "wof:parent_id":85673865,
+    "wof:parent_id":1125324097,
     "wof:placetype":"locality",
     "wof:population":53,
     "wof:population_rank":1,

@@ -31,7 +31,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85673865
+        1745977431,
+        102191581,
+        1125306043,
+        85633275,
+        1125861569
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,7 +44,16 @@
     "wof:country":"LU",
     "wof:created":1625097236,
     "wof:geomhash":"fcbd36651ab578db0c1fede2596458a1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1125306043,
+            "locality_id":1125861569,
+            "neighbourhood_id":1745986649,
+            "region_id":1745977431
+        }
+    ],
     "wof:id":1745986649,
     "wof:lang_x_official":[
         "fra",
@@ -52,9 +65,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625178002,
+    "wof:lastmodified":1626733065,
     "wof:name":"Brattert",
-    "wof:parent_id":85673865,
+    "wof:parent_id":1125861569,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-lu",
     "wof:superseded_by":[],

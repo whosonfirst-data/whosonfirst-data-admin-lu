@@ -39,8 +39,9 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1125285639,
         85633275,
-        85673869
+        1745977445
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,15 @@
         {
             "continent_id":102191581,
             "country_id":85633275,
+            "localadmin_id":1125285639,
             "locality_id":1293034681,
-            "region_id":85673869
+            "region_id":1745977445
         }
     ],
     "wof:id":1293034681,
-    "wof:lastmodified":1625098660,
+    "wof:lastmodified":1626732805,
     "wof:name":"Wolpert",
-    "wof:parent_id":85673869,
+    "wof:parent_id":1125285639,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-lu",
     "wof:superseded_by":[

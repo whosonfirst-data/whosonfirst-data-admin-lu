@@ -122,8 +122,9 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
+        1125284735,
         85633275,
-        85673875
+        1745977439
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -142,8 +143,9 @@
         {
             "continent_id":102191581,
             "country_id":85633275,
+            "localadmin_id":1125284735,
             "locality_id":1125984279,
-            "region_id":85673875
+            "region_id":1745977439
         }
     ],
     "wof:id":1125984279,
@@ -157,9 +159,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625177990,
+    "wof:lastmodified":1626732204,
     "wof:name":"Nommern",
-    "wof:parent_id":85673875,
+    "wof:parent_id":1125284735,
     "wof:placetype":"locality",
     "wof:population":272,
     "wof:population_rank":2,

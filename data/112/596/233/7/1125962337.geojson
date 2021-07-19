@@ -79,8 +79,9 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
+        1125376161,
         85633275,
-        85673875
+        1745977433
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -96,14 +97,15 @@
         {
             "continent_id":102191581,
             "country_id":85633275,
+            "localadmin_id":1125376161,
             "locality_id":1125962337,
-            "region_id":85673875
+            "region_id":1745977433
         }
     ],
     "wof:id":1125962337,
-    "wof:lastmodified":1625098668,
+    "wof:lastmodified":1626732542,
     "wof:name":"Nospelt",
-    "wof:parent_id":85673875,
+    "wof:parent_id":1125376161,
     "wof:placetype":"locality",
     "wof:population":766,
     "wof:population_rank":2,

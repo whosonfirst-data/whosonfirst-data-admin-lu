@@ -72,7 +72,11 @@
     "woe:name_adm1":"Luxembourg",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85673865
+        1745977431,
+        102191581,
+        1125306043,
+        85633275,
+        1125861569
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -84,7 +88,16 @@
     "wof:country":"LU",
     "wof:created":1625097320,
     "wof:geomhash":"350913b73a896a0ca5237a7ef31414b4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1125306043,
+            "locality_id":1125861569,
+            "neighbourhood_id":1745986807,
+            "region_id":1745977431
+        }
+    ],
     "wof:id":1745986807,
     "wof:lang_x_official":[
         "fra",
@@ -96,9 +109,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625178005,
+    "wof:lastmodified":1626733148,
     "wof:name":"Grevels",
-    "wof:parent_id":85673865,
+    "wof:parent_id":1125861569,
     "wof:placetype":"neighbourhood",
     "wof:population":207,
     "wof:population_rank":2,

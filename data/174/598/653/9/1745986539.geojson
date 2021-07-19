@@ -31,7 +31,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633275
+        1745977451,
+        102191581,
+        1745980853,
+        85633275,
+        101811727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,7 +44,16 @@
     "wof:country":"LU",
     "wof:created":1625097144,
     "wof:geomhash":"08171f3f399b3808645081e2ad94a80b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1745980853,
+            "locality_id":101811727,
+            "neighbourhood_id":1745986539,
+            "region_id":1745977451
+        }
+    ],
     "wof:id":1745986539,
     "wof:lang_x_official":[
         "fra",
@@ -52,9 +65,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625177999,
+    "wof:lastmodified":1626733009,
     "wof:name":"Lentzweiler",
-    "wof:parent_id":85633275,
+    "wof:parent_id":101811727,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-lu",
     "wof:superseded_by":[],

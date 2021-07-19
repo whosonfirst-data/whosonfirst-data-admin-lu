@@ -67,7 +67,13 @@
     "woe:name_adm0":"Deutschland",
     "woe:name_adm1":"Rheinland-Pfalz",
     "woe:placetype":"Town",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1745977451,
+        102191581,
+        1125411213,
+        85633275,
+        101811723
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2960398,
@@ -78,7 +84,16 @@
     "wof:country":"LU",
     "wof:created":1625097523,
     "wof:geomhash":"0fcf799371ae452e0b14c198f62cfe03",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1125411213,
+            "locality_id":101811723,
+            "neighbourhood_id":1745987329,
+            "region_id":1745977451
+        }
+    ],
     "wof:id":1745987329,
     "wof:lang_x_official":[
         "fra",
@@ -90,9 +105,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625178017,
+    "wof:lastmodified":1626733422,
     "wof:name":"Malborn",
-    "wof:parent_id":-1,
+    "wof:parent_id":101811723,
     "wof:placetype":"neighbourhood",
     "wof:population":58,
     "wof:population_rank":1,

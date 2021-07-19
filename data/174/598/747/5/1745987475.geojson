@@ -36,7 +36,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85673869
+        1745977443,
+        102191581,
+        1125283997,
+        85633275,
+        101812913
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,7 +49,16 @@
     "wof:country":"LU",
     "wof:created":1625097579,
     "wof:geomhash":"9e73b8a137152f3f3cdbb5e8a6911f3b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1125283997,
+            "locality_id":101812913,
+            "neighbourhood_id":1745987475,
+            "region_id":1745977443
+        }
+    ],
     "wof:id":1745987475,
     "wof:lang_x_official":[
         "fra",
@@ -57,9 +70,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625178021,
+    "wof:lastmodified":1626733497,
     "wof:name":"Reckingerhaff",
-    "wof:parent_id":85673869,
+    "wof:parent_id":101812913,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-lu",
     "wof:superseded_by":[],

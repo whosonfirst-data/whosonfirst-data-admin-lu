@@ -71,7 +71,11 @@
     "woe:name_adm1":"Grevenmacher",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85673869
+        1745977443,
+        102191581,
+        1125366329,
+        85633275,
+        101812921
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -83,7 +87,16 @@
     "wof:country":"LU",
     "wof:created":1625097411,
     "wof:geomhash":"eda06d949cc59982569ee8684ebdf1f8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1125366329,
+            "locality_id":101812921,
+            "neighbourhood_id":1745987045,
+            "region_id":1745977443
+        }
+    ],
     "wof:id":1745987045,
     "wof:lang_x_official":[
         "fra",
@@ -95,9 +108,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625178010,
+    "wof:lastmodified":1626733273,
     "wof:name":"Altwies",
-    "wof:parent_id":85673869,
+    "wof:parent_id":101812921,
     "wof:placetype":"neighbourhood",
     "wof:population":617,
     "wof:population_rank":2,

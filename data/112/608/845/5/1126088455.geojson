@@ -38,10 +38,11 @@
     "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
+        1745977435,
         102191581,
-        101839817,
+        1125280445,
         85633275,
-        85673875
+        101839817
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,9 +56,10 @@
         {
             "continent_id":102191581,
             "country_id":85633275,
+            "localadmin_id":1125280445,
             "locality_id":101839817,
             "neighbourhood_id":1126088455,
-            "region_id":85673875
+            "region_id":1745977435
         }
     ],
     "wof:id":1126088455,
@@ -71,7 +73,7 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625177991,
+    "wof:lastmodified":1626733545,
     "wof:name":"Niedercorn",
     "wof:parent_id":101839817,
     "wof:placetype":"neighbourhood",

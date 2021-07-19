@@ -95,7 +95,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85673875
+        1745977427,
+        102191581,
+        1125286201,
+        85633275,
+        101751765
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -104,7 +108,16 @@
     "wof:country":"LU",
     "wof:created":1625097099,
     "wof:geomhash":"137df8e23c626571a8cb97c916cd2948",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1125286201,
+            "locality_id":101751765,
+            "neighbourhood_id":1745986431,
+            "region_id":1745977427
+        }
+    ],
     "wof:id":1745986431,
     "wof:lang_x_official":[
         "fra",
@@ -116,9 +129,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625177997,
+    "wof:lastmodified":1626732951,
     "wof:name":"Septfontaines",
-    "wof:parent_id":85673875,
+    "wof:parent_id":101751765,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-lu",
     "wof:superseded_by":[],

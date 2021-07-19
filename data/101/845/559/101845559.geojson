@@ -190,7 +190,9 @@
     "wd:wordcount":1562,
     "wof:belongsto":[
         102191581,
-        85633275
+        1125303779,
+        85633275,
+        1745977449
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -210,8 +212,9 @@
         {
             "continent_id":102191581,
             "country_id":85633275,
+            "localadmin_id":1125303779,
             "locality_id":101845559,
-            "region_id":-1
+            "region_id":1745977449
         }
     ],
     "wof:id":101845559,
@@ -228,9 +231,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625177982,
+    "wof:lastmodified":1626732166,
     "wof:name":"Vianden",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125303779,
     "wof:placetype":"locality",
     "wof:population":1888,
     "wof:population_rank":3,

@@ -37,7 +37,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85673869
+        1745977443,
+        102191581,
+        1125325879,
+        85633275,
+        101854573
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,7 +50,16 @@
     "wof:country":"LU",
     "wof:created":1625097070,
     "wof:geomhash":"0f476cbba5a822fec866c861e7886c62",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1125325879,
+            "locality_id":101854573,
+            "neighbourhood_id":1745986357,
+            "region_id":1745977443
+        }
+    ],
     "wof:id":1745986357,
     "wof:lang_x_official":[
         "fra",
@@ -58,9 +71,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625177995,
+    "wof:lastmodified":1626732912,
     "wof:name":"Scheierhaff",
-    "wof:parent_id":85673869,
+    "wof:parent_id":101854573,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-lu",
     "wof:superseded_by":[],

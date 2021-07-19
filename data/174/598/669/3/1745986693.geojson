@@ -122,7 +122,11 @@
     "woe:name_adm1":"Rheinland-Pfalz",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85673865
+        1745977431,
+        102191581,
+        1125306051,
+        85633275,
+        1745984173
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -134,7 +138,16 @@
     "wof:country":"LU",
     "wof:created":1625097277,
     "wof:geomhash":"dff0a7b6e686064c11c4c16b3fbe034f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1125306051,
+            "locality_id":1745984173,
+            "neighbourhood_id":1745986693,
+            "region_id":1745977431
+        }
+    ],
     "wof:id":1745986693,
     "wof:lang_x_official":[
         "fra",
@@ -146,9 +159,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625178003,
+    "wof:lastmodified":1626733088,
     "wof:name":"Fell",
-    "wof:parent_id":85673865,
+    "wof:parent_id":1745984173,
     "wof:placetype":"neighbourhood",
     "wof:population":359,
     "wof:population_rank":2,

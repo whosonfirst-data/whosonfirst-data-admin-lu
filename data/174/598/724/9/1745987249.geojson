@@ -63,7 +63,11 @@
     "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85673865
+        1745977429,
+        102191581,
+        1125284497,
+        85633275,
+        1126025653
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -74,7 +78,16 @@
     "wof:country":"LU",
     "wof:created":1625097491,
     "wof:geomhash":"dd3a818081b8df21a9c5eeb25a249be8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1125284497,
+            "locality_id":1126025653,
+            "neighbourhood_id":1745987249,
+            "region_id":1745977429
+        }
+    ],
     "wof:id":1745987249,
     "wof:lang_x_official":[
         "fra",
@@ -86,9 +99,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625178015,
+    "wof:lastmodified":1626733379,
     "wof:name":"Berl\u00e9",
-    "wof:parent_id":85673865,
+    "wof:parent_id":1126025653,
     "wof:placetype":"neighbourhood",
     "wof:population":110,
     "wof:population_rank":1,

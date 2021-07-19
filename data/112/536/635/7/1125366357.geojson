@@ -123,9 +123,8 @@
     "woe:placetype":"LocalAdmin",
     "wof:belongsto":[
         102191581,
-        85633111,
-        85682491,
-        102063545
+        85633275,
+        1745977447
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -142,10 +141,9 @@
     "wof:hierarchy":[
         {
             "continent_id":102191581,
-            "country_id":85633111,
-            "county_id":102063545,
+            "country_id":85633275,
             "localadmin_id":1125366357,
-            "region_id":85682491
+            "region_id":1745977447
         }
     ],
     "wof:id":1125366357,
@@ -159,9 +157,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625177987,
+    "wof:lastmodified":1626732007,
     "wof:name":"Mertert",
-    "wof:parent_id":102063545,
+    "wof:parent_id":1745977447,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-lu",
     "wof:superseded_by":[],

@@ -39,7 +39,11 @@
     "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85673869
+        1745977443,
+        102191581,
+        1745980847,
+        85633275,
+        1125883515
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,7 +53,16 @@
     "wof:country":"LU",
     "wof:created":1625097550,
     "wof:geomhash":"757a14fec848bd81f67ac974d008d71c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1745980847,
+            "locality_id":1125883515,
+            "neighbourhood_id":1745987399,
+            "region_id":1745977443
+        }
+    ],
     "wof:id":1745987399,
     "wof:lang_x_official":[
         "fra",
@@ -61,9 +74,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625178019,
+    "wof:lastmodified":1626733458,
     "wof:name":"Elvange-l\u00e8s-Burmerange",
-    "wof:parent_id":85673869,
+    "wof:parent_id":1125883515,
     "wof:placetype":"neighbourhood",
     "wof:population":713,
     "wof:population_rank":2,

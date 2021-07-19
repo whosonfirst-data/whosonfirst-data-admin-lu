@@ -46,7 +46,13 @@
     "woe:name_adm0":"Luxembourg",
     "woe:name_adm1":"Grevenmacher",
     "woe:placetype":"Town",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1745977445,
+        102191581,
+        1745980855,
+        85633275,
+        1745984189
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2960541,
@@ -56,7 +62,16 @@
     "wof:country":"LU",
     "wof:created":1625097316,
     "wof:geomhash":"e0d0e7583b1d06909023dcd6ea3a3668",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1745980855,
+            "locality_id":1745984189,
+            "neighbourhood_id":1745986795,
+            "region_id":1745977445
+        }
+    ],
     "wof:id":1745986795,
     "wof:lang_x_official":[
         "fra",
@@ -68,9 +83,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625178005,
+    "wof:lastmodified":1626733142,
     "wof:name":"Girsterklaus",
-    "wof:parent_id":-1,
+    "wof:parent_id":1745984189,
     "wof:placetype":"neighbourhood",
     "wof:population":12,
     "wof:population_rank":1,

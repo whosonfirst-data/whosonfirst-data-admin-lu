@@ -49,7 +49,11 @@
     "woe:name_adm1":"Diekirch",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85673865
+        1745977431,
+        102191581,
+        1125306043,
+        85633275,
+        1125861569
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,7 +64,16 @@
     "wof:country":"LU",
     "wof:created":1625097451,
     "wof:geomhash":"34978974f97eb016af8982a90a9c932f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1125306043,
+            "locality_id":1125861569,
+            "neighbourhood_id":1745987145,
+            "region_id":1745977431
+        }
+    ],
     "wof:id":1745987145,
     "wof:lang_x_official":[
         "fra",
@@ -72,9 +85,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625178013,
+    "wof:lastmodified":1626733325,
     "wof:name":"Kuborn",
-    "wof:parent_id":85673865,
+    "wof:parent_id":1125861569,
     "wof:placetype":"neighbourhood",
     "wof:population":75,
     "wof:population_rank":1,

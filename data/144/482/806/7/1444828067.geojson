@@ -34,10 +34,11 @@
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
+        1745977427,
         102191581,
-        101751765,
+        1125286201,
         85633275,
-        85673875
+        101751765
     ],
     "wof:breaches":[],
     "wof:country":"LU",
@@ -46,9 +47,10 @@
         {
             "continent_id":102191581,
             "country_id":85633275,
+            "localadmin_id":1125286201,
             "locality_id":101751765,
             "neighbourhood_id":1444828067,
-            "region_id":85673875
+            "region_id":1745977427
         }
     ],
     "wof:id":1444828067,
@@ -62,7 +64,7 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625177992,
+    "wof:lastmodified":1626733559,
     "wof:name":"Gronn",
     "wof:parent_id":101751765,
     "wof:placetype":"neighbourhood",

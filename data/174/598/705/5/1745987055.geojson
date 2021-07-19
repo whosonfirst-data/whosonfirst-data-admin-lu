@@ -71,7 +71,11 @@
     "woe:name_adm1":"Luxembourg",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85673875
+        1745977439,
+        102191581,
+        1125366377,
+        85633275,
+        1125990641
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -83,7 +87,16 @@
     "wof:country":"LU",
     "wof:created":1625097414,
     "wof:geomhash":"2e4acfa81b9ef20c9d2f0d82f9a0dd1e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1125366377,
+            "locality_id":1125990641,
+            "neighbourhood_id":1745987055,
+            "region_id":1745977439
+        }
+    ],
     "wof:id":1745987055,
     "wof:lang_x_official":[
         "fra",
@@ -95,9 +108,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625178011,
+    "wof:lastmodified":1626733278,
     "wof:name":"Blaschette",
-    "wof:parent_id":85673875,
+    "wof:parent_id":1125990641,
     "wof:placetype":"neighbourhood",
     "wof:population":465,
     "wof:population_rank":2,

@@ -36,7 +36,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85673869
+        1745977447,
+        102191581,
+        1125325873,
+        85633275,
+        101854569
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,7 +49,16 @@
     "wof:country":"LU",
     "wof:created":1625097568,
     "wof:geomhash":"40e85d10e3fb379f192ffbf7e3f85332",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1125325873,
+            "locality_id":101854569,
+            "neighbourhood_id":1745987447,
+            "region_id":1745977447
+        }
+    ],
     "wof:id":1745987447,
     "wof:lang_x_official":[
         "fra",
@@ -57,9 +70,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625178020,
+    "wof:lastmodified":1626733482,
     "wof:name":"Keisbierg",
-    "wof:parent_id":85673869,
+    "wof:parent_id":101854569,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-lu",
     "wof:superseded_by":[],

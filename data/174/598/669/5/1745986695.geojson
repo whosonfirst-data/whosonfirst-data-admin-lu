@@ -77,7 +77,11 @@
     "woe:name_adm1":"Diekirch",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85673865
+        1745977451,
+        102191581,
+        1125352097,
+        85633275,
+        1125811873
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -89,7 +93,16 @@
     "wof:country":"LU",
     "wof:created":1625097278,
     "wof:geomhash":"19a82389973d6d64e10bed173e097854",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1125352097,
+            "locality_id":1125811873,
+            "neighbourhood_id":1745986695,
+            "region_id":1745977451
+        }
+    ],
     "wof:id":1745986695,
     "wof:lang_x_official":[
         "fra",
@@ -101,9 +114,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625178003,
+    "wof:lastmodified":1626733089,
     "wof:name":"Wilwerdange",
-    "wof:parent_id":85673865,
+    "wof:parent_id":1125811873,
     "wof:placetype":"neighbourhood",
     "wof:population":268,
     "wof:population_rank":2,

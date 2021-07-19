@@ -79,7 +79,11 @@
     "woe:name_adm1":"Luxembourg",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85673875
+        1745977435,
+        102191581,
+        1125357423,
+        85633275,
+        101812917
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -91,7 +95,16 @@
     "wof:country":"LU",
     "wof:created":1625097404,
     "wof:geomhash":"3415ac1b350ca6ffe953e0fa457cf6ae",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1125357423,
+            "locality_id":101812917,
+            "neighbourhood_id":1745987025,
+            "region_id":1745977435
+        }
+    ],
     "wof:id":1745987025,
     "wof:lang_x_official":[
         "fra",
@@ -103,9 +116,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625178010,
+    "wof:lastmodified":1626733263,
     "wof:name":"Noertzange",
-    "wof:parent_id":85673875,
+    "wof:parent_id":101812917,
     "wof:placetype":"neighbourhood",
     "wof:population":999,
     "wof:population_rank":2,

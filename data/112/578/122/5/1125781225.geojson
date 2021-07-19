@@ -74,8 +74,9 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
+        1125376161,
         85633275,
-        85673875
+        1745977433
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -91,14 +92,15 @@
         {
             "continent_id":102191581,
             "country_id":85633275,
+            "localadmin_id":1125376161,
             "locality_id":1125781225,
-            "region_id":85673875
+            "region_id":1745977433
         }
     ],
     "wof:id":1125781225,
-    "wof:lastmodified":1625098670,
+    "wof:lastmodified":1626732279,
     "wof:name":"Meispelt",
-    "wof:parent_id":85673875,
+    "wof:parent_id":1125376161,
     "wof:placetype":"locality",
     "wof:population":290,
     "wof:population_rank":2,

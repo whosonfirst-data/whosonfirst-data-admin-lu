@@ -71,8 +71,9 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
+        1125375263,
         85633275,
-        85673875
+        1745977427
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -88,14 +89,15 @@
         {
             "continent_id":102191581,
             "country_id":85633275,
+            "localadmin_id":1125375263,
             "locality_id":1125861549,
-            "region_id":85673875
+            "region_id":1745977427
         }
     ],
     "wof:id":1125861549,
-    "wof:lastmodified":1625098662,
+    "wof:lastmodified":1626732373,
     "wof:name":"Uebersyren",
-    "wof:parent_id":85673875,
+    "wof:parent_id":1125375263,
     "wof:placetype":"locality",
     "wof:population":616,
     "wof:population_rank":2,

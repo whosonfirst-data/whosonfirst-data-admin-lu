@@ -35,7 +35,13 @@
         "Fronay"
     ],
     "src:geom":"geonames",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1745977447,
+        102191581,
+        1125415535,
+        85633275,
+        101839801
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2960554
@@ -43,7 +49,16 @@
     "wof:country":"LU",
     "wof:created":1625097594,
     "wof:geomhash":"6e43f73c70b4ec23a2c766bdb109596a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1125415535,
+            "locality_id":101839801,
+            "neighbourhood_id":1745987513,
+            "region_id":1745977447
+        }
+    ],
     "wof:id":1745987513,
     "wof:lang_x_official":[
         "fra",
@@ -55,9 +70,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625178022,
+    "wof:lastmodified":1626733517,
     "wof:name":"Fronay",
-    "wof:parent_id":-1,
+    "wof:parent_id":101839801,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-lu",
     "wof:superseded_by":[],

@@ -66,7 +66,11 @@
     "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85673875
+        1745977435,
+        102191581,
+        1125293961,
+        85633275,
+        101812915
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -77,7 +81,16 @@
     "wof:country":"LU",
     "wof:created":1625097561,
     "wof:geomhash":"43a855765b049cb5c84ee8952f2472e3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1125293961,
+            "locality_id":101812915,
+            "neighbourhood_id":1745987425,
+            "region_id":1745977435
+        }
+    ],
     "wof:id":1745987425,
     "wof:lang_x_official":[
         "fra",
@@ -89,9 +102,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625178020,
+    "wof:lastmodified":1626733472,
     "wof:name":"Pontpierre",
-    "wof:parent_id":85673875,
+    "wof:parent_id":101812915,
     "wof:placetype":"neighbourhood",
     "wof:population":1009,
     "wof:population_rank":3,

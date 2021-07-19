@@ -36,7 +36,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85673869
+        85682491,
+        102191581,
+        1125311551,
+        85633111,
+        101813323,
+        102063545
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,7 +50,17 @@
     "wof:country":"LU",
     "wof:created":1625097094,
     "wof:geomhash":"cb63e3d8b95240166283d5f7b5ff04fb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063545,
+            "localadmin_id":1125311551,
+            "locality_id":101813323,
+            "neighbourhood_id":1745986417,
+            "region_id":85682491
+        }
+    ],
     "wof:id":1745986417,
     "wof:lang_x_official":[
         "fra",
@@ -57,9 +72,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625177997,
+    "wof:lastmodified":1626732945,
     "wof:name":"Dreiborn",
-    "wof:parent_id":85673869,
+    "wof:parent_id":101813323,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-lu",
     "wof:superseded_by":[],

@@ -75,7 +75,13 @@
     "woe:name_adm0":"Deutschland",
     "woe:name_adm1":"Rheinland-Pfalz",
     "woe:placetype":"Town",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1745977445,
+        102191581,
+        1125350967,
+        85633275,
+        101812871
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2959997,
@@ -86,7 +92,16 @@
     "wof:country":"LU",
     "wof:created":1625097298,
     "wof:geomhash":"3de913590b73202d30074f68bb9f0684",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1125350967,
+            "locality_id":101812871,
+            "neighbourhood_id":1745986749,
+            "region_id":1745977445
+        }
+    ],
     "wof:id":1745986749,
     "wof:lang_x_official":[
         "fra",
@@ -98,9 +113,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625178004,
+    "wof:lastmodified":1626733117,
     "wof:name":"Weilerbach",
-    "wof:parent_id":-1,
+    "wof:parent_id":101812871,
     "wof:placetype":"neighbourhood",
     "wof:population":274,
     "wof:population_rank":2,

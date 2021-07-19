@@ -79,8 +79,9 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
+        1125283997,
         85633275,
-        85673869
+        1745977443
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -96,14 +97,15 @@
         {
             "continent_id":102191581,
             "country_id":85633275,
+            "localadmin_id":1125283997,
             "locality_id":1125781365,
-            "region_id":85673869
+            "region_id":1745977443
         }
     ],
     "wof:id":1125781365,
-    "wof:lastmodified":1625098671,
+    "wof:lastmodified":1626732283,
     "wof:name":"Welfrange",
-    "wof:parent_id":85673869,
+    "wof:parent_id":1125283997,
     "wof:placetype":"locality",
     "wof:population":154,
     "wof:population_rank":1,

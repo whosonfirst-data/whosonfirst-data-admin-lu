@@ -119,7 +119,9 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
-        85633275
+        1125341017,
+        85633275,
+        1745977443
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -138,8 +140,9 @@
         {
             "continent_id":102191581,
             "country_id":85633275,
+            "localadmin_id":1125341017,
             "locality_id":1126037707,
-            "region_id":-1
+            "region_id":1745977443
         }
     ],
     "wof:id":1126037707,
@@ -153,9 +156,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625177991,
+    "wof:lastmodified":1626732217,
     "wof:name":"Stadtbredimus",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125341017,
     "wof:placetype":"locality",
     "wof:population":749,
     "wof:population_rank":2,

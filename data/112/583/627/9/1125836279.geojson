@@ -77,8 +77,11 @@
     "woe:name_adm1":"Grevenmacher",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682491,
         102191581,
-        85633275
+        1125311551,
+        85633111,
+        102063545
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -93,15 +96,17 @@
     "wof:hierarchy":[
         {
             "continent_id":102191581,
-            "country_id":85633275,
+            "country_id":85633111,
+            "county_id":102063545,
+            "localadmin_id":1125311551,
             "locality_id":1125836279,
-            "region_id":-1
+            "region_id":85682491
         }
     ],
     "wof:id":1125836279,
-    "wof:lastmodified":1625098680,
+    "wof:lastmodified":1626732326,
     "wof:name":"Machtum",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125311551,
     "wof:placetype":"locality",
     "wof:population":304,
     "wof:population_rank":2,

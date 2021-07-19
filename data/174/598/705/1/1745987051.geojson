@@ -51,7 +51,11 @@
     "woe:name_adm1":"Luxembourg",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85673875
+        1745977439,
+        102191581,
+        1125402083,
+        85633275,
+        101810569
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,7 +66,16 @@
     "wof:country":"LU",
     "wof:created":1625097413,
     "wof:geomhash":"af645a1381c3cc9e2f268fe5c5caa231",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1125402083,
+            "locality_id":101810569,
+            "neighbourhood_id":1745987051,
+            "region_id":1745977439
+        }
+    ],
     "wof:id":1745987051,
     "wof:lang_x_official":[
         "fra",
@@ -74,9 +87,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625178010,
+    "wof:lastmodified":1626733276,
     "wof:name":"Meysembourg",
-    "wof:parent_id":85673875,
+    "wof:parent_id":101810569,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-lu",
     "wof:superseded_by":[],

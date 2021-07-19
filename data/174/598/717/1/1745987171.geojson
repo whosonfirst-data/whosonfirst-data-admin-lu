@@ -89,7 +89,11 @@
     "woe:name_adm1":"Grevenmacher",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85673869
+        1745977443,
+        102191581,
+        1125294523,
+        85633275,
+        1125894071
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -100,7 +104,16 @@
     "wof:country":"LU",
     "wof:created":1625097462,
     "wof:geomhash":"788c6a39215b217988237c05caa20730",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1125294523,
+            "locality_id":1125894071,
+            "neighbourhood_id":1745987171,
+            "region_id":1745977443
+        }
+    ],
     "wof:id":1745987171,
     "wof:lang_x_official":[
         "fra",
@@ -112,9 +125,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625178013,
+    "wof:lastmodified":1626733339,
     "wof:name":"Rolling",
-    "wof:parent_id":85673869,
+    "wof:parent_id":1125894071,
     "wof:placetype":"neighbourhood",
     "wof:population":117,
     "wof:population_rank":1,

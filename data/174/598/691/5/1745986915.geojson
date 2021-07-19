@@ -114,7 +114,11 @@
     "woe:name_adm1":"Lorraine",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85673865
+        1745977431,
+        102191581,
+        1125325865,
+        85633275,
+        101845563
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -125,7 +129,16 @@
     "wof:country":"LU",
     "wof:created":1625097360,
     "wof:geomhash":"3bb51737d6a8c998af4c9399f582179f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1125325865,
+            "locality_id":101845563,
+            "neighbourhood_id":1745986915,
+            "region_id":1745977431
+        }
+    ],
     "wof:id":1745986915,
     "wof:lang_x_official":[
         "fra",
@@ -137,9 +150,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625178008,
+    "wof:lastmodified":1626733205,
     "wof:name":"Schweix",
-    "wof:parent_id":85673865,
+    "wof:parent_id":101845563,
     "wof:placetype":"neighbourhood",
     "wof:population":194,
     "wof:population_rank":1,

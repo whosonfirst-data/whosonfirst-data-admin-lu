@@ -77,7 +77,11 @@
     "woe:name_adm1":"Luxembourg",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85673875
+        1745977439,
+        102191581,
+        1745980845,
+        85633275,
+        1745984177
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -89,7 +93,16 @@
     "wof:country":"LU",
     "wof:created":1625097343,
     "wof:geomhash":"bc33ab03b741123557c2be03dce54423",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1745980845,
+            "locality_id":1745984177,
+            "neighbourhood_id":1745986871,
+            "region_id":1745977439
+        }
+    ],
     "wof:id":1745986871,
     "wof:lang_x_official":[
         "fra",
@@ -101,9 +114,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625178007,
+    "wof:lastmodified":1626733181,
     "wof:name":"Hollenfels",
-    "wof:parent_id":85673875,
+    "wof:parent_id":1745984177,
     "wof:placetype":"neighbourhood",
     "wof:population":247,
     "wof:population_rank":2,

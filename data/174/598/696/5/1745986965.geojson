@@ -72,7 +72,11 @@
     "woe:name_adm1":"Diekirch",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85673865
+        1745977429,
+        102191581,
+        1125298213,
+        85633275,
+        1125882147
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -84,7 +88,16 @@
     "wof:country":"LU",
     "wof:created":1625097379,
     "wof:geomhash":"e831ba7201b6c5d43130bb22e7c6f5b0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1125298213,
+            "locality_id":1125882147,
+            "neighbourhood_id":1745986965,
+            "region_id":1745977429
+        }
+    ],
     "wof:id":1745986965,
     "wof:lang_x_official":[
         "fra",
@@ -96,9 +109,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625178009,
+    "wof:lastmodified":1626733231,
     "wof:name":"Buderscheid",
-    "wof:parent_id":85673865,
+    "wof:parent_id":1125882147,
     "wof:placetype":"neighbourhood",
     "wof:population":126,
     "wof:population_rank":1,

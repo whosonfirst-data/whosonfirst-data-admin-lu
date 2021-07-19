@@ -80,7 +80,11 @@
     "woe:name_adm1":"Diekirch",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85673865
+        1745977429,
+        102191581,
+        1125366297,
+        85633275,
+        1125796641
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -92,7 +96,16 @@
     "wof:country":"LU",
     "wof:created":1625097483,
     "wof:geomhash":"392a24c8ab15c1167e3bafd69fb27afe",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1125366297,
+            "locality_id":1125796641,
+            "neighbourhood_id":1745987227,
+            "region_id":1745977429
+        }
+    ],
     "wof:id":1745987227,
     "wof:lang_x_official":[
         "fra",
@@ -104,9 +117,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625178015,
+    "wof:lastmodified":1626733368,
     "wof:name":"Surr\u00e9",
-    "wof:parent_id":85673865,
+    "wof:parent_id":1125796641,
     "wof:placetype":"neighbourhood",
     "wof:population":190,
     "wof:population_rank":1,

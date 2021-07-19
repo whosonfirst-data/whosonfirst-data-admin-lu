@@ -80,7 +80,11 @@
     "woe:name_adm1":"Diekirch",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85673865
+        1745977449,
+        102191581,
+        1745980851,
+        85633275,
+        1125952365
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -92,7 +96,16 @@
     "wof:country":"LU",
     "wof:created":1625097331,
     "wof:geomhash":"51f70875f99472dbe7d90fc592143991",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1745980851,
+            "locality_id":1125952365,
+            "neighbourhood_id":1745986839,
+            "region_id":1745977449
+        }
+    ],
     "wof:id":1745986839,
     "wof:lang_x_official":[
         "fra",
@@ -104,9 +117,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625178006,
+    "wof:lastmodified":1626733165,
     "wof:name":"Fouhren",
-    "wof:parent_id":85673865,
+    "wof:parent_id":1125952365,
     "wof:placetype":"neighbourhood",
     "wof:population":380,
     "wof:population_rank":2,

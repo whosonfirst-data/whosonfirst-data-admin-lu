@@ -48,7 +48,11 @@
     "woe:name_adm1":"Diekirch",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85673865
+        1745977449,
+        102191581,
+        1745980851,
+        85633275,
+        1125952365
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,7 +63,16 @@
     "wof:country":"LU",
     "wof:created":1625097314,
     "wof:geomhash":"f5a6f02b22f6811373fbf29974639423",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1745980851,
+            "locality_id":1125952365,
+            "neighbourhood_id":1745986791,
+            "region_id":1745977449
+        }
+    ],
     "wof:id":1745986791,
     "wof:lang_x_official":[
         "fra",
@@ -71,9 +84,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625178005,
+    "wof:lastmodified":1626733140,
     "wof:name":"Waldsdorf",
-    "wof:parent_id":85673865,
+    "wof:parent_id":1125952365,
     "wof:placetype":"neighbourhood",
     "wof:population":68,
     "wof:population_rank":1,

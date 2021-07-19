@@ -50,7 +50,11 @@
     "woe:name_adm1":"Diekirch",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85673865
+        1745977441,
+        102191581,
+        1745980859,
+        85633275,
+        1745984191
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,7 +65,16 @@
     "wof:country":"LU",
     "wof:created":1625097509,
     "wof:geomhash":"cec2e24a50bbf4db9c2faae6abd336db",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1745980859,
+            "locality_id":1745984191,
+            "neighbourhood_id":1745987293,
+            "region_id":1745977441
+        }
+    ],
     "wof:id":1745987293,
     "wof:lang_x_official":[
         "fra",
@@ -73,9 +86,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625178016,
+    "wof:lastmodified":1626733403,
     "wof:name":"Folkendange",
-    "wof:parent_id":85673865,
+    "wof:parent_id":1745984191,
     "wof:placetype":"neighbourhood",
     "wof:population":21,
     "wof:population_rank":1,

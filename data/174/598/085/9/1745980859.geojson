@@ -20,12 +20,23 @@
     ],
     "src:geom":"lu-act",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633275,
+        1745977441
+    ],
     "wof:breaches":[],
     "wof:country":"LU",
     "wof:created":1624995632,
     "wof:geomhash":"30c40bc96318835af9f55b944b410093",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1745980859,
+            "region_id":1745977441
+        }
+    ],
     "wof:id":1745980859,
     "wof:lang_x_official":[
         "fra",
@@ -37,9 +48,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625177994,
+    "wof:lastmodified":1626732061,
     "wof:name":"Vall\u00e9e de l'Ernz",
-    "wof:parent_id":-1,
+    "wof:parent_id":1745977441,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-lu",
     "wof:superseded_by":[],

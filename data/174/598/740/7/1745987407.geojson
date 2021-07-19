@@ -68,7 +68,11 @@
     "woe:name_adm1":"Luxembourg",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85673875
+        1745977439,
+        102191581,
+        1125402083,
+        85633275,
+        101810569
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -79,7 +83,16 @@
     "wof:country":"LU",
     "wof:created":1625097553,
     "wof:geomhash":"265a4d9a4739fab8026695ac5721a956",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1125402083,
+            "locality_id":101810569,
+            "neighbourhood_id":1745987407,
+            "region_id":1745977439
+        }
+    ],
     "wof:id":1745987407,
     "wof:lang_x_official":[
         "fra",
@@ -91,9 +104,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625178019,
+    "wof:lastmodified":1626733462,
     "wof:name":"Ernzen",
-    "wof:parent_id":85673875,
+    "wof:parent_id":101810569,
     "wof:placetype":"neighbourhood",
     "wof:population":398,
     "wof:population_rank":2,

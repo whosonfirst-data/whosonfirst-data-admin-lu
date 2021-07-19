@@ -49,8 +49,9 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
+        1125390667,
         85633275,
-        85673865
+        1745977429
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -65,14 +66,15 @@
         {
             "continent_id":102191581,
             "country_id":85633275,
+            "localadmin_id":1125390667,
             "locality_id":1126019809,
-            "region_id":85673865
+            "region_id":1745977429
         }
     ],
     "wof:id":1126019809,
-    "wof:lastmodified":1625098683,
+    "wof:lastmodified":1626732613,
     "wof:name":"Selscheid",
-    "wof:parent_id":85673865,
+    "wof:parent_id":1125390667,
     "wof:placetype":"locality",
     "wof:population":59,
     "wof:population_rank":1,

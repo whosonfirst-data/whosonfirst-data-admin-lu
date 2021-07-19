@@ -30,7 +30,13 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1745977441,
+        102191581,
+        1125351511,
+        85633275,
+        101812857
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2960306
@@ -38,7 +44,16 @@
     "wof:country":"LU",
     "wof:created":1625097578,
     "wof:geomhash":"280559fc5e6a1f18ce6adac22131de77",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1125351511,
+            "locality_id":101812857,
+            "neighbourhood_id":1745987473,
+            "region_id":1745977441
+        }
+    ],
     "wof:id":1745987473,
     "wof:lang_x_official":[
         "fra",
@@ -50,9 +65,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625178021,
+    "wof:lastmodified":1626733496,
     "wof:name":"Maison Leh",
-    "wof:parent_id":-1,
+    "wof:parent_id":101812857,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-lu",
     "wof:superseded_by":[],

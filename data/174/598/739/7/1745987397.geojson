@@ -63,7 +63,11 @@
     "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85673869
+        1745977447,
+        102191581,
+        1125294519,
+        85633275,
+        1125781071
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -74,7 +78,16 @@
     "wof:country":"LU",
     "wof:created":1625097549,
     "wof:geomhash":"2b58244d02952071f96f735eece3ca7c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1125294519,
+            "locality_id":1125781071,
+            "neighbourhood_id":1745987397,
+            "region_id":1745977447
+        }
+    ],
     "wof:id":1745987397,
     "wof:lang_x_official":[
         "fra",
@@ -86,9 +99,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625178019,
+    "wof:lastmodified":1626733456,
     "wof:name":"Brouch-l\u00e8s-Biwer",
-    "wof:parent_id":85673869,
+    "wof:parent_id":1125781071,
     "wof:placetype":"neighbourhood",
     "wof:population":52,
     "wof:population_rank":1,

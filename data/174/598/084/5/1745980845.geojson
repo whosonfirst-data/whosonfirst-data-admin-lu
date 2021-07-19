@@ -20,12 +20,23 @@
     ],
     "src:geom":"lu-act",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633275,
+        1745977439
+    ],
     "wof:breaches":[],
     "wof:country":"LU",
     "wof:created":1624995624,
     "wof:geomhash":"1e145ff6d6d7e2562391b4069f048b22",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1745980845,
+            "region_id":1745977439
+        }
+    ],
     "wof:id":1745980845,
     "wof:lang_x_official":[
         "fra",
@@ -37,9 +48,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625177994,
+    "wof:lastmodified":1626732050,
     "wof:name":"Helperknapp",
-    "wof:parent_id":-1,
+    "wof:parent_id":1745977439,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-lu",
     "wof:superseded_by":[],

@@ -39,7 +39,11 @@
     "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85673869
+        1745977447,
+        102191581,
+        1125294519,
+        85633275,
+        1125781071
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,7 +53,16 @@
     "wof:country":"LU",
     "wof:created":1625097548,
     "wof:geomhash":"e9ce64ec855f6540d7ba79ae4f3180ea",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1125294519,
+            "locality_id":1125781071,
+            "neighbourhood_id":1745987393,
+            "region_id":1745977447
+        }
+    ],
     "wof:id":1745987393,
     "wof:lang_x_official":[
         "fra",
@@ -61,9 +74,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625178019,
+    "wof:lastmodified":1626733454,
     "wof:name":"Boudler",
-    "wof:parent_id":85673869,
+    "wof:parent_id":1125781071,
     "wof:placetype":"neighbourhood",
     "wof:population":69,
     "wof:population_rank":1,

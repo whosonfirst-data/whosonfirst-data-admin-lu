@@ -37,10 +37,11 @@
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
+        1745977427,
         102191581,
-        101751765,
+        1125286201,
         85633275,
-        85673875
+        101751765
     ],
     "wof:breaches":[],
     "wof:country":"LU",
@@ -49,9 +50,10 @@
         {
             "continent_id":102191581,
             "country_id":85633275,
+            "localadmin_id":1125286201,
             "locality_id":101751765,
             "neighbourhood_id":1444827953,
-            "region_id":85673875
+            "region_id":1745977427
         }
     ],
     "wof:id":1444827953,
@@ -65,7 +67,7 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625177991,
+    "wof:lastmodified":1626733549,
     "wof:name":"Garer Quartier",
     "wof:parent_id":101751765,
     "wof:placetype":"neighbourhood",

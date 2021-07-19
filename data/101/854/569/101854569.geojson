@@ -118,8 +118,9 @@
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
+        1125325873,
         85633275,
-        85673869
+        1745977447
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -140,8 +141,9 @@
         {
             "continent_id":102191581,
             "country_id":85633275,
+            "localadmin_id":1125325873,
             "locality_id":101854569,
-            "region_id":85673869
+            "region_id":1745977447
         }
     ],
     "wof:id":101854569,
@@ -158,9 +160,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625177982,
+    "wof:lastmodified":1626732174,
     "wof:name":"Betzdorf",
-    "wof:parent_id":85673869,
+    "wof:parent_id":1125325873,
     "wof:placetype":"locality",
     "wof:population":248,
     "wof:population_rank":2,

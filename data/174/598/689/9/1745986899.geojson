@@ -72,7 +72,13 @@
     "woe:name_adm0":"Luxembourg",
     "woe:name_adm1":"Grevenmacher",
     "woe:placetype":"Town",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1745977443,
+        102191581,
+        1745980847,
+        85633275,
+        1125883515
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2960079,
@@ -83,7 +89,16 @@
     "wof:country":"LU",
     "wof:created":1625097354,
     "wof:geomhash":"826715d189eefdd9264eb5bbe4a6354b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1745980847,
+            "locality_id":1125883515,
+            "neighbourhood_id":1745986899,
+            "region_id":1745977443
+        }
+    ],
     "wof:id":1745986899,
     "wof:lang_x_official":[
         "fra",
@@ -95,9 +110,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625178007,
+    "wof:lastmodified":1626733197,
     "wof:name":"Schwebsingen",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125883515,
     "wof:placetype":"neighbourhood",
     "wof:population":307,
     "wof:population_rank":2,

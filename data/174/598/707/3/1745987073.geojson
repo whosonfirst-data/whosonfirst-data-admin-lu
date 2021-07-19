@@ -78,7 +78,13 @@
     "woe:name_adm0":"Luxembourg",
     "woe:name_adm1":"Diekirch",
     "woe:placetype":"Town",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1745977451,
+        102191581,
+        1125411213,
+        85633275,
+        101811723
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2960332,
@@ -89,7 +95,16 @@
     "wof:country":"LU",
     "wof:created":1625097425,
     "wof:geomhash":"559e88747bd3190b35043d4a47cb06df",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1125411213,
+            "locality_id":101811723,
+            "neighbourhood_id":1745987073,
+            "region_id":1745977451
+        }
+    ],
     "wof:id":1745987073,
     "wof:lang_x_official":[
         "fra",
@@ -101,9 +116,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625178011,
+    "wof:lastmodified":1626733287,
     "wof:name":"Lieler",
-    "wof:parent_id":-1,
+    "wof:parent_id":101811723,
     "wof:placetype":"neighbourhood",
     "wof:population":179,
     "wof:population_rank":1,

@@ -71,7 +71,11 @@
     "woe:name_adm1":"Diekirch",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85673865
+        1745977431,
+        102191581,
+        1125402395,
+        85633275,
+        101845561
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -83,7 +87,16 @@
     "wof:country":"LU",
     "wof:created":1625097262,
     "wof:geomhash":"ca3902ed71c63c0569b24de8cbf4a1d0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1125402395,
+            "locality_id":101845561,
+            "neighbourhood_id":1745986675,
+            "region_id":1745977431
+        }
+    ],
     "wof:id":1745986675,
     "wof:lang_x_official":[
         "fra",
@@ -95,9 +108,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625178002,
+    "wof:lastmodified":1626733078,
     "wof:name":"Ospern",
-    "wof:parent_id":85673865,
+    "wof:parent_id":101845561,
     "wof:placetype":"neighbourhood",
     "wof:population":276,
     "wof:population_rank":2,

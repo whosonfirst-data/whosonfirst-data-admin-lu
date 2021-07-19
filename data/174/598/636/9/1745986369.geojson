@@ -35,7 +35,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85673865
+        1745977429,
+        102191581,
+        1125366297,
+        85633275,
+        1125796641
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,7 +48,16 @@
     "wof:country":"LU",
     "wof:created":1625097075,
     "wof:geomhash":"1a6c8a791d3e1a78fdb2e2c84f9691e0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1125366297,
+            "locality_id":1125796641,
+            "neighbourhood_id":1745986369,
+            "region_id":1745977429
+        }
+    ],
     "wof:id":1745986369,
     "wof:lang_x_official":[
         "fra",
@@ -56,9 +69,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625177995,
+    "wof:lastmodified":1626732918,
     "wof:name":"Tockmuhle",
-    "wof:parent_id":85673865,
+    "wof:parent_id":1125796641,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-lu",
     "wof:superseded_by":[],

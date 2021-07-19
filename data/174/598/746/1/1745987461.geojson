@@ -31,7 +31,13 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1745977451,
+        102191581,
+        1125324097,
+        85633275,
+        101845555
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6944716
@@ -39,7 +45,16 @@
     "wof:country":"LU",
     "wof:created":1625097574,
     "wof:geomhash":"32a7db5418e462fbba2bd10ce9b96044",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1125324097,
+            "locality_id":101845555,
+            "neighbourhood_id":1745987461,
+            "region_id":1745977451
+        }
+    ],
     "wof:id":1745987461,
     "wof:lang_x_official":[
         "fra",
@@ -51,9 +66,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625178020,
+    "wof:lastmodified":1626733490,
     "wof:name":"Dasbourg-Pont",
-    "wof:parent_id":-1,
+    "wof:parent_id":101845555,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-lu",
     "wof:superseded_by":[],

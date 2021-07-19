@@ -46,13 +46,10 @@
     "woe:name_adm1":"Grevenmacher",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85683271,
         102191581,
-        85633147,
-        404228309,
-        1108826391,
-        136253037,
-        102065207
+        1745980847,
+        85633275,
+        1745977443
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,19 +63,16 @@
     "wof:hierarchy":[
         {
             "continent_id":102191581,
-            "country_id":85633147,
-            "county_id":102065207,
-            "empire_id":136253037,
+            "country_id":85633275,
+            "localadmin_id":1745980847,
             "locality_id":1125894199,
-            "macrocounty_id":404228309,
-            "macroregion_id":1108826391,
-            "region_id":85683271
+            "region_id":1745977443
         }
     ],
     "wof:id":1125894199,
-    "wof:lastmodified":1625098676,
+    "wof:lastmodified":1626732426,
     "wof:name":"Emerange",
-    "wof:parent_id":102065207,
+    "wof:parent_id":1745980847,
     "wof:placetype":"locality",
     "wof:population":99,
     "wof:population_rank":1,

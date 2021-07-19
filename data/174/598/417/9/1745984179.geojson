@@ -18,12 +18,25 @@
     ],
     "src:geom":"lu-act",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        1745980843,
+        85633275,
+        1745977433
+    ],
     "wof:breaches":[],
     "wof:country":"LU",
     "wof:created":1625088916,
     "wof:geomhash":"324a48cba2c4595d008cd6b0ff2c4844",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1745980843,
+            "locality_id":1745984179,
+            "region_id":1745977433
+        }
+    ],
     "wof:id":1745984179,
     "wof:lang_x_official":[
         "fra",
@@ -35,9 +48,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625177994,
+    "wof:lastmodified":1626732225,
     "wof:name":"K\u00e4erjeng",
-    "wof:parent_id":-1,
+    "wof:parent_id":1745980843,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-lu",
     "wof:superseded_by":[],

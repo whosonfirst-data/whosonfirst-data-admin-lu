@@ -115,8 +115,9 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
+        1125294523,
         85633275,
-        85673869
+        1745977443
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -131,14 +132,15 @@
         {
             "continent_id":102191581,
             "country_id":85633275,
+            "localadmin_id":1125294523,
             "locality_id":1126003337,
-            "region_id":85673869
+            "region_id":1745977443
         }
     ],
     "wof:id":1126003337,
-    "wof:lastmodified":1625098668,
+    "wof:lastmodified":1626732572,
     "wof:name":"Lasel",
-    "wof:parent_id":85673869,
+    "wof:parent_id":1125294523,
     "wof:placetype":"locality",
     "wof:population":174,
     "wof:population_rank":1,

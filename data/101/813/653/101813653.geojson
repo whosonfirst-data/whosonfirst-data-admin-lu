@@ -265,7 +265,10 @@
     "src:lbl_centroid":"mapshaper",
     "wd:wordcount":8461,
     "wof:belongsto":[
-        102191581
+        102191581,
+        1745980847,
+        85633275,
+        1745977443
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -279,15 +282,16 @@
     "wof:hierarchy":[
         {
             "continent_id":102191581,
-            "country_id":-1,
+            "country_id":85633275,
+            "localadmin_id":1745980847,
             "locality_id":101813653,
-            "region_id":-1
+            "region_id":1745977443
         }
     ],
     "wof:id":101813653,
-    "wof:lastmodified":1625090161,
+    "wof:lastmodified":1626732241,
     "wof:name":"Perl",
-    "wof:parent_id":-1,
+    "wof:parent_id":1745980847,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-lu",
     "wof:superseded_by":[],

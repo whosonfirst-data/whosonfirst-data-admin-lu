@@ -76,7 +76,13 @@
     "woe:name_adm0":"Luxembourg",
     "woe:name_adm1":"Diekirch",
     "woe:placetype":"Town",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1745977441,
+        102191581,
+        1125285897,
+        85633275,
+        1125799187
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2960450,
@@ -87,7 +93,16 @@
     "wof:country":"LU",
     "wof:created":1625097344,
     "wof:geomhash":"60a2e2135c44da1bb2616169c25df1ba",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1125285897,
+            "locality_id":1125799187,
+            "neighbourhood_id":1745986873,
+            "region_id":1745977441
+        }
+    ],
     "wof:id":1745986873,
     "wof:lang_x_official":[
         "fra",
@@ -99,9 +114,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625178007,
+    "wof:lastmodified":1626733183,
     "wof:name":"Hoesdorf",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125799187,
     "wof:placetype":"neighbourhood",
     "wof:population":105,
     "wof:population_rank":1,

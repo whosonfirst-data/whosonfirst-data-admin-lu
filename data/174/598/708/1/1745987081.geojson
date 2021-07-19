@@ -76,7 +76,11 @@
     "woe:name_adm1":"Luxembourg",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85673875
+        1745977433,
+        102191581,
+        1125346159,
+        85633275,
+        1125777823
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -88,7 +92,16 @@
     "wof:country":"LU",
     "wof:created":1625097428,
     "wof:geomhash":"aa7f078da768b0611740a5aeea9e3c43",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1125346159,
+            "locality_id":1125777823,
+            "neighbourhood_id":1745987081,
+            "region_id":1745977433
+        }
+    ],
     "wof:id":1745987081,
     "wof:lang_x_official":[
         "fra",
@@ -100,9 +113,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625178011,
+    "wof:lastmodified":1626733292,
     "wof:name":"Kleinbettingen",
-    "wof:parent_id":85673875,
+    "wof:parent_id":1125777823,
     "wof:placetype":"neighbourhood",
     "wof:population":872,
     "wof:population_rank":2,

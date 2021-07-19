@@ -49,7 +49,11 @@
     "woe:name_adm1":"Diekirch",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85673865
+        1745977451,
+        102191581,
+        1125352097,
+        85633275,
+        1125811873
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,7 +64,16 @@
     "wof:country":"LU",
     "wof:created":1625097291,
     "wof:geomhash":"ab8cefd2760a892a9c57a513843642eb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1125352097,
+            "locality_id":1125811873,
+            "neighbourhood_id":1745986729,
+            "region_id":1745977451
+        }
+    ],
     "wof:id":1745986729,
     "wof:lang_x_official":[
         "fra",
@@ -72,9 +85,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625178003,
+    "wof:lastmodified":1626733106,
     "wof:name":"Biwisch",
-    "wof:parent_id":85673865,
+    "wof:parent_id":1125811873,
     "wof:placetype":"neighbourhood",
     "wof:population":103,
     "wof:population_rank":1,

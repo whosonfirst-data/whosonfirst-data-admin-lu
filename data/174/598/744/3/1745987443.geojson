@@ -75,7 +75,13 @@
     "woe:name_adm0":"Luxembourg",
     "woe:name_adm1":"Grevenmacher",
     "woe:placetype":"Town",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1745977445,
+        102191581,
+        1745980855,
+        85633275,
+        1745984189
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2960060,
@@ -86,7 +92,16 @@
     "wof:country":"LU",
     "wof:created":1625097567,
     "wof:geomhash":"b1132d925b04108398aca5d9ea8557d1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1745980855,
+            "locality_id":1745984189,
+            "neighbourhood_id":1745987443,
+            "region_id":1745977445
+        }
+    ],
     "wof:id":1745987443,
     "wof:lang_x_official":[
         "fra",
@@ -98,9 +113,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625178020,
+    "wof:lastmodified":1626733481,
     "wof:name":"Steinheim",
-    "wof:parent_id":-1,
+    "wof:parent_id":1745984189,
     "wof:placetype":"neighbourhood",
     "wof:population":550,
     "wof:population_rank":2,

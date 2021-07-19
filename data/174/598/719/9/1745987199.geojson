@@ -74,6 +74,11 @@
     "woe:name_adm1":"Grevenmacher",
     "woe:placetype":"Town",
     "wof:belongsto":[
+        85682491,
+        102191581,
+        1377686073,
+        85633111,
+        101855621,
         102063545
     ],
     "wof:breaches":[],
@@ -86,7 +91,17 @@
     "wof:country":"LU",
     "wof:created":1625097471,
     "wof:geomhash":"8019c740abcc99063a9eabf7a22cdf67",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063545,
+            "localadmin_id":1377686073,
+            "locality_id":101855621,
+            "neighbourhood_id":1745987199,
+            "region_id":85682491
+        }
+    ],
     "wof:id":1745987199,
     "wof:lang_x_official":[
         "fra",
@@ -98,9 +113,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625178014,
+    "wof:lastmodified":1626733353,
     "wof:name":"Moulin de Born",
-    "wof:parent_id":102063545,
+    "wof:parent_id":101855621,
     "wof:placetype":"neighbourhood",
     "wof:population":336,
     "wof:population_rank":2,

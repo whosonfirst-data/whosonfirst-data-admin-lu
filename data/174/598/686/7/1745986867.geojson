@@ -68,7 +68,11 @@
     "woe:name_adm1":"Diekirch",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85673865
+        1745977449,
+        102191581,
+        1125410761,
+        85633275,
+        1745984185
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -80,7 +84,16 @@
     "wof:country":"LU",
     "wof:created":1625097343,
     "wof:geomhash":"13b5fb2f91bf68e6b4e9395e9862b4be",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1125410761,
+            "locality_id":1745984185,
+            "neighbourhood_id":1745986867,
+            "region_id":1745977449
+        }
+    ],
     "wof:id":1745986867,
     "wof:lang_x_official":[
         "fra",
@@ -92,9 +105,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625178007,
+    "wof:lastmodified":1626733180,
     "wof:name":"Nachtmanderscheid",
-    "wof:parent_id":85673865,
+    "wof:parent_id":1745984185,
     "wof:placetype":"neighbourhood",
     "wof:population":70,
     "wof:population_rank":1,

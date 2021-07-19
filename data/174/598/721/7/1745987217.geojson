@@ -85,7 +85,11 @@
     "woe:name_adm1":"Luxembourg",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85673875
+        1745977427,
+        102191581,
+        1745980849,
+        85633275,
+        101812909
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -97,7 +101,16 @@
     "wof:country":"LU",
     "wof:created":1625097478,
     "wof:geomhash":"2d17fde18be2eeb3128b985f82794f2a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1745980849,
+            "locality_id":101812909,
+            "neighbourhood_id":1745987217,
+            "region_id":1745977427
+        }
+    ],
     "wof:id":1745987217,
     "wof:lang_x_official":[
         "fra",
@@ -109,9 +122,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625178014,
+    "wof:lastmodified":1626733363,
     "wof:name":"Oetrange",
-    "wof:parent_id":85673875,
+    "wof:parent_id":101812909,
     "wof:placetype":"neighbourhood",
     "wof:population":781,
     "wof:population_rank":2,

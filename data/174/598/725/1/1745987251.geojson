@@ -35,7 +35,13 @@
     "src:geom":"qs_pg",
     "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1745977441,
+        102191581,
+        1125285897,
+        85633275,
+        1125799187
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2960770,
@@ -44,7 +50,16 @@
     "wof:country":"LU",
     "wof:created":1625097492,
     "wof:geomhash":"0a5ca1d10ca6c8f1fb74be2b63064254",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1125285897,
+            "locality_id":1125799187,
+            "neighbourhood_id":1745987251,
+            "region_id":1745977441
+        }
+    ],
     "wof:id":1745987251,
     "wof:lang_x_official":[
         "fra",
@@ -56,9 +71,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625178015,
+    "wof:lastmodified":1626733380,
     "wof:name":"Bigelbach",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125799187,
     "wof:placetype":"neighbourhood",
     "wof:population":79,
     "wof:population_rank":1,

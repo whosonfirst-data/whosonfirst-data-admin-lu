@@ -82,7 +82,9 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
-        85633275
+        1745980855,
+        85633275,
+        1745977445
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -98,14 +100,15 @@
         {
             "continent_id":102191581,
             "country_id":85633275,
+            "localadmin_id":1745980855,
             "locality_id":1125958613,
-            "region_id":-1
+            "region_id":1745977445
         }
     ],
     "wof:id":1125958613,
-    "wof:lastmodified":1625098659,
+    "wof:lastmodified":1626732525,
     "wof:name":"Girst",
-    "wof:parent_id":-1,
+    "wof:parent_id":1745980855,
     "wof:placetype":"locality",
     "wof:population":113,
     "wof:population_rank":1,

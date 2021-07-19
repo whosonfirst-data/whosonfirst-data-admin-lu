@@ -62,8 +62,9 @@
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
+        1125325873,
         85633275,
-        85673869
+        1745977447
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -78,14 +79,15 @@
         {
             "continent_id":102191581,
             "country_id":85633275,
+            "localadmin_id":1125325873,
             "locality_id":1125774485,
-            "region_id":85673869
+            "region_id":1745977447
         }
     ],
     "wof:id":1125774485,
-    "wof:lastmodified":1625098680,
+    "wof:lastmodified":1626732272,
     "wof:name":"Berg-sur-Syre",
-    "wof:parent_id":85673869,
+    "wof:parent_id":1125325873,
     "wof:placetype":"locality",
     "wof:population":93,
     "wof:population_rank":1,

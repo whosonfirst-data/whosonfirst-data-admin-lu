@@ -82,7 +82,11 @@
     "woe:name_adm1":"Grevenmacher",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85673869
+        1745977445,
+        102191581,
+        1125305359,
+        85633275,
+        1125809215
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -94,7 +98,16 @@
     "wof:country":"LU",
     "wof:created":1625097561,
     "wof:geomhash":"d538850f966bd2f3a363a94a27003e66",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1125305359,
+            "locality_id":1125809215,
+            "neighbourhood_id":1745987429,
+            "region_id":1745977445
+        }
+    ],
     "wof:id":1745987429,
     "wof:lang_x_official":[
         "fra",
@@ -106,9 +119,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625178020,
+    "wof:lastmodified":1626733473,
     "wof:name":"Haller",
-    "wof:parent_id":85673869,
+    "wof:parent_id":1125809215,
     "wof:placetype":"neighbourhood",
     "wof:population":223,
     "wof:population_rank":2,

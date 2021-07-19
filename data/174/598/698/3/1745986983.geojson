@@ -74,7 +74,11 @@
     "woe:name_adm1":"Rheinland-Pfalz",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85673875
+        1745977427,
+        102191581,
+        1125410759,
+        85633275,
+        101753075
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -86,7 +90,16 @@
     "wof:country":"LU",
     "wof:created":1625097386,
     "wof:geomhash":"dd210f359a527f4a8a4e1d73d4d0ed68",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1125410759,
+            "locality_id":101753075,
+            "neighbourhood_id":1745986983,
+            "region_id":1745977427
+        }
+    ],
     "wof:id":1745986983,
     "wof:lang_x_official":[
         "fra",
@@ -98,9 +111,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625178009,
+    "wof:lastmodified":1626733241,
     "wof:name":"Steiningen",
-    "wof:parent_id":85673875,
+    "wof:parent_id":101753075,
     "wof:placetype":"neighbourhood",
     "wof:population":378,
     "wof:population_rank":2,

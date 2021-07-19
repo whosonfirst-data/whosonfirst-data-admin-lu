@@ -89,10 +89,11 @@
     ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        1745977427,
         102191581,
-        101751765,
+        1125286201,
         85633275,
-        85673875
+        101751765
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -113,9 +114,10 @@
         {
             "continent_id":102191581,
             "country_id":85633275,
+            "localadmin_id":1125286201,
             "locality_id":101751765,
             "neighbourhood_id":85802101,
-            "region_id":85673875
+            "region_id":1745977427
         }
     ],
     "wof:id":85802101,
@@ -132,7 +134,7 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625178023,
+    "wof:lastmodified":1626733574,
     "wof:name":"Neimersk",
     "wof:parent_id":101751765,
     "wof:placetype":"neighbourhood",

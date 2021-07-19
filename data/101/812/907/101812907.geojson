@@ -134,8 +134,9 @@
     "wd:wordcount":93,
     "wof:belongsto":[
         102191581,
+        1125285649,
         85633275,
-        85673875
+        1745977433
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -156,8 +157,9 @@
         {
             "continent_id":102191581,
             "country_id":85633275,
+            "localadmin_id":1125285649,
             "locality_id":101812907,
-            "region_id":85673875
+            "region_id":1745977433
         }
     ],
     "wof:id":101812907,
@@ -174,9 +176,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625177980,
+    "wof:lastmodified":1626732138,
     "wof:name":"Dippach",
-    "wof:parent_id":85673875,
+    "wof:parent_id":1125285649,
     "wof:placetype":"locality",
     "wof:population":808,
     "wof:population_rank":2,

@@ -47,7 +47,11 @@
     "woe:name_adm1":"Grevenmacher",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85673869
+        1745977443,
+        102191581,
+        1125288845,
+        85633275,
+        101853467
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,7 +62,16 @@
     "wof:country":"LU",
     "wof:created":1625097398,
     "wof:geomhash":"77c28fe23b3203332164e5de9efc0416",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1125288845,
+            "locality_id":101853467,
+            "neighbourhood_id":1745987011,
+            "region_id":1745977443
+        }
+    ],
     "wof:id":1745987011,
     "wof:lang_x_official":[
         "fra",
@@ -70,9 +83,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625178010,
+    "wof:lastmodified":1626733256,
     "wof:name":"Roedt",
-    "wof:parent_id":85673869,
+    "wof:parent_id":101853467,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-lu",
     "wof:superseded_by":[],

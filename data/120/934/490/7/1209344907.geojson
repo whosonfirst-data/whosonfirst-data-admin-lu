@@ -32,7 +32,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633275
+        102191581,
+        1125366349,
+        85633275,
+        1745977433
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,17 @@
     "wof:geomhash":"bb3d5cb5e137a2397c79e0a72bc04da8",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633275,
-            "locality_id":1209344907
+            "localadmin_id":1125366349,
+            "locality_id":1209344907,
+            "region_id":1745977433
         }
     ],
     "wof:id":1209344907,
-    "wof:lastmodified":1625098675,
+    "wof:lastmodified":1626732694,
     "wof:name":"Schneideschhof",
-    "wof:parent_id":85633275,
+    "wof:parent_id":1125366349,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-lu",
     "wof:superseded_by":[

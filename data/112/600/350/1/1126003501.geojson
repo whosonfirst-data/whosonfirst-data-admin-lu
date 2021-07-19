@@ -82,8 +82,9 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
+        1125366297,
         85633275,
-        85673865
+        1745977429
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -99,14 +100,15 @@
         {
             "continent_id":102191581,
             "country_id":85633275,
+            "localadmin_id":1125366297,
             "locality_id":1126003501,
-            "region_id":85673865
+            "region_id":1745977429
         }
     ],
     "wof:id":1126003501,
-    "wof:lastmodified":1625098666,
+    "wof:lastmodified":1626732573,
     "wof:name":"Surr\u00e9",
-    "wof:parent_id":85673865,
+    "wof:parent_id":1125366297,
     "wof:placetype":"locality",
     "wof:population":190,
     "wof:population_rank":1,

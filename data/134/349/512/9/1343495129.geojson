@@ -39,8 +39,9 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1745980843,
         85633275,
-        85673875
+        1745977433
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,15 @@
         {
             "continent_id":102191581,
             "country_id":85633275,
+            "localadmin_id":1745980843,
             "locality_id":1343495129,
-            "region_id":85673875
+            "region_id":1745977433
         }
     ],
     "wof:id":1343495129,
-    "wof:lastmodified":1625098673,
+    "wof:lastmodified":1626732866,
     "wof:name":"Hoerchen",
-    "wof:parent_id":85673875,
+    "wof:parent_id":1745980843,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-lu",
     "wof:superseded_by":[

@@ -69,7 +69,11 @@
     "woe:name_adm1":"Luxembourg",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85673875
+        1745977427,
+        102191581,
+        1125410759,
+        85633275,
+        101753075
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -80,7 +84,16 @@
     "wof:country":"LU",
     "wof:created":1625097491,
     "wof:geomhash":"f31b9ac8e9e57db85002e0889427fc95",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1125410759,
+            "locality_id":101753075,
+            "neighbourhood_id":1745987245,
+            "region_id":1745977427
+        }
+    ],
     "wof:id":1745987245,
     "wof:lang_x_official":[
         "fra",
@@ -92,9 +105,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625178015,
+    "wof:lastmodified":1626733378,
     "wof:name":"Hostert",
-    "wof:parent_id":85673875,
+    "wof:parent_id":101753075,
     "wof:placetype":"neighbourhood",
     "wof:population":364,
     "wof:population_rank":2,

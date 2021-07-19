@@ -43,7 +43,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85673875
+        1745977439,
+        102191581,
+        1125305509,
+        85633275,
+        1126048921
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,7 +57,16 @@
     "wof:country":"LU",
     "wof:created":1625097092,
     "wof:geomhash":"0300271acc1c79f430324b4f1d396c76",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1125305509,
+            "locality_id":1126048921,
+            "neighbourhood_id":1745986413,
+            "region_id":1745977439
+        }
+    ],
     "wof:id":1745986413,
     "wof:lang_x_official":[
         "fra",
@@ -65,9 +78,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625177996,
+    "wof:lastmodified":1626732942,
     "wof:name":"Koedange",
-    "wof:parent_id":85673875,
+    "wof:parent_id":1126048921,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-lu",
     "wof:superseded_by":[],

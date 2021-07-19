@@ -20,12 +20,21 @@
     ],
     "src:geom":"lu-act",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633275
+    ],
     "wof:breaches":[],
     "wof:country":"LU",
     "wof:created":1624925183,
     "wof:geomhash":"826015bebdf35cebd3badf70805f4a77",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "region_id":1745977433
+        }
+    ],
     "wof:id":1745977433,
     "wof:lang_x_official":[
         "fra",
@@ -37,9 +46,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625177992,
+    "wof:lastmodified":1626731779,
     "wof:name":"Capellen",
-    "wof:parent_id":-1,
+    "wof:parent_id":85633275,
     "wof:placetype":"region",
     "wof:repo":"whosonfirst-data-admin-lu",
     "wof:superseded_by":[],

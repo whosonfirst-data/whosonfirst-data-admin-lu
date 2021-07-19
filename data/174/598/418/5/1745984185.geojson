@@ -18,12 +18,25 @@
     ],
     "src:geom":"lu-act",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        1125410761,
+        85633275,
+        1745977449
+    ],
     "wof:breaches":[],
     "wof:country":"LU",
     "wof:created":1625088921,
     "wof:geomhash":"bfb71af1f281e8a974869ed98b4968ce",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1125410761,
+            "locality_id":1745984185,
+            "region_id":1745977449
+        }
+    ],
     "wof:id":1745984185,
     "wof:lang_x_official":[
         "fra",
@@ -35,9 +48,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625177995,
+    "wof:lastmodified":1626732229,
     "wof:name":"Putscheid",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125410761,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-lu",
     "wof:superseded_by":[],

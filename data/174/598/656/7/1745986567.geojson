@@ -36,7 +36,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85673869
+        1745977443,
+        102191581,
+        1125366329,
+        85633275,
+        101812921
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,7 +49,16 @@
     "wof:country":"LU",
     "wof:created":1625097155,
     "wof:geomhash":"019fdba44b5315389cd16b8e05b119d6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1125366329,
+            "locality_id":101812921,
+            "neighbourhood_id":1745986567,
+            "region_id":1745977443
+        }
+    ],
     "wof:id":1745986567,
     "wof:lang_x_official":[
         "fra",
@@ -57,9 +70,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625178000,
+    "wof:lastmodified":1626733022,
     "wof:name":"Daundorf",
-    "wof:parent_id":85673869,
+    "wof:parent_id":101812921,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-lu",
     "wof:superseded_by":[],

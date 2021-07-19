@@ -37,7 +37,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633275
+        102191581,
+        1125410759,
+        85633275,
+        1745977427
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +50,17 @@
     "wof:geomhash":"c6ca65f4d5813bc52cec4f6ad65e772c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633275,
-            "locality_id":1209446357
+            "localadmin_id":1125410759,
+            "locality_id":1209446357,
+            "region_id":1745977427
         }
     ],
     "wof:id":1209446357,
-    "wof:lastmodified":1625098675,
+    "wof:lastmodified":1626732697,
     "wof:name":"Grevelscheuer",
-    "wof:parent_id":85633275,
+    "wof:parent_id":1125410759,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-lu",
     "wof:superseded_by":[

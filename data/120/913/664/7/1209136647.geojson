@@ -32,7 +32,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633275
+        102191581,
+        1125390667,
+        85633275,
+        1745977429
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,17 @@
     "wof:geomhash":"92ef363394d3385dbde7403ec134b059",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633275,
-            "locality_id":1209136647
+            "localadmin_id":1125390667,
+            "locality_id":1209136647,
+            "region_id":1745977429
         }
     ],
     "wof:id":1209136647,
-    "wof:lastmodified":1625098679,
+    "wof:lastmodified":1626732689,
     "wof:name":"Roullingen",
-    "wof:parent_id":85633275,
+    "wof:parent_id":1125390667,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-lu",
     "wof:superseded_by":[

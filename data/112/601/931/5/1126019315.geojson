@@ -84,8 +84,9 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
+        1125283405,
         85633275,
-        85673875
+        1745977435
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -101,14 +102,15 @@
         {
             "continent_id":102191581,
             "country_id":85633275,
+            "localadmin_id":1125283405,
             "locality_id":1126019315,
-            "region_id":85673875
+            "region_id":1745977435
         }
     ],
     "wof:id":1126019315,
-    "wof:lastmodified":1625098668,
+    "wof:lastmodified":1626732589,
     "wof:name":"Rodange",
-    "wof:parent_id":85673875,
+    "wof:parent_id":1125283405,
     "wof:placetype":"locality",
     "wof:population":4683,
     "wof:population_rank":4,

@@ -71,7 +71,11 @@
     "woe:name_adm1":"Luxembourg",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85673875
+        1745977433,
+        102191581,
+        1125305791,
+        85633275,
+        101753077
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -83,7 +87,16 @@
     "wof:country":"LU",
     "wof:created":1625097564,
     "wof:geomhash":"fa4a59371fc235d2ca705deee84240ee",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1125305791,
+            "locality_id":101753077,
+            "neighbourhood_id":1745987435,
+            "region_id":1745977433
+        }
+    ],
     "wof:id":1745987435,
     "wof:lang_x_official":[
         "fra",
@@ -95,9 +108,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625178020,
+    "wof:lastmodified":1626733476,
     "wof:name":"Holzem",
-    "wof:parent_id":85673875,
+    "wof:parent_id":101753077,
     "wof:placetype":"neighbourhood",
     "wof:population":541,
     "wof:population_rank":2,

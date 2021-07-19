@@ -89,7 +89,11 @@
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633275
+        1745977429,
+        102191581,
+        1125390667,
+        85633275,
+        101811731
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -99,7 +103,16 @@
     "wof:country":"LU",
     "wof:created":1625097145,
     "wof:geomhash":"a9f34d51a1287eba195e84dea1905557",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1125390667,
+            "locality_id":101811731,
+            "neighbourhood_id":1745986541,
+            "region_id":1745977429
+        }
+    ],
     "wof:id":1745986541,
     "wof:lang_x_official":[
         "fra",
@@ -111,9 +124,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625177999,
+    "wof:lastmodified":1626733010,
     "wof:name":"Eschweiler",
-    "wof:parent_id":85633275,
+    "wof:parent_id":101811731,
     "wof:placetype":"neighbourhood",
     "wof:population":205,
     "wof:population_rank":2,

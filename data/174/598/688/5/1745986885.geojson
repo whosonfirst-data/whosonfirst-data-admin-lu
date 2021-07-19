@@ -79,7 +79,11 @@
     "woe:name_adm1":"Luxembourg",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85673875
+        1745977433,
+        102191581,
+        1125284213,
+        85633275,
+        101845565
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -91,7 +95,16 @@
     "wof:country":"LU",
     "wof:created":1625097349,
     "wof:geomhash":"e232ec9d3e22976efce40b9f5defb960",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1125284213,
+            "locality_id":101845565,
+            "neighbourhood_id":1745986885,
+            "region_id":1745977433
+        }
+    ],
     "wof:id":1745986885,
     "wof:lang_x_official":[
         "fra",
@@ -103,9 +116,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625178007,
+    "wof:lastmodified":1626733190,
     "wof:name":"Eischen",
-    "wof:parent_id":85673875,
+    "wof:parent_id":101845565,
     "wof:placetype":"neighbourhood",
     "wof:population":1559,
     "wof:population_rank":3,

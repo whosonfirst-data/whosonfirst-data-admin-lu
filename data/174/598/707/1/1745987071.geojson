@@ -87,7 +87,13 @@
     "woe:name_adm0":"Luxembourg",
     "woe:name_adm1":"Diekirch",
     "woe:placetype":"Town",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1745977451,
+        102191581,
+        1125352097,
+        85633275,
+        1125811873
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2960421,
@@ -98,7 +104,16 @@
     "wof:country":"LU",
     "wof:created":1625097424,
     "wof:geomhash":"5216f5f1a7192d5ae8c1bad07562c833",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1125352097,
+            "locality_id":1125811873,
+            "neighbourhood_id":1745987071,
+            "region_id":1745977451
+        }
+    ],
     "wof:id":1745987071,
     "wof:lang_x_official":[
         "fra",
@@ -110,9 +125,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625178011,
+    "wof:lastmodified":1626733286,
     "wof:name":"Huldange",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125811873,
     "wof:placetype":"neighbourhood",
     "wof:population":376,
     "wof:population_rank":2,

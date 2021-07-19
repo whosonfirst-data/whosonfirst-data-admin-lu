@@ -76,8 +76,9 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
+        1125296455,
         85633275,
-        85673875
+        1745977447
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -93,14 +94,15 @@
         {
             "continent_id":102191581,
             "country_id":85633275,
+            "localadmin_id":1125296455,
             "locality_id":1125849575,
-            "region_id":85673875
+            "region_id":1745977447
         }
     ],
     "wof:id":1125849575,
-    "wof:lastmodified":1625098657,
+    "wof:lastmodified":1626732355,
     "wof:name":"Eisenborn",
-    "wof:parent_id":85673875,
+    "wof:parent_id":1125296455,
     "wof:placetype":"locality",
     "wof:population":170,
     "wof:population_rank":1,

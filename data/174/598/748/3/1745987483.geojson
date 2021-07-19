@@ -35,7 +35,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85673869
+        1745977445,
+        102191581,
+        1125303769,
+        85633275,
+        101812873
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,7 +48,16 @@
     "wof:country":"LU",
     "wof:created":1625097582,
     "wof:geomhash":"a79059693865294f2d1c0b37df55662a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1125303769,
+            "locality_id":101812873,
+            "neighbourhood_id":1745987483,
+            "region_id":1745977445
+        }
+    ],
     "wof:id":1745987483,
     "wof:lang_x_official":[
         "fra",
@@ -56,9 +69,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625178021,
+    "wof:lastmodified":1626733501,
     "wof:name":"Lauterbour",
-    "wof:parent_id":85673869,
+    "wof:parent_id":101812873,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-lu",
     "wof:superseded_by":[],

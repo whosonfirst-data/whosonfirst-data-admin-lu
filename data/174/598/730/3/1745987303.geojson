@@ -69,7 +69,13 @@
     "woe:name_adm0":"Luxembourg",
     "woe:name_adm1":"Diekirch",
     "woe:placetype":"Town",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1745977449,
+        102191581,
+        1125410761,
+        85633275,
+        1745984185
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2960758,
@@ -80,7 +86,16 @@
     "wof:country":"LU",
     "wof:created":1625097512,
     "wof:geomhash":"108d08811ba8d6c7e7244403332aaa25",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1125410761,
+            "locality_id":1745984185,
+            "neighbourhood_id":1745987303,
+            "region_id":1745977449
+        }
+    ],
     "wof:id":1745987303,
     "wof:lang_x_official":[
         "fra",
@@ -92,9 +107,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625178017,
+    "wof:lastmodified":1626733407,
     "wof:name":"Bivels",
-    "wof:parent_id":-1,
+    "wof:parent_id":1745984185,
     "wof:placetype":"neighbourhood",
     "wof:population":80,
     "wof:population_rank":1,

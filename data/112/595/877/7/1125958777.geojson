@@ -120,8 +120,9 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
+        1745980837,
         85633275,
-        85673865
+        1745977431
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -140,8 +141,9 @@
         {
             "continent_id":102191581,
             "country_id":85633275,
+            "localadmin_id":1745980837,
             "locality_id":1125958777,
-            "region_id":85673865
+            "region_id":1745977431
         }
     ],
     "wof:id":1125958777,
@@ -155,9 +157,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625177990,
+    "wof:lastmodified":1626732202,
     "wof:name":"Vichten",
-    "wof:parent_id":85673865,
+    "wof:parent_id":1745980837,
     "wof:placetype":"locality",
     "wof:population":764,
     "wof:population_rank":2,

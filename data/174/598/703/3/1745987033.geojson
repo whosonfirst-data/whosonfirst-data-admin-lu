@@ -49,7 +49,11 @@
     "woe:name_adm1":"Diekirch",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85673865
+        1745977431,
+        102191581,
+        1745980831,
+        85633275,
+        1126019793
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,7 +64,16 @@
     "wof:country":"LU",
     "wof:created":1625097406,
     "wof:geomhash":"c129fb43990de74a84dbdaeb510dde09",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1745980831,
+            "locality_id":1126019793,
+            "neighbourhood_id":1745987033,
+            "region_id":1745977431
+        }
+    ],
     "wof:id":1745987033,
     "wof:lang_x_official":[
         "fra",
@@ -72,9 +85,9 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1625178010,
+    "wof:lastmodified":1626733267,
     "wof:name":"Schwebach",
-    "wof:parent_id":85673865,
+    "wof:parent_id":1126019793,
     "wof:placetype":"neighbourhood",
     "wof:population":55,
     "wof:population_rank":1,
