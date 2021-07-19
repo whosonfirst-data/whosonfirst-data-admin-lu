@@ -6,11 +6,10 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"6.15009301485,49.6092271969,6.15009301485,49.6092271969",
+    "geom:bbox":"6.150093,49.609227,6.150093,49.609227",
     "geom:latitude":49.609227,
     "geom:longitude":6.150093,
     "iso:country":"LU",
-    "lbl:bbox":"6.14509301485,49.6042271969,6.15509301485,49.6142271969",
     "lbl:latitude":49.609227,
     "lbl:longitude":6.150093,
     "lbl:max_zoom":18.0,
@@ -35,25 +34,37 @@
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
+        1745977427,
         102191581,
-        101751765,
+        1125286201,
         85633275,
-        85673875
+        101751765
     ],
     "wof:breaches":[],
     "wof:country":"LU",
-    "wof:geomhash":"20f683a7007f738717418451933444c2",
+    "wof:geomhash":"00c997aa1a915dd045f0378154fe4230",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633275,
+            "localadmin_id":1125286201,
             "locality_id":101751765,
             "neighbourhood_id":1444827973,
-            "region_id":85673875
+            "region_id":1745977427
         }
     ],
     "wof:id":1444827973,
-    "wof:lastmodified":1566598614,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1626733551,
     "wof:name":"Polvermillen",
     "wof:parent_id":101751765,
     "wof:placetype":"neighbourhood",
@@ -63,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    6.15009301485219,
-    49.60922719693363,
-    6.15009301485219,
-    49.60922719693363
+    6.150093,
+    49.609227,
+    6.150093,
+    49.609227
 ],
-  "geometry": {"coordinates":[6.15009301485219,49.60922719693363],"type":"Point"}
+  "geometry": {"coordinates":[6.150093,49.609227],"type":"Point"}
 }

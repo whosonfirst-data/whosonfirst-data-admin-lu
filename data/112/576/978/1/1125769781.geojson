@@ -2,7 +2,7 @@
   "id": 1125769781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2021-06-30",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -19,7 +19,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "qs_pg:aaroncc":"LU",
@@ -50,9 +50,10 @@
     "woe:name_adm1":"Grevenmacher",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        102191581,
-        85633111,
         85682491,
+        102191581,
+        1377686073,
+        85633111,
         102063545
     ],
     "wof:breaches":[],
@@ -69,19 +70,22 @@
             "continent_id":102191581,
             "country_id":85633111,
             "county_id":102063545,
+            "localadmin_id":1377686073,
             "locality_id":1125769781,
             "region_id":85682491
         }
     ],
     "wof:id":1125769781,
-    "wof:lastmodified":1566598688,
+    "wof:lastmodified":1626732266,
     "wof:name":"Hinkel",
-    "wof:parent_id":102063545,
+    "wof:parent_id":1377686073,
     "wof:placetype":"locality",
     "wof:population":82,
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-lu",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1745987273
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

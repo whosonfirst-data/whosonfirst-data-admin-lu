@@ -1,0 +1,90 @@
+{
+  "id": 1745986369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.78333,49.91667,5.78333,49.91667",
+    "geom:latitude":49.91667,
+    "geom:longitude":5.78333,
+    "gn:admin1_code":"WI",
+    "gn:admin2_code":"1.0",
+    "gn:asciiname":"Tockmuhle",
+    "gn:country_code":"LU",
+    "gn:dem":441,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2960037,
+    "gn:latitude":49.91667,
+    "gn:longitude":5.78333,
+    "gn:modification_date":"2017-01-28",
+    "gn:name":"Tockmuhle",
+    "gn:population":0,
+    "gn:timezone":"Europe/Luxembourg",
+    "iso:country":"LU",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Tockenm\u00fchle",
+        "Tockmuhle"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1745977429,
+        102191581,
+        1125366297,
+        85633275,
+        1125796641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2960037
+    },
+    "wof:country":"LU",
+    "wof:created":1625097075,
+    "wof:geomhash":"1a6c8a791d3e1a78fdb2e2c84f9691e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1125366297,
+            "locality_id":1125796641,
+            "neighbourhood_id":1745986369,
+            "region_id":1745977429
+        }
+    ],
+    "wof:id":1745986369,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1626732918,
+    "wof:name":"Tockmuhle",
+    "wof:parent_id":1125796641,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-lu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1326760841
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.78333,
+    49.91667,
+    5.78333,
+    49.91667
+],
+  "geometry": {"coordinates":[5.78333,49.91667],"type":"Point"}
+}

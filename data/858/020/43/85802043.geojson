@@ -10,7 +10,6 @@
     "geom:latitude":49.658619,
     "geom:longitude":6.130096,
     "iso:country":"LU",
-    "lbl:bbox":"6.125096,49.653619,6.135096,49.663619",
     "lbl:latitude":49.658619,
     "lbl:longitude":6.130096,
     "lbl:max_zoom":18.0,
@@ -94,10 +93,11 @@
     "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":86,
     "wof:belongsto":[
+        1745977427,
         102191581,
-        101753071,
+        1125355305,
         85633275,
-        85673875
+        101753071
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -117,22 +117,35 @@
         {
             "continent_id":102191581,
             "country_id":85633275,
+            "localadmin_id":1125355305,
             "locality_id":101753071,
             "neighbourhood_id":85802043,
-            "region_id":85673875
+            "region_id":1745977427
         }
     ],
     "wof:id":85802043,
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582349490,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1626733536,
     "wof:name":"Beggen",
     "wof:parent_id":101753071,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-lu",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1444828089
+    ],
     "wof:tags":[]
 },
   "bbox": [

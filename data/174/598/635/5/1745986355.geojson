@@ -1,0 +1,86 @@
+{
+  "id": 1745986355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.9,49.9,5.9,49.9",
+    "geom:latitude":49.9,
+    "geom:longitude":5.9,
+    "gn:admin1_code":"WI",
+    "gn:admin2_code":"2.0",
+    "gn:asciiname":"Grundmuhle",
+    "gn:country_code":"LU",
+    "gn:dem":366,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2960503,
+    "gn:latitude":49.9,
+    "gn:longitude":5.9,
+    "gn:modification_date":"2017-01-28",
+    "gn:name":"Grundmuhle",
+    "gn:population":0,
+    "gn:timezone":"Europe/Luxembourg",
+    "iso:country":"LU",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1745977429,
+        102191581,
+        1125333105,
+        85633275,
+        1125776761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2960503
+    },
+    "wof:country":"LU",
+    "wof:created":1625097069,
+    "wof:geomhash":"8d5a7859381d46cd4715a487067404bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1125333105,
+            "locality_id":1125776761,
+            "neighbourhood_id":1745986355,
+            "region_id":1745977429
+        }
+    ],
+    "wof:id":1745986355,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1626732911,
+    "wof:name":"Grundmuhle",
+    "wof:parent_id":1125776761,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-lu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1326866255
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.9,
+    49.9,
+    5.9,
+    49.9
+],
+  "geometry": {"coordinates":[5.9,49.9],"type":"Point"}
+}

@@ -6,11 +6,10 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"6.11576072219,49.6022558994,6.11576072219,49.6022558994",
+    "geom:bbox":"6.115761,49.602256,6.115761,49.602256",
     "geom:latitude":49.602256,
     "geom:longitude":6.115761,
     "iso:country":"LU",
-    "lbl:bbox":"6.11076072219,49.5972558994,6.12076072219,49.6072558994",
     "lbl:latitude":49.602256,
     "lbl:longitude":6.115761,
     "lbl:max_zoom":18.0,
@@ -35,25 +34,37 @@
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
+        1745977427,
         102191581,
-        101751765,
+        1125286201,
         85633275,
-        85673875
+        101751765
     ],
     "wof:breaches":[],
     "wof:country":"LU",
-    "wof:geomhash":"1c298c6cff332fc1aac0735d939e9d10",
+    "wof:geomhash":"74541209a7e2269e44bfcb25a216c8ea",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633275,
+            "localadmin_id":1125286201,
             "locality_id":101751765,
             "neighbourhood_id":1444827939,
-            "region_id":85673875
+            "region_id":1745977427
         }
     ],
     "wof:id":1444827939,
-    "wof:lastmodified":1566598615,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1626733548,
     "wof:name":"Hollerech",
     "wof:parent_id":101751765,
     "wof:placetype":"neighbourhood",
@@ -63,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    6.1157607221872,
-    49.60225589938492,
-    6.1157607221872,
-    49.60225589938492
+    6.115761,
+    49.602256,
+    6.115761,
+    49.602256
 ],
-  "geometry": {"coordinates":[6.1157607221872,49.60225589938492],"type":"Point"}
+  "geometry": {"coordinates":[6.115761,49.602256],"type":"Point"}
 }

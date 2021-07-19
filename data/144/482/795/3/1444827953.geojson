@@ -6,11 +6,10 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"6.12983696218,49.6025525707,6.12983696218,49.6025525707",
+    "geom:bbox":"6.129837,49.602553,6.129837,49.602553",
     "geom:latitude":49.602553,
     "geom:longitude":6.129837,
     "iso:country":"LU",
-    "lbl:bbox":"6.12483696218,49.5975525707,6.13483696218,49.6075525707",
     "lbl:latitude":49.602553,
     "lbl:longitude":6.129837,
     "lbl:max_zoom":18.0,
@@ -38,25 +37,37 @@
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
+        1745977427,
         102191581,
-        101751765,
+        1125286201,
         85633275,
-        85673875
+        101751765
     ],
     "wof:breaches":[],
     "wof:country":"LU",
-    "wof:geomhash":"841463fdaeb1be7eb3a07ff661973252",
+    "wof:geomhash":"9ab4d14b2df7f141d8befe59542f3780",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633275,
+            "localadmin_id":1125286201,
             "locality_id":101751765,
             "neighbourhood_id":1444827953,
-            "region_id":85673875
+            "region_id":1745977427
         }
     ],
     "wof:id":1444827953,
-    "wof:lastmodified":1566598615,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1626733549,
     "wof:name":"Garer Quartier",
     "wof:parent_id":101751765,
     "wof:placetype":"neighbourhood",
@@ -66,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    6.12983696217985,
-    49.60255257065157,
-    6.12983696217985,
-    49.60255257065157
+    6.129837,
+    49.602553,
+    6.129837,
+    49.602553
 ],
-  "geometry": {"coordinates":[6.12983696217985,49.60255257065157],"type":"Point"}
+  "geometry": {"coordinates":[6.129837,49.602553],"type":"Point"}
 }

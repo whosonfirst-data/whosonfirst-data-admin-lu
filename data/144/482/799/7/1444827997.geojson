@@ -6,11 +6,10 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"6.10849372024,49.6110810976,6.10849372024,49.6110810976",
+    "geom:bbox":"6.108494,49.611081,6.108494,49.611081",
     "geom:latitude":49.611081,
     "geom:longitude":6.108494,
     "iso:country":"LU",
-    "lbl:bbox":"6.10349372024,49.6060810976,6.11349372024,49.6160810976",
     "lbl:latitude":49.611081,
     "lbl:longitude":6.108494,
     "lbl:max_zoom":18.0,
@@ -38,25 +37,37 @@
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
+        1745977427,
         102191581,
-        101751765,
+        1125286201,
         85633275,
-        85673875
+        101751765
     ],
     "wof:breaches":[],
     "wof:country":"LU",
-    "wof:geomhash":"437b476168bd1510b6a5436f86b8b728",
+    "wof:geomhash":"cd254e643733d8398bf5e33747180a2c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633275,
+            "localadmin_id":1125286201,
             "locality_id":101751765,
             "neighbourhood_id":1444827997,
-            "region_id":85673875
+            "region_id":1745977427
         }
     ],
     "wof:id":1444827997,
-    "wof:lastmodified":1566598615,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1626733553,
     "wof:name":"Belair",
     "wof:parent_id":101751765,
     "wof:placetype":"neighbourhood",
@@ -66,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    6.10849372023978,
-    49.61108109761748,
-    6.10849372023978,
-    49.61108109761748
+    6.108494,
+    49.611081,
+    6.108494,
+    49.611081
 ],
-  "geometry": {"coordinates":[6.10849372023978,49.61108109761748],"type":"Point"}
+  "geometry": {"coordinates":[6.108494,49.611081],"type":"Point"}
 }

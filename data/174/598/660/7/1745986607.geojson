@@ -1,0 +1,91 @@
+{
+  "id": 1745986607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.04972,49.65667,6.04972,49.65667",
+    "geom:latitude":49.65667,
+    "geom:longitude":6.04972,
+    "gn:admin1_code":"CA",
+    "gn:admin2_code":"6.0",
+    "gn:asciiname":"Brameschhaff",
+    "gn:cc2":"LU",
+    "gn:country_code":"LU",
+    "gn:dem":337,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":2960728,
+    "gn:latitude":49.65667,
+    "gn:longitude":6.04972,
+    "gn:modification_date":"2017-01-28",
+    "gn:name":"Brameschhaff",
+    "gn:population":0,
+    "gn:timezone":"Europe/Luxembourg",
+    "iso:country":"LU",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Brameschhof",
+        "Brameschhaff"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1745977433,
+        102191581,
+        1125376161,
+        85633275,
+        101812895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2960728
+    },
+    "wof:country":"LU",
+    "wof:created":1625097186,
+    "wof:geomhash":"e2dddef5692a3d6998534e1fdaa1e24c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1125376161,
+            "locality_id":101812895,
+            "neighbourhood_id":1745986607,
+            "region_id":1745977433
+        }
+    ],
+    "wof:id":1745986607,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1626733043,
+    "wof:name":"Brameschhaff",
+    "wof:parent_id":101812895,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-lu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1310537579
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.04972,
+    49.65667,
+    6.04972,
+    49.65667
+],
+  "geometry": {"coordinates":[6.04972,49.65667],"type":"Point"}
+}

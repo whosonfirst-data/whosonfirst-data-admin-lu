@@ -2,7 +2,7 @@
   "id": 1126019809,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2021-06-30",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -19,7 +19,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "qs_pg:aaroncc":"LU",
@@ -49,8 +49,9 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
+        1125390667,
         85633275,
-        85673865
+        1745977429
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -65,19 +66,22 @@
         {
             "continent_id":102191581,
             "country_id":85633275,
+            "localadmin_id":1125390667,
             "locality_id":1126019809,
-            "region_id":85673865
+            "region_id":1745977429
         }
     ],
     "wof:id":1126019809,
-    "wof:lastmodified":1566598683,
+    "wof:lastmodified":1626732613,
     "wof:name":"Selscheid",
-    "wof:parent_id":85673865,
+    "wof:parent_id":1125390667,
     "wof:placetype":"locality",
     "wof:population":59,
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-lu",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1745987201
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

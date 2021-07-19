@@ -10,7 +10,6 @@
     "geom:latitude":49.616723,
     "geom:longitude":6.159153,
     "iso:country":"LU",
-    "lbl:bbox":"6.154153,49.611723,6.164153,49.621723",
     "lbl:latitude":49.616723,
     "lbl:longitude":6.159153,
     "lbl:max_zoom":18.0,
@@ -146,9 +145,11 @@
     "src:lbl_centroid":"whosonfirst",
     "wd:wordcount":152,
     "wof:belongsto":[
+        1745977427,
         102191581,
+        1125286201,
         85633275,
-        85673875
+        101751765
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -165,18 +166,29 @@
         {
             "continent_id":102191581,
             "country_id":85633275,
-            "locality_id":-1,
+            "localadmin_id":1125286201,
+            "locality_id":101751765,
             "neighbourhood_id":85802053,
-            "region_id":85673875
+            "region_id":1745977427
         }
     ],
     "wof:id":85802053,
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582349490,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1626733564,
     "wof:name":"Cents",
-    "wof:parent_id":-1,
+    "wof:parent_id":101751765,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-lu",
     "wof:superseded_by":[],

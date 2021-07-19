@@ -1,0 +1,104 @@
+{
+  "id": 1745986987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.06361,50.12417,6.06361,50.12417",
+    "geom:latitude":50.12417,
+    "geom:longitude":6.06361,
+    "gn:country":"LU",
+    "gn:fcode":"PPL",
+    "gn:population":49,
+    "iso:country":"LU",
+    "lbl:latitude":50.12417,
+    "lbl:longitude":6.06361,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":11.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"LU",
+    "qs_pg:gn_country":"LU",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2960723,
+    "qs_pg:gn_pop":49,
+    "qs_pg:name":"Breidfeld",
+    "qs_pg:name_adm0":"Luxembourg",
+    "qs_pg:name_adm1":"Diekirch",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":52099,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424881,
+    "qs_pg:woe_id":20105050,
+    "src:geom":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424881,
+    "woe:name_adm0":"Luxembourg",
+    "woe:name_adm1":"Diekirch",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        1745977451,
+        102191581,
+        1125352025,
+        85633275,
+        1125800297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2960723,
+        "gp:id":20105050,
+        "qs_pg:id":52099
+    },
+    "wof:country":"LU",
+    "wof:created":1625097388,
+    "wof:geomhash":"13a7d46d94e5ffeb4921c22197a1ac97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1125352025,
+            "locality_id":1125800297,
+            "neighbourhood_id":1745986987,
+            "region_id":1745977451
+        }
+    ],
+    "wof:id":1745986987,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1626733243,
+    "wof:name":"Breidfeld",
+    "wof:parent_id":1125800297,
+    "wof:placetype":"neighbourhood",
+    "wof:population":49,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-lu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125894223
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.06361,
+    50.12417,
+    6.06361,
+    50.12417
+],
+  "geometry": {"coordinates":[6.06361,50.12417],"type":"Point"}
+}

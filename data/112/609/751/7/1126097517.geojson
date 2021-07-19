@@ -13,7 +13,6 @@
     "gn:fcode":"PPLX",
     "gn:population":0,
     "iso:country":"LU",
-    "lbl:bbox":"6.12694,49.62389,6.13694,49.63389",
     "lbl:latitude":49.62889,
     "lbl:longitude":6.13194,
     "lbl:max_zoom":18.0,
@@ -75,10 +74,11 @@
     "woe:name_adm1":"Luxembourg",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
+        1745977427,
         102191581,
-        101751765,
+        1125286201,
         85633275,
-        85673875
+        101751765
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -94,13 +94,24 @@
         {
             "continent_id":102191581,
             "country_id":85633275,
+            "localadmin_id":1125286201,
             "locality_id":101751765,
             "neighbourhood_id":1126097517,
-            "region_id":85673875
+            "region_id":1745977427
         }
     ],
     "wof:id":1126097517,
-    "wof:lastmodified":1566598685,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1626733546,
     "wof:name":"Eich",
     "wof:parent_id":101751765,
     "wof:placetype":"neighbourhood",

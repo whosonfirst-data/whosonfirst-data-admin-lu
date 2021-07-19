@@ -2,7 +2,7 @@
   "id": 1125933643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2021-06-30",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -17,7 +17,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
@@ -74,13 +74,10 @@
     "woe:name_adm1":"Luxembourg",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85683343,
         102191581,
-        85633147,
-        404227705,
-        1108826391,
-        136253037,
-        102069785
+        1125280445,
+        85633275,
+        1745977435
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -94,22 +91,21 @@
     "wof:hierarchy":[
         {
             "continent_id":102191581,
-            "country_id":85633147,
-            "county_id":102069785,
-            "empire_id":136253037,
+            "country_id":85633275,
+            "localadmin_id":1125280445,
             "locality_id":1125933643,
-            "macrocounty_id":404227705,
-            "macroregion_id":1108826391,
-            "region_id":85683343
+            "region_id":1745977435
         }
     ],
     "wof:id":1125933643,
-    "wof:lastmodified":1566598635,
+    "wof:lastmodified":1626732465,
     "wof:name":"Lasauvage",
-    "wof:parent_id":102069785,
+    "wof:parent_id":1125280445,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-lu",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1745986683
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

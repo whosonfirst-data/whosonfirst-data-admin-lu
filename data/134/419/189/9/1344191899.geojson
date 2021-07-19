@@ -2,7 +2,7 @@
   "id": 1344191899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2021-06-30",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Potaschhof",
@@ -39,8 +39,9 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1125415535,
         85633275,
-        85673869
+        1745977447
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,17 +53,20 @@
         {
             "continent_id":102191581,
             "country_id":85633275,
+            "localadmin_id":1125415535,
             "locality_id":1344191899,
-            "region_id":85673869
+            "region_id":1745977447
         }
     ],
     "wof:id":1344191899,
-    "wof:lastmodified":1566598604,
+    "wof:lastmodified":1626732890,
     "wof:name":"Potaschberg",
-    "wof:parent_id":85673869,
+    "wof:parent_id":1125415535,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-lu",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1745986427
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

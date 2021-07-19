@@ -11,7 +11,6 @@
     "geom:longitude":6.15792,
     "gn:id":"",
     "iso:country":"LU",
-    "lbl:bbox":"6.15292,49.592063,6.16292,49.602063",
     "lbl:latitude":49.597063,
     "lbl:longitude":6.15792,
     "lbl:max_zoom":18.0,
@@ -60,9 +59,11 @@
     ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        1745977427,
         102191581,
+        1125305925,
         85633275,
-        85673875
+        1125957373
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -79,18 +80,29 @@
         {
             "continent_id":102191581,
             "country_id":85633275,
-            "locality_id":-1,
+            "localadmin_id":1125305925,
+            "locality_id":1125957373,
             "neighbourhood_id":85802091,
-            "region_id":85673875
+            "region_id":1745977427
         }
     ],
     "wof:id":85802091,
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582349490,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1626733571,
     "wof:name":"Itzigerste",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125957373,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-lu",
     "wof:superseded_by":[],

@@ -1,0 +1,91 @@
+{
+  "id": 1745986403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.15556,49.79667,6.15556,49.79667",
+    "geom:latitude":49.79667,
+    "geom:longitude":6.15556,
+    "gn:admin1_code":"ME",
+    "gn:admin2_code":"10.0",
+    "gn:asciiname":"Wues",
+    "gn:cc2":"LU",
+    "gn:country_code":"LU",
+    "gn:dem":248,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2959960,
+    "gn:latitude":49.79667,
+    "gn:longitude":6.15556,
+    "gn:modification_date":"2017-01-28",
+    "gn:name":"Wues",
+    "gn:population":0,
+    "gn:timezone":"Europe/Luxembourg",
+    "iso:country":"LU",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Woos",
+        "Wues"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1745977439,
+        102191581,
+        1125284735,
+        85633275,
+        1125984279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2959960
+    },
+    "wof:country":"LU",
+    "wof:created":1625097088,
+    "wof:geomhash":"0a51521b97add8a22d2ffe313b35898f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1125284735,
+            "locality_id":1125984279,
+            "neighbourhood_id":1745986403,
+            "region_id":1745977439
+        }
+    ],
+    "wof:id":1745986403,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1626732936,
+    "wof:name":"Wues",
+    "wof:parent_id":1125984279,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-lu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1343795749
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.15556,
+    49.79667,
+    6.15556,
+    49.79667
+],
+  "geometry": {"coordinates":[6.15556,49.79667],"type":"Point"}
+}

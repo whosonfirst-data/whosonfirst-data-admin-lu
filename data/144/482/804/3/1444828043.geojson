@@ -6,11 +6,10 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"6.16405481387,49.6247236375,6.16405481387,49.6247236375",
+    "geom:bbox":"6.164055,49.624724,6.164055,49.624724",
     "geom:latitude":49.624724,
     "geom:longitude":6.164055,
     "iso:country":"LU",
-    "lbl:bbox":"6.15905481387,49.6197236375,6.16905481387,49.6297236375",
     "lbl:latitude":49.624724,
     "lbl:longitude":6.164055,
     "lbl:max_zoom":18.0,
@@ -35,25 +34,37 @@
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
+        1745977427,
         102191581,
-        101751765,
+        1125286201,
         85633275,
-        85673875
+        101751765
     ],
     "wof:breaches":[],
     "wof:country":"LU",
-    "wof:geomhash":"f94f17256634457ce77d91fa17cca3b1",
+    "wof:geomhash":"f1f5933935e6316435acee2d192f2164",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633275,
+            "localadmin_id":1125286201,
             "locality_id":101751765,
             "neighbourhood_id":1444828043,
-            "region_id":85673875
+            "region_id":1745977427
         }
     ],
     "wof:id":1444828043,
-    "wof:lastmodified":1566598615,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1626733557,
     "wof:name":"Weimeschhaff",
     "wof:parent_id":101751765,
     "wof:placetype":"neighbourhood",
@@ -63,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    6.16405481386928,
-    49.62472363752443,
-    6.16405481386928,
-    49.62472363752443
+    6.164055,
+    49.624724,
+    6.164055,
+    49.624724
 ],
-  "geometry": {"coordinates":[6.16405481386928,49.62472363752443],"type":"Point"}
+  "geometry": {"coordinates":[6.164055,49.624724],"type":"Point"}
 }

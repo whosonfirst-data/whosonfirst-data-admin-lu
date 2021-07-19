@@ -6,11 +6,10 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"6.13218300218,49.6163457956,6.13218300218,49.6163457956",
+    "geom:bbox":"6.132183,49.616346,6.132183,49.616346",
     "geom:latitude":49.616346,
     "geom:longitude":6.132183,
     "iso:country":"LU",
-    "lbl:bbox":"6.12718300218,49.6113457956,6.13718300218,49.6213457956",
     "lbl:latitude":49.616346,
     "lbl:longitude":6.132183,
     "lbl:max_zoom":18.0,
@@ -39,25 +38,37 @@
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
+        1745977427,
         102191581,
-        101751765,
+        1125286201,
         85633275,
-        85673875
+        101751765
     ],
     "wof:breaches":[],
     "wof:country":"LU",
-    "wof:geomhash":"689ef13ef45c06be2f7881881cc86a84",
+    "wof:geomhash":"9f174a8e535452bc7b48095a729f510f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633275,
+            "localadmin_id":1125286201,
             "locality_id":101751765,
             "neighbourhood_id":1444828057,
-            "region_id":85673875
+            "region_id":1745977427
         }
     ],
     "wof:id":1444828057,
-    "wof:lastmodified":1566598615,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1626733558,
     "wof:name":"Pafendall",
     "wof:parent_id":101751765,
     "wof:placetype":"neighbourhood",
@@ -67,10 +78,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    6.13218300217862,
-    49.61634579563865,
-    6.13218300217862,
-    49.61634579563865
+    6.132183,
+    49.616346,
+    6.132183,
+    49.616346
 ],
-  "geometry": {"coordinates":[6.13218300217862,49.61634579563865],"type":"Point"}
+  "geometry": {"coordinates":[6.132183,49.616346],"type":"Point"}
 }

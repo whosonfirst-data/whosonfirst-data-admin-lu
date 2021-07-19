@@ -1,0 +1,91 @@
+{
+  "id": 1745986525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.05,49.65,6.05,49.65",
+    "geom:latitude":49.65,
+    "geom:longitude":6.05,
+    "gn:admin1_code":"CA",
+    "gn:admin2_code":"9.0",
+    "gn:asciiname":"Wiltzermuehle",
+    "gn:country_code":"LU",
+    "gn:dem":353,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2959974,
+    "gn:latitude":49.65,
+    "gn:longitude":6.05,
+    "gn:modification_date":"2017-01-28",
+    "gn:name":"Wiltzerm\u00fchle",
+    "gn:population":0,
+    "gn:timezone":"Europe/Luxembourg",
+    "iso:country":"LU",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Ferrantsm\u00fchle",
+        "Wilzerm\u00fchle",
+        "Wiltzerm\u00fchle"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1745977433,
+        102191581,
+        1125305791,
+        85633275,
+        101753077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2959974
+    },
+    "wof:country":"LU",
+    "wof:created":1625097138,
+    "wof:geomhash":"33f137a55959c7c29d8997d63d5f9c4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1125305791,
+            "locality_id":101753077,
+            "neighbourhood_id":1745986525,
+            "region_id":1745977433
+        }
+    ],
+    "wof:id":1745986525,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1626733002,
+    "wof:name":"Wiltzermuehle",
+    "wof:parent_id":101753077,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-lu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1276371885
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.05,
+    49.65,
+    6.05,
+    49.65
+],
+  "geometry": {"coordinates":[6.05,49.65],"type":"Point"}
+}

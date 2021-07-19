@@ -1,0 +1,91 @@
+{
+  "id": 1745986537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.84389,49.97417,5.84389,49.97417",
+    "geom:latitude":49.97417,
+    "geom:longitude":5.84389,
+    "gn:admin1_code":"WI",
+    "gn:admin2_code":"13.0",
+    "gn:asciiname":"Bohey",
+    "gn:cc2":"LU",
+    "gn:country_code":"LU",
+    "gn:dem":476,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2960744,
+    "gn:latitude":49.97417,
+    "gn:longitude":5.84389,
+    "gn:modification_date":"2017-01-28",
+    "gn:name":"Bohey",
+    "gn:population":0,
+    "gn:timezone":"Europe/Luxembourg",
+    "iso:country":"LU",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Bohoey",
+        "Bohey"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1745977429,
+        102191581,
+        1125284497,
+        85633275,
+        1126025653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2960744
+    },
+    "wof:country":"LU",
+    "wof:created":1625097143,
+    "wof:geomhash":"bd847ad75597ba30e512dd2dc77b0fcb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1125284497,
+            "locality_id":1126025653,
+            "neighbourhood_id":1745986537,
+            "region_id":1745977429
+        }
+    ],
+    "wof:id":1745986537,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1626733008,
+    "wof:name":"Bohey",
+    "wof:parent_id":1126025653,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-lu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1209651521
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.84389,
+    49.97417,
+    5.84389,
+    49.97417
+],
+  "geometry": {"coordinates":[5.84389,49.97417],"type":"Point"}
+}

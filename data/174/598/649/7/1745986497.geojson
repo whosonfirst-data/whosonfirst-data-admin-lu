@@ -1,0 +1,105 @@
+{
+  "id": 1745986497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.18333,49.86667,6.18333,49.86667",
+    "geom:latitude":49.86667,
+    "geom:longitude":6.18333,
+    "gn:admin1_code":"DI",
+    "gn:admin2_code":"2.0",
+    "gn:asciiname":"Clairefontaine",
+    "gn:country_code":"LU",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2960689,
+    "gn:latitude":49.86667,
+    "gn:longitude":6.18333,
+    "gn:modification_date":"2017-01-28",
+    "gn:name":"Clairefontaine",
+    "gn:population":0,
+    "gn:timezone":"Europe/Luxembourg",
+    "iso:country":"LU",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "name:deu_x_preferred":[
+        "Clairefontaine"
+    ],
+    "name:fra_x_preferred":[
+        "Clairefontaine"
+    ],
+    "name:hun_x_preferred":[
+        "Clairefontaine"
+    ],
+    "name:ltz_x_preferred":[
+        "Clairefontaine"
+    ],
+    "name:pol_x_preferred":[
+        "Clairefontaine"
+    ],
+    "name:und_x_variant":[
+        "Claire",
+        "Clairefontaines"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1745977441,
+        102191581,
+        1125351511,
+        85633275,
+        101812857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2960689
+    },
+    "wof:country":"LU",
+    "wof:created":1625097123,
+    "wof:geomhash":"ca989b727717b8d3a3ab6dc4302e68b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1125351511,
+            "locality_id":101812857,
+            "neighbourhood_id":1745986497,
+            "region_id":1745977441
+        }
+    ],
+    "wof:id":1745986497,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1626732987,
+    "wof:name":"Clairefontaine",
+    "wof:parent_id":101812857,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-lu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1276580605
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.18333,
+    49.86667,
+    6.18333,
+    49.86667
+],
+  "geometry": {"coordinates":[6.18333,49.86667],"type":"Point"}
+}

@@ -1,0 +1,86 @@
+{
+  "id": 1745986551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.11667,49.7,6.11667,49.7",
+    "geom:latitude":49.7,
+    "geom:longitude":6.11667,
+    "gn:admin1_code":"ME",
+    "gn:admin2_code":"8.0",
+    "gn:asciiname":"Moulin Colmesch",
+    "gn:country_code":"LU",
+    "gn:dem":338,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2960255,
+    "gn:latitude":49.7,
+    "gn:longitude":6.11667,
+    "gn:modification_date":"2017-01-28",
+    "gn:name":"Moulin Colmesch",
+    "gn:population":0,
+    "gn:timezone":"Europe/Luxembourg",
+    "iso:country":"LU",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1745977439,
+        102191581,
+        1125366377,
+        85633275,
+        1125990641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2960255
+    },
+    "wof:country":"LU",
+    "wof:created":1625097148,
+    "wof:geomhash":"06c69cde2eac34e5cbb9a872ffaa5705",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1125366377,
+            "locality_id":1125990641,
+            "neighbourhood_id":1745986551,
+            "region_id":1745977439
+        }
+    ],
+    "wof:id":1745986551,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1626733014,
+    "wof:name":"Moulin Colmesch",
+    "wof:parent_id":1125990641,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-lu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1209950319
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.11667,
+    49.7,
+    6.11667,
+    49.7
+],
+  "geometry": {"coordinates":[6.11667,49.7],"type":"Point"}
+}

@@ -1,0 +1,94 @@
+{
+  "id": 1745986597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.77333,49.86694,5.77333,49.86694",
+    "geom:latitude":49.86694,
+    "geom:longitude":5.77333,
+    "gn:admin1_code":"RD",
+    "gn:admin2_code":"6.0",
+    "gn:asciiname":"Martelinville",
+    "gn:cc2":"LU",
+    "gn:country_code":"LU",
+    "gn:dem":353,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":2960291,
+    "gn:latitude":49.86694,
+    "gn:longitude":5.77333,
+    "gn:modification_date":"2017-01-28",
+    "gn:name":"Martelinville",
+    "gn:population":0,
+    "gn:timezone":"Europe/Luxembourg",
+    "iso:country":"LU",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Rommelerhof",
+        "Ferme Martelinville",
+        "Rommeldange",
+        "Rommelerhaff",
+        "Martelinville"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1745977431,
+        102191581,
+        1125410765,
+        85633275,
+        101812867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2960291
+    },
+    "wof:country":"LU",
+    "wof:created":1625097173,
+    "wof:geomhash":"4fe4bcf280394fbafa244d93b8649069",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1125410765,
+            "locality_id":101812867,
+            "neighbourhood_id":1745986597,
+            "region_id":1745977431
+        }
+    ],
+    "wof:id":1745986597,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1626733038,
+    "wof:name":"Martelinville",
+    "wof:parent_id":101812867,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-lu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1260110829
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.77333,
+    49.86694,
+    5.77333,
+    49.86694
+],
+  "geometry": {"coordinates":[5.77333,49.86694],"type":"Point"}
+}

@@ -1,0 +1,97 @@
+{
+  "id": 1745987335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.8575,49.99056,5.8575,49.99056",
+    "geom:latitude":49.99056,
+    "geom:longitude":5.8575,
+    "gn:country":"LU",
+    "gn:fcode":"PPLL",
+    "gn:population":8,
+    "iso:country":"LU",
+    "lbl:latitude":49.99056,
+    "lbl:longitude":5.8575,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":11.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:und_x_variant":[
+        "Schlief"
+    ],
+    "qs_pg:aaroncc":"LU",
+    "qs_pg:gn_country":"LU",
+    "qs_pg:gn_fcode":"PPLL",
+    "qs_pg:gn_id":2960098,
+    "qs_pg:gn_pop":8,
+    "qs_pg:name":"Schleif",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":580055,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        1745977429,
+        102191581,
+        1125284497,
+        85633275,
+        1126025653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2960098,
+        "qs_pg:id":580055
+    },
+    "wof:country":"LU",
+    "wof:created":1625097526,
+    "wof:geomhash":"f673690364593efcaf384914c94237f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1125284497,
+            "locality_id":1126025653,
+            "neighbourhood_id":1745987335,
+            "region_id":1745977429
+        }
+    ],
+    "wof:id":1745987335,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1626733425,
+    "wof:name":"Schleif",
+    "wof:parent_id":1126025653,
+    "wof:placetype":"neighbourhood",
+    "wof:population":8,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-lu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125783739
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.8575,
+    49.99056,
+    5.8575,
+    49.99056
+],
+  "geometry": {"coordinates":[5.8575,49.99056],"type":"Point"}
+}

@@ -6,11 +6,10 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"6.16319650655,49.6350271544,6.16319650655,49.6350271544",
+    "geom:bbox":"6.163197,49.635027,6.163197,49.635027",
     "geom:latitude":49.635027,
     "geom:longitude":6.163197,
     "iso:country":"LU",
-    "lbl:bbox":"6.15819650655,49.6300271544,6.16819650655,49.6400271544",
     "lbl:latitude":49.635027,
     "lbl:longitude":6.163196,
     "lbl:max_zoom":18.0,
@@ -32,25 +31,37 @@
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
+        1745977427,
         102191581,
-        101751765,
+        1125286201,
         85633275,
-        85673875
+        101751765
     ],
     "wof:breaches":[],
     "wof:country":"LU",
-    "wof:geomhash":"e2c679f735b623aba7a9d86a9c92956c",
+    "wof:geomhash":"a36231a7080dc42b3d5d7cfda557d8d8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633275,
+            "localadmin_id":1125286201,
             "locality_id":101751765,
             "neighbourhood_id":1444828081,
-            "region_id":85673875
+            "region_id":1745977427
         }
     ],
     "wof:id":1444828081,
-    "wof:lastmodified":1566598616,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1626733560,
     "wof:name":"Kiem",
     "wof:parent_id":101751765,
     "wof:placetype":"neighbourhood",
@@ -60,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    6.16319650655265,
-    49.63502715438383,
-    6.16319650655265,
-    49.63502715438383
+    6.163197,
+    49.635027,
+    6.163197,
+    49.635027
 ],
-  "geometry": {"coordinates":[6.16319650655265,49.63502715438383],"type":"Point"}
+  "geometry": {"coordinates":[6.163197,49.635027],"type":"Point"}
 }

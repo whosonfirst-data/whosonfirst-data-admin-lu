@@ -8,7 +8,7 @@
     "edtf:superseded":"2018-08-15",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"6.0373915,49.927273,6.0373915,49.927273",
+    "geom:bbox":"6.037392,49.927273,6.037392,49.927273",
     "geom:latitude":49.927273,
     "geom:longitude":6.037392,
     "gn:gn_country":null,
@@ -43,8 +43,9 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
+        1125298213,
         85633275,
-        85673865
+        1745977429
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,19 +54,20 @@
     },
     "wof:country":"LU",
     "wof:created":1497300308,
-    "wof:geomhash":"d807a5bf564eab2025226be57a118ae5",
+    "wof:geomhash":"fa7634cbb43d3a8092421cf09f32dd87",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633275,
+            "localadmin_id":1125298213,
             "locality_id":1126011619,
-            "region_id":85673865
+            "region_id":1745977429
         }
     ],
     "wof:id":1126011619,
-    "wof:lastmodified":1534379377,
+    "wof:lastmodified":1626732583,
     "wof:name":"Masseler",
-    "wof:parent_id":85673865,
+    "wof:parent_id":1125298213,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-lu",
     "wof:superseded_by":[
@@ -75,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    6.0373915,
+    6.037392,
     49.927273,
-    6.0373915,
+    6.037392,
     49.927273
 ],
-  "geometry": {"coordinates":[6.0373915,49.927273],"type":"Point"}
+  "geometry": {"coordinates":[6.037392,49.927273],"type":"Point"}
 }

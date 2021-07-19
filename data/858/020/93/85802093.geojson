@@ -11,7 +11,6 @@
     "geom:longitude":6.151353,
     "gn:population":3534,
     "iso:country":"LU",
-    "lbl:bbox":"6.146353,49.620998,6.156353,49.630998",
     "lbl:latitude":49.625998,
     "lbl:longitude":6.151353,
     "lbl:max_zoom":18.0,
@@ -115,10 +114,11 @@
     "wd:longitude":6.145556,
     "wd:wordcount":440,
     "wof:belongsto":[
+        1745977427,
         102191581,
-        101751765,
+        1125286201,
         85633275,
-        85673875
+        101751765
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -139,16 +139,27 @@
         {
             "continent_id":102191581,
             "country_id":85633275,
+            "localadmin_id":1125286201,
             "locality_id":101751765,
             "neighbourhood_id":85802093,
-            "region_id":85673875
+            "region_id":1745977427
         }
     ],
     "wof:id":85802093,
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582349490,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1626733572,
     "wof:name":"Kirchberg",
     "wof:parent_id":101751765,
     "wof:placetype":"neighbourhood",

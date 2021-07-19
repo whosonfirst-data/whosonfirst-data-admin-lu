@@ -2,7 +2,7 @@
   "id": 1126048949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2021-06-30",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -19,7 +19,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:cat_x_preferred":[
@@ -85,7 +85,9 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
-        85633275
+        1125402081,
+        85633275,
+        1745977445
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -101,19 +103,22 @@
         {
             "continent_id":102191581,
             "country_id":85633275,
+            "localadmin_id":1125402081,
             "locality_id":1126048949,
-            "region_id":-1
+            "region_id":1745977445
         }
     ],
     "wof:id":1126048949,
-    "wof:lastmodified":1566598653,
+    "wof:lastmodified":1626732672,
     "wof:name":"Dillingen",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125402081,
     "wof:placetype":"locality",
     "wof:population":159,
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-lu",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1745986895
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

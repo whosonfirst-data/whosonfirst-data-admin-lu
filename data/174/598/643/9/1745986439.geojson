@@ -1,0 +1,91 @@
+{
+  "id": 1745986439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.81278,49.89917,5.81278,49.89917",
+    "geom:latitude":49.89917,
+    "geom:longitude":5.81278,
+    "gn:admin1_code":"WI",
+    "gn:admin2_code":"1.0",
+    "gn:asciiname":"Fleibur",
+    "gn:cc2":"LU",
+    "gn:country_code":"LU",
+    "gn:dem":459,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":2960567,
+    "gn:latitude":49.89917,
+    "gn:longitude":5.81278,
+    "gn:modification_date":"2017-01-28",
+    "gn:name":"Fleibur",
+    "gn:population":0,
+    "gn:timezone":"Europe/Luxembourg",
+    "iso:country":"LU",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Flebour",
+        "Fleibur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1745977429,
+        102191581,
+        1125366297,
+        85633275,
+        1125796641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2960567
+    },
+    "wof:country":"LU",
+    "wof:created":1625097102,
+    "wof:geomhash":"47e4dd11166dd8bcb2c0d3af9b87f9b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1125366297,
+            "locality_id":1125796641,
+            "neighbourhood_id":1745986439,
+            "region_id":1745977429
+        }
+    ],
+    "wof:id":1745986439,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1626732955,
+    "wof:name":"Fleibur",
+    "wof:parent_id":1125796641,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-lu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1293917065
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.81278,
+    49.89917,
+    5.81278,
+    49.89917
+],
+  "geometry": {"coordinates":[5.81278,49.89917],"type":"Point"}
+}

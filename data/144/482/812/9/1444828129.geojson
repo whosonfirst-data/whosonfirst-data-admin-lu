@@ -6,11 +6,10 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"6.1253771167,49.5840684825,6.1253771167,49.5840684825",
+    "geom:bbox":"6.125377,49.584068,6.125377,49.584068",
     "geom:latitude":49.584068,
     "geom:longitude":6.125377,
     "iso:country":"LU",
-    "lbl:bbox":"6.1203771167,49.5790684825,6.1303771167,49.5890684825",
     "lbl:latitude":49.584068,
     "lbl:longitude":6.125377,
     "lbl:max_zoom":18.0,
@@ -32,26 +31,39 @@
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
+        1745977427,
         102191581,
+        1125286201,
         85633275,
-        85673875
+        101751765
     ],
     "wof:breaches":[],
     "wof:country":"LU",
-    "wof:geomhash":"387fc89e2225289304da813532b74521",
+    "wof:geomhash":"4313ce95a32af4cf81e2413d037bcf0e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633275,
-            "locality_id":-1,
+            "localadmin_id":1125286201,
+            "locality_id":101751765,
             "neighbourhood_id":1444828129,
-            "region_id":85673875
+            "region_id":1745977427
         }
     ],
     "wof:id":1444828129,
-    "wof:lastmodified":1566598616,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1626733562,
     "wof:name":"Cloche d'Or",
-    "wof:parent_id":-1,
+    "wof:parent_id":101751765,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-lu",
     "wof:superseded_by":[],
@@ -59,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    6.1253771167035,
-    49.5840684825129,
-    6.1253771167035,
-    49.5840684825129
+    6.125377,
+    49.584068,
+    6.125377,
+    49.584068
 ],
-  "geometry": {"coordinates":[6.1253771167035,49.5840684825129],"type":"Point"}
+  "geometry": {"coordinates":[6.125377,49.584068],"type":"Point"}
 }

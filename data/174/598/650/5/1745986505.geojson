@@ -1,0 +1,100 @@
+{
+  "id": 1745986505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.94361,49.51028,5.94361,49.51028",
+    "geom:latitude":49.51028,
+    "geom:longitude":5.94361,
+    "gn:admin1_code":"ES",
+    "gn:admin2_code":"13.0",
+    "gn:asciiname":"Belval",
+    "gn:cc2":"LU",
+    "gn:country_code":"LU",
+    "gn:dem":311,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":2960801,
+    "gn:latitude":49.51028,
+    "gn:longitude":5.94361,
+    "gn:modification_date":"2017-01-28",
+    "gn:name":"Belval",
+    "gn:population":0,
+    "gn:timezone":"Europe/Luxembourg",
+    "iso:country":"LU",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "name:cat_x_preferred":[
+        "Belval"
+    ],
+    "name:fra_x_preferred":[
+        "Esch-Belval"
+    ],
+    "name:ltz_x_preferred":[
+        "Belval"
+    ],
+    "name:und_x_variant":[
+        "Ernshof"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1745977435,
+        102191581,
+        1125299915,
+        85633275,
+        1126007057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2960801,
+        "wk:page":"Belval%2C_Luxembourg"
+    },
+    "wof:country":"LU",
+    "wof:created":1625097129,
+    "wof:geomhash":"fa85cac30453cfb7092ee21014c17c60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1125299915,
+            "locality_id":1126007057,
+            "neighbourhood_id":1745986505,
+            "region_id":1745977435
+        }
+    ],
+    "wof:id":1745986505,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1626732992,
+    "wof:name":"Belval",
+    "wof:parent_id":1126007057,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-lu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1276152239
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.94361,
+    49.51028,
+    5.94361,
+    49.51028
+],
+  "geometry": {"coordinates":[5.94361,49.51028],"type":"Point"}
+}

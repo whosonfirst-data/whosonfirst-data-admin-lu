@@ -2,7 +2,7 @@
   "id": 1209649283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2021-06-30",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -28,11 +28,14 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633275
+        102191581,
+        1745980853,
+        85633275,
+        1745977451
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,22 @@
     "wof:geomhash":"08171f3f399b3808645081e2ad94a80b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633275,
-            "locality_id":1209649283
+            "localadmin_id":1745980853,
+            "locality_id":1209649283,
+            "region_id":1745977451
         }
     ],
     "wof:id":1209649283,
-    "wof:lastmodified":1566598613,
+    "wof:lastmodified":1626732699,
     "wof:name":"Lentzweiler",
-    "wof:parent_id":85633275,
+    "wof:parent_id":1745980853,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-lu",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1745986539
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -1,0 +1,106 @@
+{
+  "id": 1745987201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.94889,50.01806,5.94889,50.01806",
+    "geom:latitude":50.01806,
+    "geom:longitude":5.94889,
+    "gn:country":"LU",
+    "gn:fcode":"PPL",
+    "gn:population":59,
+    "iso:country":"LU",
+    "lbl:latitude":50.01806,
+    "lbl:longitude":5.94889,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":11.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"LU",
+    "qs_pg:gn_country":"LU",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2960073,
+    "qs_pg:gn_pop":59,
+    "qs_pg:name":"Selscheid",
+    "qs_pg:name_adm0":"Luxembourg",
+    "qs_pg:name_adm1":"Diekirch",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":4,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":942943,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424881,
+    "qs_pg:woe_id":979926,
+    "src:geom":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424881,
+    "woe:name_adm0":"Luxembourg",
+    "woe:name_adm1":"Diekirch",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        1745977429,
+        102191581,
+        1125390667,
+        85633275,
+        101811731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2960073,
+        "gp:id":979926,
+        "qs_pg:id":942943
+    },
+    "wof:country":"LU",
+    "wof:created":1625097472,
+    "wof:geomhash":"8257414308c07f5265367402e9a9d06b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1125390667,
+            "locality_id":101811731,
+            "neighbourhood_id":1745987201,
+            "region_id":1745977429
+        }
+    ],
+    "wof:id":1745987201,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1626733354,
+    "wof:name":"Selscheid",
+    "wof:parent_id":101811731,
+    "wof:placetype":"neighbourhood",
+    "wof:population":59,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-lu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1126019809
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.94889,
+    50.01806,
+    5.94889,
+    50.01806
+],
+  "geometry": {"coordinates":[5.94889,50.01806],"type":"Point"}
+}

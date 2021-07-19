@@ -1,0 +1,94 @@
+{
+  "id": 1745987395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.34056,49.70667,6.34056,49.70667",
+    "geom:latitude":49.70667,
+    "geom:longitude":6.34056,
+    "gn:country":"LU",
+    "gn:fcode":"PPLL",
+    "gn:population":50,
+    "iso:country":"LU",
+    "lbl:latitude":49.70667,
+    "lbl:longitude":6.34056,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":11.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"LU",
+    "qs_pg:gn_country":"LU",
+    "qs_pg:gn_fcode":"PPLL",
+    "qs_pg:gn_id":2960721,
+    "qs_pg:gn_pop":50,
+    "qs_pg:name":"Breinert",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":580075,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        1745977447,
+        102191581,
+        1125294519,
+        85633275,
+        1125781071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2960721,
+        "qs_pg:id":580075
+    },
+    "wof:country":"LU",
+    "wof:created":1625097548,
+    "wof:geomhash":"dc6930c7eadfeffa1286f4a6f4751c4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1125294519,
+            "locality_id":1125781071,
+            "neighbourhood_id":1745987395,
+            "region_id":1745977447
+        }
+    ],
+    "wof:id":1745987395,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1626733455,
+    "wof:name":"Breinert",
+    "wof:parent_id":1125781071,
+    "wof:placetype":"neighbourhood",
+    "wof:population":50,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-lu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125849599
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.34056,
+    49.70667,
+    6.34056,
+    49.70667
+],
+  "geometry": {"coordinates":[6.34056,49.70667],"type":"Point"}
+}

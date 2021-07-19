@@ -1,0 +1,92 @@
+{
+  "id": 1745986377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.21667,49.93333,6.21667,49.93333",
+    "geom:latitude":49.93333,
+    "geom:longitude":6.21667,
+    "gn:admin1_code":"VD",
+    "gn:admin2_code":"3.0",
+    "gn:asciiname":"Chateau Faubourg",
+    "gn:cc2":"LU",
+    "gn:country_code":"LU",
+    "gn:dem":220,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2960692,
+    "gn:latitude":49.93333,
+    "gn:longitude":6.21667,
+    "gn:modification_date":"2017-01-28",
+    "gn:name":"Ch\u00e2teau Faubourg",
+    "gn:population":0,
+    "gn:timezone":"Europe/Luxembourg",
+    "iso:country":"LU",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Faubourg",
+        "Chateau",
+        "Ch\u00e2teau Faubourg"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1745977449,
+        102191581,
+        1125303779,
+        85633275,
+        101845559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2960692
+    },
+    "wof:country":"LU",
+    "wof:created":1625097079,
+    "wof:geomhash":"c65a90e54e64d5181aeb6bb0fd013583",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1125303779,
+            "locality_id":101845559,
+            "neighbourhood_id":1745986377,
+            "region_id":1745977449
+        }
+    ],
+    "wof:id":1745986377,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1626732923,
+    "wof:name":"Chateau Faubourg",
+    "wof:parent_id":101845559,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-lu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1327168707
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.21667,
+    49.93333,
+    6.21667,
+    49.93333
+],
+  "geometry": {"coordinates":[6.21667,49.93333],"type":"Point"}
+}

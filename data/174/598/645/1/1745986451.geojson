@@ -1,0 +1,90 @@
+{
+  "id": 1745986451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.9,49.88333,5.9,49.88333",
+    "geom:latitude":49.88333,
+    "geom:longitude":5.9,
+    "gn:admin1_code":"RD",
+    "gn:admin2_code":"13.0",
+    "gn:asciiname":"Moulin de Bascharage",
+    "gn:country_code":"LU",
+    "gn:dem":451,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2960287,
+    "gn:latitude":49.88333,
+    "gn:longitude":5.9,
+    "gn:modification_date":"2017-01-28",
+    "gn:name":"Moulin de Bascharage",
+    "gn:population":0,
+    "gn:timezone":"Europe/Luxembourg",
+    "iso:country":"LU",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Bascharage Moulin",
+        "Moulin de Bascharage"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1745977431,
+        102191581,
+        1125306043,
+        85633275,
+        1125861569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2960287
+    },
+    "wof:country":"LU",
+    "wof:created":1625097107,
+    "wof:geomhash":"4da513a44389d105cd8442bc9457e538",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1125306043,
+            "locality_id":1125861569,
+            "neighbourhood_id":1745986451,
+            "region_id":1745977431
+        }
+    ],
+    "wof:id":1745986451,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1626732962,
+    "wof:name":"Moulin de Bascharage",
+    "wof:parent_id":1125861569,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-lu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1293718181
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.9,
+    49.88333,
+    5.9,
+    49.88333
+],
+  "geometry": {"coordinates":[5.9,49.88333],"type":"Point"}
+}

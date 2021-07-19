@@ -1,0 +1,95 @@
+{
+  "id": 1745986351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.15709,49.93531,6.15709,49.93531",
+    "geom:latitude":49.93531,
+    "geom:longitude":6.15709,
+    "gn:admin1_code":"VD",
+    "gn:admin2_code":"1.0",
+    "gn:asciiname":"Houschterhaff",
+    "gn:cc2":"LU",
+    "gn:country_code":"LU",
+    "gn:dem":465,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":2960430,
+    "gn:latitude":49.93531,
+    "gn:longitude":6.15709,
+    "gn:modification_date":"2017-10-02",
+    "gn:name":"Houschterhaff",
+    "gn:population":0,
+    "gn:timezone":"Europe/Luxembourg",
+    "iso:country":"LU",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Fonkenhof",
+        "Wiltgeshof",
+        "Hoschetterhof",
+        "Hoscheiderhof",
+        "Houschterhaff",
+        "Hoscheidterhof"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1745977449,
+        102191581,
+        1745980851,
+        85633275,
+        1125952365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2960430
+    },
+    "wof:country":"LU",
+    "wof:created":1625097068,
+    "wof:geomhash":"d90f9fe8da75f9912153f279b8a9c398",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1745980851,
+            "locality_id":1125952365,
+            "neighbourhood_id":1745986351,
+            "region_id":1745977449
+        }
+    ],
+    "wof:id":1745986351,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1626732909,
+    "wof:name":"Houschterhaff",
+    "wof:parent_id":1125952365,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-lu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1327368279
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.15709,
+    49.93531,
+    6.15709,
+    49.93531
+],
+  "geometry": {"coordinates":[6.15709,49.93531],"type":"Point"}
+}

@@ -11,7 +11,6 @@
     "geom:longitude":6.187351,
     "gn:population":1836,
     "iso:country":"LU",
-    "lbl:bbox":"6.182351,49.593227,6.192351,49.603227",
     "lbl:latitude":49.598227,
     "lbl:longitude":6.187351,
     "lbl:max_zoom":18.0,
@@ -87,9 +86,11 @@
     "wd:longitude":6.166667,
     "wd:wordcount":42,
     "wof:belongsto":[
+        1745977427,
         102191581,
+        1125305925,
         85633275,
-        85673875
+        1125957373
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -108,24 +109,37 @@
         {
             "continent_id":102191581,
             "country_id":85633275,
-            "locality_id":-1,
+            "localadmin_id":1125305925,
+            "locality_id":1125957373,
             "neighbourhood_id":85802087,
-            "region_id":85673875
+            "region_id":1745977427
         }
     ],
     "wof:id":85802087,
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582349490,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1626733539,
     "wof:name":"Itzig",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125957373,
     "wof:placetype":"neighbourhood",
     "wof:population":1836,
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-lu",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1125924523
+    ],
     "wof:tags":[]
 },
   "bbox": [

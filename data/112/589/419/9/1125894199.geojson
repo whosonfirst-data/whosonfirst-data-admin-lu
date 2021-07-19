@@ -2,7 +2,7 @@
   "id": 1125894199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2021-06-30",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -19,7 +19,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "qs_pg:aaroncc":"LU",
@@ -46,13 +46,10 @@
     "woe:name_adm1":"Grevenmacher",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85683271,
         102191581,
-        85633147,
-        404228309,
-        1108826391,
-        136253037,
-        102065207
+        1745980847,
+        85633275,
+        1745977443
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,24 +63,23 @@
     "wof:hierarchy":[
         {
             "continent_id":102191581,
-            "country_id":85633147,
-            "county_id":102065207,
-            "empire_id":136253037,
+            "country_id":85633275,
+            "localadmin_id":1745980847,
             "locality_id":1125894199,
-            "macrocounty_id":404228309,
-            "macroregion_id":1108826391,
-            "region_id":85683271
+            "region_id":1745977443
         }
     ],
     "wof:id":1125894199,
-    "wof:lastmodified":1566598665,
+    "wof:lastmodified":1626732426,
     "wof:name":"Emerange",
-    "wof:parent_id":102065207,
+    "wof:parent_id":1745980847,
     "wof:placetype":"locality",
     "wof:population":99,
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-lu",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1745986999
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -2,7 +2,7 @@
   "id": 1125921533,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2021-06-30",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -19,7 +19,7 @@
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:cat_x_preferred":[
@@ -78,8 +78,9 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
+        1125283425,
         85633275,
-        85673865
+        1745977429
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -95,19 +96,22 @@
         {
             "continent_id":102191581,
             "country_id":85633275,
+            "localadmin_id":1125283425,
             "locality_id":1125921533,
-            "region_id":85673865
+            "region_id":1745977429
         }
     ],
     "wof:id":1125921533,
-    "wof:lastmodified":1566598638,
+    "wof:lastmodified":1626732442,
     "wof:name":"Tarchamps",
-    "wof:parent_id":85673865,
+    "wof:parent_id":1125283425,
     "wof:placetype":"locality",
     "wof:population":294,
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-lu",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1745986715
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

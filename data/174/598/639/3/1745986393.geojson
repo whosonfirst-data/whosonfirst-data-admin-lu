@@ -1,0 +1,86 @@
+{
+  "id": 1745986393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.02528,50.18167,6.02528,50.18167",
+    "geom:latitude":50.18167,
+    "geom:longitude":6.02528,
+    "gn:admin1_code":"CL",
+    "gn:asciiname":"Schmett",
+    "gn:country_code":"LU",
+    "gn:dem":542,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2960092,
+    "gn:latitude":50.18167,
+    "gn:longitude":6.02528,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Schm\u00ebtt",
+    "gn:population":0,
+    "gn:timezone":"Europe/Luxembourg",
+    "iso:country":"LU",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Forge",
+        "Schmiede",
+        "Huldange-Forge",
+        "Schm\u00ebtt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2960092
+    },
+    "wof:country":"LU",
+    "wof:created":1625097085,
+    "wof:geomhash":"39553f0037ffee1ca203de86ea46d66d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":1745986393,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1745986393,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1626732932,
+    "wof:name":"Schmett",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-lu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1344088113
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.02528,
+    50.18167,
+    6.02528,
+    50.18167
+],
+  "geometry": {"coordinates":[6.02528,50.18167],"type":"Point"}
+}

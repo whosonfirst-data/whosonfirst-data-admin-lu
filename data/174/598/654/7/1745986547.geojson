@@ -1,0 +1,86 @@
+{
+  "id": 1745986547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.96806,50.01944,5.96806,50.01944",
+    "geom:latitude":50.01944,
+    "geom:longitude":5.96806,
+    "gn:admin1_code":"WI",
+    "gn:admin2_code":"11.0",
+    "gn:asciiname":"Kleinhoscheid",
+    "gn:country_code":"LU",
+    "gn:dem":474,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2960376,
+    "gn:latitude":50.01944,
+    "gn:longitude":5.96806,
+    "gn:modification_date":"2017-01-28",
+    "gn:name":"Kleinhoscheid",
+    "gn:population":0,
+    "gn:timezone":"Europe/Luxembourg",
+    "iso:country":"LU",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1745977429,
+        102191581,
+        1125390667,
+        85633275,
+        101811731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2960376
+    },
+    "wof:country":"LU",
+    "wof:created":1625097146,
+    "wof:geomhash":"bffa411078a245cc6b7fdb0e069a52a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1125390667,
+            "locality_id":101811731,
+            "neighbourhood_id":1745986547,
+            "region_id":1745977429
+        }
+    ],
+    "wof:id":1745986547,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1626733012,
+    "wof:name":"Kleinhoscheid",
+    "wof:parent_id":101811731,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-lu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1209140261
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.96806,
+    50.01944,
+    5.96806,
+    50.01944
+],
+  "geometry": {"coordinates":[5.96806,50.01944],"type":"Point"}
+}

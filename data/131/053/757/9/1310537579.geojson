@@ -2,7 +2,7 @@
   "id": 1310537579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2021-06-30",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Brameschhof",
@@ -38,8 +38,9 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1125376161,
         85633275,
-        85673875
+        1745977433
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,17 +52,20 @@
         {
             "continent_id":102191581,
             "country_id":85633275,
+            "localadmin_id":1125376161,
             "locality_id":1310537579,
-            "region_id":85673875
+            "region_id":1745977433
         }
     ],
     "wof:id":1310537579,
-    "wof:lastmodified":1566598619,
+    "wof:lastmodified":1626732838,
     "wof:name":"Brameschhaff",
-    "wof:parent_id":85673875,
+    "wof:parent_id":1125376161,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-lu",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1745986607
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

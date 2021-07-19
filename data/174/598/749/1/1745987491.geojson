@@ -1,0 +1,94 @@
+{
+  "id": 1745987491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.87389,49.51111,5.87389,49.51111",
+    "geom:latitude":49.51111,
+    "geom:longitude":5.87389,
+    "gn:admin1_code":"ES",
+    "gn:admin2_code":"2.0",
+    "gn:asciiname":"Vesquenhaff",
+    "gn:country_code":"LU",
+    "gn:dem":412,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2960582,
+    "gn:latitude":49.51111,
+    "gn:longitude":5.87389,
+    "gn:modification_date":"2017-01-28",
+    "gn:name":"Vesquenhaff",
+    "gn:population":0,
+    "gn:timezone":"Europe/Luxembourg",
+    "iso:country":"LU",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Westenhof",
+        "Ferme de Vesque",
+        "Ferme Vesque",
+        "Festenhof",
+        "Vesquehof",
+        "Vesquenhaff"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1745977435,
+        102191581,
+        1125280445,
+        85633275,
+        101839817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2960582
+    },
+    "wof:country":"LU",
+    "wof:created":1625097585,
+    "wof:geomhash":"600c85e120fb34d679ebc45cd855587b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1125280445,
+            "locality_id":101839817,
+            "neighbourhood_id":1745987491,
+            "region_id":1745977435
+        }
+    ],
+    "wof:id":1745987491,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1626733506,
+    "wof:name":"Vesquenhaff",
+    "wof:parent_id":101839817,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-lu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1259717421
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.87389,
+    49.51111,
+    5.87389,
+    49.51111
+],
+  "geometry": {"coordinates":[5.87389,49.51111],"type":"Point"}
+}

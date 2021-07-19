@@ -1,0 +1,86 @@
+{
+  "id": 1745986457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.11667,49.81667,6.11667,49.81667",
+    "geom:latitude":49.81667,
+    "geom:longitude":6.11667,
+    "gn:admin1_code":"DI",
+    "gn:admin2_code":"13.0",
+    "gn:asciiname":"Ferme Thibesart",
+    "gn:country_code":"LU",
+    "gn:dem":330,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2960578,
+    "gn:latitude":49.81667,
+    "gn:longitude":6.11667,
+    "gn:modification_date":"2017-01-28",
+    "gn:name":"Ferme Thibesart",
+    "gn:population":0,
+    "gn:timezone":"Europe/Luxembourg",
+    "iso:country":"LU",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1745977441,
+        102191581,
+        1745980829,
+        85633275,
+        1126019305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2960578
+    },
+    "wof:country":"LU",
+    "wof:created":1625097108,
+    "wof:geomhash":"10079a3d7b5afb026adf1921ae746ad2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1745980829,
+            "locality_id":1126019305,
+            "neighbourhood_id":1745986457,
+            "region_id":1745977441
+        }
+    ],
+    "wof:id":1745986457,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1626732965,
+    "wof:name":"Ferme Thibesart",
+    "wof:parent_id":1126019305,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-lu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1293619661
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.11667,
+    49.81667,
+    6.11667,
+    49.81667
+],
+  "geometry": {"coordinates":[6.11667,49.81667],"type":"Point"}
+}

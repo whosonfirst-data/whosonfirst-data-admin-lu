@@ -1,0 +1,87 @@
+{
+  "id": 1745986387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.084,50.01,6.084,50.01",
+    "geom:latitude":50.01,
+    "geom:longitude":6.084,
+    "gn:admin1_code":"CL",
+    "gn:admin2_code":"63.0",
+    "gn:asciiname":"Obereisenbach",
+    "gn:country_code":"LU",
+    "gn:dem":503,
+    "gn:elevation":"317.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2960210,
+    "gn:latitude":50.01,
+    "gn:longitude":6.084,
+    "gn:modification_date":"2017-03-24",
+    "gn:name":"Obereisenbach",
+    "gn:population":0,
+    "gn:timezone":"Europe/Luxembourg",
+    "iso:country":"LU",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1745977451,
+        102191581,
+        1125324097,
+        85633275,
+        101845555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2960210
+    },
+    "wof:country":"LU",
+    "wof:created":1625097082,
+    "wof:geomhash":"eeb858030e0604ed58981dba56b107cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1125324097,
+            "locality_id":101845555,
+            "neighbourhood_id":1745986387,
+            "region_id":1745977451
+        }
+    ],
+    "wof:id":1745986387,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1626732928,
+    "wof:name":"Obereisenbach",
+    "wof:parent_id":101845555,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-lu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1327271089
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.084,
+    50.01,
+    6.084,
+    50.01
+],
+  "geometry": {"coordinates":[6.084,50.01],"type":"Point"}
+}

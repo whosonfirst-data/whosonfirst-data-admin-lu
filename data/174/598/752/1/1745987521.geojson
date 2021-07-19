@@ -1,0 +1,92 @@
+{
+  "id": 1745987521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.96008,49.90188,5.96008,49.90188",
+    "geom:latitude":49.90188,
+    "geom:longitude":5.96008,
+    "gn:admin1_code":"WI",
+    "gn:admin2_code":"2.0",
+    "gn:asciiname":"Heischtergronn",
+    "gn:cc2":"LU",
+    "gn:country_code":"LU",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2960562,
+    "gn:latitude":49.90188,
+    "gn:longitude":5.96008,
+    "gn:modification_date":"2017-10-02",
+    "gn:name":"Heischtergronn",
+    "gn:population":0,
+    "gn:timezone":"Europe/Luxembourg",
+    "iso:country":"LU",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Fond de Heiderscheid",
+        "Heiderscheidergrund",
+        "Heischtergronn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1745977429,
+        102191581,
+        1125333105,
+        85633275,
+        1125776761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2960562
+    },
+    "wof:country":"LU",
+    "wof:created":1625097597,
+    "wof:geomhash":"3154af0eef931ab4ccc27ef45ce47970",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1125333105,
+            "locality_id":1125776761,
+            "neighbourhood_id":1745987521,
+            "region_id":1745977429
+        }
+    ],
+    "wof:id":1745987521,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1626733521,
+    "wof:name":"Heischtergronn",
+    "wof:parent_id":1125776761,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-lu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1225876121
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.96008,
+    49.90188,
+    5.96008,
+    49.90188
+],
+  "geometry": {"coordinates":[5.96008,49.90188],"type":"Point"}
+}

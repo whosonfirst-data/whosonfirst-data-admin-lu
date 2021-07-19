@@ -6,11 +6,10 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"6.14334099729,49.5960995633,6.14334099729,49.5960995633",
+    "geom:bbox":"6.143341,49.5961,6.143341,49.5961",
     "geom:latitude":49.5961,
     "geom:longitude":6.143341,
     "iso:country":"LU",
-    "lbl:bbox":"6.13834099729,49.5910995633,6.14834099729,49.6010995633",
     "lbl:latitude":49.5961,
     "lbl:longitude":6.143341,
     "lbl:max_zoom":18.0,
@@ -38,25 +37,37 @@
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
+        1745977427,
         102191581,
-        101751765,
+        1125286201,
         85633275,
-        85673875
+        101751765
     ],
     "wof:breaches":[],
     "wof:country":"LU",
-    "wof:geomhash":"9bf6c0a6ab9d827e6caf01450bf9211d",
+    "wof:geomhash":"c1d0b113128dd70a9befe25b3cdeeb62",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633275,
+            "localadmin_id":1125286201,
             "locality_id":101751765,
             "neighbourhood_id":1444827961,
-            "region_id":85673875
+            "region_id":1745977427
         }
     ],
     "wof:id":1444827961,
-    "wof:lastmodified":1566598615,
+    "wof:lang_x_official":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "fra",
+        "ltz",
+        "deu"
+    ],
+    "wof:lastmodified":1626733550,
     "wof:name":"Bouneweg-Sued",
     "wof:parent_id":101751765,
     "wof:placetype":"neighbourhood",
@@ -66,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    6.14334099729474,
-    49.59609956326456,
-    6.14334099729474,
-    49.59609956326456
+    6.143341,
+    49.5961,
+    6.143341,
+    49.5961
 ],
-  "geometry": {"coordinates":[6.14334099729474,49.59609956326456],"type":"Point"}
+  "geometry": {"coordinates":[6.143341,49.5961],"type":"Point"}
 }

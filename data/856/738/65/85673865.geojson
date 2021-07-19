@@ -2,7 +2,7 @@
   "id": 85673865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2015-10-03",
     "edtf:inception":"uuuu",
     "geom:area":0.143597,
     "geom:area_square_m":1143196687.038842,
@@ -22,7 +22,7 @@
     "mps:latitude":49.958715,
     "mps:longitude":5.973781,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:max_zoom":11.0,
     "mz:min_zoom":8.7,
     "name:ara_x_preferred":[
@@ -291,7 +291,7 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1614895063,
+    "wof:lastmodified":1626731657,
     "wof:name":"Diekirch",
     "wof:parent_id":85633275,
     "wof:placetype":"region",
