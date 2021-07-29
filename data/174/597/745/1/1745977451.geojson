@@ -18,6 +18,9 @@
     "name:eng_x_preferred":[
         "Clervaux"
     ],
+    "name:fra_x_preferred":[
+        "Clervaux"
+    ],
     "src:geom":"lu-act",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
@@ -46,7 +49,7 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1626731893,
+    "wof:lastmodified":1627522348,
     "wof:name":"Clervaux",
     "wof:parent_id":85633275,
     "wof:placetype":"region",
