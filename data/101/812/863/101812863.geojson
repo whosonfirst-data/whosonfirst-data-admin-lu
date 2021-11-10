@@ -24,6 +24,9 @@
     "name:bel_x_preferred":[
         "\u0411\u0430\u0444\u043e\u0440"
     ],
+    "name:ben_x_preferred":[
+        "\u09ac\u09bf\u0989\u09ab\u09cb\u09b0\u09cd\u099f"
+    ],
     "name:bul_x_preferred":[
         "\u0411\u043e\u0444\u043e\u0440"
     ],
@@ -39,6 +42,9 @@
     "name:deu_x_preferred":[
         "Befort"
     ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03bf\u03c6\u03cc\u03c1"
+    ],
     "name:eng_x_preferred":[
         "Beaufort"
     ],
@@ -51,8 +57,14 @@
     "name:gsw_x_preferred":[
         "Beefort"
     ],
+    "name:hin_x_preferred":[
+        "\u092c\u0940\u092f\u0941\u095e\u094b\u0930\u094d\u091f"
+    ],
     "name:hye_x_preferred":[
         "\u0532\u0578\u0586\u0578\u0580"
+    ],
+    "name:ind_x_preferred":[
+        "Beaufort"
     ],
     "name:ita_x_preferred":[
         "Beaufort"
@@ -179,7 +191,7 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1626732116,
+    "wof:lastmodified":1636501779,
     "wof:name":"Beaufort",
     "wof:parent_id":1125402081,
     "wof:placetype":"locality",

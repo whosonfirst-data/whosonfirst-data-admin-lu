@@ -27,6 +27,9 @@
     "name:bel_x_preferred":[
         "\u0411\u0430\u0444\u043e\u0440"
     ],
+    "name:ben_x_preferred":[
+        "\u09ac\u09bf\u0989\u09ab\u09cb\u09b0\u09cd\u099f"
+    ],
     "name:bre_x_preferred":[
         "Beaufort"
     ],
@@ -47,6 +50,9 @@
     ],
     "name:deu_x_variant":[
         "Beaufort"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03bf\u03c6\u03cc\u03c1"
     ],
     "name:eng_x_preferred":[
         "Beaufort"
@@ -71,6 +77,12 @@
     ],
     "name:heb_x_preferred":[
         "\u05d1\u05d5\u05e4\u05d5\u05e8"
+    ],
+    "name:hin_x_preferred":[
+        "\u092c\u0940\u092f\u0941\u095e\u094b\u0930\u094d\u091f"
+    ],
+    "name:ind_x_preferred":[
+        "Beaufort"
     ],
     "name:ita_x_preferred":[
         "Beaufort"
@@ -209,7 +221,7 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1626732022,
+    "wof:lastmodified":1636501779,
     "wof:name":"Beaufort",
     "wof:parent_id":1745977445,
     "wof:placetype":"localadmin",

@@ -657,6 +657,9 @@
         "Ville de Luxembourg"
     ],
     "name:urd_x_preferred":[
+        "\u0644\u06af\u0632\u0645\u0628\u0631\u06af"
+    ],
+    "name:urd_x_variant":[
         "\u0644\u06a9\u0633\u0645\u0628\u0631\u06af"
     ],
     "name:uzb_x_preferred":[
@@ -700,6 +703,12 @@
     ],
     "name:zha_x_preferred":[
         "Luxembourg"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u5362\u68ee\u5821"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u76e7\u68ee\u5821"
     ],
     "name:zho_x_preferred":[
         "\u5362\u68ee\u5821"
@@ -769,7 +778,7 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1626731922,
+    "wof:lastmodified":1636501779,
     "wof:name":"Luxembourg",
     "wof:parent_id":1745977427,
     "wof:placetype":"localadmin",

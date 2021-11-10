@@ -1018,8 +1018,14 @@
     "name:zha_x_preferred":[
         "Luxembourg"
     ],
+    "name:zho_cn_x_preferred":[
+        "\u5362\u68ee\u5821"
+    ],
     "name:zho_min_nan_x_preferred":[
         "Luxembourg"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u76e7\u68ee\u5821"
     ],
     "name:zho_x_preferred":[
         "\u5362\u68ee\u5821"
@@ -1250,7 +1256,7 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1617827561,
+    "wof:lastmodified":1636501778,
     "wof:name":"Luxembourg",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
