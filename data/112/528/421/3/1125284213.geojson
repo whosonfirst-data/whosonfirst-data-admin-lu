@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"LU",
+    "eurostat:gisco_id":"LU_0103",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Habscht",
+    "eurostat:nuts_2021_id":"0103",
+    "eurostat:nuts_2021_level_0":"LU",
+    "eurostat:nuts_2021_level_1":"LU0",
+    "eurostat:nuts_2021_level_2":"LU00",
+    "eurostat:nuts_2021_level_3":"LU000",
+    "eurostat:nuts_2021_level_lau":"0103",
+    "eurostat:population":4730,
+    "eurostat:population_year":2020,
     "geom:area":0.004059,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":32467210.300204,
     "geom:bbox":"5.861815,49.667891,6.022815,49.723729",
     "geom:latitude":49.695562,
     "geom:longitude":5.93341,
@@ -61,6 +73,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"qs_pg",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424881,
     "woe:name_adm0":"Luxembourg",
     "woe:name_adm1":"Luxembourg",
@@ -72,6 +86,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"LU_0103",
+        "eurostat:nuts_2021_id":"0103",
         "gn:id":6693262,
         "gp:id":12591965,
         "qs_pg:id":1348339
@@ -81,7 +97,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"fba7fc48cd07214a09ac0119809920d6",
+    "wof:geomhash":"6fc92453acc37832844621664f5f99f4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,10 +117,12 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1626731903,
+    "wof:lastmodified":1684353994,
     "wof:name":"Habscht",
     "wof:parent_id":1745977433,
     "wof:placetype":"localadmin",
+    "wof:population":4730,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-lu",
     "wof:superseded_by":[],
     "wof:supersedes":[],

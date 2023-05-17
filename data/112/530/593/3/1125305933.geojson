@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"LU",
+    "eurostat:gisco_id":"LU_0607",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mertzig",
+    "eurostat:nuts_2021_id":"0607",
+    "eurostat:nuts_2021_level_0":"LU",
+    "eurostat:nuts_2021_level_1":"LU0",
+    "eurostat:nuts_2021_level_2":"LU00",
+    "eurostat:nuts_2021_level_3":"LU000",
+    "eurostat:nuts_2021_level_lau":"0607",
+    "eurostat:population":2293,
+    "eurostat:population_year":2020,
     "geom:area":0.001387,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":11058830.448769,
     "geom:bbox":"5.970187,49.816781,6.041554,49.857371",
     "geom:latitude":49.834974,
     "geom:longitude":6.001288,
@@ -115,6 +127,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"qs_pg",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424881,
     "woe:name_adm0":"Luxembourg",
     "woe:name_adm1":"Diekirch",
@@ -126,6 +140,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"LU_0607",
+        "eurostat:nuts_2021_id":"0607",
         "gn:id":6693310,
         "gp:id":12591906,
         "qs_pg:id":527139
@@ -135,7 +151,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"a79fc31afbbed25b0136433743946c05",
+    "wof:geomhash":"4e1e0863780a4fbc96b650debb0f65b6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -155,10 +171,12 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1626731953,
+    "wof:lastmodified":1684353995,
     "wof:name":"Mertzig",
     "wof:parent_id":1745977441,
     "wof:placetype":"localadmin",
+    "wof:population":2293,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-lu",
     "wof:superseded_by":[],
     "wof:supersedes":[],

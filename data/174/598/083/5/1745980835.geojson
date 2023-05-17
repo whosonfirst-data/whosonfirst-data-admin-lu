@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"LU",
+    "eurostat:gisco_id":"LU_0401",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Colmar-Berg",
+    "eurostat:nuts_2021_id":"0401",
+    "eurostat:nuts_2021_level_0":"LU",
+    "eurostat:nuts_2021_level_1":"LU0",
+    "eurostat:nuts_2021_level_2":"LU00",
+    "eurostat:nuts_2021_level_3":"LU000",
+    "eurostat:nuts_2021_level_lau":"0401",
+    "eurostat:population":2192,
+    "eurostat:population_year":2020,
     "geom:area":0.001542,
+    "geom:area_square_m":12305118.604183,
     "geom:bbox":"6.040349,49.788978,6.118008,49.834438",
     "geom:latitude":49.811171,
     "geom:longitude":6.08067,
@@ -20,15 +33,21 @@
     ],
     "src:geom":"lu-act",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633275,
         1745977439
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"LU_0401",
+        "eurostat:nuts_2021_id":"0401"
+    },
     "wof:country":"LU",
     "wof:created":1624995619,
-    "wof:geomhash":"40720bc6d59d77f94f12499344df1e2f",
+    "wof:geomhash":"c1067a3f0e90d4720644d6b6ddc51dde",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -48,10 +67,12 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1626732044,
+    "wof:lastmodified":1684353997,
     "wof:name":"Colmar-Berg",
     "wof:parent_id":1745977439,
     "wof:placetype":"localadmin",
+    "wof:population":2192,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-lu",
     "wof:superseded_by":[],
     "wof:supersedes":[],

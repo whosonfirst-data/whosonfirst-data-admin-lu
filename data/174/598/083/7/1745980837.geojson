@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"LU",
+    "eurostat:gisco_id":"LU_0709",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vichten",
+    "eurostat:nuts_2021_id":"0709",
+    "eurostat:nuts_2021_level_0":"LU",
+    "eurostat:nuts_2021_level_1":"LU0",
+    "eurostat:nuts_2021_level_2":"LU00",
+    "eurostat:nuts_2021_level_3":"LU000",
+    "eurostat:nuts_2021_level_lau":"0709",
+    "eurostat:population":1313,
+    "eurostat:population_year":2020,
     "geom:area":0.001553,
+    "geom:area_square_m":12390999.430611,
     "geom:bbox":"5.96608,49.786736,6.041157,49.831567",
     "geom:latitude":49.808453,
     "geom:longitude":6.006828,
@@ -20,15 +33,21 @@
     ],
     "src:geom":"lu-act",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633275,
         1745977431
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"LU_0709",
+        "eurostat:nuts_2021_id":"0709"
+    },
     "wof:country":"LU",
     "wof:created":1624995620,
-    "wof:geomhash":"6888a4882113c6a59895ad0df09fcffd",
+    "wof:geomhash":"232093d65c4e503ed655f62621b8bdee",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -48,10 +67,12 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1626732046,
+    "wof:lastmodified":1684353997,
     "wof:name":"Vichten",
     "wof:parent_id":1745977431,
     "wof:placetype":"localadmin",
+    "wof:population":1313,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-lu",
     "wof:superseded_by":[],
     "wof:supersedes":[],

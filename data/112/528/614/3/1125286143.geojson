@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"LU",
+    "eurostat:gisco_id":"LU_0409",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mersch",
+    "eurostat:nuts_2021_id":"0409",
+    "eurostat:nuts_2021_level_0":"LU",
+    "eurostat:nuts_2021_level_1":"LU0",
+    "eurostat:nuts_2021_level_2":"LU00",
+    "eurostat:nuts_2021_level_3":"LU000",
+    "eurostat:nuts_2021_level_lau":"0409",
+    "eurostat:population":9816,
+    "eurostat:population_year":2020,
     "geom:area":0.006176,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":49342539.39764,
     "geom:bbox":"6.037318,49.693062,6.158968,49.791272",
     "geom:latitude":49.749212,
     "geom:longitude":6.097475,
@@ -166,6 +178,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"qs_pg",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424881,
     "woe:name_adm0":"Luxembourg",
     "woe:name_adm1":"Luxembourg",
@@ -177,6 +191,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"LU_0409",
+        "eurostat:nuts_2021_id":"0409",
         "gn:id":6693293,
         "gp:id":20075352,
         "qs_pg:id":233520
@@ -186,7 +202,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"fa8ead04f40409f470c936a467821c6d",
+    "wof:geomhash":"d9537b43fd5767262ec19ce61665ddc3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -206,10 +222,12 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1626731918,
+    "wof:lastmodified":1684353995,
     "wof:name":"Mersch",
     "wof:parent_id":1745977439,
     "wof:placetype":"localadmin",
+    "wof:population":9816,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-lu",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"LU",
+    "eurostat:gisco_id":"LU_0302",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Contern",
+    "eurostat:nuts_2021_id":"0302",
+    "eurostat:nuts_2021_level_0":"LU",
+    "eurostat:nuts_2021_level_1":"LU0",
+    "eurostat:nuts_2021_level_2":"LU00",
+    "eurostat:nuts_2021_level_3":"LU000",
+    "eurostat:nuts_2021_level_lau":"0302",
+    "eurostat:population":3939,
+    "eurostat:population_year":2020,
     "geom:area":0.002585,
+    "geom:area_square_m":20725173.129859,
     "geom:bbox":"6.195416,49.567567,6.302854,49.610112",
     "geom:latitude":49.58898,
     "geom:longitude":6.245096,
@@ -20,15 +33,21 @@
     ],
     "src:geom":"lu-act",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633275,
         1745977427
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"LU_0302",
+        "eurostat:nuts_2021_id":"0302"
+    },
     "wof:country":"LU",
     "wof:created":1624995628,
-    "wof:geomhash":"26a75f40398ba094b650c10ae932a7ef",
+    "wof:geomhash":"9e1500f690c70a03325e6f61e8ee90e7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -48,10 +67,12 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1626732053,
+    "wof:lastmodified":1684353997,
     "wof:name":"Contern",
     "wof:parent_id":1745977427,
     "wof:placetype":"localadmin",
+    "wof:population":3939,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-lu",
     "wof:superseded_by":[],
     "wof:supersedes":[],

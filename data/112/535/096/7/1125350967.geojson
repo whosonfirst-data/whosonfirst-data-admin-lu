@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"LU",
+    "eurostat:gisco_id":"LU_1003",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Berdorf",
+    "eurostat:nuts_2021_id":"1003",
+    "eurostat:nuts_2021_level_0":"LU",
+    "eurostat:nuts_2021_level_1":"LU0",
+    "eurostat:nuts_2021_level_2":"LU00",
+    "eurostat:nuts_2021_level_3":"LU000",
+    "eurostat:nuts_2021_level_lau":"1003",
+    "eurostat:population":1868,
+    "eurostat:population_year":2020,
     "geom:area":0.00274,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":21862574.383489,
     "geom:bbox":"6.311311,49.791415,6.389583,49.850763",
     "geom:latitude":49.821029,
     "geom:longitude":6.352499,
@@ -118,6 +130,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"qs_pg",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424881,
     "woe:name_adm0":"Luxembourg",
     "woe:name_adm1":"Grevenmacher",
@@ -129,6 +143,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"LU_1003",
+        "eurostat:nuts_2021_id":"1003",
         "gn:id":6693336,
         "gp:id":12591942,
         "qs_pg:id":69401
@@ -138,7 +154,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"88cfafe9ed98a7383735715397eacc1a",
+    "wof:geomhash":"7776e28ee27a068bd87a6cdf17045496",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -158,10 +174,12 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1626731986,
+    "wof:lastmodified":1684353996,
     "wof:name":"Berdorf",
     "wof:parent_id":1745977445,
     "wof:placetype":"localadmin",
+    "wof:population":1868,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-lu",
     "wof:superseded_by":[],
     "wof:supersedes":[],

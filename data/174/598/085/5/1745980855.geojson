@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"LU",
+    "eurostat:gisco_id":"LU_1006",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rosport - Mompach",
+    "eurostat:nuts_2021_id":"1006",
+    "eurostat:nuts_2021_level_0":"LU",
+    "eurostat:nuts_2021_level_1":"LU0",
+    "eurostat:nuts_2021_level_2":"LU00",
+    "eurostat:nuts_2021_level_3":"LU000",
+    "eurostat:nuts_2021_level_lau":"1006",
+    "eurostat:population":3613,
+    "eurostat:population_year":2020,
     "geom:area":0.007072,
+    "geom:area_square_m":56475740.24754,
     "geom:bbox":"6.391298,49.731277,6.530898,49.822323",
     "geom:latitude":49.771972,
     "geom:longitude":6.462209,
@@ -20,15 +33,21 @@
     ],
     "src:geom":"lu-act",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633275,
         1745977445
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"LU_1006",
+        "eurostat:nuts_2021_id":"1006"
+    },
     "wof:country":"LU",
     "wof:created":1624995631,
-    "wof:geomhash":"6271940c7fb31941979a6bb52a540a48",
+    "wof:geomhash":"251cb448014ada0da23368c53f15199e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -48,10 +67,12 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1626732060,
+    "wof:lastmodified":1684353997,
     "wof:name":"Rosport-Mompach",
     "wof:parent_id":1745977445,
     "wof:placetype":"localadmin",
+    "wof:population":3613,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-lu",
     "wof:superseded_by":[],
     "wof:supersedes":[],

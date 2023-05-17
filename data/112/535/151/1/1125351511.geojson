@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"LU",
+    "eurostat:gisco_id":"LU_0601",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bettendorf",
+    "eurostat:nuts_2021_id":"0601",
+    "eurostat:nuts_2021_level_0":"LU",
+    "eurostat:nuts_2021_level_1":"LU0",
+    "eurostat:nuts_2021_level_2":"LU00",
+    "eurostat:nuts_2021_level_3":"LU000",
+    "eurostat:nuts_2021_level_lau":"0601",
+    "eurostat:population":2907,
+    "eurostat:population_year":2020,
     "geom:area":0.002907,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":23173308.20329,
     "geom:bbox":"6.155728,49.842199,6.251985,49.893274",
     "geom:latitude":49.866823,
     "geom:longitude":6.208714,
@@ -115,6 +127,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"qs_pg",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424881,
     "woe:name_adm0":"Luxembourg",
     "woe:name_adm1":"Diekirch",
@@ -126,6 +140,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"LU_0601",
+        "eurostat:nuts_2021_id":"0601",
         "gn:id":6693304,
         "gp:id":12591937,
         "qs_pg:id":911827
@@ -135,7 +151,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"d625bbd1b46ac397eb8112f14bd434d6",
+    "wof:geomhash":"c506eebc5b2b220828f9a66a8a0dfa92",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -155,10 +171,12 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1626731988,
+    "wof:lastmodified":1684353996,
     "wof:name":"Bettendorf",
     "wof:parent_id":1745977441,
     "wof:placetype":"localadmin",
+    "wof:population":2907,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-lu",
     "wof:superseded_by":[],
     "wof:supersedes":[],

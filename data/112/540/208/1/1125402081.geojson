@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"LU",
+    "eurostat:gisco_id":"LU_1001",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Beaufort",
+    "eurostat:nuts_2021_id":"1001",
+    "eurostat:nuts_2021_level_0":"LU",
+    "eurostat:nuts_2021_level_1":"LU0",
+    "eurostat:nuts_2021_level_2":"LU00",
+    "eurostat:nuts_2021_level_3":"LU000",
+    "eurostat:nuts_2021_level_lau":"1001",
+    "eurostat:population":2885,
+    "eurostat:population_year":2020,
     "geom:area":0.00172,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":13717990.301172,
     "geom:bbox":"6.254675,49.820354,6.33067,49.859882",
     "geom:latitude":49.83559,
     "geom:longitude":6.294694,
@@ -181,6 +193,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"qs_pg",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424881,
     "woe:name_adm0":"Luxembourg",
     "woe:name_adm1":"Grevenmacher",
@@ -192,6 +206,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"LU_1001",
+        "eurostat:nuts_2021_id":"1001",
         "gn:id":6693334,
         "gp:id":12591908,
         "qs_pg:id":902345
@@ -201,7 +217,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"14fc41af7ca2c384370e3012b0ea2665",
+    "wof:geomhash":"4097405eb52b2e329706c862b2f187ce",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -221,10 +237,12 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1636501779,
+    "wof:lastmodified":1684353997,
     "wof:name":"Beaufort",
     "wof:parent_id":1745977445,
     "wof:placetype":"localadmin",
+    "wof:population":2885,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-lu",
     "wof:superseded_by":[],
     "wof:supersedes":[],

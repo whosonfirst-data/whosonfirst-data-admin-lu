@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"LU",
+    "eurostat:gisco_id":"LU_0110",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Steinfort",
+    "eurostat:nuts_2021_id":"0110",
+    "eurostat:nuts_2021_level_0":"LU",
+    "eurostat:nuts_2021_level_1":"LU0",
+    "eurostat:nuts_2021_level_2":"LU00",
+    "eurostat:nuts_2021_level_3":"LU000",
+    "eurostat:nuts_2021_level_lau":"0110",
+    "eurostat:population":5459,
+    "eurostat:population_year":2020,
     "geom:area":0.001516,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":12133358.750837,
     "geom:bbox":"5.882706,49.627333,5.959873,49.676182",
     "geom:latitude":49.650391,
     "geom:longitude":5.920915,
@@ -118,6 +130,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"qs_pg",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424881,
     "woe:name_adm0":"Luxembourg",
     "woe:name_adm1":"Luxembourg",
@@ -129,6 +143,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"LU_0110",
+        "eurostat:nuts_2021_id":"0110",
         "gn:id":6693268,
         "gp:id":12591974,
         "qs_pg:id":1320868
@@ -138,7 +154,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"447cb374cf1ab3c31f5025dd01e1d282",
+    "wof:geomhash":"25d02f7313cd3e287b8fb13d3a86c113",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -158,10 +174,12 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1626731985,
+    "wof:lastmodified":1684353996,
     "wof:name":"Steinfort",
     "wof:parent_id":1745977433,
     "wof:placetype":"localadmin",
+    "wof:population":5459,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-lu",
     "wof:superseded_by":[],
     "wof:supersedes":[],

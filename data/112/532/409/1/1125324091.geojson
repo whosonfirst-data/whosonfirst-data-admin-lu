@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"LU",
+    "eurostat:gisco_id":"LU_0211",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Roeser",
+    "eurostat:nuts_2021_id":"0211",
+    "eurostat:nuts_2021_level_0":"LU",
+    "eurostat:nuts_2021_level_1":"LU0",
+    "eurostat:nuts_2021_level_2":"LU00",
+    "eurostat:nuts_2021_level_3":"LU000",
+    "eurostat:nuts_2021_level_lau":"0211",
+    "eurostat:population":6551,
+    "eurostat:population_year":2020,
     "geom:area":0.002989,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":23986673.913043,
     "geom:bbox":"6.084634,49.489977,6.176453,49.566793",
     "geom:latitude":49.537609,
     "geom:longitude":6.130636,
@@ -101,6 +113,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"qs_pg",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424881,
     "woe:name_adm0":"Luxembourg",
     "woe:name_adm1":"Luxembourg",
@@ -112,6 +126,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"LU_0211",
+        "eurostat:nuts_2021_id":"0211",
         "gp:id":12591914,
         "qs_pg:id":496625
     },
@@ -120,7 +136,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"2b001f390555235dfec4e98efe538a52",
+    "wof:geomhash":"6e339f89487195b4356bb54b4804a5da",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -140,10 +156,12 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1626731966,
+    "wof:lastmodified":1684353996,
     "wof:name":"Roeser",
     "wof:parent_id":1745977435,
     "wof:placetype":"localadmin",
+    "wof:population":6551,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-lu",
     "wof:superseded_by":[],
     "wof:supersedes":[],

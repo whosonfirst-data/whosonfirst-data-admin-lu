@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"LU",
+    "eurostat:gisco_id":"LU_0708",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Useldange",
+    "eurostat:nuts_2021_id":"0708",
+    "eurostat:nuts_2021_level_0":"LU",
+    "eurostat:nuts_2021_level_1":"LU0",
+    "eurostat:nuts_2021_level_2":"LU00",
+    "eurostat:nuts_2021_level_3":"LU000",
+    "eurostat:nuts_2021_level_lau":"0708",
+    "eurostat:population":1942,
+    "eurostat:population_year":2020,
     "geom:area":0.002996,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":23925489.413742,
     "geom:bbox":"5.920485,49.730506,6.005356,49.809357",
     "geom:latitude":49.77069,
     "geom:longitude":5.965677,
@@ -112,6 +124,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"qs_pg",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424881,
     "woe:name_adm0":"Luxembourg",
     "woe:name_adm1":"Diekirch",
@@ -123,6 +137,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"LU_0708",
+        "eurostat:nuts_2021_id":"0708",
         "gn:id":6693319,
         "gp:id":12592013,
         "qs_pg:id":1179257
@@ -132,7 +148,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"25fc9e086a429e122ea482be309abaac",
+    "wof:geomhash":"fd763bad86fc529974af45449a77de5c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -152,10 +168,12 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1626732010,
+    "wof:lastmodified":1684353996,
     "wof:name":"Useldange",
     "wof:parent_id":1745977431,
     "wof:placetype":"localadmin",
+    "wof:population":1942,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-lu",
     "wof:superseded_by":[],
     "wof:supersedes":[],

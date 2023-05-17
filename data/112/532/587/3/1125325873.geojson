@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"LU",
+    "eurostat:gisco_id":"LU_1101",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Betzdorf",
+    "eurostat:nuts_2021_id":"1101",
+    "eurostat:nuts_2021_level_0":"LU",
+    "eurostat:nuts_2021_level_1":"LU0",
+    "eurostat:nuts_2021_level_2":"LU00",
+    "eurostat:nuts_2021_level_3":"LU000",
+    "eurostat:nuts_2021_level_lau":"1101",
+    "eurostat:population":4093,
+    "eurostat:population_year":2020,
     "geom:area":0.003263,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":26108127.34458,
     "geom:bbox":"6.277331,49.636356,6.377878,49.704191",
     "geom:latitude":49.674491,
     "geom:longitude":6.320556,
@@ -82,6 +94,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"qs_pg",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424881,
     "woe:name_adm0":"Luxembourg",
     "woe:name_adm1":"Grevenmacher",
@@ -93,6 +107,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"LU_1101",
+        "eurostat:nuts_2021_id":"1101",
         "gn:id":6693341,
         "gp:id":12591915,
         "qs_pg:id":1265042
@@ -102,7 +118,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"e18ae7a656e69e075f3c04912a5e81ad",
+    "wof:geomhash":"d09615e6cd9ed12a73fa8e83327cabdb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -122,10 +138,12 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1626731971,
+    "wof:lastmodified":1684353996,
     "wof:name":"Betzdorf",
     "wof:parent_id":1745977447,
     "wof:placetype":"localadmin",
+    "wof:population":4093,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-lu",
     "wof:superseded_by":[],
     "wof:supersedes":[],

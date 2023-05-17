@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"LU",
+    "eurostat:gisco_id":"LU_0806",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lac de la Haute-S\u00fbre",
+    "eurostat:nuts_2021_id":"0806",
+    "eurostat:nuts_2021_level_0":"LU",
+    "eurostat:nuts_2021_level_1":"LU0",
+    "eurostat:nuts_2021_level_2":"LU00",
+    "eurostat:nuts_2021_level_3":"LU000",
+    "eurostat:nuts_2021_level_lau":"0806",
+    "eurostat:population":2013,
+    "eurostat:population_year":2020,
     "geom:area":0.006096,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":48520734.103497,
     "geom:bbox":"5.760467,49.897429,5.94989,49.965689",
     "geom:latitude":49.930005,
     "geom:longitude":5.847396,
@@ -44,6 +56,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"qs_pg",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424881,
     "woe:name_adm0":"Luxembourg",
     "woe:name_adm1":"Diekirch",
@@ -55,6 +69,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"LU_0806",
+        "eurostat:nuts_2021_id":"0806",
         "gp:id":12591924,
         "qs_pg:id":1092699
     },
@@ -63,7 +79,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"2ccdef4b20042c0458b458b0da58059f",
+    "wof:geomhash":"2040d41139a0931dcdb140430344bfae",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -83,10 +99,12 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1626731898,
+    "wof:lastmodified":1684353994,
     "wof:name":"Lac de la Haute S\u00fbre",
     "wof:parent_id":1745977429,
     "wof:placetype":"localadmin",
+    "wof:population":2013,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-lu",
     "wof:superseded_by":[],
     "wof:supersedes":[],

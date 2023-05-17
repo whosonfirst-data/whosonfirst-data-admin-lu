@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"LU",
+    "eurostat:gisco_id":"LU_1107",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mertert",
+    "eurostat:nuts_2021_id":"1107",
+    "eurostat:nuts_2021_level_0":"LU",
+    "eurostat:nuts_2021_level_1":"LU0",
+    "eurostat:nuts_2021_level_2":"LU00",
+    "eurostat:nuts_2021_level_3":"LU000",
+    "eurostat:nuts_2021_level_lau":"1107",
+    "eurostat:population":4635,
+    "eurostat:population_year":2020,
     "geom:area":0.001878,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":15010475.528832,
     "geom:bbox":"6.444805,49.692362,6.517149,49.742647",
     "geom:latitude":49.717618,
     "geom:longitude":6.475496,
@@ -117,6 +129,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424881,
     "woe:name_adm0":"Luxembourg",
     "woe:name_adm1":"Grevenmacher",
@@ -128,6 +142,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"LU_1107",
+        "eurostat:nuts_2021_id":"1107",
         "gn:id":6693346,
         "gp:id":12591999,
         "qs_pg:id":1179253
@@ -137,7 +153,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"586bbcb3e301510d197aabf8ae4c5176",
+    "wof:geomhash":"a04e230dce8199c8ea46633705c1516a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -157,10 +173,12 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1626732007,
+    "wof:lastmodified":1684353996,
     "wof:name":"Mertert",
     "wof:parent_id":1745977447,
     "wof:placetype":"localadmin",
+    "wof:population":4635,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-lu",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"LU",
+    "eurostat:gisco_id":"LU_1204",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mondorf-les-Bains",
+    "eurostat:nuts_2021_id":"1204",
+    "eurostat:nuts_2021_level_0":"LU",
+    "eurostat:nuts_2021_level_1":"LU0",
+    "eurostat:nuts_2021_level_2":"LU00",
+    "eurostat:nuts_2021_level_3":"LU000",
+    "eurostat:nuts_2021_level_lau":"1204",
+    "eurostat:population":5359,
+    "eurostat:population_year":2020,
     "geom:area":0.001689,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":13556250.886399,
     "geom:bbox":"6.240645,49.493,6.32426,49.534384",
     "geom:latitude":49.516096,
     "geom:longitude":6.282108,
@@ -49,6 +61,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"qs_pg",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424881,
     "woe:name_adm0":"Luxembourg",
     "woe:name_adm1":"Grevenmacher",
@@ -60,6 +74,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"LU_1204",
+        "eurostat:nuts_2021_id":"1204",
         "gn:id":6693352,
         "gp:id":12591954,
         "qs_pg:id":1179241
@@ -69,7 +85,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"d5298955d5f3384543c8434bc723ccd6",
+    "wof:geomhash":"51a482898bdf458cd1adf1d1b1495bd3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -89,10 +105,12 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1626732002,
+    "wof:lastmodified":1684353996,
     "wof:name":"Mondorf-les-Bains",
     "wof:parent_id":1745977443,
     "wof:placetype":"localadmin",
+    "wof:population":5359,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-lu",
     "wof:superseded_by":[],
     "wof:supersedes":[],

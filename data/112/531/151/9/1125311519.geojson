@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"LU",
+    "eurostat:gisco_id":"LU_0605",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ettelbruck",
+    "eurostat:nuts_2021_id":"0605",
+    "eurostat:nuts_2021_level_0":"LU",
+    "eurostat:nuts_2021_level_1":"LU0",
+    "eurostat:nuts_2021_level_2":"LU00",
+    "eurostat:nuts_2021_level_3":"LU000",
+    "eurostat:nuts_2021_level_lau":"0605",
+    "eurostat:population":9148,
+    "eurostat:population_year":2020,
     "geom:area":0.001899,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":15137877.348731,
     "geom:bbox":"6.038106,49.824394,6.11671,49.877168",
     "geom:latitude":49.848185,
     "geom:longitude":6.081852,
@@ -173,6 +185,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"qs_pg",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424881,
     "woe:name_adm0":"Luxembourg",
     "woe:name_adm1":"Diekirch",
@@ -184,6 +198,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"LU_0605",
+        "eurostat:nuts_2021_id":"0605",
         "gn:id":2960590,
         "gp:id":12591934,
         "qs_pg:id":206585
@@ -193,7 +209,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"6632b8ecafb15a02c5885c1f5726d8c3",
+    "wof:geomhash":"93f7e58fcbde116d762a44ad3d471c36",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -213,10 +229,12 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1626731957,
+    "wof:lastmodified":1684353995,
     "wof:name":"Ettelbruck",
     "wof:parent_id":1745977441,
     "wof:placetype":"localadmin",
+    "wof:population":9148,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-lu",
     "wof:superseded_by":[],
     "wof:supersedes":[],

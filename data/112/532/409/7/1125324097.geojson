@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"LU",
+    "eurostat:gisco_id":"LU_0503",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Parc Hosingen",
+    "eurostat:nuts_2021_id":"0503",
+    "eurostat:nuts_2021_level_0":"LU",
+    "eurostat:nuts_2021_level_1":"LU0",
+    "eurostat:nuts_2021_level_2":"LU00",
+    "eurostat:nuts_2021_level_3":"LU000",
+    "eurostat:nuts_2021_level_lau":"0503",
+    "eurostat:population":3669,
+    "eurostat:population_year":2020,
     "geom:area":0.008845,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":70309205.235999,
     "geom:bbox":"6.023327,49.932302,6.17263,50.060383",
     "geom:latitude":49.997439,
     "geom:longitude":6.090669,
@@ -106,6 +118,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424881,
     "woe:name_adm0":"Luxembourg",
     "woe:name_adm1":"Diekirch",
@@ -117,6 +131,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"LU_0503",
+        "eurostat:nuts_2021_id":"0503",
         "gp:id":12591902,
         "qs_pg:id":496626
     },
@@ -125,7 +141,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"4d2c2e6589a31bad55284b5f754b25f2",
+    "wof:geomhash":"63637613a678f33e7f84b4d5167a1037",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -145,10 +161,12 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1626731968,
+    "wof:lastmodified":1684353996,
     "wof:name":"Parc Hosingen",
     "wof:parent_id":1745977451,
     "wof:placetype":"localadmin",
+    "wof:population":3669,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-lu",
     "wof:superseded_by":[],
     "wof:supersedes":[],

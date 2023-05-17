@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"LU",
+    "eurostat:gisco_id":"LU_0408",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lorentzweiler",
+    "eurostat:nuts_2021_id":"0408",
+    "eurostat:nuts_2021_level_0":"LU",
+    "eurostat:nuts_2021_level_1":"LU0",
+    "eurostat:nuts_2021_level_2":"LU00",
+    "eurostat:nuts_2021_level_3":"LU000",
+    "eurostat:nuts_2021_level_lau":"0408",
+    "eurostat:population":4246,
+    "eurostat:population_year":2020,
     "geom:area":0.002202,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":17608925.177513,
     "geom:bbox":"6.090145,49.681343,6.18723,49.72304",
     "geom:latitude":49.699599,
     "geom:longitude":6.145832,
@@ -109,6 +121,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"qs_pg",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424881,
     "woe:name_adm0":"Luxembourg",
     "woe:name_adm1":"Luxembourg",
@@ -120,6 +134,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"LU_0408",
+        "eurostat:nuts_2021_id":"0408",
         "gn:id":6693292,
         "gp:id":12592003,
         "qs_pg:id":1179255
@@ -129,7 +145,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"5c15def446695706fa3985ec57946c0c",
+    "wof:geomhash":"e9c16b138cfb3716fc5def070917e907",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -149,10 +165,12 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1626732008,
+    "wof:lastmodified":1684353996,
     "wof:name":"Lorentzweiler",
     "wof:parent_id":1745977439,
     "wof:placetype":"localadmin",
+    "wof:population":4246,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-lu",
     "wof:superseded_by":[],
     "wof:supersedes":[],

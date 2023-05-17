@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"LU",
+    "eurostat:gisco_id":"LU_0610",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vall\u00e9e de l'Ernz",
+    "eurostat:nuts_2021_id":"0610",
+    "eurostat:nuts_2021_level_0":"LU",
+    "eurostat:nuts_2021_level_1":"LU0",
+    "eurostat:nuts_2021_level_2":"LU00",
+    "eurostat:nuts_2021_level_3":"LU000",
+    "eurostat:nuts_2021_level_lau":"0610",
+    "eurostat:population":2653,
+    "eurostat:population_year":2020,
     "geom:area":0.004985,
+    "geom:area_square_m":39764720.969726,
     "geom:bbox":"6.142736,49.785379,6.271456,49.857466",
     "geom:latitude":49.825615,
     "geom:longitude":6.216717,
@@ -20,15 +33,21 @@
     ],
     "src:geom":"lu-act",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633275,
         1745977441
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"LU_0610",
+        "eurostat:nuts_2021_id":"0610"
+    },
     "wof:country":"LU",
     "wof:created":1624995632,
-    "wof:geomhash":"30c40bc96318835af9f55b944b410093",
+    "wof:geomhash":"60b598fd59fb22c993a4be1eea10694f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -48,10 +67,12 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1626732061,
+    "wof:lastmodified":1684353997,
     "wof:name":"Vall\u00e9e de l'Ernz",
     "wof:parent_id":1745977441,
     "wof:placetype":"localadmin",
+    "wof:population":2653,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-lu",
     "wof:superseded_by":[],
     "wof:supersedes":[],

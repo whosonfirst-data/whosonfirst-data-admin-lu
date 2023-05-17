@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"LU",
+    "eurostat:gisco_id":"LU_1207",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Stadtbredimus",
+    "eurostat:nuts_2021_id":"1207",
+    "eurostat:nuts_2021_level_0":"LU",
+    "eurostat:nuts_2021_level_1":"LU0",
+    "eurostat:nuts_2021_level_2":"LU00",
+    "eurostat:nuts_2021_level_3":"LU000",
+    "eurostat:nuts_2021_level_lau":"1207",
+    "eurostat:population":1947,
+    "eurostat:population_year":2020,
     "geom:area":0.001227,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":9835815.411754,
     "geom:bbox":"6.311677,49.555039,6.38229,49.595404",
     "geom:latitude":49.580817,
     "geom:longitude":6.349496,
@@ -109,6 +121,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"qs_pg",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424881,
     "woe:name_adm0":"Luxembourg",
     "woe:name_adm1":"Grevenmacher",
@@ -120,6 +134,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"LU_1207",
+        "eurostat:nuts_2021_id":"1207",
         "gn:id":6693355,
         "gp:id":12592000,
         "qs_pg:id":1136779
@@ -129,7 +145,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"158134541842955ea87d8bb0e55f7e44",
+    "wof:geomhash":"94b820bf7557ce8a04efea887b30ae1d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -149,10 +165,12 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1626731983,
+    "wof:lastmodified":1684353996,
     "wof:name":"Stadtbredimus",
     "wof:parent_id":1745977443,
     "wof:placetype":"localadmin",
+    "wof:population":1947,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-lu",
     "wof:superseded_by":[],
     "wof:supersedes":[],

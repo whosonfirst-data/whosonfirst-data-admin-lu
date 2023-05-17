@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"LU",
+    "eurostat:gisco_id":"LU_0501",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Clervaux",
+    "eurostat:nuts_2021_id":"0501",
+    "eurostat:nuts_2021_level_0":"LU",
+    "eurostat:nuts_2021_level_1":"LU0",
+    "eurostat:nuts_2021_level_2":"LU00",
+    "eurostat:nuts_2021_level_3":"LU000",
+    "eurostat:nuts_2021_level_lau":"0501",
+    "eurostat:population":5463,
+    "eurostat:population_year":2020,
     "geom:area":0.01075,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":85325436.710773,
     "geom:bbox":"5.956914,49.998861,6.137951,50.136553",
     "geom:latitude":50.065447,
     "geom:longitude":6.054115,
@@ -122,6 +134,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"qs_pg",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424881,
     "woe:name_adm0":"Luxembourg",
     "woe:name_adm1":"Diekirch",
@@ -133,6 +147,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"LU_0501",
+        "eurostat:nuts_2021_id":"0501",
         "gp:id":20075356,
         "qs_pg:id":1084817
     },
@@ -141,7 +157,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"d48145d7a866272606180ed9d6efa6c4",
+    "wof:geomhash":"080c477124d2adc66889a99461c5746c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -161,10 +177,12 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1626732036,
+    "wof:lastmodified":1684353997,
     "wof:name":"Clervaux",
     "wof:parent_id":1745977451,
     "wof:placetype":"localadmin",
+    "wof:population":5463,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-lu",
     "wof:superseded_by":[],
     "wof:supersedes":[],

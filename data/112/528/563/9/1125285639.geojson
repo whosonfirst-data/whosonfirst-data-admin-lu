@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"LU",
+    "eurostat:gisco_id":"LU_1004",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Consdorf",
+    "eurostat:nuts_2021_id":"1004",
+    "eurostat:nuts_2021_level_0":"LU",
+    "eurostat:nuts_2021_level_1":"LU0",
+    "eurostat:nuts_2021_level_2":"LU00",
+    "eurostat:nuts_2021_level_3":"LU000",
+    "eurostat:nuts_2021_level_lau":"1004",
+    "eurostat:population":2101,
+    "eurostat:population_year":2020,
     "geom:area":0.00324,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":25869498.395918,
     "geom:bbox":"6.26548,49.745652,6.391106,49.801252",
     "geom:latitude":49.77698,
     "geom:longitude":6.333127,
@@ -112,6 +124,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"qs_pg",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424881,
     "woe:name_adm0":"Luxembourg",
     "woe:name_adm1":"Grevenmacher",
@@ -123,6 +137,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"LU_1004",
+        "eurostat:nuts_2021_id":"1004",
         "gn:id":6693337,
         "gp:id":12591931,
         "qs_pg:id":1265040
@@ -132,7 +148,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"db84593eb7380a77845f1fe807a0f29b",
+    "wof:geomhash":"ef068759b754bea915cd9f8c85cd8e6e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -152,10 +168,12 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1626731912,
+    "wof:lastmodified":1684353995,
     "wof:name":"Consdorf",
     "wof:parent_id":1745977445,
     "wof:placetype":"localadmin",
+    "wof:population":2101,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-lu",
     "wof:superseded_by":[],
     "wof:supersedes":[],

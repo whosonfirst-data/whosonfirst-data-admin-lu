@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"LU",
+    "eurostat:gisco_id":"LU_0701",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Beckerich",
+    "eurostat:nuts_2021_id":"0701",
+    "eurostat:nuts_2021_level_0":"LU",
+    "eurostat:nuts_2021_level_1":"LU0",
+    "eurostat:nuts_2021_level_2":"LU00",
+    "eurostat:nuts_2021_level_3":"LU000",
+    "eurostat:nuts_2021_level_lau":"0701",
+    "eurostat:population":2708,
+    "eurostat:population_year":2020,
     "geom:area":0.003563,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":28476552.204723,
     "geom:bbox":"5.824328,49.702709,5.94713,49.755952",
     "geom:latitude":49.731164,
     "geom:longitude":5.891503,
@@ -118,6 +130,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"qs_pg",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424881,
     "woe:name_adm0":"Luxembourg",
     "woe:name_adm1":"Diekirch",
@@ -129,6 +143,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"LU_0701",
+        "eurostat:nuts_2021_id":"0701",
         "gn:id":6693313,
         "gp:id":12591929,
         "qs_pg:id":1265039
@@ -138,7 +154,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"5d8935aa403794e33fb02de35c8345db",
+    "wof:geomhash":"940bcb7ea5a3fb1a2c6063842d3941fd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -158,10 +174,12 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1626731969,
+    "wof:lastmodified":1684353996,
     "wof:name":"Beckerich",
     "wof:parent_id":1745977431,
     "wof:placetype":"localadmin",
+    "wof:population":2708,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-lu",
     "wof:superseded_by":[],
     "wof:supersedes":[],
