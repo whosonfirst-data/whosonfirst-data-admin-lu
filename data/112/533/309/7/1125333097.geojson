@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"LU",
+    "eurostat:gisco_id":"LU_0602",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bourscheid",
+    "eurostat:nuts_2021_id":"0602",
+    "eurostat:nuts_2021_level_0":"LU",
+    "eurostat:nuts_2021_level_1":"LU0",
+    "eurostat:nuts_2021_level_2":"LU00",
+    "eurostat:nuts_2021_level_3":"LU000",
+    "eurostat:nuts_2021_level_lau":"0602",
+    "eurostat:population":1718,
+    "eurostat:population_year":2020,
     "geom:area":0.004612,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":36723973.358409,
     "geom:bbox":"6.011344,49.865152,6.131714,49.955251",
     "geom:latitude":49.908434,
     "geom:longitude":6.0648,
@@ -76,6 +88,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"qs_pg",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424881,
     "woe:name_adm0":"Luxembourg",
     "woe:name_adm1":"Diekirch",
@@ -87,6 +101,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"LU_0602",
+        "eurostat:nuts_2021_id":"0602",
         "gn:id":6693305,
         "gp:id":12591933,
         "qs_pg:id":1310137
@@ -96,7 +112,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"2d93989105e90d0b58a7a29281bc03c5",
+    "wof:geomhash":"b67acc2158cb5419958972ce2dae3177",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -116,10 +132,12 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1626731978,
+    "wof:lastmodified":1684353996,
     "wof:name":"Bourscheid",
     "wof:parent_id":1745977441,
     "wof:placetype":"localadmin",
+    "wof:population":1718,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-lu",
     "wof:superseded_by":[],
     "wof:supersedes":[],

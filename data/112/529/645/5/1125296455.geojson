@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"LU",
+    "eurostat:gisco_id":"LU_1105",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Junglinster",
+    "eurostat:nuts_2021_id":"1105",
+    "eurostat:nuts_2021_level_0":"LU",
+    "eurostat:nuts_2021_level_1":"LU0",
+    "eurostat:nuts_2021_level_2":"LU00",
+    "eurostat:nuts_2021_level_3":"LU000",
+    "eurostat:nuts_2021_level_lau":"1105",
+    "eurostat:population":8090,
+    "eurostat:population_year":2020,
     "geom:area":0.006945,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":55531691.318728,
     "geom:bbox":"6.167014,49.675052,6.332844,49.749722",
     "geom:latitude":49.71207,
     "geom:longitude":6.253477,
@@ -112,6 +124,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"qs_pg",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424881,
     "woe:name_adm0":"Luxembourg",
     "woe:name_adm1":"Grevenmacher",
@@ -123,6 +137,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"LU_1105",
+        "eurostat:nuts_2021_id":"1105",
         "gn:id":6693344,
         "gp:id":12591912,
         "qs_pg:id":1292119
@@ -132,7 +148,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"b960a0b435103a55a056882587d8d63d",
+    "wof:geomhash":"a31277c53aa3817e78699afb7cb377da",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -152,10 +168,12 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1626731933,
+    "wof:lastmodified":1684353995,
     "wof:name":"Junglinster",
     "wof:parent_id":1745977447,
     "wof:placetype":"localadmin",
+    "wof:population":8090,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-lu",
     "wof:superseded_by":[],
     "wof:supersedes":[],

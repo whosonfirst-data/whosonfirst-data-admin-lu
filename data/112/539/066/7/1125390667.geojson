@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"LU",
+    "eurostat:gisco_id":"LU_0807",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Wiltz",
+    "eurostat:nuts_2021_id":"0807",
+    "eurostat:nuts_2021_level_0":"LU",
+    "eurostat:nuts_2021_level_1":"LU0",
+    "eurostat:nuts_2021_level_2":"LU00",
+    "eurostat:nuts_2021_level_3":"LU000",
+    "eurostat:nuts_2021_level_lau":"0807",
+    "eurostat:population":7273,
+    "eurostat:population_year":2020,
     "geom:area":0.004951,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":39367943.152884,
     "geom:bbox":"5.87791,49.934535,5.980185,50.03221",
     "geom:latitude":49.980849,
     "geom:longitude":5.937196,
@@ -189,6 +201,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"qs_pg",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424881,
     "woe:name_adm0":"Luxembourg",
     "woe:name_adm1":"Diekirch",
@@ -200,6 +214,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"LU_0807",
+        "eurostat:nuts_2021_id":"0807",
         "gn:id":2959978,
         "gp:id":20075359,
         "qs_pg:id":223906
@@ -209,7 +225,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"698f38babc7f1317ac8ab2a18d616639",
+    "wof:geomhash":"2f8b400a683158d61271cb246c2eda71",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -229,10 +245,12 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1626732019,
+    "wof:lastmodified":1684353996,
     "wof:name":"Wiltz",
     "wof:parent_id":1745977429,
     "wof:placetype":"localadmin",
+    "wof:population":7273,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-lu",
     "wof:superseded_by":[],
     "wof:supersedes":[],

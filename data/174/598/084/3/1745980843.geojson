@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"LU",
+    "eurostat:gisco_id":"LU_0104",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"K\u00e4erjeng",
+    "eurostat:nuts_2021_id":"0104",
+    "eurostat:nuts_2021_level_0":"LU",
+    "eurostat:nuts_2021_level_1":"LU0",
+    "eurostat:nuts_2021_level_2":"LU00",
+    "eurostat:nuts_2021_level_3":"LU000",
+    "eurostat:nuts_2021_level_lau":"0104",
+    "eurostat:population":10464,
+    "eurostat:population_year":2020,
     "geom:area":0.004191,
+    "geom:area_square_m":33594973.297848,
     "geom:bbox":"5.847761,49.546203,5.957888,49.62922",
     "geom:latitude":49.584271,
     "geom:longitude":5.898579,
@@ -20,15 +33,21 @@
     ],
     "src:geom":"lu-act",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633275,
         1745977433
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"LU_0104",
+        "eurostat:nuts_2021_id":"0104"
+    },
     "wof:country":"LU",
     "wof:created":1624995622,
-    "wof:geomhash":"6aacde55f259904dcfa82ef1c00137b6",
+    "wof:geomhash":"59da1cb0826520f950b00b3c77903655",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -48,10 +67,12 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1626732049,
+    "wof:lastmodified":1684353997,
     "wof:name":"K\u00e4erjeng",
     "wof:parent_id":1745977433,
     "wof:placetype":"localadmin",
+    "wof:population":10464,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-lu",
     "wof:superseded_by":[],
     "wof:supersedes":[],

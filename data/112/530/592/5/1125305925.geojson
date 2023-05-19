@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"LU",
+    "eurostat:gisco_id":"LU_0303",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Hesperange",
+    "eurostat:nuts_2021_id":"0303",
+    "eurostat:nuts_2021_level_0":"LU",
+    "eurostat:nuts_2021_level_1":"LU0",
+    "eurostat:nuts_2021_level_2":"LU00",
+    "eurostat:nuts_2021_level_3":"LU000",
+    "eurostat:nuts_2021_level_lau":"0303",
+    "eurostat:population":15584,
+    "eurostat:population_year":2020,
     "geom:area":0.003406,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":27309903.01316,
     "geom:bbox":"6.113715,49.548092,6.209894,49.608276",
     "geom:latitude":49.57754,
     "geom:longitude":6.166408,
@@ -121,6 +133,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"qs_pg",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424881,
     "woe:name_adm0":"Luxembourg",
     "woe:name_adm1":"Luxembourg",
@@ -132,6 +146,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"LU_0303",
+        "eurostat:nuts_2021_id":"0303",
         "gn:id":6693277,
         "gp:id":12591909,
         "qs_pg:id":527138
@@ -141,7 +157,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"7a7bb333b6f6b90e6398b6cf1d564e2a",
+    "wof:geomhash":"7720eaf9b9a4fc7429d2f8115a8b9365",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -161,10 +177,12 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1626731951,
+    "wof:lastmodified":1684353995,
     "wof:name":"Hesperange",
     "wof:parent_id":1745977427,
     "wof:placetype":"localadmin",
+    "wof:population":15584,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-lu",
     "wof:superseded_by":[],
     "wof:supersedes":[],

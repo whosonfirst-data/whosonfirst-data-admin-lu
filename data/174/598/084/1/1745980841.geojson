@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"LU",
+    "eurostat:gisco_id":"LU_0702",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Preizerdaul",
+    "eurostat:nuts_2021_id":"0702",
+    "eurostat:nuts_2021_level_0":"LU",
+    "eurostat:nuts_2021_level_1":"LU0",
+    "eurostat:nuts_2021_level_2":"LU00",
+    "eurostat:nuts_2021_level_3":"LU000",
+    "eurostat:nuts_2021_level_lau":"0702",
+    "eurostat:population":1698,
+    "eurostat:population_year":2020,
     "geom:area":0.001965,
+    "geom:area_square_m":15679311.275006,
     "geom:bbox":"5.900792,49.778578,5.969144,49.825514",
     "geom:latitude":49.802097,
     "geom:longitude":5.933005,
@@ -20,15 +33,21 @@
     ],
     "src:geom":"lu-act",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633275,
         1745977431
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"LU_0702",
+        "eurostat:nuts_2021_id":"0702"
+    },
     "wof:country":"LU",
     "wof:created":1624995621,
-    "wof:geomhash":"94b17279457fba7e4f61c2e9e021a205",
+    "wof:geomhash":"9052abfd3786e3911a91f928e633190c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -48,10 +67,12 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1626732047,
+    "wof:lastmodified":1684353997,
     "wof:name":"Pr\u00e9izerdaul",
     "wof:parent_id":1745977431,
     "wof:placetype":"localadmin",
+    "wof:population":1698,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-lu",
     "wof:superseded_by":[],
     "wof:supersedes":[],

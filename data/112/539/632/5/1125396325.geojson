@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"LU",
+    "eurostat:gisco_id":"LU_0207",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Leudelange",
+    "eurostat:nuts_2021_id":"0207",
+    "eurostat:nuts_2021_level_0":"LU",
+    "eurostat:nuts_2021_level_1":"LU0",
+    "eurostat:nuts_2021_level_2":"LU00",
+    "eurostat:nuts_2021_level_3":"LU000",
+    "eurostat:nuts_2021_level_lau":"0207",
+    "eurostat:population":2702,
+    "eurostat:population_year":2020,
     "geom:area":0.001699,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":13625093.189896,
     "geom:bbox":"6.037404,49.547705,6.104317,49.589823",
     "geom:latitude":49.567976,
     "geom:longitude":6.06793,
@@ -106,6 +118,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424881,
     "woe:name_adm0":"Luxembourg",
     "woe:name_adm1":"Luxembourg",
@@ -117,6 +131,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"LU_0207",
+        "eurostat:nuts_2021_id":"0207",
         "gp:id":12591995,
         "qs_pg:id":888716
     },
@@ -125,7 +141,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"5a6253f8d70964db427416169f16b969",
+    "wof:geomhash":"c8cfd7b296dbc601b5395c6eb5e85cd1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -145,10 +161,12 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1626732020,
+    "wof:lastmodified":1684353996,
     "wof:name":"Leudelange",
     "wof:parent_id":1745977435,
     "wof:placetype":"localadmin",
+    "wof:population":2702,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-lu",
     "wof:superseded_by":[],
     "wof:supersedes":[],

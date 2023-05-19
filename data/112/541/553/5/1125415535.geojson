@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"LU",
+    "eurostat:gisco_id":"LU_1104",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Grevenmacher",
+    "eurostat:nuts_2021_id":"1104",
+    "eurostat:nuts_2021_level_0":"LU",
+    "eurostat:nuts_2021_level_1":"LU0",
+    "eurostat:nuts_2021_level_2":"LU00",
+    "eurostat:nuts_2021_level_3":"LU000",
+    "eurostat:nuts_2021_level_lau":"1104",
+    "eurostat:population":4936,
+    "eurostat:population_year":2020,
     "geom:area":0.002035,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":16279578.938151,
     "geom:bbox":"6.36019,49.654058,6.461044,49.699844",
     "geom:latitude":49.675385,
     "geom:longitude":6.413635,
@@ -200,6 +212,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"qs_pg",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424881,
     "woe:name_adm0":"Luxembourg",
     "woe:name_adm1":"Grevenmacher",
@@ -211,6 +225,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"LU_1104",
+        "eurostat:nuts_2021_id":"1104",
         "gn:id":2960516,
         "gp:id":20075354,
         "qs_pg:id":248557
@@ -220,7 +236,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"59960d8318aa73d13562204ae40ec4ff",
+    "wof:geomhash":"83e9259b3d6973827c148ff3c90d59b5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -240,10 +256,12 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1636501780,
+    "wof:lastmodified":1684353997,
     "wof:name":"Grevenmacher",
     "wof:parent_id":1745977447,
     "wof:placetype":"localadmin",
+    "wof:population":4936,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-lu",
     "wof:superseded_by":[],
     "wof:supersedes":[],

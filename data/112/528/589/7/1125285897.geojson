@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"LU",
+    "eurostat:gisco_id":"LU_0608",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Reisdorf",
+    "eurostat:nuts_2021_id":"0608",
+    "eurostat:nuts_2021_level_0":"LU",
+    "eurostat:nuts_2021_level_1":"LU0",
+    "eurostat:nuts_2021_level_2":"LU00",
+    "eurostat:nuts_2021_level_3":"LU000",
+    "eurostat:nuts_2021_level_lau":"0608",
+    "eurostat:population":1276,
+    "eurostat:population_year":2020,
     "geom:area":0.001847,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":14721680.83726,
     "geom:bbox":"6.228664,49.84627,6.314311,49.899123",
     "geom:latitude":49.866421,
     "geom:longitude":6.274105,
@@ -118,6 +130,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"qs_pg",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424881,
     "woe:name_adm0":"Luxembourg",
     "woe:name_adm1":"Diekirch",
@@ -129,6 +143,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"LU_0608",
+        "eurostat:nuts_2021_id":"0608",
         "gn:id":6693311,
         "gp:id":12592005,
         "qs_pg:id":1355298
@@ -138,7 +154,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"4604630a042eab27c0d5ce6a8e25f156",
+    "wof:geomhash":"7c410253172658aca3cb33e35fa11e1b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -158,10 +174,12 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1626731916,
+    "wof:lastmodified":1684353995,
     "wof:name":"Reisdorf",
     "wof:parent_id":1745977441,
     "wof:placetype":"localadmin",
+    "wof:population":1276,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-lu",
     "wof:superseded_by":[],
     "wof:supersedes":[],

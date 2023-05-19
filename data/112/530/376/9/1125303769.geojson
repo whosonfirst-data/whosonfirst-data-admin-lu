@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"LU",
+    "eurostat:gisco_id":"LU_1005",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Echternach",
+    "eurostat:nuts_2021_id":"1005",
+    "eurostat:nuts_2021_level_0":"LU",
+    "eurostat:nuts_2021_level_1":"LU0",
+    "eurostat:nuts_2021_level_2":"LU00",
+    "eurostat:nuts_2021_level_3":"LU000",
+    "eurostat:nuts_2021_level_lau":"1005",
+    "eurostat:population":5617,
+    "eurostat:population_year":2020,
     "geom:area":0.00255,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":20350853.460497,
     "geom:bbox":"6.366476,49.768712,6.470818,49.832643",
     "geom:latitude":49.80034,
     "geom:longitude":6.412257,
@@ -172,6 +184,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"qs_pg",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424881,
     "woe:name_adm0":"Luxembourg",
     "woe:name_adm1":"Grevenmacher",
@@ -183,6 +197,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"LU_1005",
+        "eurostat:nuts_2021_id":"1005",
         "gn:id":2960631,
         "gp:id":20075353,
         "qs_pg:id":1103119
@@ -192,7 +208,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"33cde4a39f077c0e513be9c3aa6c6774",
+    "wof:geomhash":"acd9bec82b73b44fae01d36fc86573a9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -212,10 +228,12 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1626731940,
+    "wof:lastmodified":1684353995,
     "wof:name":"Echternach",
     "wof:parent_id":1745977445,
     "wof:placetype":"localadmin",
+    "wof:population":5617,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-lu",
     "wof:superseded_by":[],
     "wof:supersedes":[],

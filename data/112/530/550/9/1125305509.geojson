@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"LU",
+    "eurostat:gisco_id":"LU_0404",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fischbach",
+    "eurostat:nuts_2021_id":"0404",
+    "eurostat:nuts_2021_level_0":"LU",
+    "eurostat:nuts_2021_level_1":"LU0",
+    "eurostat:nuts_2021_level_2":"LU00",
+    "eurostat:nuts_2021_level_3":"LU000",
+    "eurostat:nuts_2021_level_lau":"0404",
+    "eurostat:population":1215,
+    "eurostat:population_year":2020,
     "geom:area":0.002436,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":19466958.501388,
     "geom:bbox":"6.141701,49.714583,6.228291,49.774752",
     "geom:latitude":49.746408,
     "geom:longitude":6.187937,
@@ -91,6 +103,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"qs_pg",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424881,
     "woe:name_adm0":"Luxembourg",
     "woe:name_adm1":"Luxembourg",
@@ -102,6 +116,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"LU_0404",
+        "eurostat:nuts_2021_id":"0404",
         "gn:id":6693288,
         "gp:id":12592008,
         "qs_pg:id":479787
@@ -111,7 +127,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"cfb1152b93a14fd347067b1d72c4fa1d",
+    "wof:geomhash":"a966e87b1391b06af9ac81ff59d4afde",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -131,10 +147,12 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1626731948,
+    "wof:lastmodified":1684353995,
     "wof:name":"Fischbach",
     "wof:parent_id":1745977439,
     "wof:placetype":"localadmin",
+    "wof:population":1215,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-lu",
     "wof:superseded_by":[],
     "wof:supersedes":[],

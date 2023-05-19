@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"LU",
+    "eurostat:gisco_id":"LU_1203",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lenningen",
+    "eurostat:nuts_2021_id":"1203",
+    "eurostat:nuts_2021_level_0":"LU",
+    "eurostat:nuts_2021_level_1":"LU0",
+    "eurostat:nuts_2021_level_2":"LU00",
+    "eurostat:nuts_2021_level_3":"LU000",
+    "eurostat:nuts_2021_level_lau":"1203",
+    "eurostat:population":2017,
+    "eurostat:population_year":2020,
     "geom:area":0.002552,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":20450437.110733,
     "geom:bbox":"6.273786,49.580501,6.382199,49.628384",
     "geom:latitude":49.606222,
     "geom:longitude":6.327134,
@@ -115,6 +127,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"qs_pg",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424881,
     "woe:name_adm0":"Luxembourg",
     "woe:name_adm1":"Grevenmacher",
@@ -126,6 +140,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"LU_1203",
+        "eurostat:nuts_2021_id":"1203",
         "gn:id":6693351,
         "gp:id":12591916,
         "qs_pg:id":1265043
@@ -135,7 +151,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"f66324e3f52c0ed3b5bb97c16511d28a",
+    "wof:geomhash":"155d09d3dadec492646f171aa05c623e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -155,10 +171,12 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1626731973,
+    "wof:lastmodified":1684353996,
     "wof:name":"Lenningen",
     "wof:parent_id":1745977443,
     "wof:placetype":"localadmin",
+    "wof:population":2017,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-lu",
     "wof:superseded_by":[],
     "wof:supersedes":[],

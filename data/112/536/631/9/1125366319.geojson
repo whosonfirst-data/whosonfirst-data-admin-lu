@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"LU",
+    "eurostat:gisco_id":"LU_0204",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Esch-sur-Alzette",
+    "eurostat:nuts_2021_id":"0204",
+    "eurostat:nuts_2021_level_0":"LU",
+    "eurostat:nuts_2021_level_1":"LU0",
+    "eurostat:nuts_2021_level_2":"LU00",
+    "eurostat:nuts_2021_level_3":"LU000",
+    "eurostat:nuts_2021_level_lau":"0204",
+    "eurostat:population":36218,
+    "eurostat:population_year":2020,
     "geom:area":0.001787,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":14355033.376287,
     "geom:bbox":"5.943219,49.460906,6.005142,49.518618",
     "geom:latitude":49.49309,
     "geom:longitude":5.978884,
@@ -175,6 +187,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"qs_pg",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424881,
     "woe:name_adm0":"Luxembourg",
     "woe:name_adm1":"Luxembourg",
@@ -186,6 +200,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"LU_0204",
+        "eurostat:nuts_2021_id":"0204",
         "gn:id":6693269,
         "gp:id":12591951,
         "qs_pg:id":1179240
@@ -195,7 +211,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"07610876241923a2ab4a1cf681d0988a",
+    "wof:geomhash":"07bfa939c3b785bd4bc6c967e302dca7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -215,10 +231,12 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1626732000,
+    "wof:lastmodified":1684353996,
     "wof:name":"Esch-sur-Alzette",
     "wof:parent_id":1745977435,
     "wof:placetype":"localadmin",
+    "wof:population":36218,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-lu",
     "wof:superseded_by":[],
     "wof:supersedes":[],

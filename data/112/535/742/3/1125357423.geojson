@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"LU",
+    "eurostat:gisco_id":"LU_0201",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bettembourg",
+    "eurostat:nuts_2021_id":"0201",
+    "eurostat:nuts_2021_level_0":"LU",
+    "eurostat:nuts_2021_level_1":"LU0",
+    "eurostat:nuts_2021_level_2":"LU00",
+    "eurostat:nuts_2021_level_3":"LU000",
+    "eurostat:nuts_2021_level_lau":"0201",
+    "eurostat:population":11319,
+    "eurostat:population_year":2020,
     "geom:area":0.002682,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":21527097.775449,
     "geom:bbox":"6.039392,49.493913,6.128071,49.55203",
     "geom:latitude":49.521283,
     "geom:longitude":6.084253,
@@ -113,6 +125,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"qs_pg",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424881,
     "woe:name_adm0":"Luxembourg",
     "woe:name_adm1":"Luxembourg",
@@ -124,6 +138,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"LU_0201",
+        "eurostat:nuts_2021_id":"0201",
         "gp:id":12591943,
         "qs_pg:id":1158034
     },
@@ -132,7 +148,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"d668223bdcda78162f213c4014e31dcf",
+    "wof:geomhash":"74f3737cebcac112bad819588c3d0472",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -152,10 +168,12 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1626731996,
+    "wof:lastmodified":1684353996,
     "wof:name":"Bettembourg",
     "wof:parent_id":1745977435,
     "wof:placetype":"localadmin",
+    "wof:population":11319,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-lu",
     "wof:superseded_by":[],
     "wof:supersedes":[],

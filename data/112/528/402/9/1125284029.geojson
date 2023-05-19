@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"LU",
+    "eurostat:gisco_id":"LU_1103",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Flaxweiler",
+    "eurostat:nuts_2021_id":"1103",
+    "eurostat:nuts_2021_level_0":"LU",
+    "eurostat:nuts_2021_level_1":"LU0",
+    "eurostat:nuts_2021_level_2":"LU00",
+    "eurostat:nuts_2021_level_3":"LU000",
+    "eurostat:nuts_2021_level_lau":"1103",
+    "eurostat:population":2148,
+    "eurostat:population_year":2020,
     "geom:area":0.003755,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":30067757.899922,
     "geom:bbox":"6.303172,49.607154,6.423554,49.678382",
     "geom:latitude":49.644662,
     "geom:longitude":6.358554,
@@ -106,6 +118,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"qs_pg",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424881,
     "woe:name_adm0":"Luxembourg",
     "woe:name_adm1":"Grevenmacher",
@@ -117,6 +131,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"LU_1103",
+        "eurostat:nuts_2021_id":"1103",
         "gn:id":6693343,
         "gp:id":12591960,
         "qs_pg:id":1347806
@@ -126,7 +142,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"090d35b6af7a916a430962d277c2c475",
+    "wof:geomhash":"0052b75ea50f9b89ed61e515804f0c2f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -146,10 +162,12 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1626731901,
+    "wof:lastmodified":1684353994,
     "wof:name":"Flaxweiler",
     "wof:parent_id":1745977447,
     "wof:placetype":"localadmin",
+    "wof:population":2148,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-lu",
     "wof:superseded_by":[],
     "wof:supersedes":[],

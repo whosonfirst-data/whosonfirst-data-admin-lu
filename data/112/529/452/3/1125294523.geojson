@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"LU",
+    "eurostat:gisco_id":"LU_1201",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bous",
+    "eurostat:nuts_2021_id":"1201",
+    "eurostat:nuts_2021_level_0":"LU",
+    "eurostat:nuts_2021_level_1":"LU0",
+    "eurostat:nuts_2021_level_2":"LU00",
+    "eurostat:nuts_2021_level_3":"LU000",
+    "eurostat:nuts_2021_level_lau":"1201",
+    "eurostat:population":1669,
+    "eurostat:population_year":2020,
     "geom:area":0.001911,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":15328104.849455,
     "geom:bbox":"6.291894,49.530482,6.355382,49.582827",
     "geom:latitude":49.55692,
     "geom:longitude":6.325387,
@@ -79,6 +91,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"qs_pg",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424881,
     "woe:name_adm0":"Luxembourg",
     "woe:name_adm1":"Grevenmacher",
@@ -90,6 +104,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"LU_1201",
+        "eurostat:nuts_2021_id":"1201",
         "gn:id":6693348,
         "gp:id":12591948,
         "qs_pg:id":1099507
@@ -99,7 +115,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"6ec97a1661f472b46ffce8ddd4228bd0",
+    "wof:geomhash":"9c2f42f92c633ddae39e5d1763a6a4a0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -119,10 +135,12 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1626731931,
+    "wof:lastmodified":1684353995,
     "wof:name":"Bous",
     "wof:parent_id":1745977443,
     "wof:placetype":"localadmin",
+    "wof:population":1669,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-lu",
     "wof:superseded_by":[],
     "wof:supersedes":[],

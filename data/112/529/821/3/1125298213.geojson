@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"LU",
+    "eurostat:gisco_id":"LU_0804",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Goesdorf",
+    "eurostat:nuts_2021_id":"0804",
+    "eurostat:nuts_2021_level_0":"LU",
+    "eurostat:nuts_2021_level_1":"LU0",
+    "eurostat:nuts_2021_level_2":"LU00",
+    "eurostat:nuts_2021_level_3":"LU000",
+    "eurostat:nuts_2021_level_lau":"0804",
+    "eurostat:population":1568,
+    "eurostat:population_year":2020,
     "geom:area":0.003683,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":29310295.339431,
     "geom:bbox":"5.916374,49.903949,6.049417,49.964577",
     "geom:latitude":49.932646,
     "geom:longitude":5.981079,
@@ -115,6 +127,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"qs_pg",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424881,
     "woe:name_adm0":"Luxembourg",
     "woe:name_adm1":"Diekirch",
@@ -126,6 +140,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"LU_0804",
+        "eurostat:nuts_2021_id":"0804",
         "gn:id":6693325,
         "gp:id":12591972,
         "qs_pg:id":477841
@@ -135,7 +151,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"5d405fb2dd451b4f374125e781c0f503",
+    "wof:geomhash":"9dc70199bbdcd2ab0330b36c4706793b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -155,10 +171,12 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1626731936,
+    "wof:lastmodified":1684353995,
     "wof:name":"Goesdorf",
     "wof:parent_id":1745977429,
     "wof:placetype":"localadmin",
+    "wof:population":1568,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-lu",
     "wof:superseded_by":[],
     "wof:supersedes":[],

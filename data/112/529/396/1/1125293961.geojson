@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"LU",
+    "eurostat:gisco_id":"LU_0208",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mondercange",
+    "eurostat:nuts_2021_id":"0208",
+    "eurostat:nuts_2021_level_0":"LU",
+    "eurostat:nuts_2021_level_1":"LU0",
+    "eurostat:nuts_2021_level_2":"LU00",
+    "eurostat:nuts_2021_level_3":"LU000",
+    "eurostat:nuts_2021_level_lau":"0208",
+    "eurostat:population":7007,
+    "eurostat:population_year":2020,
     "geom:area":0.002659,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":21338558.962899,
     "geom:bbox":"5.953007,49.511213,6.06248,49.552878",
     "geom:latitude":49.531759,
     "geom:longitude":6.010613,
@@ -110,6 +122,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"qs_pg",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424881,
     "woe:name_adm0":"Luxembourg",
     "woe:name_adm1":"Luxembourg",
@@ -121,6 +135,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"LU_0208",
+        "eurostat:nuts_2021_id":"0208",
         "gp:id":20075350,
         "qs_pg:id":1098793
     },
@@ -129,7 +145,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"c697612f5fae433f8dca9141cb50cb72",
+    "wof:geomhash":"1b9ba62deccab2703e6fd7cbead34b25",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -149,10 +165,12 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1626731928,
+    "wof:lastmodified":1684353995,
     "wof:name":"Mondercange",
     "wof:parent_id":1745977435,
     "wof:placetype":"localadmin",
+    "wof:population":7007,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-lu",
     "wof:superseded_by":[],
     "wof:supersedes":[],

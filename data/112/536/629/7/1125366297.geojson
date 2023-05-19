@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"LU",
+    "eurostat:gisco_id":"LU_0801",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Boulaide",
+    "eurostat:nuts_2021_id":"0801",
+    "eurostat:nuts_2021_level_0":"LU",
+    "eurostat:nuts_2021_level_1":"LU0",
+    "eurostat:nuts_2021_level_2":"LU00",
+    "eurostat:nuts_2021_level_3":"LU000",
+    "eurostat:nuts_2021_level_lau":"0801",
+    "eurostat:population":1344,
+    "eurostat:population_year":2020,
     "geom:area":0.004054,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":32294061.163257,
     "geom:bbox":"5.735708,49.863468,5.856799,49.920144",
     "geom:latitude":49.895555,
     "geom:longitude":5.801816,
@@ -115,6 +127,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"qs_pg",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424881,
     "woe:name_adm0":"Luxembourg",
     "woe:name_adm1":"Diekirch",
@@ -126,6 +140,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"LU_0801",
+        "eurostat:nuts_2021_id":"0801",
         "gn:id":6693322,
         "gp:id":12591907,
         "qs_pg:id":1179221
@@ -135,7 +151,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"b928ab8c54bf4f77eb9ebb0fc044b36e",
+    "wof:geomhash":"efb49f60fdf41d16a11398011740fd9f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -155,10 +171,12 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1626731999,
+    "wof:lastmodified":1684353996,
     "wof:name":"Boulaide",
     "wof:parent_id":1745977429,
     "wof:placetype":"localadmin",
+    "wof:population":1344,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-lu",
     "wof:superseded_by":[],
     "wof:supersedes":[],

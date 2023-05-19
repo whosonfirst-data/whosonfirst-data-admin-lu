@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"LU",
+    "eurostat:gisco_id":"LU_0802",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Esch-sur-S\u00fbre",
+    "eurostat:nuts_2021_id":"0802",
+    "eurostat:nuts_2021_level_0":"LU",
+    "eurostat:nuts_2021_level_1":"LU0",
+    "eurostat:nuts_2021_level_2":"LU00",
+    "eurostat:nuts_2021_level_3":"LU000",
+    "eurostat:nuts_2021_level_lau":"0802",
+    "eurostat:population":2855,
+    "eurostat:population_year":2020,
     "geom:area":0.006436,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":51269794.172565,
     "geom:bbox":"5.845252,49.852409,6.037524,49.926236",
     "geom:latitude":49.890479,
     "geom:longitude":5.944413,
@@ -112,6 +124,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"qs_pg",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424881,
     "woe:name_adm0":"Luxembourg",
     "woe:name_adm1":"Diekirch",
@@ -123,6 +137,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"LU_0802",
+        "eurostat:nuts_2021_id":"0802",
         "gn:id":6693323,
         "gp:id":12591950,
         "qs_pg:id":1310138
@@ -132,7 +148,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"918b51e658feb919ad0dd0394a8d92c7",
+    "wof:geomhash":"beb20b180a96663c6179735112718495",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -152,10 +168,12 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1626731981,
+    "wof:lastmodified":1684353996,
     "wof:name":"Esch-sur-S\u00fbre",
     "wof:parent_id":1745977429,
     "wof:placetype":"localadmin",
+    "wof:population":2855,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-lu",
     "wof:superseded_by":[],
     "wof:supersedes":[],

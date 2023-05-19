@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"LU",
+    "eurostat:gisco_id":"LU_0609",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Schieren",
+    "eurostat:nuts_2021_id":"0609",
+    "eurostat:nuts_2021_level_0":"LU",
+    "eurostat:nuts_2021_level_1":"LU0",
+    "eurostat:nuts_2021_level_2":"LU00",
+    "eurostat:nuts_2021_level_3":"LU000",
+    "eurostat:nuts_2021_level_lau":"0609",
+    "eurostat:population":2039,
+    "eurostat:population_year":2020,
     "geom:area":0.001301,
+    "geom:area_square_m":10376922.515615,
     "geom:bbox":"6.072404,49.810353,6.14712,49.843395",
     "geom:latitude":49.827872,
     "geom:longitude":6.114521,
@@ -20,15 +33,21 @@
     ],
     "src:geom":"lu-act",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633275,
         1745977441
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"LU_0609",
+        "eurostat:nuts_2021_id":"0609"
+    },
     "wof:country":"LU",
     "wof:created":1624995615,
-    "wof:geomhash":"b38bb72331f221286daeb18e9acaba06",
+    "wof:geomhash":"87360c76856a245456cf129b838f2d9c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -48,10 +67,12 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1626732040,
+    "wof:lastmodified":1684353997,
     "wof:name":"Schieren",
     "wof:parent_id":1745977441,
     "wof:placetype":"localadmin",
+    "wof:population":2039,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-lu",
     "wof:superseded_by":[],
     "wof:supersedes":[],

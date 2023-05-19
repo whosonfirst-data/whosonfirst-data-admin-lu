@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"LU",
+    "eurostat:gisco_id":"LU_0214",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Schifflange",
+    "eurostat:nuts_2021_id":"0214",
+    "eurostat:nuts_2021_level_0":"LU",
+    "eurostat:nuts_2021_level_1":"LU0",
+    "eurostat:nuts_2021_level_2":"LU00",
+    "eurostat:nuts_2021_level_3":"LU000",
+    "eurostat:nuts_2021_level_lau":"0214",
+    "eurostat:population":11293,
+    "eurostat:population_year":2020,
     "geom:area":0.000963,
+    "geom:area_square_m":7733428.047445,
     "geom:bbox":"5.99329,49.483288,6.041161,49.523704",
     "geom:latitude":49.506446,
     "geom:longitude":6.014981,
@@ -20,15 +33,21 @@
     ],
     "src:geom":"lu-act",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633275,
         1745977435
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"LU_0214",
+        "eurostat:nuts_2021_id":"0214"
+    },
     "wof:country":"LU",
     "wof:created":1624995633,
-    "wof:geomhash":"3e2d36695866668790eaf02c67b6a8af",
+    "wof:geomhash":"148cc350bf27782e3f24519c2b51e25b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -48,10 +67,12 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1626732063,
+    "wof:lastmodified":1684353997,
     "wof:name":"Schifflange",
     "wof:parent_id":1745977435,
     "wof:placetype":"localadmin",
+    "wof:population":11293,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-lu",
     "wof:superseded_by":[],
     "wof:supersedes":[],

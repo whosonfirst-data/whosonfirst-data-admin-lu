@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"LU",
+    "eurostat:gisco_id":"LU_0706",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Redange-sur-Attert",
+    "eurostat:nuts_2021_id":"0706",
+    "eurostat:nuts_2021_level_0":"LU",
+    "eurostat:nuts_2021_level_1":"LU0",
+    "eurostat:nuts_2021_level_2":"LU00",
+    "eurostat:nuts_2021_level_3":"LU000",
+    "eurostat:nuts_2021_level_lau":"0706",
+    "eurostat:population":2905,
+    "eurostat:population_year":2020,
     "geom:area":0.004033,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":32205132.076115,
     "geom:bbox":"5.827103,49.742318,5.938784,49.813799",
     "geom:latitude":49.776274,
     "geom:longitude":5.885574,
@@ -49,6 +61,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"qs_pg",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424881,
     "woe:name_adm0":"Luxembourg",
     "woe:name_adm1":"Diekirch",
@@ -60,6 +74,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"LU_0706",
+        "eurostat:nuts_2021_id":"0706",
         "gn:id":6693317,
         "gp:id":20075358,
         "qs_pg:id":400838
@@ -69,7 +85,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"6a605d8d2de218a6ef4e793f5ec21bd5",
+    "wof:geomhash":"84c3db8760fc45448adcdd3f901871dc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -89,10 +105,12 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1626732025,
+    "wof:lastmodified":1684353997,
     "wof:name":"Redange/Attert",
     "wof:parent_id":1745977431,
     "wof:placetype":"localadmin",
+    "wof:population":2905,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-lu",
     "wof:superseded_by":[],
     "wof:supersedes":[],

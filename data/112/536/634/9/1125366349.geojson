@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"LU",
+    "eurostat:gisco_id":"LU_0106",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Koerich",
+    "eurostat:nuts_2021_id":"0106",
+    "eurostat:nuts_2021_level_0":"LU",
+    "eurostat:nuts_2021_level_1":"LU0",
+    "eurostat:nuts_2021_level_2":"LU00",
+    "eurostat:nuts_2021_level_3":"LU000",
+    "eurostat:nuts_2021_level_lau":"0106",
+    "eurostat:population":2616,
+    "eurostat:population_year":2020,
     "geom:area":0.002367,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":18943329.953356,
     "geom:bbox":"5.917647,49.642776,5.99511,49.692754",
     "geom:latitude":49.668854,
     "geom:longitude":5.96018,
@@ -109,6 +121,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"qs_pg",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424881,
     "woe:name_adm0":"Luxembourg",
     "woe:name_adm1":"Luxembourg",
@@ -120,6 +134,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"LU_0106",
+        "eurostat:nuts_2021_id":"0106",
         "gn:id":6693264,
         "gp:id":12591985,
         "qs_pg:id":1179252
@@ -129,7 +145,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"6890dfb852a342c2faf1ebdd94b165c4",
+    "wof:geomhash":"007847333fa152eecd470d9d65a5ad37",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -149,10 +165,12 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1626732005,
+    "wof:lastmodified":1684353996,
     "wof:name":"Koerich",
     "wof:parent_id":1745977433,
     "wof:placetype":"localadmin",
+    "wof:population":2616,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-lu",
     "wof:superseded_by":[],
     "wof:supersedes":[],

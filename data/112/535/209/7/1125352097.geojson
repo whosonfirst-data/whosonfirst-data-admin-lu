@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"LU",
+    "eurostat:gisco_id":"LU_0504",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Troisvierges",
+    "eurostat:nuts_2021_id":"0504",
+    "eurostat:nuts_2021_level_0":"LU",
+    "eurostat:nuts_2021_level_1":"LU0",
+    "eurostat:nuts_2021_level_2":"LU00",
+    "eurostat:nuts_2021_level_3":"LU000",
+    "eurostat:nuts_2021_level_lau":"0504",
+    "eurostat:population":3296,
+    "eurostat:population_year":2020,
     "geom:area":0.004796,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":38000889.80301,
     "geom:bbox":"5.953067,50.106549,6.052511,50.182772",
     "geom:latitude":50.144535,
     "geom:longitude":5.998313,
@@ -119,6 +131,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"qs_pg",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424881,
     "woe:name_adm0":"Luxembourg",
     "woe:name_adm1":"Diekirch",
@@ -130,6 +144,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"LU_0504",
+        "eurostat:nuts_2021_id":"0504",
         "gp:id":12591969,
         "qs_pg:id":284944
     },
@@ -138,7 +154,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"79381836404e9128067e56638d4f7cf8",
+    "wof:geomhash":"978ba97ac12367935813f7945fcf3b4c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -158,10 +174,12 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1626731992,
+    "wof:lastmodified":1684353996,
     "wof:name":"Troisvierges",
     "wof:parent_id":1745977451,
     "wof:placetype":"localadmin",
+    "wof:population":3296,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-lu",
     "wof:superseded_by":[],
     "wof:supersedes":[],

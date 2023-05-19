@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"LU",
+    "eurostat:gisco_id":"LU_1206",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Schengen",
+    "eurostat:nuts_2021_id":"1206",
+    "eurostat:nuts_2021_level_0":"LU",
+    "eurostat:nuts_2021_level_1":"LU0",
+    "eurostat:nuts_2021_level_2":"LU00",
+    "eurostat:nuts_2021_level_3":"LU000",
+    "eurostat:nuts_2021_level_lau":"1206",
+    "eurostat:population":4924,
+    "eurostat:population_year":2020,
     "geom:area":0.003873,
+    "geom:area_square_m":31102157.950067,
     "geom:bbox":"6.284387,49.459505,6.368851,49.538863",
     "geom:latitude":49.498456,
     "geom:longitude":6.335256,
@@ -20,15 +33,21 @@
     ],
     "src:geom":"lu-act",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633275,
         1745977443
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"LU_1206",
+        "eurostat:nuts_2021_id":"1206"
+    },
     "wof:country":"LU",
     "wof:created":1624995627,
-    "wof:geomhash":"fc9d6ad6988d5baa5e5ac7342226b1d8",
+    "wof:geomhash":"26b54f9c811b0c8474da73d3f29e56b7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -48,10 +67,12 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1626732052,
+    "wof:lastmodified":1684353997,
     "wof:name":"Schengen",
     "wof:parent_id":1745977443,
     "wof:placetype":"localadmin",
+    "wof:population":4924,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-lu",
     "wof:superseded_by":[],
     "wof:supersedes":[],

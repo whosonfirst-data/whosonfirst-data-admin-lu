@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"LU",
+    "eurostat:gisco_id":"LU_0308",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Steinsel",
+    "eurostat:nuts_2021_id":"0308",
+    "eurostat:nuts_2021_level_0":"LU",
+    "eurostat:nuts_2021_level_1":"LU0",
+    "eurostat:nuts_2021_level_2":"LU00",
+    "eurostat:nuts_2021_level_3":"LU000",
+    "eurostat:nuts_2021_level_lau":"0308",
+    "eurostat:population":5443,
+    "eurostat:population_year":2020,
     "geom:area":0.002726,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":21812337.966414,
     "geom:bbox":"6.082194,49.641297,6.214806,49.692306",
     "geom:latitude":49.673957,
     "geom:longitude":6.145545,
@@ -112,6 +124,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"qs_pg",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424881,
     "woe:name_adm0":"Luxembourg",
     "woe:name_adm1":"Luxembourg",
@@ -123,6 +137,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"LU_0308",
+        "eurostat:nuts_2021_id":"0308",
         "gn:id":6693281,
         "gp:id":12591981,
         "qs_pg:id":478341
@@ -132,7 +148,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"237fa5e0a8d20fa65cd6a41d18634333",
+    "wof:geomhash":"ef655337f6516c73e44e777c9d78cd07",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -152,10 +168,12 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1626731947,
+    "wof:lastmodified":1684353995,
     "wof:name":"Steinsel",
     "wof:parent_id":1745977427,
     "wof:placetype":"localadmin",
+    "wof:population":5443,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-lu",
     "wof:superseded_by":[],
     "wof:supersedes":[],

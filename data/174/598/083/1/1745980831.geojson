@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"LU",
+    "eurostat:gisco_id":"LU_0707",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Saeul",
+    "eurostat:nuts_2021_id":"0707",
+    "eurostat:nuts_2021_level_0":"LU",
+    "eurostat:nuts_2021_level_1":"LU0",
+    "eurostat:nuts_2021_level_2":"LU00",
+    "eurostat:nuts_2021_level_3":"LU000",
+    "eurostat:nuts_2021_level_lau":"0707",
+    "eurostat:population":857,
+    "eurostat:population_year":2020,
     "geom:area":0.001865,
+    "geom:area_square_m":14905069.437256,
     "geom:bbox":"5.921199,49.701875,6.007042,49.754018",
     "geom:latitude":49.729216,
     "geom:longitude":5.967748,
@@ -20,15 +33,21 @@
     ],
     "src:geom":"lu-act",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633275,
         1745977431
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"LU_0707",
+        "eurostat:nuts_2021_id":"0707"
+    },
     "wof:country":"LU",
     "wof:created":1624995616,
-    "wof:geomhash":"9d7ba8cb13c3b0570c0e16d710f89e7e",
+    "wof:geomhash":"21711ad576dc619d25a9c3df40086383",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -48,10 +67,12 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1626732041,
+    "wof:lastmodified":1684353997,
     "wof:name":"Saeul",
     "wof:parent_id":1745977431,
     "wof:placetype":"localadmin",
+    "wof:population":857,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-lu",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"LU",
+    "eurostat:gisco_id":"LU_1106",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Manternach",
+    "eurostat:nuts_2021_id":"1106",
+    "eurostat:nuts_2021_level_0":"LU",
+    "eurostat:nuts_2021_level_1":"LU0",
+    "eurostat:nuts_2021_level_2":"LU00",
+    "eurostat:nuts_2021_level_3":"LU000",
+    "eurostat:nuts_2021_level_lau":"1106",
+    "eurostat:population":2181,
+    "eurostat:population_year":2020,
     "geom:area":0.003472,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":27755414.311024,
     "geom:bbox":"6.362106,49.687853,6.461725,49.755653",
     "geom:latitude":49.721437,
     "geom:longitude":6.413788,
@@ -106,6 +118,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"qs_pg",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424881,
     "woe:name_adm0":"Luxembourg",
     "woe:name_adm1":"Grevenmacher",
@@ -117,6 +131,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"LU_1106",
+        "eurostat:nuts_2021_id":"1106",
         "gn:id":6693345,
         "gp:id":12591962,
         "qs_pg:id":477486
@@ -126,7 +142,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"8181012dbe3a57600d2a9bb7529743a2",
+    "wof:geomhash":"5347f5d397df3ddefca6c253f328c9f4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -146,10 +162,12 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1626731943,
+    "wof:lastmodified":1684353995,
     "wof:name":"Manternach",
     "wof:parent_id":1745977447,
     "wof:placetype":"localadmin",
+    "wof:population":2181,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-lu",
     "wof:superseded_by":[],
     "wof:supersedes":[],

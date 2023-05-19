@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"LU",
+    "eurostat:gisco_id":"LU_0604",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Erpeldange-sur-S\u00fbre",
+    "eurostat:nuts_2021_id":"0604",
+    "eurostat:nuts_2021_level_0":"LU",
+    "eurostat:nuts_2021_level_1":"LU0",
+    "eurostat:nuts_2021_level_2":"LU00",
+    "eurostat:nuts_2021_level_3":"LU000",
+    "eurostat:nuts_2021_level_lau":"0604",
+    "eurostat:population":2482,
+    "eurostat:population_year":2020,
     "geom:area":0.002242,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":17867777.717482,
     "geom:bbox":"6.071752,49.835045,6.153532,49.903171",
     "geom:latitude":49.87018,
     "geom:longitude":6.112787,
@@ -106,6 +118,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"qs_pg",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424881,
     "woe:name_adm0":"Luxembourg",
     "woe:name_adm1":"Diekirch",
@@ -117,6 +131,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"LU_0604",
+        "eurostat:nuts_2021_id":"0604",
         "gn:id":6693307,
         "gp:id":12591947,
         "qs_pg:id":1016275
@@ -126,7 +142,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"69c53dbeb8550c6b517583b207850e8e",
+    "wof:geomhash":"6dc6b4ee17d18aed41c7ee299b4abb6e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -146,10 +162,12 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1626732015,
+    "wof:lastmodified":1684353996,
     "wof:name":"Erpeldange-sur-S\u00fbre",
     "wof:parent_id":1745977441,
     "wof:placetype":"localadmin",
+    "wof:population":2482,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-lu",
     "wof:superseded_by":[],
     "wof:supersedes":[],

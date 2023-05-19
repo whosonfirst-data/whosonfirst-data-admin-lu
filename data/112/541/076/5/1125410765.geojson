@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"LU",
+    "eurostat:gisco_id":"LU_0704",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rambrouch",
+    "eurostat:nuts_2021_id":"0704",
+    "eurostat:nuts_2021_level_0":"LU",
+    "eurostat:nuts_2021_level_1":"LU0",
+    "eurostat:nuts_2021_level_2":"LU00",
+    "eurostat:nuts_2021_level_3":"LU000",
+    "eurostat:nuts_2021_level_lau":"0704",
+    "eurostat:population":4480,
+    "eurostat:population_year":2020,
     "geom:area":0.009943,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":79302407.636812,
     "geom:bbox":"5.739188,49.790573,5.907514,49.888691",
     "geom:latitude":49.83543,
     "geom:longitude":5.818534,
@@ -115,6 +127,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"qs_pg",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424881,
     "woe:name_adm0":"Luxembourg",
     "woe:name_adm1":"Diekirch",
@@ -126,6 +140,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"LU_0704",
+        "eurostat:nuts_2021_id":"0704",
         "gn:id":6693315,
         "gp:id":12591926,
         "qs_pg:id":69396
@@ -135,7 +151,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"920da700fcffabab525c1f5053c65744",
+    "wof:geomhash":"79f08266f6112221b856010e23f8e6ff",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -155,10 +171,12 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1626732034,
+    "wof:lastmodified":1684353997,
     "wof:name":"Rambrouch",
     "wof:parent_id":1745977431,
     "wof:placetype":"localadmin",
+    "wof:population":4480,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-lu",
     "wof:superseded_by":[],
     "wof:supersedes":[],

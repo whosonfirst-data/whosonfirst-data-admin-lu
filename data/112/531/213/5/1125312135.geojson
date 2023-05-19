@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"LU",
+    "eurostat:gisco_id":"LU_0805",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Kiischpelt",
+    "eurostat:nuts_2021_id":"0805",
+    "eurostat:nuts_2021_level_0":"LU",
+    "eurostat:nuts_2021_level_1":"LU0",
+    "eurostat:nuts_2021_level_2":"LU00",
+    "eurostat:nuts_2021_level_3":"LU000",
+    "eurostat:nuts_2021_level_lau":"0805",
+    "eurostat:population":1214,
+    "eurostat:population_year":2020,
     "geom:area":0.004231,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":33646824.957209,
     "geom:bbox":"5.963851,49.936946,6.060841,50.019974",
     "geom:latitude":49.978936,
     "geom:longitude":6.006201,
@@ -44,6 +56,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"qs_pg",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424881,
     "woe:name_adm0":"Luxembourg",
     "woe:name_adm1":"Diekirch",
@@ -55,6 +69,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"LU_0805",
+        "eurostat:nuts_2021_id":"0805",
         "gp:id":56071151,
         "qs_pg:id":797277
     },
@@ -63,7 +79,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"522277633588bf61fb578d46d3bbf23e",
+    "wof:geomhash":"23ceb4b3f8df83dc725ad10550ea8641",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -83,10 +99,12 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1626731961,
+    "wof:lastmodified":1684353996,
     "wof:name":"Kiischpelt",
     "wof:parent_id":1745977429,
     "wof:placetype":"localadmin",
+    "wof:population":1214,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-lu",
     "wof:superseded_by":[],
     "wof:supersedes":[],
