@@ -48,6 +48,9 @@
     "name:fra_x_preferred":[
         "Biwer"
     ],
+    "name:fur_x_preferred":[
+        "Biwer"
+    ],
     "name:gsw_x_preferred":[
         "Biwer"
     ],
@@ -90,8 +93,14 @@
     "name:swe_x_preferred":[
         "Biwer"
     ],
+    "name:tur_x_preferred":[
+        "Biwer"
+    ],
     "name:ukr_x_preferred":[
         "\u0411\u0456\u0432\u0435\u0440"
+    ],
+    "name:zho_x_preferred":[
+        "\u6bd4\u97e6\u5c14"
     ],
     "qs_pg:aaroncc":"LU",
     "qs_pg:gn_country":"LU",
@@ -158,7 +167,7 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1626732182,
+    "wof:lastmodified":1690938774,
     "wof:name":"Biwer",
     "wof:parent_id":1125294519,
     "wof:placetype":"locality",

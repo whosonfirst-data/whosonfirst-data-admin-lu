@@ -27,6 +27,9 @@
     "name:ceb_x_preferred":[
         "Kaundorf"
     ],
+    "name:deu_x_preferred":[
+        "Kaundorf"
+    ],
     "name:eng_x_preferred":[
         "Kaundorf"
     ],
@@ -63,11 +66,11 @@
     "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        1745977429,
         102191581,
         1125283425,
         85633275,
-        1126028027
+        1126028027,
+        1745977429
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -99,7 +102,7 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1626733467,
+    "wof:lastmodified":1690938720,
     "wof:name":"Kaundorf",
     "wof:parent_id":1126028027,
     "wof:placetype":"neighbourhood",

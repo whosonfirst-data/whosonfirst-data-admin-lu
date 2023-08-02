@@ -34,6 +34,9 @@
     "name:deu_x_preferred":[
         "Gasperich"
     ],
+    "name:ell_x_preferred":[
+        "\u0393\u03ba\u03ac\u03c3\u03c0\u03b5\u03c1\u03b9\u03c7"
+    ],
     "name:eng_x_preferred":[
         "Gasperich"
     ],
@@ -57,6 +60,9 @@
     ],
     "name:swe_x_preferred":[
         "Gasperich"
+    ],
+    "name:zho_x_preferred":[
+        "\u52a0\u65af\u4f69\u91cc\u5e0c"
     ],
     "qs:gn_adm0_cc":"LU",
     "qs:gn_fcode":"PPL",
@@ -92,11 +98,11 @@
     "src:lbl_centroid":"whosonfirst",
     "wd:wordcount":42,
     "wof:belongsto":[
-        1745977427,
         102191581,
         1125286201,
         85633275,
-        101751765
+        101751765,
+        1745977427
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -137,7 +143,7 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1626733569,
+    "wof:lastmodified":1690938693,
     "wof:name":"Gasperich",
     "wof:parent_id":101751765,
     "wof:placetype":"neighbourhood",

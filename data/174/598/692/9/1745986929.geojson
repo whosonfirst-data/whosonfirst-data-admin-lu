@@ -21,6 +21,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Hoffelt"
+    ],
     "name:cat_x_preferred":[
         "Hoffelt"
     ],
@@ -35,6 +38,9 @@
     ],
     "name:fra_x_preferred":[
         "Hoffelt"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30db\u30c3\u30d5\u30a7\u30eb\u30c8"
     ],
     "name:ltz_x_preferred":[
         "Houfelt"
@@ -74,11 +80,11 @@
     "woe:name_adm1":"Diekirch",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1745977451,
         102191581,
         1745980853,
         85633275,
-        101811727
+        101811727,
+        1745977451
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -111,7 +117,7 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1626733212,
+    "wof:lastmodified":1690938712,
     "wof:name":"Hoffelt",
     "wof:parent_id":101811727,
     "wof:placetype":"neighbourhood",

@@ -21,8 +21,14 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Rivenich"
+    ],
     "name:ceb_x_preferred":[
         "Rivenich"
+    ],
+    "name:che_x_preferred":[
+        "\u0420\u0438\u0432\u0435\u043d\u0438\u0445"
     ],
     "name:dan_x_preferred":[
         "Rivenich"
@@ -63,10 +69,22 @@
     "name:kir_x_preferred":[
         "\u0420\u0438\u0444\u0435\u043d\u0438\u0445"
     ],
+    "name:kur_x_preferred":[
+        "Rivenich"
+    ],
+    "name:ltz_x_preferred":[
+        "Rivenich"
+    ],
     "name:msa_x_preferred":[
         "Rivenich"
     ],
+    "name:nan_x_preferred":[
+        "Rivenich"
+    ],
     "name:nld_x_preferred":[
+        "Rivenich"
+    ],
+    "name:nob_x_preferred":[
         "Rivenich"
     ],
     "name:pol_x_preferred":[
@@ -89,6 +107,9 @@
     ],
     "name:swe_x_preferred":[
         "Rivenich"
+    ],
+    "name:tat_x_preferred":[
+        "\u0420\u0438\u0432\u0435\u043d\u0438\u0445"
     ],
     "name:ukr_x_preferred":[
         "\u0420\u0456\u0444\u0435\u043d\u0456\u0445"
@@ -135,11 +156,11 @@
     "woe:name_adm1":"Rheinland-Pfalz",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1745977445,
         102191581,
         1745980855,
         85633275,
-        1745984189
+        1745984189,
+        1745977445
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -172,7 +193,7 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1626733141,
+    "wof:lastmodified":1690938728,
     "wof:name":"Rivenich",
     "wof:parent_id":1745984189,
     "wof:placetype":"neighbourhood",

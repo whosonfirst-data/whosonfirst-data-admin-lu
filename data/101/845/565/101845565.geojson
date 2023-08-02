@@ -40,7 +40,6 @@
         "Habscht"
     ],
     "name:eng_x_variant":[
-        "Habscht",
         "Hobscheid"
     ],
     "name:fas_x_preferred":[
@@ -57,6 +56,12 @@
     ],
     "name:ita_x_preferred":[
         "Hobscheid"
+    ],
+    "name:ita_x_variant":[
+        "Habscht"
+    ],
+    "name:lim_x_preferred":[
+        "Habscht"
     ],
     "name:lit_x_preferred":[
         "Hob\u0161eidas"
@@ -102,6 +107,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0425\u043e\u0431\u0448\u0430\u0439\u0434"
+    ],
+    "name:zho_x_preferred":[
+        "\u54c8\u5e03\u65bd\u7279"
     ],
     "qs:a0":"Luxembourg",
     "qs:a1":"*",
@@ -165,7 +173,7 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1626732170,
+    "wof:lastmodified":1690938749,
     "wof:name":"Habscht",
     "wof:parent_id":1125284213,
     "wof:placetype":"locality",

@@ -54,6 +54,9 @@
     "name:ita_x_preferred":[
         "Mompach"
     ],
+    "name:lim_x_preferred":[
+        "Mompach"
+    ],
     "name:ltz_x_preferred":[
         "Gemeng Mompech"
     ],
@@ -75,6 +78,9 @@
     "name:por_x_preferred":[
         "Mompach"
     ],
+    "name:pus_x_preferred":[
+        "\u0645\u0648\u0645\u067e\u06d0\u06a9"
+    ],
     "name:rus_x_preferred":[
         "\u041c\u043e\u043c\u043f\u0430\u0445"
     ],
@@ -84,11 +90,17 @@
     "name:swe_x_preferred":[
         "Mompach"
     ],
+    "name:tur_x_preferred":[
+        "Mompach"
+    ],
     "name:ukr_x_preferred":[
         "\u041c\u043e\u043c\u043f\u0430\u0445"
     ],
     "name:urd_x_preferred":[
         "\u0645\u0645\u067e\u0627\u062e"
+    ],
+    "name:zho_x_preferred":[
+        "\u8499\u4f69\u723e\u67ef"
     ],
     "qs_pg:aaroncc":"LU",
     "qs_pg:gn_country":"LU",
@@ -114,11 +126,11 @@
     "woe:name_adm1":"Grevenmacher",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1745977445,
         102191581,
         1745980855,
         85633275,
-        1745984189
+        1745984189,
+        1745977445
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -151,7 +163,7 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1626733384,
+    "wof:lastmodified":1690938715,
     "wof:name":"Mompach",
     "wof:parent_id":1745984189,
     "wof:placetype":"neighbourhood",

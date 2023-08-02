@@ -66,6 +66,9 @@
     "name:ltz_x_preferred":[
         "Gemeng Schieren"
     ],
+    "name:ltz_x_variant":[
+        "Schieren"
+    ],
     "name:msa_x_preferred":[
         "Schieren"
     ],
@@ -174,7 +177,7 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1626732212,
+    "wof:lastmodified":1690938771,
     "wof:name":"Schieren",
     "wof:parent_id":1745980829,
     "wof:placetype":"locality",

@@ -54,6 +54,9 @@
     "name:ita_x_preferred":[
         "Bech"
     ],
+    "name:lim_x_preferred":[
+        "Bech"
+    ],
     "name:ltz_x_preferred":[
         "Gemeng Bech"
     ],
@@ -88,6 +91,9 @@
         "Bech"
     ],
     "name:swe_x_preferred":[
+        "Bech"
+    ],
+    "name:tur_x_preferred":[
         "Bech"
     ],
     "name:ukr_x_preferred":[
@@ -165,7 +171,7 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1642551806,
+    "wof:lastmodified":1690938766,
     "wof:name":"Bech",
     "wof:parent_id":1125328045,
     "wof:placetype":"locality",

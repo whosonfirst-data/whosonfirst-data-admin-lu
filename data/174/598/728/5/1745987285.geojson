@@ -27,6 +27,9 @@
     "name:ceb_x_preferred":[
         "Colpach-Haut"
     ],
+    "name:deu_x_preferred":[
+        "Oberkolpach"
+    ],
     "name:eng_x_preferred":[
         "Colpach-Haut"
     ],
@@ -66,11 +69,11 @@
     "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        1745977431,
         102191581,
         1125306051,
         85633275,
-        1745984173
+        1745984173,
+        1745977431
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -102,7 +105,7 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1626733398,
+    "wof:lastmodified":1690938739,
     "wof:name":"Colpach-Haut",
     "wof:parent_id":1745984173,
     "wof:placetype":"neighbourhood",

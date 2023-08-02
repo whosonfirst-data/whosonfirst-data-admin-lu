@@ -21,6 +21,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Blaschette"
+    ],
     "name:cat_x_preferred":[
         "Blaschette"
     ],
@@ -71,11 +74,11 @@
     "woe:name_adm1":"Luxembourg",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1745977439,
         102191581,
         1125366377,
         85633275,
-        1125990641
+        1125990641,
+        1745977439
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -108,7 +111,7 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1626733278,
+    "wof:lastmodified":1690938721,
     "wof:name":"Blaschette",
     "wof:parent_id":1125990641,
     "wof:placetype":"neighbourhood",

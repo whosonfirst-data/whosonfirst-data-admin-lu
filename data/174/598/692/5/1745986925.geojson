@@ -21,6 +21,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Schrassig"
+    ],
     "name:cat_x_preferred":[
         "Schrassig"
     ],
@@ -51,6 +54,9 @@
     "name:swe_x_variant":[
         "Moutfort"
     ],
+    "name:ukr_x_preferred":[
+        "\u0428\u0440\u0430\u0441\u0441\u0456\u0433"
+    ],
     "qs_pg:aaroncc":"LU",
     "qs_pg:gn_country":"LU",
     "qs_pg:gn_fcode":"PPL",
@@ -77,11 +83,11 @@
     "woe:name_adm1":"Luxembourg",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1745977427,
         102191581,
         1125375263,
         85633275,
-        101812899
+        101812899,
+        1745977427
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -114,7 +120,7 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1626733210,
+    "wof:lastmodified":1690938713,
     "wof:name":"Schrassig",
     "wof:parent_id":101812899,
     "wof:placetype":"neighbourhood",

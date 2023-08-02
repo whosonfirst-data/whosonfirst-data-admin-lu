@@ -39,6 +39,9 @@
     "name:ceb_x_preferred":[
         "District de Diekirch"
     ],
+    "name:ces_x_preferred":[
+        "Diekirch"
+    ],
     "name:dan_x_preferred":[
         "Diekirch"
     ],
@@ -49,6 +52,9 @@
         "Diekirch"
     ],
     "name:eng_x_preferred":[
+        "Diekirch"
+    ],
+    "name:epo_x_preferred":[
         "Diekirch"
     ],
     "name:eus_x_preferred":[
@@ -153,11 +159,17 @@
     "name:swe_x_preferred":[
         "Diekirch"
     ],
+    "name:tha_x_preferred":[
+        "\u0e14\u0e34\u0e01\u0e40\u0e04\u0e23\u0e34\u0e0a"
+    ],
     "name:tur_x_preferred":[
         "Diekirch"
     ],
     "name:ukr_x_preferred":[
         "\u0414\u0456\u043a\u0456\u0440\u0445"
+    ],
+    "name:ukr_x_variant":[
+        "\u0414\u0438\u043a\u0456\u0440\u0445"
     ],
     "name:urd_x_preferred":[
         "\u0688\u06cc\u06a9\u0631\u06a9"
@@ -333,7 +345,7 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1636501779,
+    "wof:lastmodified":1690938753,
     "wof:name":"Diekirch",
     "wof:parent_id":1125390659,
     "wof:placetype":"locality",

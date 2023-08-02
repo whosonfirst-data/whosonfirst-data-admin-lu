@@ -43,7 +43,6 @@
         "Mertzig"
     ],
     "name:eng_x_variant":[
-        "Mertzig",
         "Haut-Merzig"
     ],
     "name:fas_x_preferred":[
@@ -66,6 +65,9 @@
     ],
     "name:ltz_x_preferred":[
         "Gemeng M\u00e4erzeg"
+    ],
+    "name:ltz_x_variant":[
+        "M\u00e4erzeg"
     ],
     "name:msa_x_preferred":[
         "Mertzig"
@@ -100,6 +102,9 @@
     "name:swe_x_preferred":[
         "Mertzig"
     ],
+    "name:tur_x_preferred":[
+        "Mertzig"
+    ],
     "name:ukr_x_preferred":[
         "\u041c\u0435\u0440\u0446\u0438\u0433"
     ],
@@ -108,6 +113,9 @@
     ],
     "name:zho_min_nan_x_preferred":[
         "Mertzig"
+    ],
+    "name:zho_x_preferred":[
+        "\u6885\u5c14\u9f50\u5e0c"
     ],
     "qs:a0":"Luxembourg",
     "qs:a1":"*",
@@ -177,7 +185,7 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1626732118,
+    "wof:lastmodified":1690938757,
     "wof:name":"Mertzig",
     "wof:parent_id":1125305933,
     "wof:placetype":"locality",

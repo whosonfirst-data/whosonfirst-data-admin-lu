@@ -54,8 +54,14 @@
     "name:ita_x_preferred":[
         "Lorentzweiler"
     ],
+    "name:lit_x_preferred":[
+        "Lorencvaileris"
+    ],
     "name:ltz_x_preferred":[
         "Gemeng Luerenzweiler"
+    ],
+    "name:ltz_x_variant":[
+        "Luerenzweiler"
     ],
     "name:msa_x_preferred":[
         "Lorentzweiler"
@@ -87,11 +93,17 @@
     "name:swe_x_preferred":[
         "Lorentzweiler"
     ],
+    "name:tur_x_preferred":[
+        "Lorentzweiler"
+    ],
     "name:ukr_x_preferred":[
         "\u041b\u043e\u0440\u0435\u043d\u0446\u0432\u0430\u0439\u043b\u0435\u0440"
     ],
     "name:und_x_variant":[
         "Lorenzweiler"
+    ],
+    "name:zho_x_preferred":[
+        "\u6d1b\u4f26\u8328\u97e6\u52d2"
     ],
     "qs_pg:aaroncc":"LU",
     "qs_pg:gn_country":"LU",
@@ -162,7 +174,7 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1626732205,
+    "wof:lastmodified":1690938770,
     "wof:name":"Lorentzweiler",
     "wof:parent_id":1125366377,
     "wof:placetype":"locality",

@@ -21,6 +21,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Ehlerange"
+    ],
     "name:cat_x_preferred":[
         "Ehlerange"
     ],
@@ -73,11 +76,11 @@
     "woe:name_adm1":"Luxembourg",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1745977435,
         102191581,
         1125299915,
         85633275,
-        1126007057
+        1126007057,
+        1745977435
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -110,7 +113,7 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1626733094,
+    "wof:lastmodified":1690938729,
     "wof:name":"Ehlerange",
     "wof:parent_id":1126007057,
     "wof:placetype":"neighbourhood",

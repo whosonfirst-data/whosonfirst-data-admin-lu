@@ -21,10 +21,16 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Bech-Kleinmacher"
+    ],
     "name:cat_x_preferred":[
         "Bech-Kleinmacher"
     ],
     "name:ceb_x_preferred":[
+        "Bech-Kleinmacher"
+    ],
+    "name:deu_x_preferred":[
         "Bech-Kleinmacher"
     ],
     "name:eng_x_preferred":[
@@ -69,11 +75,11 @@
     "woe:name_adm1":"Grevenmacher",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1745977443,
         102191581,
         1745980847,
         85633275,
-        1125883515
+        1125883515,
+        1745977443
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -106,7 +112,7 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1626733375,
+    "wof:lastmodified":1690938719,
     "wof:name":"Kleinmacher",
     "wof:parent_id":1125883515,
     "wof:placetype":"neighbourhood",

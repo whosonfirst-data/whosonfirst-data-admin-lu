@@ -27,6 +27,9 @@
     "name:ceb_x_preferred":[
         "Basbellain"
     ],
+    "name:deu_x_preferred":[
+        "Niederbesslingen"
+    ],
     "name:eng_x_preferred":[
         "Basbellain"
     ],
@@ -80,11 +83,11 @@
     "woe:name_adm1":"Diekirch",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1745977451,
         102191581,
         1125352097,
         85633275,
-        1125811873
+        1125811873,
+        1745977451
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -117,7 +120,7 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1626733406,
+    "wof:lastmodified":1690938741,
     "wof:name":"Basbellain",
     "wof:parent_id":1125811873,
     "wof:placetype":"neighbourhood",

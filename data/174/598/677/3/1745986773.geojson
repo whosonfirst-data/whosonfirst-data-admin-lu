@@ -21,6 +21,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Moesdorf"
+    ],
     "name:cat_x_preferred":[
         "Moesdorf"
     ],
@@ -69,11 +72,11 @@
     "woe:name_adm1":"Luxembourg",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1745977439,
         102191581,
         1125286143,
         85633275,
-        101812883
+        101812883,
+        1745977439
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -106,7 +109,7 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1626733130,
+    "wof:lastmodified":1690938730,
     "wof:name":"Moesdorf",
     "wof:parent_id":101812883,
     "wof:placetype":"neighbourhood",

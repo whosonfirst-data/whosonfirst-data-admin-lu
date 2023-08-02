@@ -64,6 +64,9 @@
     "name:jpn_x_preferred":[
         "\u30bb\u30f3\u30c8"
     ],
+    "name:jpn_x_variant":[
+        "\u30bb\u30f3\u30c4"
+    ],
     "name:kor_x_preferred":[
         "\uc13c\ud2b8"
     ],
@@ -145,11 +148,11 @@
     "src:lbl_centroid":"whosonfirst",
     "wd:wordcount":152,
     "wof:belongsto":[
-        1745977427,
         102191581,
         1125286201,
         85633275,
-        101751765
+        101751765,
+        1745977427
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -186,7 +189,7 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1626733564,
+    "wof:lastmodified":1690938694,
     "wof:name":"Cents",
     "wof:parent_id":101751765,
     "wof:placetype":"neighbourhood",

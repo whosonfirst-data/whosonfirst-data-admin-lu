@@ -63,11 +63,17 @@
     "name:jpn_x_preferred":[
         "\u30c8\u30ed\u30ef\u30f4\u30a3\u30a8\u30eb\u30b8\u30e5"
     ],
+    "name:kor_x_preferred":[
+        "\ud2b8\ub8e8\uc544\ube44\uc5d0\ub974\uc8fc"
+    ],
     "name:lim_x_preferred":[
         "Troisvierges"
     ],
     "name:ltz_x_preferred":[
         "Gemeng \u00cblwen"
+    ],
+    "name:ltz_x_variant":[
+        "\u00cblwen"
     ],
     "name:msa_x_preferred":[
         "Troisvierges"
@@ -108,11 +114,17 @@
     "name:swe_x_preferred":[
         "Troisvierges"
     ],
+    "name:tur_x_preferred":[
+        "Troisvierges"
+    ],
     "name:ukr_x_preferred":[
         "\u0422\u0440\u0443\u0430\u0432\u0454\u0440\u0436"
     ],
     "name:ukr_x_variant":[
         "\u0422\u0440\u0443\u0430\u0432'\u0454\u0440\u0436"
+    ],
+    "name:zho_x_preferred":[
+        "\u7279\u9c81\u74e6\u7ef4\u8036\u65e5"
     ],
     "qs_pg:aaroncc":"LU",
     "qs_pg:gn_country":"LU",
@@ -183,7 +195,7 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1626732189,
+    "wof:lastmodified":1690938769,
     "wof:name":"Troisvierges",
     "wof:parent_id":1125352097,
     "wof:placetype":"locality",

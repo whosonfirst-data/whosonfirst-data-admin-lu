@@ -27,6 +27,9 @@
     "name:ceb_x_preferred":[
         "Oberdonven"
     ],
+    "name:deu_x_preferred":[
+        "Oberdonven"
+    ],
     "name:eng_x_preferred":[
         "Oberdonven"
     ],
@@ -74,11 +77,11 @@
     "woe:name_adm1":"Grevenmacher",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1745977447,
         102191581,
         1125284029,
         85633275,
-        101854571
+        101854571,
+        1745977447
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -111,7 +114,7 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1626733200,
+    "wof:lastmodified":1690938731,
     "wof:name":"Oberdonven",
     "wof:parent_id":101854571,
     "wof:placetype":"neighbourhood",

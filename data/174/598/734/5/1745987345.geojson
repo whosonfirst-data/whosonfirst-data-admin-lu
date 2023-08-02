@@ -33,6 +33,9 @@
     "name:eng_x_preferred":[
         "Bigonville"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u06cc\u06af\u0648\u0646 \u0648\u06cc\u0644"
+    ],
     "name:fra_x_preferred":[
         "Bigonville"
     ],
@@ -76,11 +79,11 @@
     "woe:name_adm1":"Diekirch",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1745977431,
         102191581,
         1125410765,
         85633275,
-        101812867
+        101812867,
+        1745977431
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -113,7 +116,7 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1626733430,
+    "wof:lastmodified":1690938722,
     "wof:name":"Bigonville",
     "wof:parent_id":101812867,
     "wof:placetype":"neighbourhood",

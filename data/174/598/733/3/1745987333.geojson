@@ -27,11 +27,17 @@
     "name:ceb_x_preferred":[
         "Helmsange"
     ],
+    "name:ces_x_preferred":[
+        "Helmsange"
+    ],
     "name:eng_x_preferred":[
         "Helmsange"
     ],
     "name:fra_x_preferred":[
         "Helmsange"
+    ],
+    "name:lit_x_preferred":[
+        "Helmsand\u017eas"
     ],
     "name:ltz_x_preferred":[
         "Helsem"
@@ -69,11 +75,11 @@
     "woe:name_adm1":"Luxembourg",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1745977427,
         102191581,
         1125355305,
         85633275,
-        101753071
+        101753071,
+        1745977427
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -106,7 +112,7 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1626733424,
+    "wof:lastmodified":1690938723,
     "wof:name":"Helmsange",
     "wof:parent_id":101753071,
     "wof:placetype":"neighbourhood",

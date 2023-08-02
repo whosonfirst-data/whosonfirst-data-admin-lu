@@ -21,11 +21,17 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Peppange"
+    ],
     "name:cat_x_preferred":[
         "Peppange"
     ],
     "name:ceb_x_preferred":[
         "Peppange"
+    ],
+    "name:deu_x_preferred":[
+        "Peppingen"
     ],
     "name:eng_x_preferred":[
         "Peppange"
@@ -71,11 +77,11 @@
     "woe:name_adm1":"Luxembourg",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1745977435,
         102191581,
         1125324091,
         85633275,
-        1125947927
+        1125947927,
+        1745977435
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -108,7 +114,7 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1626733372,
+    "wof:lastmodified":1690938719,
     "wof:name":"Peppange",
     "wof:parent_id":1125947927,
     "wof:placetype":"neighbourhood",

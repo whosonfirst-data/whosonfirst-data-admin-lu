@@ -54,6 +54,9 @@
     "name:ltz_x_preferred":[
         "Gemeng Hiefenech"
     ],
+    "name:ltz_x_variant":[
+        "Hiefenech"
+    ],
     "name:msa_x_preferred":[
         "Heffingen"
     ],
@@ -84,8 +87,17 @@
     "name:swe_x_preferred":[
         "Heffingen"
     ],
+    "name:tur_x_preferred":[
+        "Heffingen"
+    ],
     "name:ukr_x_preferred":[
         "\u0413\u0435\u0444\u0444\u0456\u043d\u0433\u0435\u043d"
+    ],
+    "name:ukr_x_variant":[
+        "\u0413\u0435\u0444\u0444\u0456\u043d\u0491\u0435\u043d"
+    ],
+    "name:zho_x_preferred":[
+        "\u9ed1\u82ac\u6839"
     ],
     "qs_pg:aaroncc":"LU",
     "qs_pg:gn_country":"LU",
@@ -156,7 +168,7 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1626732209,
+    "wof:lastmodified":1690938773,
     "wof:name":"Heffingen",
     "wof:parent_id":1125288903,
     "wof:placetype":"locality",

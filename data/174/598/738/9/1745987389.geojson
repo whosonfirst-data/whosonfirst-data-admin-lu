@@ -36,6 +36,9 @@
     "name:ltz_x_preferred":[
         "Eesebur"
     ],
+    "name:ltz_x_variant":[
+        "Eesebuer"
+    ],
     "name:msa_x_preferred":[
         "Eisenborn"
     ],
@@ -74,11 +77,11 @@
     "woe:name_adm1":"Grevenmacher",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1745977447,
         102191581,
         1125296455,
         85633275,
-        101812889
+        101812889,
+        1745977447
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -111,7 +114,7 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1626733453,
+    "wof:lastmodified":1690938701,
     "wof:name":"Eisenborn",
     "wof:parent_id":101812889,
     "wof:placetype":"neighbourhood",

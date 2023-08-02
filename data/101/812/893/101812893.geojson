@@ -51,8 +51,14 @@
     "name:ita_x_preferred":[
         "Koerich"
     ],
+    "name:lim_x_preferred":[
+        "Koerich"
+    ],
     "name:ltz_x_preferred":[
         "Gemeng K\u00e4erch"
+    ],
+    "name:ltz_x_variant":[
+        "K\u00e4erch"
     ],
     "name:msa_x_preferred":[
         "Koerich"
@@ -87,6 +93,9 @@
     "name:swe_x_preferred":[
         "Koerich"
     ],
+    "name:tur_x_preferred":[
+        "Koerich"
+    ],
     "name:ukr_x_preferred":[
         "\u041a\u0435\u0440\u0456\u0445"
     ],
@@ -98,6 +107,9 @@
     ],
     "name:zho_min_nan_x_preferred":[
         "Koerich"
+    ],
+    "name:zho_x_preferred":[
+        "\u514b\u91cc\u5e0c"
     ],
     "qs:a0":"Luxembourg",
     "qs:a1":"*",
@@ -163,7 +175,7 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1626732133,
+    "wof:lastmodified":1690938754,
     "wof:name":"Koerich",
     "wof:parent_id":1125366349,
     "wof:placetype":"locality",

@@ -27,6 +27,9 @@
     "name:ceb_x_preferred":[
         "Oberwampach"
     ],
+    "name:dan_x_preferred":[
+        "Oberwampach"
+    ],
     "name:deu_x_preferred":[
         "Oberwampach"
     ],
@@ -74,11 +77,11 @@
     "woe:name_adm1":"Diekirch",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1745977451,
         102191581,
         1745980853,
         85633275,
-        101811727
+        101811727,
+        1745977451
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -111,7 +114,7 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1626733173,
+    "wof:lastmodified":1690938726,
     "wof:name":"Oberwampach",
     "wof:parent_id":101811727,
     "wof:placetype":"neighbourhood",

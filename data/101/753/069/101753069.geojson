@@ -30,6 +30,9 @@
     "name:ceb_x_preferred":[
         "Steinsel"
     ],
+    "name:ces_x_preferred":[
+        "Steinsel"
+    ],
     "name:dan_x_preferred":[
         "Steinsel"
     ],
@@ -48,11 +51,20 @@
     "name:gsw_x_preferred":[
         "Steesel"
     ],
+    "name:heb_x_preferred":[
+        "\u05e9\u05d8\u05d9\u05d9\u05e0\u05d6\u05dc"
+    ],
     "name:hun_x_preferred":[
         "Steinsel"
     ],
     "name:ita_x_preferred":[
         "Steinsel"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b9\u30bf\u30f3\u30bb\u30eb"
+    ],
+    "name:lit_x_preferred":[
+        "\u0160teinselis"
     ],
     "name:ltz_x_preferred":[
         "Gemeng Steesel"
@@ -90,8 +102,14 @@
     "name:swe_x_preferred":[
         "Steinsel"
     ],
+    "name:tur_x_preferred":[
+        "Steinsel"
+    ],
     "name:ukr_x_preferred":[
         "\u0428\u0442\u0430\u0439\u043d\u0441\u0435\u043b\u044c"
+    ],
+    "name:zho_x_preferred":[
+        "\u65bd\u6cf0\u56e0\u745f\u5c14"
     ],
     "qs:a0":"Luxembourg",
     "qs:a1":"*",
@@ -155,7 +173,7 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1626732096,
+    "wof:lastmodified":1690938746,
     "wof:name":"Steinsel",
     "wof:parent_id":1125305385,
     "wof:placetype":"locality",

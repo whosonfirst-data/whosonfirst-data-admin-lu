@@ -69,6 +69,9 @@
     "name:nds_x_preferred":[
         "Gemeen Bettendorf"
     ],
+    "name:nds_x_variant":[
+        "Bettendorf"
+    ],
     "name:nld_x_preferred":[
         "Bettendorf"
     ],
@@ -91,6 +94,9 @@
         "Bettendorf"
     ],
     "name:swe_x_preferred":[
+        "Bettendorf"
+    ],
+    "name:tur_x_preferred":[
         "Bettendorf"
     ],
     "name:ukr_x_preferred":[
@@ -161,7 +167,7 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1626732114,
+    "wof:lastmodified":1690938754,
     "wof:name":"Bettendorf",
     "wof:parent_id":1125351511,
     "wof:placetype":"locality",

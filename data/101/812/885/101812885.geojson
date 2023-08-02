@@ -43,7 +43,6 @@
         "Lintgen"
     ],
     "name:eng_x_variant":[
-        "Lintgen",
         "Ferme Rouge"
     ],
     "name:fas_x_preferred":[
@@ -63,6 +62,9 @@
     ],
     "name:ltz_x_preferred":[
         "Gemeng L\u00ebntgen"
+    ],
+    "name:ltz_x_variant":[
+        "L\u00ebntgen"
     ],
     "name:msa_x_preferred":[
         "Lintgen"
@@ -97,11 +99,17 @@
     "name:swe_x_preferred":[
         "Lintgen"
     ],
+    "name:tur_x_preferred":[
+        "Lintgen"
+    ],
     "name:ukr_x_preferred":[
         "\u041b\u0456\u043d\u0442\u0433\u0435\u043d"
     ],
     "name:zho_min_nan_x_preferred":[
         "Lintgen"
+    ],
+    "name:zho_x_preferred":[
+        "\u6797\u7279\u6839"
     ],
     "qs:a0":"Luxembourg",
     "qs:a1":"*",
@@ -171,7 +179,7 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1626732129,
+    "wof:lastmodified":1690938757,
     "wof:name":"Lintgen",
     "wof:parent_id":1125288915,
     "wof:placetype":"locality",

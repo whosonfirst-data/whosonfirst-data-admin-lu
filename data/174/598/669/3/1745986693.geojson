@@ -57,8 +57,14 @@
     "name:ita_x_preferred":[
         "Ell"
     ],
+    "name:lit_x_preferred":[
+        "Elis"
+    ],
     "name:ltz_x_preferred":[
         "Gemeng Ell"
+    ],
+    "name:ltz_x_variant":[
+        "Ell"
     ],
     "name:msa_x_preferred":[
         "Ell"
@@ -93,8 +99,14 @@
     "name:swe_x_preferred":[
         "Ell"
     ],
+    "name:tur_x_preferred":[
+        "Ell"
+    ],
     "name:ukr_x_preferred":[
         "\u0415\u043b\u043b\u044c"
+    ],
+    "name:zho_x_preferred":[
+        "\u57c3\u5c14"
     ],
     "qs_pg:aaroncc":"LU",
     "qs_pg:gn_country":"LU",
@@ -122,11 +134,11 @@
     "woe:name_adm1":"Rheinland-Pfalz",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1745977431,
         102191581,
         1125306051,
         85633275,
-        1745984173
+        1745984173,
+        1745977431
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -159,7 +171,7 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1626733088,
+    "wof:lastmodified":1690938709,
     "wof:name":"Fell",
     "wof:parent_id":1745984173,
     "wof:placetype":"neighbourhood",

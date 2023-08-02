@@ -51,6 +51,9 @@
     "name:ita_x_preferred":[
         "Septfontaines"
     ],
+    "name:lim_x_preferred":[
+        "Septfontaines"
+    ],
     "name:ltz_x_preferred":[
         "Gemeng Simmer"
     ],
@@ -82,6 +85,9 @@
         "Septfontaines"
     ],
     "name:swe_x_preferred":[
+        "Septfontaines"
+    ],
+    "name:tur_x_preferred":[
         "Septfontaines"
     ],
     "name:ukr_x_preferred":[
@@ -118,11 +124,11 @@
     "woe:name_adm1":"Luxembourg",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1745977433,
         102191581,
         1125284213,
         85633275,
-        101845565
+        101845565,
+        1745977433
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -155,7 +161,7 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1626733242,
+    "wof:lastmodified":1690938735,
     "wof:name":"Septfontaines",
     "wof:parent_id":101845565,
     "wof:placetype":"neighbourhood",

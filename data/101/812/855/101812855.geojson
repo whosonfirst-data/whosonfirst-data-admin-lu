@@ -57,11 +57,17 @@
     "name:ita_x_preferred":[
         "Bourscheid"
     ],
+    "name:jpn_x_preferred":[
+        "\u30d6\u30fc\u30eb\u30b7\u30e3\u30a4\u30c8"
+    ],
     "name:lim_x_preferred":[
         "Bourscheid"
     ],
     "name:ltz_x_preferred":[
         "Gemeng Buerschent"
+    ],
+    "name:ltz_x_variant":[
+        "Buerschent"
     ],
     "name:msa_x_preferred":[
         "Bourscheid"
@@ -99,6 +105,9 @@
     "name:swe_x_preferred":[
         "Bourscheid"
     ],
+    "name:tur_x_preferred":[
+        "Bourscheid"
+    ],
     "name:ukr_x_preferred":[
         "\u0411\u0443\u0440\u0448\u0430\u0439\u0434"
     ],
@@ -107,6 +116,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5e03\u5c14\u65af\u8c22"
+    ],
+    "name:zho_x_variant":[
+        "\u5e03\u5c14\u6c99\u4f0a\u5fb7"
     ],
     "qs:a0":"Luxembourg",
     "qs:a1":"*",
@@ -176,7 +188,7 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1626732112,
+    "wof:lastmodified":1690938758,
     "wof:name":"Bourscheid",
     "wof:parent_id":1125333097,
     "wof:placetype":"locality",

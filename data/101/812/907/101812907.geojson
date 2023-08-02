@@ -21,6 +21,9 @@
     "name:als_x_preferred":[
         "Dippech"
     ],
+    "name:aze_x_preferred":[
+        "Dippak"
+    ],
     "name:bel_x_preferred":[
         "\u0414\u0437\u0456\u043f\u0430\u0445"
     ],
@@ -60,8 +63,17 @@
     "name:ita_x_preferred":[
         "Dippach"
     ],
+    "name:jpn_x_preferred":[
+        "\u30c7\u30a3\u30c3\u30d1\u30c3\u30cf"
+    ],
+    "name:lim_x_preferred":[
+        "Dippach"
+    ],
     "name:ltz_x_preferred":[
         "Gemeng Dippech"
+    ],
+    "name:ltz_x_variant":[
+        "Dippech"
     ],
     "name:msa_x_preferred":[
         "Dippach"
@@ -87,6 +99,9 @@
     "name:por_x_preferred":[
         "Dippach"
     ],
+    "name:pus_x_preferred":[
+        "\u062f\u06cc\u067e\u0627\u062e"
+    ],
     "name:rus_x_preferred":[
         "\u0414\u0438\u043f\u043f\u0430\u0445"
     ],
@@ -97,6 +112,9 @@
         "Dippach"
     ],
     "name:swe_x_preferred":[
+        "Dippach"
+    ],
+    "name:tur_x_preferred":[
         "Dippach"
     ],
     "name:ukr_x_preferred":[
@@ -176,7 +194,7 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1626732138,
+    "wof:lastmodified":1690938751,
     "wof:name":"Dippach",
     "wof:parent_id":1125285649,
     "wof:placetype":"locality",

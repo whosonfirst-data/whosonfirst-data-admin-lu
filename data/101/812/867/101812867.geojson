@@ -60,6 +60,9 @@
     "name:ltz_x_preferred":[
         "Gemeng Rammerech"
     ],
+    "name:ltz_x_variant":[
+        "Rammerech"
+    ],
     "name:msa_x_preferred":[
         "Rambrouch"
     ],
@@ -93,11 +96,17 @@
     "name:swe_x_preferred":[
         "Rambrouch"
     ],
+    "name:tur_x_preferred":[
+        "Rambrouch"
+    ],
     "name:ukr_x_preferred":[
         "\u0420\u0430\u043c\u0431\u0440\u0443\u0445"
     ],
     "name:zho_min_nan_x_preferred":[
         "Rambrouch"
+    ],
+    "name:zho_x_preferred":[
+        "\u6717\u5e03\u9c81\u514b"
     ],
     "qs:a0":"Luxembourg",
     "qs:a1":"*",
@@ -166,7 +175,7 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1626732119,
+    "wof:lastmodified":1690938754,
     "wof:name":"Rambrouch",
     "wof:parent_id":1125410765,
     "wof:placetype":"locality",

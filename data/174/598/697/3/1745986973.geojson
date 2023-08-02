@@ -27,6 +27,9 @@
     "name:ceb_x_preferred":[
         "Nagem"
     ],
+    "name:deu_x_preferred":[
+        "Nagem"
+    ],
     "name:eng_x_preferred":[
         "Nagem"
     ],
@@ -75,11 +78,11 @@
     "woe:name_adm1":"Diekirch",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1745977431,
         102191581,
         1125402395,
         85633275,
-        101845561
+        101845561,
+        1745977431
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -112,7 +115,7 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1626733236,
+    "wof:lastmodified":1690938732,
     "wof:name":"Nagem",
     "wof:parent_id":101845561,
     "wof:placetype":"neighbourhood",

@@ -48,8 +48,14 @@
     "name:ita_x_preferred":[
         "Kehlen"
     ],
+    "name:lim_x_preferred":[
+        "Kehlen"
+    ],
     "name:ltz_x_preferred":[
         "Gemeng Kielen"
+    ],
+    "name:ltz_x_variant":[
+        "Kielen"
     ],
     "name:msa_x_preferred":[
         "Kehlen"
@@ -79,6 +85,9 @@
         "Kehlen"
     ],
     "name:swe_x_preferred":[
+        "Kehlen"
+    ],
+    "name:tur_x_preferred":[
         "Kehlen"
     ],
     "name:ukr_x_preferred":[
@@ -146,7 +155,7 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1642551743,
+    "wof:lastmodified":1690938753,
     "wof:name":"Kehlen",
     "wof:parent_id":1125376161,
     "wof:placetype":"locality",

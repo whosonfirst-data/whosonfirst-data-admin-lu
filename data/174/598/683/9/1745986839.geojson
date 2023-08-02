@@ -21,6 +21,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Fouhren"
+    ],
     "name:bar_x_preferred":[
         "Fuhren"
     ],
@@ -54,6 +57,9 @@
     "name:swe_x_preferred":[
         "Fouhren"
     ],
+    "name:zho_x_preferred":[
+        "\u5bcc\u4f26"
+    ],
     "qs_pg:aaroncc":"LU",
     "qs_pg:gn_country":"LU",
     "qs_pg:gn_fcode":"PPL",
@@ -80,11 +86,11 @@
     "woe:name_adm1":"Diekirch",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1745977449,
         102191581,
         1745980851,
         85633275,
-        1125952365
+        1125952365,
+        1745977449
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -117,7 +123,7 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1626733165,
+    "wof:lastmodified":1690938730,
     "wof:name":"Fouhren",
     "wof:parent_id":1125952365,
     "wof:placetype":"neighbourhood",

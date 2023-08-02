@@ -48,6 +48,9 @@
     "name:nld_x_preferred":[
         "Ansembourg"
     ],
+    "name:uzb_x_preferred":[
+        "Ansembourg"
+    ],
     "qs_pg:aaroncc":"LU",
     "qs_pg:gn_country":"LU",
     "qs_pg:gn_fcode":"PPL",
@@ -76,11 +79,11 @@
     "woe:name_adm1":"Luxembourg",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1745977439,
         102191581,
         1745980845,
         85633275,
-        1745984177
+        1745984177,
+        1745977439
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -113,7 +116,7 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1626733344,
+    "wof:lastmodified":1690938744,
     "wof:name":"Ansembourg",
     "wof:parent_id":1745984177,
     "wof:placetype":"neighbourhood",

@@ -105,6 +105,9 @@
     "name:swe_x_preferred":[
         "P\u00e9tange"
     ],
+    "name:tur_x_preferred":[
+        "P\u00e9tange"
+    ],
     "name:ukr_x_preferred":[
         "\u041f\u0435\u0442\u0430\u043d\u0436"
     ],
@@ -113,6 +116,9 @@
     ],
     "name:wln_x_preferred":[
         "Petindje"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f69\u5510\u65e5"
     ],
     "qs:a0":"Luxembourg",
     "qs:a1":"*",
@@ -172,7 +178,7 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1626732160,
+    "wof:lastmodified":1690938763,
     "wof:name":"P\u00e9tange",
     "wof:parent_id":1125283405,
     "wof:placetype":"locality",

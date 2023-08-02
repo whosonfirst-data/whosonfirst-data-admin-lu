@@ -30,6 +30,9 @@
     "name:ceb_x_preferred":[
         "Nommern"
     ],
+    "name:ces_x_preferred":[
+        "Nommern"
+    ],
     "name:dan_x_preferred":[
         "Nommern"
     ],
@@ -56,6 +59,9 @@
     ],
     "name:ltz_x_preferred":[
         "Gemeng Noumer"
+    ],
+    "name:ltz_x_variant":[
+        "Noumer"
     ],
     "name:msa_x_preferred":[
         "Nommern"
@@ -85,6 +91,9 @@
         "Nommern"
     ],
     "name:swe_x_preferred":[
+        "Nommern"
+    ],
+    "name:tur_x_preferred":[
         "Nommern"
     ],
     "name:ukr_x_preferred":[
@@ -159,7 +168,7 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1626732204,
+    "wof:lastmodified":1690938771,
     "wof:name":"Nommern",
     "wof:parent_id":1125284735,
     "wof:placetype":"locality",

@@ -45,6 +45,9 @@
     "name:eng_x_preferred":[
         "Mecher"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u06cc\u0686\u0631"
+    ],
     "name:fra_x_preferred":[
         "Mecher"
     ],
@@ -113,11 +116,11 @@
     "woe:name_adm1":"Diekirch",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1745977429,
         102191581,
         1125283425,
         85633275,
-        1126028027
+        1126028027,
+        1745977429
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -150,7 +153,7 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1626733222,
+    "wof:lastmodified":1690938710,
     "wof:name":"Mecher-sur-Clervaux",
     "wof:parent_id":1126028027,
     "wof:placetype":"neighbourhood",

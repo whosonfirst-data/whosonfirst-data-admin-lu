@@ -57,6 +57,9 @@
     "name:ita_x_preferred":[
         "Sanem"
     ],
+    "name:kor_x_preferred":[
+        "\uc8fc\uc5d0\uc148"
+    ],
     "name:lit_x_preferred":[
         "Sanemas"
     ],
@@ -93,8 +96,14 @@
     "name:swe_x_preferred":[
         "Sanem"
     ],
+    "name:tur_x_preferred":[
+        "Sanem"
+    ],
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043d\u0435\u043c"
+    ],
+    "name:zho_x_preferred":[
+        "\u8428\u5185\u59c6"
     ],
     "qs_pg:aaroncc":"LU",
     "qs_pg:gn_country":"LU",
@@ -165,7 +174,7 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1626732206,
+    "wof:lastmodified":1690938773,
     "wof:name":"Sanem",
     "wof:parent_id":1125299915,
     "wof:placetype":"locality",

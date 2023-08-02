@@ -21,6 +21,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Kockelscheuer"
+    ],
     "name:cat_x_preferred":[
         "Kockelscheuer"
     ],
@@ -51,6 +54,9 @@
     "name:pol_x_preferred":[
         "Kockelscheuer"
     ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043a\u0435\u043b\u044c\u0448\u043e\u0439\u0435\u0440"
+    ],
     "name:swe_x_preferred":[
         "Kockelscheuer"
     ],
@@ -80,11 +86,11 @@
     "woe:name_adm1":"Luxembourg",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1745977435,
         102191581,
         1125324091,
         85633275,
-        1125947927
+        1125947927,
+        1745977435
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -117,7 +123,7 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1626733077,
+    "wof:lastmodified":1690938711,
     "wof:name":"Kockelscheuer",
     "wof:parent_id":1125947927,
     "wof:placetype":"neighbourhood",

@@ -27,6 +27,9 @@
     "name:cat_x_preferred":[
         "Howald"
     ],
+    "name:dan_x_preferred":[
+        "Howald"
+    ],
     "name:deu_x_preferred":[
         "Howald"
     ],
@@ -83,11 +86,11 @@
     "wd:longitude":6.141389,
     "wd:wordcount":333,
     "wof:belongsto":[
-        1745977427,
         102191581,
         1125305925,
         85633275,
-        1125957373
+        1125957373,
+        1745977427
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -126,7 +129,7 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1626733538,
+    "wof:lastmodified":1690938694,
     "wof:name":"Howald",
     "wof:parent_id":1125957373,
     "wof:placetype":"neighbourhood",

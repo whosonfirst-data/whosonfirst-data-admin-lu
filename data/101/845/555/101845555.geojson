@@ -21,6 +21,9 @@
     "name:als_x_preferred":[
         "Housen"
     ],
+    "name:ast_x_preferred":[
+        "Hosingen"
+    ],
     "name:bel_x_preferred":[
         "\u0425\u043e\u0437\u0456\u043d\u0433\u0435\u043d"
     ],
@@ -31,6 +34,9 @@
         "Hosingen"
     ],
     "name:ceb_x_preferred":[
+        "Hosingen"
+    ],
+    "name:ces_x_preferred":[
         "Hosingen"
     ],
     "name:dan_x_preferred":[
@@ -45,6 +51,9 @@
     "name:eng_x_variant":[
         "Hosingen"
     ],
+    "name:fas_x_preferred":[
+        "\u0647\u0648\u0633\u06cc\u0646\u06af\u0646"
+    ],
     "name:fra_x_preferred":[
         "Hosingen"
     ],
@@ -56,6 +65,9 @@
     ],
     "name:ita_x_preferred":[
         "Hosingen"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30db\u30fc\u30b7\u30f3\u30b2\u30f3"
     ],
     "name:lim_x_preferred":[
         "Hosinge"
@@ -93,6 +105,9 @@
     "name:swe_x_preferred":[
         "Hosingen"
     ],
+    "name:tur_x_preferred":[
+        "Hosingen"
+    ],
     "name:ukr_x_preferred":[
         "\u0425\u043e\u0437\u0456\u043d\u0433\u0435\u043d"
     ],
@@ -101,6 +116,9 @@
     ],
     "name:zho_x_preferred":[
         "\u8d6b\u8f9b\u6839"
+    ],
+    "name:zho_x_variant":[
+        "\u970d\u8f9b\u6839"
     ],
     "qs:a0":"Luxembourg",
     "qs:a1":"*",
@@ -165,7 +183,7 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1626732164,
+    "wof:lastmodified":1690938749,
     "wof:name":"Parc Hosingen",
     "wof:parent_id":1125324097,
     "wof:placetype":"locality",

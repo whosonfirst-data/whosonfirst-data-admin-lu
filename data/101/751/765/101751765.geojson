@@ -21,6 +21,9 @@
     "name:afr_x_preferred":[
         "Luxemburg"
     ],
+    "name:aka_x_preferred":[
+        "Luxembourg"
+    ],
     "name:als_x_preferred":[
         "Luxemburg"
     ],
@@ -36,11 +39,26 @@
     "name:arg_x_preferred":[
         "Luxemburgo"
     ],
+    "name:ary_x_preferred":[
+        "\u0644\u0648\u0643\u0633\u0645\u0628\u0648\u0631\u06ad"
+    ],
+    "name:arz_x_preferred":[
+        "\u0644\u0648\u0643\u0633\u0645\u0628\u0648\u0631\u062c"
+    ],
     "name:ast_x_preferred":[
         "Luxemburgu"
     ],
+    "name:ava_x_preferred":[
+        "\u041b\u044e\u043a\u0441\u0435\u043c\u0431\u0443\u0440\u0433"
+    ],
+    "name:avk_x_preferred":[
+        "Luxemburg"
+    ],
     "name:aze_x_preferred":[
         "L\u00fcksemburq"
+    ],
+    "name:ban_x_preferred":[
+        "Luksemburg"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041b\u044e\u043a\u0441\u0435\u043c\u0431\u0443\u0440\u0433"
@@ -51,6 +69,9 @@
     ],
     "name:ben_x_preferred":[
         "\u09b2\u09c1\u0995\u09cd\u09b8\u09c7\u09ae\u09ac\u09c1\u09b0\u09cd\u0997"
+    ],
+    "name:ben_x_variant":[
+        "\u09b2\u09c1\u0995\u09cd\u09b8\u09c7\u09ae\u09ac\u09c1\u09b0\u09cd\u0997 \u09b6\u09b9\u09b0"
     ],
     "name:bod_x_preferred":[
         "\u0f63\u0f74\u0f0b\u0f66\u0f7a\u0f58\u0f0b\u0f56\u0f60\u0f74\u0f62\u0f42"
@@ -115,7 +136,6 @@
     ],
     "name:eng_x_variant":[
         "LUX",
-        "Luxembourg",
         "Luxembourg City"
     ],
     "name:epo_x_preferred":[
@@ -154,6 +174,9 @@
     "name:fry_x_preferred":[
         "L\u00faksemboarch"
     ],
+    "name:fur_x_preferred":[
+        "Lussemburc"
+    ],
     "name:gla_x_preferred":[
         "Lucsamburg"
     ],
@@ -177,6 +200,9 @@
     ],
     "name:hat_x_preferred":[
         "Liksanbou"
+    ],
+    "name:hau_x_preferred":[
+        "Birnin Luxembourg"
     ],
     "name:hbs_x_preferred":[
         "Luxembourg"
@@ -287,11 +313,17 @@
     "name:mar_x_preferred":[
         "\u0932\u0915\u094d\u091d\u0947\u0902\u092c\u0930\u094d\u0917"
     ],
+    "name:mdf_x_preferred":[
+        "\u041b\u044e\u043a\u0441\u044d\u043c\u0431\u0443\u0440\u0433"
+    ],
     "name:mkd_x_preferred":[
         "\u041b\u0443\u043a\u0441\u0435\u043c\u0431\u0443\u0440\u0433"
     ],
     "name:mlt_x_preferred":[
         "Lussemburgu"
+    ],
+    "name:mlt_x_variant":[
+        "Belt tal-Lussemburgu"
     ],
     "name:mon_x_preferred":[
         "\u041b\u044e\u043a\u0441\u0435\u043c\u0431\u0443\u0440\u0433"
@@ -304,6 +336,9 @@
     ],
     "name:myv_x_preferred":[
         "\u041b\u044e\u043a\u0441\u0435\u043c\u0431\u0443\u0440\u0433 \u043e\u0448"
+    ],
+    "name:mzn_x_preferred":[
+        "\u0644\u0648\u06a9\u0632\u0627\u0645\u0628\u0648\u0631\u06af"
     ],
     "name:nah_x_preferred":[
         "\u0100ltep\u0113tl Luxemburgo"
@@ -383,6 +418,12 @@
     "name:sme_x_preferred":[
         "Luxemburg"
     ],
+    "name:smn_x_preferred":[
+        "Luxemburg"
+    ],
+    "name:sms_x_preferred":[
+        "Luxemburgg"
+    ],
     "name:sna_x_preferred":[
         "Luxembourg City"
     ],
@@ -449,6 +490,9 @@
     "name:ukr_x_preferred":[
         "\u041b\u044e\u043a\u0441\u0435\u043c\u0431\u0443\u0440\u0433"
     ],
+    "name:ukr_x_variant":[
+        "\u041b\u044e\u043a\u0441\u0435\u043c\u0431\u0443\u0440\u0491"
+    ],
     "name:und_x_variant":[
         "Letzeburg"
     ],
@@ -473,6 +517,9 @@
     "name:vie_x_preferred":[
         "Luxembourg"
     ],
+    "name:vls_x_preferred":[
+        "Luxemburg"
+    ],
     "name:vol_x_preferred":[
         "Luxemburg"
     ],
@@ -487,6 +534,9 @@
     ],
     "name:wol_x_preferred":[
         "Luksambuur"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5362\u68ee\u5821"
     ],
     "name:xmf_x_preferred":[
         "\u10da\u10e3\u10e5\u10e1\u10d4\u10db\u10d1\u10e3\u10e0\u10d2\u10d8"
@@ -684,7 +734,7 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1636501778,
+    "wof:lastmodified":1690938750,
     "wof:megacity":0,
     "wof:name":"Luxembourg",
     "wof:parent_id":1125286201,

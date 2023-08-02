@@ -63,14 +63,23 @@
     "name:ita_x_preferred":[
         "Niederanven"
     ],
+    "name:jpn_x_preferred":[
+        "\u30cb\u30fc\u30c7\u30e9\u30f3\u30f4\u30a7\u30f3"
+    ],
     "name:kor_x_preferred":[
         "\ub2c8\ub370\ub780\ud39c"
+    ],
+    "name:lit_x_preferred":[
+        "Nyderanvenas"
     ],
     "name:ltz_x_preferred":[
         "Gemeng Nidderaanwen"
     ],
     "name:ltz_x_variant":[
         "Nidderaanwen"
+    ],
+    "name:mdf_x_preferred":[
+        "\u041d\u0438\u0434\u044d\u0440\u0430\u043d\u0432\u044d\u043d"
     ],
     "name:msa_x_preferred":[
         "Niederanven"
@@ -116,6 +125,9 @@
     ],
     "name:zho_min_nan_x_preferred":[
         "Niederanven"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e0b\u5b89\u6587"
     ],
     "qs:a0":"Luxembourg",
     "qs:a1":"*",
@@ -186,7 +198,7 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1626732098,
+    "wof:lastmodified":1690938746,
     "wof:name":"Niederanven",
     "wof:parent_id":1125410759,
     "wof:placetype":"locality",

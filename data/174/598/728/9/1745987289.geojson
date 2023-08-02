@@ -21,6 +21,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Hoscheid"
+    ],
     "name:bar_x_preferred":[
         "Hoscheid"
     ],
@@ -41,6 +44,9 @@
     ],
     "name:eng_x_preferred":[
         "Hoscheid"
+    ],
+    "name:fas_x_preferred":[
+        "\u0647\u0648\u0633\u0686\u06cc\u062f"
     ],
     "name:fra_x_preferred":[
         "Hoscheid"
@@ -81,6 +87,9 @@
     "name:swe_x_preferred":[
         "Hoscheid"
     ],
+    "name:tur_x_preferred":[
+        "Hoscheid"
+    ],
     "name:ukr_x_preferred":[
         "\u0425\u043e\u0448\u0430\u0439\u0434"
     ],
@@ -115,11 +124,11 @@
     "woe:name_adm1":"Diekirch",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1745977451,
         102191581,
         1125324097,
         85633275,
-        101845555
+        101845555,
+        1745977451
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -152,7 +161,7 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1626733400,
+    "wof:lastmodified":1690938738,
     "wof:name":"Hoscheid",
     "wof:parent_id":101845555,
     "wof:placetype":"neighbourhood",

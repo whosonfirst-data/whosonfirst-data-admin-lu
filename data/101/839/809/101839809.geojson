@@ -20,6 +20,9 @@
     "name:als_x_preferred":[
         "R\u00ebmeleng"
     ],
+    "name:ast_x_preferred":[
+        "Rumelange"
+    ],
     "name:bel_x_preferred":[
         "\u0420\u0443\u043c\u0435\u043b\u0430\u043d\u0436"
     ],
@@ -110,6 +113,9 @@
     "name:por_x_preferred":[
         "Rumelange"
     ],
+    "name:pus_x_preferred":[
+        "\u0631\u0648\u0645\u0644\u0627\u0646\u0698"
+    ],
     "name:ron_x_preferred":[
         "Rumelange"
     ],
@@ -119,10 +125,16 @@
     "name:slk_x_preferred":[
         "Rumelange"
     ],
+    "name:spa_x_preferred":[
+        "Rumelange"
+    ],
     "name:srp_x_preferred":[
         "\u0420\u0443\u043c\u0435\u043b\u0430\u043d\u0436"
     ],
     "name:swe_x_preferred":[
+        "Rumelange"
+    ],
+    "name:tur_x_preferred":[
         "Rumelange"
     ],
     "name:ukr_x_preferred":[
@@ -203,7 +215,7 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1626732159,
+    "wof:lastmodified":1690938764,
     "wof:name":"Rumelange",
     "wof:parent_id":1125321401,
     "wof:placetype":"locality",

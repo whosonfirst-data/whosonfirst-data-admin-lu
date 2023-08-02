@@ -21,6 +21,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Heinerscheid"
+    ],
     "name:bel_x_preferred":[
         "\u0425\u0435\u043d\u0435\u0440\u0448\u044d\u0439\u0434"
     ],
@@ -38,6 +41,9 @@
     ],
     "name:eng_x_preferred":[
         "Heinerscheid"
+    ],
+    "name:fas_x_preferred":[
+        "\u0647\u06cc\u0646\u0631\u0633\u0686\u06cc\u062f"
     ],
     "name:fra_x_preferred":[
         "Heinerscheid"
@@ -84,6 +90,9 @@
     "name:swe_x_preferred":[
         "Heinerscheid"
     ],
+    "name:tur_x_preferred":[
+        "Heinerscheid"
+    ],
     "name:ukr_x_preferred":[
         "\u0425\u0430\u0439\u043d\u0435\u0440\u0448\u0430\u0439\u0434"
     ],
@@ -115,11 +124,11 @@
     "woe:name_adm1":"Diekirch",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1745977451,
         102191581,
         1125411213,
         85633275,
-        101811723
+        101811723,
+        1745977451
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -152,7 +161,7 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1626733432,
+    "wof:lastmodified":1690938721,
     "wof:name":"Heinerscheid",
     "wof:parent_id":101811723,
     "wof:placetype":"neighbourhood",

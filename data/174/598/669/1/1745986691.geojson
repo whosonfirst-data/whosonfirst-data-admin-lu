@@ -54,6 +54,9 @@
     "name:swe_x_preferred":[
         "Neihaischen"
     ],
+    "name:ukr_x_preferred":[
+        "\u041d\u044e\u043d\u0445\u0430\u0443\u0437\u0433\u0435\u043d"
+    ],
     "name:und_x_variant":[
         "Neuhaeusgen"
     ],
@@ -81,11 +84,11 @@
     "woe:name_adm1":"Luxembourg",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1745977427,
         102191581,
         1125375263,
         85633275,
-        101812899
+        101812899,
+        1745977427
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -118,7 +121,7 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1626733087,
+    "wof:lastmodified":1690938709,
     "wof:name":"Neihaischen",
     "wof:parent_id":101812899,
     "wof:placetype":"neighbourhood",

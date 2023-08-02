@@ -27,6 +27,9 @@
     "name:ceb_x_preferred":[
         "Aspelt"
     ],
+    "name:dan_x_preferred":[
+        "Aspelt"
+    ],
     "name:deu_x_preferred":[
         "Aspelt"
     ],
@@ -47,6 +50,9 @@
     ],
     "name:swe_x_preferred":[
         "Aspelt"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u65af\u73c0\u723e\u7279"
     ],
     "qs_pg:aaroncc":"LU",
     "qs_pg:gn_country":"LU",
@@ -76,11 +82,11 @@
     "woe:name_adm1":"Luxembourg",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1745977435,
         102191581,
         1125410585,
         85633275,
-        101812919
+        101812919,
+        1745977435
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -113,7 +119,7 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1626733189,
+    "wof:lastmodified":1690938704,
     "wof:name":"Aspelt",
     "wof:parent_id":101812919,
     "wof:placetype":"neighbourhood",

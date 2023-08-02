@@ -21,10 +21,16 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Oberanven"
+    ],
     "name:cat_x_preferred":[
         "Oberanven"
     ],
     "name:ceb_x_preferred":[
+        "Oberanven"
+    ],
+    "name:deu_x_preferred":[
         "Oberanven"
     ],
     "name:eng_x_preferred":[
@@ -47,6 +53,9 @@
     ],
     "name:swe_x_preferred":[
         "Oberanven"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e0a\u5b89\u6587"
     ],
     "qs_pg:aaroncc":"LU",
     "qs_pg:gn_country":"LU",
@@ -74,11 +83,11 @@
     "woe:name_adm1":"Luxembourg",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1745977427,
         102191581,
         1125410759,
         85633275,
-        101753075
+        101753075,
+        1745977427
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -111,7 +120,7 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1626733310,
+    "wof:lastmodified":1690938740,
     "wof:name":"Oberanven",
     "wof:parent_id":101753075,
     "wof:placetype":"neighbourhood",

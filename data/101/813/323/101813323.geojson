@@ -59,6 +59,9 @@
     "name:ltz_x_preferred":[
         "Gemeng Wuermeldeng"
     ],
+    "name:ltz_x_variant":[
+        "Wuermer"
+    ],
     "name:msa_x_preferred":[
         "Wormeldange"
     ],
@@ -86,8 +89,14 @@
     "name:swe_x_preferred":[
         "Wormeldange"
     ],
+    "name:tur_x_preferred":[
+        "Wormeldange"
+    ],
     "name:ukr_x_preferred":[
         "\u0412\u043e\u0440\u043c\u0435\u043b\u044c\u0434\u0430\u043d\u0436"
+    ],
+    "name:zho_x_preferred":[
+        "\u6c83\u6885\u5c14\u5f53\u65e5"
     ],
     "qs:a0":"Luxembourg",
     "qs:a1":"*Rheinland-Pfalz",
@@ -171,7 +180,7 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1626732149,
+    "wof:lastmodified":1690938760,
     "wof:name":"Wormeldange",
     "wof:parent_id":1125311551,
     "wof:placetype":"locality",

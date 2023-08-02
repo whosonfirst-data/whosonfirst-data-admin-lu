@@ -21,6 +21,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Oberpallen"
+    ],
     "name:cat_x_preferred":[
         "Oberpallen"
     ],
@@ -32,6 +35,9 @@
     ],
     "name:eng_x_preferred":[
         "Oberpallen"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u0628\u0631\u067e\u0627\u0644\u0646"
     ],
     "name:fra_x_preferred":[
         "Oberpallen"
@@ -63,11 +69,11 @@
     "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        1745977431,
         102191581,
         1125325865,
         85633275,
-        101845563
+        101845563,
+        1745977431
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -99,7 +105,7 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1626733303,
+    "wof:lastmodified":1690938739,
     "wof:name":"Oberpallen",
     "wof:parent_id":101845563,
     "wof:placetype":"neighbourhood",
