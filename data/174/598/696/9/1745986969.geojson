@@ -21,14 +21,26 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Canach"
+    ],
     "name:cat_x_preferred":[
         "Canach"
     ],
     "name:ceb_x_preferred":[
         "Canach"
     ],
+    "name:ces_x_preferred":[
+        "Kanech"
+    ],
+    "name:deu_x_preferred":[
+        "Kanech"
+    ],
     "name:eng_x_preferred":[
         "Canach"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0627\u0646\u0627\u0686"
     ],
     "name:fra_x_preferred":[
         "Canach"
@@ -44,6 +56,9 @@
     ],
     "name:pol_x_preferred":[
         "Canach"
+    ],
+    "name:slk_x_preferred":[
+        "Kanech"
     ],
     "name:swe_x_preferred":[
         "Canach"
@@ -74,11 +89,11 @@
     "woe:name_adm1":"Grevenmacher",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1745977443,
         102191581,
         1125325879,
         85633275,
-        101854573
+        101854573,
+        1745977443
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -111,7 +126,7 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1626733234,
+    "wof:lastmodified":1690938733,
     "wof:name":"Canach",
     "wof:parent_id":101854573,
     "wof:placetype":"neighbourhood",

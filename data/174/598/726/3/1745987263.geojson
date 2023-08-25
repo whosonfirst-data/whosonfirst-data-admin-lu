@@ -51,6 +51,9 @@
     "name:ltz_x_preferred":[
         "Gemeng N\u00e9ngsen"
     ],
+    "name:ltz_x_variant":[
+        "N\u00e9ngsen"
+    ],
     "name:msa_x_preferred":[
         "Neunhausen"
     ],
@@ -81,8 +84,14 @@
     "name:swe_x_preferred":[
         "Neunhausen"
     ],
+    "name:tur_x_preferred":[
+        "Neunhausen"
+    ],
     "name:ukr_x_preferred":[
         "\u041d\u043e\u0439\u043d\u0433\u0430\u0443\u0437\u0435\u043d"
+    ],
+    "name:zho_x_preferred":[
+        "\u8bfa\u56e0\u8c6a\u68ee"
     ],
     "qs_pg:aaroncc":"LU",
     "qs_pg:gn_country":"LU",
@@ -112,11 +121,11 @@
     "woe:name_adm1":"Diekirch",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1745977429,
         102191581,
         1125333105,
         85633275,
-        1125776761
+        1125776761,
+        1745977429
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -149,7 +158,7 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1626733387,
+    "wof:lastmodified":1690938736,
     "wof:name":"Neunhausen",
     "wof:parent_id":1125776761,
     "wof:placetype":"neighbourhood",

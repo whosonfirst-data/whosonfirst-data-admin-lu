@@ -87,8 +87,14 @@
     "name:swe_x_preferred":[
         "Saeul"
     ],
+    "name:tur_x_preferred":[
+        "Saeul"
+    ],
     "name:ukr_x_preferred":[
         "\u0421\u0430\u044e\u043b\u044c"
+    ],
+    "name:zho_x_preferred":[
+        "\u7d22\u4f0a\u5c14"
     ],
     "qs_pg:aaroncc":"LU",
     "qs_pg:gn_country":"LU",
@@ -157,7 +163,7 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1626732213,
+    "wof:lastmodified":1690938772,
     "wof:name":"Saeul",
     "wof:parent_id":1745980831,
     "wof:placetype":"locality",

@@ -36,6 +36,9 @@
     "name:deu_x_preferred":[
         "Beckerich"
     ],
+    "name:diq_x_preferred":[
+        "Beckerich"
+    ],
     "name:eng_x_preferred":[
         "Beckerich"
     ],
@@ -56,6 +59,9 @@
     ],
     "name:ltz_x_preferred":[
         "Gemeng Biekerech"
+    ],
+    "name:ltz_x_variant":[
+        "Biekerech"
     ],
     "name:msa_x_preferred":[
         "Beckerich"
@@ -90,8 +96,14 @@
     "name:swe_x_preferred":[
         "Beckerich"
     ],
+    "name:tur_x_preferred":[
+        "Beckerich"
+    ],
     "name:ukr_x_preferred":[
         "\u0411\u0435\u043a\u0435\u0440\u0456\u0445"
+    ],
+    "name:zho_x_preferred":[
+        "\u8d1d\u514b\u91cc\u5e0c"
     ],
     "qs:a0":"Luxembourg",
     "qs:a1":"*",
@@ -155,7 +167,7 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1626732169,
+    "wof:lastmodified":1690938749,
     "wof:name":"Beckerich",
     "wof:parent_id":1125325865,
     "wof:placetype":"locality",

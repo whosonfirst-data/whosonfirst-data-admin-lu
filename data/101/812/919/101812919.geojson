@@ -75,6 +75,9 @@
     "name:por_x_preferred":[
         "Frisange"
     ],
+    "name:pus_x_preferred":[
+        "\u0641\u0631\u064a\u0633\u06d0\u0646\u062c"
+    ],
     "name:rus_x_preferred":[
         "\u0424\u0440\u0438\u0437\u0430\u043d\u0436"
     ],
@@ -84,8 +87,17 @@
     "name:swe_x_preferred":[
         "Frisange"
     ],
+    "name:tur_x_preferred":[
+        "Frisange"
+    ],
     "name:ukr_x_preferred":[
         "\u0424\u0440\u0456\u0437\u0430\u043d\u0436"
+    ],
+    "name:ukr_x_variant":[
+        "\u0424\u0440\u0438\u0437\u0430\u043d\u0436"
+    ],
+    "name:zho_x_preferred":[
+        "\u5f17\u91cc\u6851\u65e5"
     ],
     "qs:a0":"Luxembourg",
     "qs:a1":"*",
@@ -145,7 +157,7 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1626732146,
+    "wof:lastmodified":1690938759,
     "wof:name":"Frisange",
     "wof:parent_id":1125410585,
     "wof:placetype":"locality",

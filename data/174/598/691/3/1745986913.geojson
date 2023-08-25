@@ -24,6 +24,9 @@
     "name:cat_x_preferred":[
         "Leithum"
     ],
+    "name:deu_x_preferred":[
+        "Leithum"
+    ],
     "name:eng_x_preferred":[
         "Leithum"
     ],
@@ -62,11 +65,11 @@
     "woe:name_adm1":"Diekirch",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1745977451,
         102191581,
         1125352025,
         85633275,
-        1125800297
+        1125800297,
+        1745977451
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -99,7 +102,7 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1626733204,
+    "wof:lastmodified":1690938734,
     "wof:name":"Leithum",
     "wof:parent_id":1125800297,
     "wof:placetype":"neighbourhood",

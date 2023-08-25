@@ -37,7 +37,6 @@
         "Lenningen"
     ],
     "name:eng_x_variant":[
-        "Lenningen",
         "Ihnen"
     ],
     "name:fas_x_preferred":[
@@ -52,8 +51,14 @@
     "name:ita_x_preferred":[
         "Lenningen"
     ],
+    "name:lit_x_preferred":[
+        "Leningenas"
+    ],
     "name:ltz_x_preferred":[
         "Gemeng Lenneng"
+    ],
+    "name:ltz_x_variant":[
+        "Lenneng"
     ],
     "name:msa_x_preferred":[
         "Lenningen"
@@ -88,8 +93,14 @@
     "name:swe_x_preferred":[
         "Lenningen"
     ],
+    "name:tur_x_preferred":[
+        "Lenningen"
+    ],
     "name:ukr_x_preferred":[
         "\u041b\u0435\u043d\u043d\u0456\u043d\u0433\u0435\u043d"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f26\u5b81\u6839"
     ],
     "qs:a0":"Luxembourg",
     "qs:a1":"*",
@@ -155,7 +166,7 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1626732177,
+    "wof:lastmodified":1690938761,
     "wof:name":"Lenningen",
     "wof:parent_id":1125325879,
     "wof:placetype":"locality",

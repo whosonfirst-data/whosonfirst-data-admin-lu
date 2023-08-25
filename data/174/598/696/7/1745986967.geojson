@@ -21,6 +21,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Bastendorf"
+    ],
     "name:cat_x_preferred":[
         "Bastendorf"
     ],
@@ -32,6 +35,9 @@
     ],
     "name:eng_x_preferred":[
         "Bastendorf"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u0633\u062a\u0646\u062f\u0648\u0631\u0641"
     ],
     "name:fra_x_preferred":[
         "Bastendorf"
@@ -50,6 +56,9 @@
     ],
     "name:swe_x_preferred":[
         "Bastendorf"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u65af\u6ed5\u591a\u592b"
     ],
     "qs_pg:aaroncc":"LU",
     "qs_pg:gn_country":"LU",
@@ -77,11 +86,11 @@
     "woe:name_adm1":"Diekirch",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1745977449,
         102191581,
         1745980851,
         85633275,
-        1125952365
+        1125952365,
+        1745977449
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -114,7 +123,7 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1626733232,
+    "wof:lastmodified":1690938733,
     "wof:name":"Bastendorf",
     "wof:parent_id":1125952365,
     "wof:placetype":"neighbourhood",

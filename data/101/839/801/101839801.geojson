@@ -24,6 +24,9 @@
     "name:ara_x_preferred":[
         "\u0628\u0644\u062f\u064a\u0629 \u063a\u0631\u064a\u0641\u064a\u0646\u0645\u0627\u062a\u0634\u064a\u0631"
     ],
+    "name:ast_x_preferred":[
+        "Grevenmacher"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u0440\u044d\u0432\u0435\u043d\u043c\u0430\u0445\u0435\u0440"
     ],
@@ -48,6 +51,9 @@
     "name:eng_x_preferred":[
         "Grevenmacher"
     ],
+    "name:epo_x_preferred":[
+        "Grevenmacher"
+    ],
     "name:eus_x_preferred":[
         "Grevenmacher"
     ],
@@ -68,6 +74,9 @@
     ],
     "name:hin_x_preferred":[
         "\u0917\u094d\u0930\u0948\u0935\u0947\u0928\u092e\u093e\u0915\u0930"
+    ],
+    "name:hrv_x_preferred":[
+        "Grevenmacher"
     ],
     "name:hun_x_preferred":[
         "Grevenmacher"
@@ -106,6 +115,9 @@
         "Grevenmacher"
     ],
     "name:nan_x_preferred":[
+        "Grevenmacher"
+    ],
+    "name:nds_x_preferred":[
         "Grevenmacher"
     ],
     "name:nld_x_preferred":[
@@ -322,7 +334,7 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1636501779,
+    "wof:lastmodified":1690938765,
     "wof:name":"Grevenmacher",
     "wof:parent_id":1125415535,
     "wof:placetype":"locality",

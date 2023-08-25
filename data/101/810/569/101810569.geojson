@@ -48,8 +48,14 @@
     "name:ita_x_preferred":[
         "Larochette"
     ],
+    "name:kor_x_preferred":[
+        "\ub77c\ub85c\uc170\ud2b8"
+    ],
     "name:ltz_x_preferred":[
         "Gemeng Fiels"
+    ],
+    "name:ltz_x_variant":[
+        "Fiels"
     ],
     "name:msa_x_preferred":[
         "Larochette"
@@ -81,8 +87,14 @@
     "name:swe_x_preferred":[
         "Larochette"
     ],
+    "name:tur_x_preferred":[
+        "Larochette"
+    ],
     "name:ukr_x_preferred":[
         "\u041b\u0430\u0440\u043e\u0448\u0435\u0442\u0442"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u7f57\u8c22\u7279"
     ],
     "qs:a0":"Luxembourg",
     "qs:a1":"*",
@@ -146,7 +158,7 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1626732104,
+    "wof:lastmodified":1690938750,
     "wof:name":"Larochette",
     "wof:parent_id":1125402083,
     "wof:placetype":"locality",

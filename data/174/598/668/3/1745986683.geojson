@@ -22,6 +22,9 @@
     "name:ara_x_preferred":[
         "\u0644\u0627\u0633\u0648\u0641\u0627\u062c"
     ],
+    "name:arz_x_preferred":[
+        "\u0644\u0627\u0633\u0648\u0641\u0627\u062c"
+    ],
     "name:cat_x_preferred":[
         "Lasauvage"
     ],
@@ -49,6 +52,9 @@
     "name:swe_x_preferred":[
         "Lasauvage"
     ],
+    "name:szl_x_preferred":[
+        "Lasauvage"
+    ],
     "qs_pg:aaroncc":"LU",
     "qs_pg:gn_country":"LU",
     "qs_pg:name":"Lasauvage",
@@ -73,11 +79,11 @@
     "woe:name_adm1":"Luxembourg",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1745977435,
         102191581,
         1125280445,
         85633275,
-        101839817
+        101839817,
+        1745977435
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -109,7 +115,7 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1626733083,
+    "wof:lastmodified":1690938714,
     "wof:name":"Lasauvage",
     "wof:parent_id":101839817,
     "wof:placetype":"neighbourhood",

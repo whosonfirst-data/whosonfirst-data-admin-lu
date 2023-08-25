@@ -48,6 +48,9 @@
     "name:swe_x_preferred":[
         "Kleinbettingen"
     ],
+    "name:zho_x_preferred":[
+        "\u5c0f\u8d1d\u5ef7\u6839"
+    ],
     "qs_pg:aaroncc":"LU",
     "qs_pg:gn_country":"LU",
     "qs_pg:gn_fcode":"PPL",
@@ -76,11 +79,11 @@
     "woe:name_adm1":"Luxembourg",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1745977433,
         102191581,
         1125346159,
         85633275,
-        1125777823
+        1125777823,
+        1745977433
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -113,7 +116,7 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1626733292,
+    "wof:lastmodified":1690938698,
     "wof:name":"Kleinbettingen",
     "wof:parent_id":1125777823,
     "wof:placetype":"neighbourhood",

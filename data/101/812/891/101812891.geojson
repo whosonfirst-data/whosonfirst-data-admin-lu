@@ -57,6 +57,9 @@
     "name:ltz_x_preferred":[
         "Gemeng Manternach"
     ],
+    "name:ltz_x_variant":[
+        "Manternach"
+    ],
     "name:msa_x_preferred":[
         "Manternach"
     ],
@@ -87,11 +90,17 @@
     "name:swe_x_preferred":[
         "Manternach"
     ],
+    "name:tur_x_preferred":[
+        "Manternach"
+    ],
     "name:ukr_x_preferred":[
         "\u041c\u0430\u043d\u0442\u0435\u0440\u043d\u0430\u0445"
     ],
     "name:zho_min_nan_x_preferred":[
         "Manternach"
+    ],
+    "name:zho_x_preferred":[
+        "\u66fc\u7279\u7eb3\u8d6b"
     ],
     "qs:a0":"Luxembourg",
     "qs:a1":"*",
@@ -161,7 +170,7 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1626732132,
+    "wof:lastmodified":1690938757,
     "wof:name":"Manternach",
     "wof:parent_id":1125305331,
     "wof:placetype":"locality",

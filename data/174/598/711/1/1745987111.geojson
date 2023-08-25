@@ -39,6 +39,9 @@
     "name:ltz_x_preferred":[
         "Merscheet"
     ],
+    "name:ltz_x_variant":[
+        "M\u00ebtscheed"
+    ],
     "name:msa_x_preferred":[
         "Merscheid"
     ],
@@ -46,6 +49,9 @@
         "Merscheid"
     ],
     "name:pol_x_preferred":[
+        "Merscheid"
+    ],
+    "name:por_x_preferred":[
         "Merscheid"
     ],
     "name:swe_x_preferred":[
@@ -75,11 +81,11 @@
     "woe:name_adm1":"Diekirch",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1745977429,
         102191581,
         1125333105,
         85633275,
-        1125776761
+        1125776761,
+        1745977429
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -112,7 +118,7 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1626733308,
+    "wof:lastmodified":1690938740,
     "wof:name":"Merscheid-l\u00e8s-Heiderscheid",
     "wof:parent_id":1125776761,
     "wof:placetype":"neighbourhood",

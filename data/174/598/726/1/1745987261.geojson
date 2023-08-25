@@ -21,6 +21,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Filsdorf"
+    ],
     "name:cat_x_preferred":[
         "Filsdorf"
     ],
@@ -29,6 +32,9 @@
     ],
     "name:eng_x_preferred":[
         "Filsdorf"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u06cc\u0644\u0633\u062f\u0648\u0631\u0641"
     ],
     "name:fra_x_preferred":[
         "Filsdorf"
@@ -71,11 +77,11 @@
     "woe:name_adm1":"Grevenmacher",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1745977443,
         102191581,
         1125283997,
         85633275,
-        101812913
+        101812913,
+        1745977443
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -108,7 +114,7 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1626733386,
+    "wof:lastmodified":1690938736,
     "wof:name":"Filsdorf",
     "wof:parent_id":101812913,
     "wof:placetype":"neighbourhood",

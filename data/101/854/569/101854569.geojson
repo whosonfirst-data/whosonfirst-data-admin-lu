@@ -27,6 +27,9 @@
     "name:cat_x_preferred":[
         "Betzdorf"
     ],
+    "name:ces_x_preferred":[
+        "Betzdorf"
+    ],
     "name:dan_x_preferred":[
         "Betzdorf"
     ],
@@ -45,6 +48,9 @@
     "name:gsw_x_preferred":[
         "Betzder"
     ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05e6\u05d3\u05e8"
+    ],
     "name:hun_x_preferred":[
         "Betzdorf"
     ],
@@ -56,6 +62,9 @@
     ],
     "name:ltz_x_preferred":[
         "Gemeng Betzder"
+    ],
+    "name:ltz_x_variant":[
+        "Betzder"
     ],
     "name:msa_x_preferred":[
         "Betzdorf"
@@ -82,6 +91,9 @@
         "Betzdorf"
     ],
     "name:swe_x_preferred":[
+        "Betzdorf"
+    ],
+    "name:tur_x_preferred":[
         "Betzdorf"
     ],
     "name:ukr_x_preferred":[
@@ -160,7 +172,7 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1626732174,
+    "wof:lastmodified":1690938760,
     "wof:name":"Betzdorf",
     "wof:parent_id":1125325873,
     "wof:placetype":"locality",

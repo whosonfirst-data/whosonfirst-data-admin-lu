@@ -60,6 +60,9 @@
     "name:ltz_x_preferred":[
         "Gemeng B\u00e9iwen-Atert"
     ],
+    "name:ltz_x_variant":[
+        "B\u00e9iwen-Atert"
+    ],
     "name:msa_x_preferred":[
         "Boevange-sur-Attert"
     ],
@@ -87,11 +90,17 @@
     "name:swe_x_preferred":[
         "Boevange-sur-Attert"
     ],
+    "name:tur_x_preferred":[
+        "Boevange-sur-Attert"
+    ],
     "name:ukr_x_preferred":[
         "\u0411\u0435\u0432\u0430\u043d\u0436-\u0441\u044e\u0440-\u0410\u0442\u0442\u0435\u0440\u0442"
     ],
     "name:und_x_variant":[
         "Bowen an der Attert"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u6cf0\u5c14\u7279\u6cb3\u7554\u4f2f\u65fa\u65e5"
     ],
     "qs_pg:aaroncc":"LU",
     "qs_pg:gn_country":"LU",
@@ -119,11 +128,11 @@
     "woe:name_adm1":"Luxembourg",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1745977439,
         102191581,
         1745980845,
         85633275,
-        1745984177
+        1745984177,
+        1745977439
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -156,7 +165,7 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1626733427,
+    "wof:lastmodified":1690938722,
     "wof:name":"Boevange-sur-Attert",
     "wof:parent_id":1745984177,
     "wof:placetype":"neighbourhood",

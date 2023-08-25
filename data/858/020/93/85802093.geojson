@@ -56,6 +56,9 @@
     "name:ita_x_preferred":[
         "Kirchberg"
     ],
+    "name:jpn_x_preferred":[
+        "\u30ad\u30eb\u30b7\u30e5\u30d9\u30eb\u30b0"
+    ],
     "name:ltz_x_preferred":[
         "Kierchbierg"
     ],
@@ -63,6 +66,9 @@
         "Kirchberg"
     ],
     "name:nld_x_preferred":[
+        "Kirchberg"
+    ],
+    "name:nob_x_preferred":[
         "Kirchberg"
     ],
     "name:ron_x_preferred":[
@@ -76,6 +82,12 @@
     ],
     "name:swe_x_preferred":[
         "Kirchberg"
+    ],
+    "name:yue_x_preferred":[
+        "\u57fa\u5e0c\u8c9d\u683c"
+    ],
+    "name:zho_x_preferred":[
+        "\u57fa\u5e0c\u8d1d\u683c"
     ],
     "qs:gn_adm0_cc":"LU",
     "qs:gn_fcode":"PPL",
@@ -114,11 +126,11 @@
     "wd:longitude":6.145556,
     "wd:wordcount":440,
     "wof:belongsto":[
-        1745977427,
         102191581,
         1125286201,
         85633275,
-        101751765
+        101751765,
+        1745977427
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -159,7 +171,7 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1626733572,
+    "wof:lastmodified":1690938693,
     "wof:name":"Kirchberg",
     "wof:parent_id":101751765,
     "wof:placetype":"neighbourhood",

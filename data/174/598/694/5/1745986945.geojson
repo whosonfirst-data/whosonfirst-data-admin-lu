@@ -33,6 +33,12 @@
     "name:fra_x_preferred":[
         "Hassel"
     ],
+    "name:ita_x_preferred":[
+        "Hassel"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30cf\u30c3\u30bb\u30eb"
+    ],
     "name:ltz_x_preferred":[
         "Haassel"
     ],
@@ -69,11 +75,11 @@
     "woe:name_adm1":"Luxembourg",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1745977427,
         102191581,
         1125285789,
         85633275,
-        101845567
+        101845567,
+        1745977427
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -106,7 +112,7 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1626733221,
+    "wof:lastmodified":1690938710,
     "wof:name":"Hassel",
     "wof:parent_id":101845567,
     "wof:placetype":"neighbourhood",

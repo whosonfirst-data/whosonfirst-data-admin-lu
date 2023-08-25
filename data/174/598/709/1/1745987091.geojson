@@ -21,6 +21,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Bettborn"
+    ],
     "name:cat_x_preferred":[
         "Bettborn"
     ],
@@ -38,6 +41,9 @@
     ],
     "name:ltz_x_preferred":[
         "Bieberech"
+    ],
+    "name:ltz_x_variant":[
+        "Biebereg"
     ],
     "name:msa_x_preferred":[
         "Bettborn"
@@ -88,11 +94,11 @@
     "woe:name_adm1":"Diekirch",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1745977431,
         102191581,
         1745980841,
         85633275,
-        1745984183
+        1745984183,
+        1745977431
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -125,7 +131,7 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1626733297,
+    "wof:lastmodified":1690938699,
     "wof:name":"Bettborn",
     "wof:parent_id":1745984183,
     "wof:placetype":"neighbourhood",

@@ -33,6 +33,9 @@
     "name:ceb_x_preferred":[
         "Walferdange"
     ],
+    "name:ces_x_preferred":[
+        "Walferdange"
+    ],
     "name:dan_x_preferred":[
         "Walferdange"
     ],
@@ -54,17 +57,26 @@
     "name:gsw_x_preferred":[
         "Walfer"
     ],
+    "name:hin_x_preferred":[
+        "\u0935\u093e\u0932\u092b\u0947\u0930\u0921\u0947\u0902\u091c"
+    ],
     "name:hun_x_preferred":[
         "Walferdange"
     ],
     "name:ita_x_preferred":[
         "Walferdange"
     ],
+    "name:lit_x_preferred":[
+        "Valferdan\u017eas"
+    ],
     "name:ltz_x_preferred":[
         "Gemeng Walfer"
     ],
     "name:ltz_x_variant":[
         "Walfer"
+    ],
+    "name:mlt_x_preferred":[
+        "Walferdange"
     ],
     "name:msa_x_preferred":[
         "Walferdange"
@@ -102,11 +114,20 @@
     "name:swe_x_preferred":[
         "Walferdange"
     ],
+    "name:tur_x_preferred":[
+        "Walferdange"
+    ],
     "name:ukr_x_preferred":[
         "\u0412\u0430\u043b\u044c\u0444\u0435\u0440\u0434\u0430\u043d\u0436"
     ],
+    "name:urd_x_preferred":[
+        "\u0648\u0627\u0644\u0641\u0631\u0688\u06cc\u0646\u062c"
+    ],
     "name:zho_min_nan_x_preferred":[
         "Walferdange"
+    ],
+    "name:zho_x_preferred":[
+        "\u74e6\u5c14\u5f17\u5f53\u65e5"
     ],
     "qs:a0":"Luxembourg",
     "qs:a1":"*",
@@ -175,7 +196,7 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1626732097,
+    "wof:lastmodified":1690938745,
     "wof:name":"Walferdange",
     "wof:parent_id":1125355305,
     "wof:placetype":"locality",

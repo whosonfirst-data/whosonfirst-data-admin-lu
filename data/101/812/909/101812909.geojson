@@ -48,6 +48,9 @@
     "name:gsw_x_preferred":[
         "Konter"
     ],
+    "name:gsw_x_variant":[
+        "Conter"
+    ],
     "name:hun_x_preferred":[
         "Contern"
     ],
@@ -56,6 +59,9 @@
     ],
     "name:ltz_x_preferred":[
         "Gemeng Konter"
+    ],
+    "name:ltz_x_variant":[
+        "Conter"
     ],
     "name:msa_x_preferred":[
         "Contern"
@@ -78,6 +84,9 @@
     "name:por_x_preferred":[
         "Contern"
     ],
+    "name:pus_x_preferred":[
+        "\u06a9\u0648\u0646\u067c\u0631\u0646"
+    ],
     "name:rus_x_preferred":[
         "\u041a\u043e\u043d\u0442\u0435\u0440\u043d"
     ],
@@ -90,11 +99,17 @@
     "name:swe_x_preferred":[
         "Contern"
     ],
+    "name:tur_x_preferred":[
+        "Contern"
+    ],
     "name:ukr_x_preferred":[
         "\u041a\u043e\u043d\u0442\u0435\u0440\u043d"
     ],
     "name:zho_min_nan_x_preferred":[
         "Contern"
+    ],
+    "name:zho_x_preferred":[
+        "\u5b54\u7279\u6069"
     ],
     "qs:a0":"Luxembourg",
     "qs:a1":"*",
@@ -164,7 +179,7 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1626732139,
+    "wof:lastmodified":1690938751,
     "wof:name":"Contern",
     "wof:parent_id":1745980849,
     "wof:placetype":"locality",

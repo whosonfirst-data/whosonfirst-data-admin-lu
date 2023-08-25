@@ -60,6 +60,9 @@
     "name:ltz_x_preferred":[
         "Gemeng R\u00e9iser"
     ],
+    "name:ltz_x_variant":[
+        "R\u00e9iser"
+    ],
     "name:msa_x_preferred":[
         "Roeser"
     ],
@@ -78,6 +81,9 @@
     "name:por_x_preferred":[
         "Roeser"
     ],
+    "name:pus_x_preferred":[
+        "\u0631\u0648\u0632\u0631"
+    ],
     "name:rus_x_preferred":[
         "\u0420\u0435\u0437\u0435\u0440"
     ],
@@ -85,6 +91,9 @@
         "Roeser"
     ],
     "name:swe_x_preferred":[
+        "Roeser"
+    ],
+    "name:tur_x_preferred":[
         "Roeser"
     ],
     "name:ukr_x_preferred":[
@@ -159,7 +168,7 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1626732198,
+    "wof:lastmodified":1690938765,
     "wof:name":"Roeser",
     "wof:parent_id":1125324091,
     "wof:placetype":"locality",

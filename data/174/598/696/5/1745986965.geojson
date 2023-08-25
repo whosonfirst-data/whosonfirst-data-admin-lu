@@ -36,6 +36,9 @@
     "name:ltz_x_preferred":[
         "Bitscht"
     ],
+    "name:ltz_x_variant":[
+        "Bidscht"
+    ],
     "name:msa_x_preferred":[
         "Buderscheid"
     ],
@@ -72,11 +75,11 @@
     "woe:name_adm1":"Diekirch",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1745977429,
         102191581,
         1125298213,
         85633275,
-        1125882147
+        1125882147,
+        1745977429
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -109,7 +112,7 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1626733231,
+    "wof:lastmodified":1690938734,
     "wof:name":"Buderscheid",
     "wof:parent_id":1125882147,
     "wof:placetype":"neighbourhood",

@@ -30,14 +30,23 @@
     "name:ceb_x_preferred":[
         "Ahn"
     ],
+    "name:deu_x_preferred":[
+        "Ahn"
+    ],
     "name:eng_x_preferred":[
         "Ahn"
     ],
     "name:fra_x_preferred":[
         "Ahn"
     ],
+    "name:lit_x_preferred":[
+        "Onas"
+    ],
     "name:ltz_x_preferred":[
         "On"
+    ],
+    "name:ltz_x_variant":[
+        "Ohn"
     ],
     "name:msa_x_preferred":[
         "Ahn"
@@ -76,12 +85,12 @@
     "woe:name_adm1":"Grevenmacher",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85682491,
         102191581,
         1125311551,
         85633111,
         101813323,
-        102063545
+        102063545,
+        85682491
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -115,7 +124,7 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1626733215,
+    "wof:lastmodified":1690938712,
     "wof:name":"Ahn",
     "wof:parent_id":101813323,
     "wof:placetype":"neighbourhood",

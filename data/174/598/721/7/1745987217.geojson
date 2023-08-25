@@ -21,10 +21,28 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Oetrange"
+    ],
+    "name:bre_x_preferred":[
+        "Oetrange"
+    ],
     "name:cat_x_preferred":[
         "Oetrange"
     ],
     "name:ceb_x_preferred":[
+        "Oetrange"
+    ],
+    "name:ces_x_preferred":[
+        "Oetrange"
+    ],
+    "name:cos_x_preferred":[
+        "Oetrange"
+    ],
+    "name:cym_x_preferred":[
+        "Oetrange"
+    ],
+    "name:dan_x_preferred":[
         "Oetrange"
     ],
     "name:deu_x_preferred":[
@@ -36,10 +54,37 @@
     "name:epo_x_preferred":[
         "Oetrange"
     ],
+    "name:est_x_preferred":[
+        "Oetrange"
+    ],
+    "name:fin_x_preferred":[
+        "Oetrange"
+    ],
     "name:fra_x_preferred":[
         "Oetrange"
     ],
+    "name:gle_x_preferred":[
+        "Oetrange"
+    ],
+    "name:glg_x_preferred":[
+        "Oetrange"
+    ],
+    "name:hrv_x_preferred":[
+        "Oetrange"
+    ],
     "name:hun_x_preferred":[
+        "Oetrange"
+    ],
+    "name:ind_x_preferred":[
+        "Oetrange"
+    ],
+    "name:ita_x_preferred":[
+        "Oetrange"
+    ],
+    "name:lav_x_preferred":[
+        "Oetrange"
+    ],
+    "name:lit_x_preferred":[
         "Oetrange"
     ],
     "name:ltz_x_preferred":[
@@ -51,11 +96,47 @@
     "name:nob_x_preferred":[
         "Oetrange"
     ],
+    "name:nrm_x_preferred":[
+        "Oetrange"
+    ],
+    "name:oci_x_preferred":[
+        "Oetrange"
+    ],
     "name:pol_x_preferred":[
+        "Oetrange"
+    ],
+    "name:por_x_preferred":[
+        "Oetrange"
+    ],
+    "name:ron_x_preferred":[
+        "Oetrange"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u0442\u0440\u0438\u043d\u0433\u0435\u043d"
+    ],
+    "name:slk_x_preferred":[
+        "Oetrange"
+    ],
+    "name:slv_x_preferred":[
+        "Oetrange"
+    ],
+    "name:spa_x_preferred":[
         "Oetrange"
     ],
     "name:swe_x_preferred":[
         "Oetrange"
+    ],
+    "name:tah_x_preferred":[
+        "Oetrange"
+    ],
+    "name:tur_x_preferred":[
+        "Oetrange"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0415\u0442\u0440\u0430\u043d\u0436"
+    ],
+    "name:zho_x_preferred":[
+        "\u6b50\u723e\u4e39\u5947"
     ],
     "qs_pg:aaroncc":"LU",
     "qs_pg:gn_country":"LU",
@@ -85,11 +166,11 @@
     "woe:name_adm1":"Luxembourg",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1745977427,
         102191581,
         1745980849,
         85633275,
-        101812909
+        101812909,
+        1745977427
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -122,7 +203,7 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1626733363,
+    "wof:lastmodified":1690938737,
     "wof:name":"Oetrange",
     "wof:parent_id":101812909,
     "wof:placetype":"neighbourhood",

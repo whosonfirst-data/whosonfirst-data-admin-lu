@@ -87,8 +87,14 @@
     "name:swe_x_preferred":[
         "Vichten"
     ],
+    "name:tur_x_preferred":[
+        "Vichten"
+    ],
     "name:ukr_x_preferred":[
         "\u0412\u0456\u0445\u0442\u0435\u043d"
+    ],
+    "name:zho_x_preferred":[
+        "\u7ef4\u5e0c\u6ed5"
     ],
     "qs_pg:aaroncc":"LU",
     "qs_pg:gn_country":"LU",
@@ -157,7 +163,7 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1626732202,
+    "wof:lastmodified":1690938766,
     "wof:name":"Vichten",
     "wof:parent_id":1745980837,
     "wof:placetype":"locality",

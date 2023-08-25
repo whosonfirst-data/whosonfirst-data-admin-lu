@@ -36,6 +36,9 @@
     "name:eng_x_preferred":[
         "Dalheim"
     ],
+    "name:epo_x_preferred":[
+        "Dalheim"
+    ],
     "name:fas_x_preferred":[
         "\u062f\u0627\u0644\u0647\u0627\u06cc\u0645"
     ],
@@ -91,6 +94,9 @@
         "Dalheim"
     ],
     "name:swe_x_preferred":[
+        "Dalheim"
+    ],
+    "name:tur_x_preferred":[
         "Dalheim"
     ],
     "name:ukr_x_preferred":[
@@ -161,7 +167,7 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1626732142,
+    "wof:lastmodified":1690938755,
     "wof:name":"Dalheim",
     "wof:parent_id":1125283997,
     "wof:placetype":"locality",

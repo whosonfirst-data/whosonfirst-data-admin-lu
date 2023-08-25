@@ -27,6 +27,9 @@
     "name:cat_x_preferred":[
         "Rodange"
     ],
+    "name:dan_x_preferred":[
+        "Rodange"
+    ],
     "name:deu_x_preferred":[
         "Rodingen"
     ],
@@ -51,8 +54,17 @@
     "name:pol_x_preferred":[
         "Rodange"
     ],
+    "name:spa_x_preferred":[
+        "Rodange"
+    ],
     "name:swe_x_preferred":[
         "Rodange"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u043e\u0434\u0430\u043d\u0436"
+    ],
+    "name:zho_x_preferred":[
+        "\u7f57\u5f53\u65e5"
     ],
     "qs_pg:aaroncc":"LU",
     "qs_pg:gn_country":"LU",
@@ -82,11 +94,11 @@
     "woe:name_adm1":"Luxembourg",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1745977435,
         102191581,
         1125283405,
         85633275,
-        101839813
+        101839813,
+        1745977435
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -119,7 +131,7 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1626733330,
+    "wof:lastmodified":1690938718,
     "wof:name":"Rodange",
     "wof:parent_id":101839813,
     "wof:placetype":"neighbourhood",

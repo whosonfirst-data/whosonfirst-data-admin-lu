@@ -61,10 +61,19 @@
     "name:ltz_x_variant":[
         "Bonnevoie"
     ],
+    "name:nld_x_preferred":[
+        "Bonnevoie"
+    ],
     "name:pol_x_preferred":[
         "Bonnevoie"
     ],
+    "name:por_x_preferred":[
+        "Bonnevoie"
+    ],
     "name:slv_x_preferred":[
+        "Bonnevoie"
+    ],
+    "name:swe_x_preferred":[
         "Bonnevoie"
     ],
     "name:tat_x_preferred":[
@@ -106,11 +115,11 @@
     "wd:longitude":6.139444,
     "wd:wordcount":114,
     "wof:belongsto":[
-        1745977427,
         102191581,
         1125286201,
         85633275,
-        101751765
+        101751765,
+        1745977427
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -151,7 +160,7 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1626733563,
+    "wof:lastmodified":1690938695,
     "wof:name":"Bonnevoie",
     "wof:parent_id":101751765,
     "wof:placetype":"neighbourhood",

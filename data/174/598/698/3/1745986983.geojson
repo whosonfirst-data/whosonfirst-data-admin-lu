@@ -21,6 +21,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Senningen"
+    ],
     "name:cat_x_preferred":[
         "Senningen"
     ],
@@ -32,6 +35,9 @@
     ],
     "name:eng_x_preferred":[
         "Senningen"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0646\u06cc\u0646\u06af\u0646"
     ],
     "name:fra_x_preferred":[
         "Senningen"
@@ -74,11 +80,11 @@
     "woe:name_adm1":"Rheinland-Pfalz",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1745977427,
         102191581,
         1125410759,
         85633275,
-        101753075
+        101753075,
+        1745977427
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -111,7 +117,7 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1626733241,
+    "wof:lastmodified":1690938734,
     "wof:name":"Steiningen",
     "wof:parent_id":101753075,
     "wof:placetype":"neighbourhood",

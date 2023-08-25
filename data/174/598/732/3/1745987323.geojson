@@ -39,6 +39,9 @@
     "name:hun_x_preferred":[
         "Munsbach"
     ],
+    "name:lit_x_preferred":[
+        "Minsbechas"
+    ],
     "name:ltz_x_preferred":[
         "M\u00ebnsbech"
     ],
@@ -50,6 +53,9 @@
     ],
     "name:swe_x_preferred":[
         "M\u00fcnsbach"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u044e\u043d\u0441\u0431\u0430\u0445"
     ],
     "qs_pg:aaroncc":"LU",
     "qs_pg:gn_country":"LU",
@@ -75,11 +81,11 @@
     "woe:name_adm1":"Luxembourg",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1745977427,
         102191581,
         1125375263,
         85633275,
-        101812899
+        101812899,
+        1745977427
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -112,7 +118,7 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1626733418,
+    "wof:lastmodified":1690938723,
     "wof:name":"M\u00fcsbach",
     "wof:parent_id":101812899,
     "wof:placetype":"neighbourhood",

@@ -57,6 +57,9 @@
     "name:ltz_x_preferred":[
         "Gemeng W\u00ebntger"
     ],
+    "name:ltz_x_variant":[
+        "W\u00ebntger"
+    ],
     "name:msa_x_preferred":[
         "Wincrange"
     ],
@@ -90,11 +93,17 @@
     "name:swe_x_preferred":[
         "Wincrange"
     ],
+    "name:tur_x_preferred":[
+        "Wincrange"
+    ],
     "name:ukr_x_preferred":[
         "\u0412\u0456\u043d\u043a\u0440\u0430\u043d\u0436"
     ],
     "name:und_x_variant":[
         "Wenerange"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e07\u514b\u6717\u65e5"
     ],
     "qs:a0":"Luxembourg",
     "qs:a1":"*",
@@ -154,7 +163,7 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1626732109,
+    "wof:lastmodified":1690938747,
     "wof:name":"Wincrange",
     "wof:parent_id":1745980853,
     "wof:placetype":"locality",

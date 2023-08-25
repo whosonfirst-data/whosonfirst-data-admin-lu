@@ -21,6 +21,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "\u00dcbersyren"
+    ],
     "name:cat_x_preferred":[
         "\u00dcbersyren"
     ],
@@ -44,6 +47,9 @@
     ],
     "name:swe_x_preferred":[
         "Uebersyren"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0423\u0431\u0435\u0440\u0441\u0456\u0440\u0435\u043d"
     ],
     "qs_pg:aaroncc":"LU",
     "qs_pg:gn_country":"LU",
@@ -69,11 +75,11 @@
     "woe:name_adm1":"Luxembourg",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1745977427,
         102191581,
         1125375263,
         85633275,
-        101812899
+        101812899,
+        1745977427
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -106,7 +112,7 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1626733223,
+    "wof:lastmodified":1690938709,
     "wof:name":"Uebersyren",
     "wof:parent_id":101812899,
     "wof:placetype":"neighbourhood",

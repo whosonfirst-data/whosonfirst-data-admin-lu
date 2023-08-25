@@ -48,8 +48,14 @@
     "name:pol_x_preferred":[
         "Nospelt"
     ],
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0441\u043f\u0435\u043b\u044c\u0442"
+    ],
     "name:swe_x_preferred":[
         "Nospelt"
+    ],
+    "name:zho_x_preferred":[
+        "\u8afe\u65af\u4f69\u723e\u7279"
     ],
     "qs_pg:aaroncc":"LU",
     "qs_pg:gn_country":"LU",
@@ -77,11 +83,11 @@
     "woe:name_adm1":"Luxembourg",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1745977433,
         102191581,
         1125376161,
         85633275,
-        101812895
+        101812895,
+        1745977433
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -114,7 +120,7 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1626733314,
+    "wof:lastmodified":1690938718,
     "wof:name":"Nospelt",
     "wof:parent_id":101812895,
     "wof:placetype":"neighbourhood",

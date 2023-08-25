@@ -36,6 +36,9 @@
     "name:ltz_x_preferred":[
         "Eschent"
     ],
+    "name:ltz_x_variant":[
+        "\u00c9ischt"
+    ],
     "name:msa_x_preferred":[
         "Eschette"
     ],
@@ -57,11 +60,11 @@
     "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        1745977431,
         102191581,
         1125410765,
         85633275,
-        101812867
+        101812867,
+        1745977431
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -93,7 +96,7 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1626733468,
+    "wof:lastmodified":1690938720,
     "wof:name":"Eschette",
     "wof:parent_id":101812867,
     "wof:placetype":"neighbourhood",

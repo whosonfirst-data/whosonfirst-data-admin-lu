@@ -115,6 +115,12 @@
     "name:swe_x_preferred":[
         "Clervaux"
     ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e04\u0e25\u0e35\u0e22\u0e23\u0e4c\u0e1f"
+    ],
+    "name:tur_x_preferred":[
+        "Clervaux"
+    ],
     "name:ukr_x_preferred":[
         "\u041a\u043b\u0435\u0440\u0432\u043e"
     ],
@@ -190,7 +196,7 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1626732107,
+    "wof:lastmodified":1690938747,
     "wof:name":"Clervaux",
     "wof:parent_id":1125411213,
     "wof:placetype":"locality",

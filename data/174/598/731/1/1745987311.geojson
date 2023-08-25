@@ -21,6 +21,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Berbourg"
+    ],
     "name:cat_x_preferred":[
         "Berbourg"
     ],
@@ -36,8 +39,14 @@
     "name:fra_x_preferred":[
         "Berbourg"
     ],
+    "name:lit_x_preferred":[
+        "Berburgas"
+    ],
     "name:ltz_x_preferred":[
         "B\u00e4erbuerg"
+    ],
+    "name:ltz_x_variant":[
+        "Berbuerg"
     ],
     "name:nld_x_preferred":[
         "Berbourg"
@@ -74,11 +83,11 @@
     "woe:name_adm1":"Grevenmacher",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1745977447,
         102191581,
         1125305331,
         85633275,
-        101812891
+        101812891,
+        1745977447
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -111,7 +120,7 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1626733412,
+    "wof:lastmodified":1690938700,
     "wof:name":"Berbourg",
     "wof:parent_id":101812891,
     "wof:placetype":"neighbourhood",

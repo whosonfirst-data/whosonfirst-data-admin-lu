@@ -45,6 +45,9 @@
     "name:pol_x_preferred":[
         "Tetange"
     ],
+    "name:pol_x_variant":[
+        "T\u00e9tange"
+    ],
     "name:por_x_preferred":[
         "T\u00e9tange"
     ],
@@ -77,11 +80,11 @@
     "woe:name_adm1":"Luxembourg",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1745977435,
         102191581,
         1125407267,
         85633275,
-        101839805
+        101839805,
+        1745977435
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -114,7 +117,7 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1626733381,
+    "wof:lastmodified":1690938715,
     "wof:name":"T\u00e9tange",
     "wof:parent_id":101839805,
     "wof:placetype":"neighbourhood",

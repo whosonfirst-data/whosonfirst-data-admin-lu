@@ -21,6 +21,9 @@
     "name:als_x_preferred":[
         "Beetebuerg"
     ],
+    "name:ara_x_preferred":[
+        "\u0628\u062a\u0645\u0628\u0648\u0631\u063a"
+    ],
     "name:bel_x_preferred":[
         "\u0411\u0435\u0442\u044d\u043c\u0431\u0443\u0440"
     ],
@@ -43,6 +46,9 @@
         "\u0628\u062a\u0645\u0628\u0648\u0631\u06af"
     ],
     "name:fra_x_preferred":[
+        "Bettembourg"
+    ],
+    "name:fur_x_preferred":[
         "Bettembourg"
     ],
     "name:gsw_x_preferred":[
@@ -105,8 +111,14 @@
     "name:swe_x_preferred":[
         "Bettembourg"
     ],
+    "name:tur_x_preferred":[
+        "Bettembourg"
+    ],
     "name:ukr_x_preferred":[
         "\u0411\u0435\u0442\u0442\u0435\u043c\u0431\u0443\u0440\u0433"
+    ],
+    "name:zho_x_preferred":[
+        "\u8d1d\u5510\u5821"
     ],
     "qs:a0":"Luxembourg",
     "qs:a1":"*",
@@ -166,7 +178,7 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1626732145,
+    "wof:lastmodified":1690938759,
     "wof:name":"Bettembourg",
     "wof:parent_id":1125357423,
     "wof:placetype":"locality",

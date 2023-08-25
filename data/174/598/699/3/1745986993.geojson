@@ -45,6 +45,9 @@
     "name:swe_x_preferred":[
         "Bofferdange"
     ],
+    "name:zho_x_preferred":[
+        "\u6ce2\u5f17\u4e39\u683c"
+    ],
     "qs_pg:aaroncc":"LU",
     "qs_pg:gn_country":"LU",
     "qs_pg:gn_fcode":"PPL",
@@ -69,11 +72,11 @@
     "woe:name_adm1":"Luxembourg",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        1745977439,
         102191581,
         1125366377,
         85633275,
-        1125990641
+        1125990641,
+        1745977439
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -106,7 +109,7 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1626733247,
+    "wof:lastmodified":1690938731,
     "wof:name":"Bofferdange",
     "wof:parent_id":1125990641,
     "wof:placetype":"neighbourhood",
