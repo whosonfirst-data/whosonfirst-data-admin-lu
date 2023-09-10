@@ -25,10 +25,12 @@
     "gn:fcode":"ADM3",
     "gn:population":0,
     "iso:country":"LU",
-    "lbl:latitude":49.60833,
-    "lbl:longitude":6.40583,
+    "lbl:latitude":49.611965,
+    "lbl:longitude":6.393956,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":49.611965,
+    "mps:longitude":6.393956,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
@@ -123,7 +125,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl_centroid":"qs_pg",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "woe:adm0_id":23424881,
@@ -149,7 +151,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"d9cfecb610b420dea71c1ac79a0a4275",
+    "wof:geomhash":"844f17f3b8fbe50352571ff7bee6db7b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,7 +172,7 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1684353995,
+    "wof:lastmodified":1694320497,
     "wof:name":"Wormeldange",
     "wof:parent_id":102063545,
     "wof:placetype":"localadmin",

@@ -25,10 +25,12 @@
     "gn:fcode":"ADM3",
     "gn:population":0,
     "iso:country":"LU",
-    "lbl:latitude":49.91667,
-    "lbl:longitude":6.13333,
+    "lbl:latitude":49.873178,
+    "lbl:longitude":6.148029,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":49.873178,
+    "mps:longitude":6.148029,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
@@ -204,7 +206,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl_centroid":"qs_pg",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"eurostat",
     "src:population_date":"2020",
     "woe:adm0_id":23424881,
@@ -229,7 +231,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"bb6b50fa0545e33402fdfc32fe2c4237",
+    "wof:geomhash":"e64f12f48d3a4aec4f5430bce5e61f0a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -249,7 +251,7 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1684353996,
+    "wof:lastmodified":1694320497,
     "wof:name":"Diekirch",
     "wof:parent_id":1745977449,
     "wof:placetype":"localadmin",
