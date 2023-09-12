@@ -5,10 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0249,
+    "geom:area_square_m":199385955.127467,
     "geom:bbox":"5.847761,49.546203,6.104185,49.723729",
     "geom:latitude":49.640385,
     "geom:longitude":5.963374,
     "iso:country":"LU",
+    "label:eng_x_preferred_longname":[
+        "Capellen Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
     "lbl:latitude":49.643884,
     "lbl:longitude":5.965312,
     "mps:latitude":49.643884,
@@ -30,7 +37,7 @@
     "wof:breaches":[],
     "wof:country":"LU",
     "wof:created":1624925183,
-    "wof:geomhash":"826015bebdf35cebd3badf70805f4a77",
+    "wof:geomhash":"608c11017b217c255ca6b2ae17133804",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,7 +56,7 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1627522348,
+    "wof:lastmodified":1694493254,
     "wof:name":"Capellen",
     "wof:parent_id":85633275,
     "wof:placetype":"region",

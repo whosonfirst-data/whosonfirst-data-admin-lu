@@ -5,10 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.029771,
+    "geom:area_square_m":238502511.11289,
     "geom:bbox":"5.998434,49.516989,6.309686,49.692306",
     "geom:latitude":49.617165,
     "geom:longitude":6.169788,
     "iso:country":"LU",
+    "label:eng_x_preferred_longname":[
+        "Luxembourg Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
     "lbl:latitude":49.617878,
     "lbl:longitude":6.169807,
     "mps:latitude":49.617878,
@@ -102,7 +109,7 @@
     "wof:breaches":[],
     "wof:country":"LU",
     "wof:created":1624925179,
-    "wof:geomhash":"2923505e4936689dbfd6dccbbc06a4cc",
+    "wof:geomhash":"81cd2abc030c7deb47682e7c882e7760",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -121,7 +128,7 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1642551823,
+    "wof:lastmodified":1694493264,
     "wof:name":"Luxembourg",
     "wof:parent_id":85633275,
     "wof:placetype":"region",

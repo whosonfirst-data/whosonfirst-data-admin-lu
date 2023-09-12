@@ -5,10 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.033677,
+    "geom:area_square_m":268788941.67075,
     "geom:bbox":"5.739188,49.701875,6.041157,49.888691",
     "geom:latitude":49.79914,
     "geom:longitude":5.888549,
     "iso:country":"LU",
+    "label:eng_x_preferred_longname":[
+        "Redange Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
     "lbl:latitude":49.79658,
     "lbl:longitude":5.885612,
     "mps:latitude":49.79658,
@@ -30,7 +37,7 @@
     "wof:breaches":[],
     "wof:country":"LU",
     "wof:created":1624925182,
-    "wof:geomhash":"7a1256e255854423eb4374e27e60f6e2",
+    "wof:geomhash":"1232d5223889a92fca6f2c344b17dea0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,7 +56,7 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1627522349,
+    "wof:lastmodified":1694493255,
     "wof:name":"Redange",
     "wof:parent_id":85633275,
     "wof:placetype":"region",

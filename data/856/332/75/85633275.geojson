@@ -28,6 +28,9 @@
     "itu:country_code":[
         "352"
     ],
+    "label:eng_x_preferred_placetype":[
+        "country"
+    ],
     "label:eng_x_preferred_shortcode":[
         "LU"
     ],
@@ -1363,7 +1366,7 @@
         "naturalearth",
         "naturalearth-display-terrestrial-zoom6"
     ],
-    "wof:geomhash":"f2935cacca93e44d7ba871f790107fa9",
+    "wof:geomhash":"3968326817524da16a66a9d40ff30fb8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -1381,7 +1384,7 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1690938692,
+    "wof:lastmodified":1694492264,
     "wof:name":"Luxembourg",
     "wof:parent_id":102191581,
     "wof:placetype":"country",

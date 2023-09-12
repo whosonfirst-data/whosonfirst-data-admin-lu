@@ -5,10 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015832,
+    "geom:area_square_m":127020425.497594,
     "geom:bbox":"6.219215,49.459505,6.38229,49.628384",
     "geom:latitude":49.546713,
     "geom:longitude":6.312994,
     "iso:country":"LU",
+    "label:eng_x_preferred_longname":[
+        "Remich Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
     "lbl:latitude":49.539214,
     "lbl:longitude":6.311786,
     "mps:latitude":49.539214,
@@ -30,7 +37,7 @@
     "wof:breaches":[],
     "wof:country":"LU",
     "wof:created":1624925186,
-    "wof:geomhash":"368402cf8946de95fb84773d4dd1e926",
+    "wof:geomhash":"9b57dab8037e52a24402151aeefb5464",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,7 +56,7 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1627522349,
+    "wof:lastmodified":1694493255,
     "wof:name":"Remich",
     "wof:parent_id":85633275,
     "wof:placetype":"region",

@@ -5,10 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00982,
+    "geom:area_square_m":78162798.523867,
     "geom:bbox":"6.087198,49.870725,6.235366,49.987564",
     "geom:latitude":49.929328,
     "geom:longitude":6.160909,
     "iso:country":"LU",
+    "label:eng_x_preferred_longname":[
+        "Vianden Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
     "lbl:latitude":49.933321,
     "lbl:longitude":6.149715,
     "mps:latitude":49.933321,
@@ -30,7 +37,7 @@
     "wof:breaches":[],
     "wof:country":"LU",
     "wof:created":1624925188,
-    "wof:geomhash":"5e2942a5766f649f60cac67c6ff7c9a8",
+    "wof:geomhash":"bc8abd48985787f5ced95a57de09da4a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,7 +56,7 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1627522349,
+    "wof:lastmodified":1694493255,
     "wof:name":"Vianden",
     "wof:parent_id":85633275,
     "wof:placetype":"region",

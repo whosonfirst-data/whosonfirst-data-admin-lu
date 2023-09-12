@@ -5,10 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023144,
+    "geom:area_square_m":184768153.772848,
     "geom:bbox":"6.236658,49.730416,6.530898,49.859882",
     "geom:latitude":49.786941,
     "geom:longitude":6.375457,
     "iso:country":"LU",
+    "label:eng_x_preferred_longname":[
+        "Echternach Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
     "lbl:latitude":49.792735,
     "lbl:longitude":6.358041,
     "mps:latitude":49.792735,
@@ -30,7 +37,7 @@
     "wof:breaches":[],
     "wof:country":"LU",
     "wof:created":1624925187,
-    "wof:geomhash":"f45abf679dc9d0c94c38f387a583d91d",
+    "wof:geomhash":"6ec91e15517f314664d10c018aa9b330",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,7 +56,7 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1627522348,
+    "wof:lastmodified":1694493254,
     "wof:name":"Echternach",
     "wof:parent_id":85633275,
     "wof:placetype":"region",
