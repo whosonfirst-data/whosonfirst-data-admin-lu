@@ -5,10 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.033289,
+    "geom:area_square_m":264935623.920321,
     "geom:bbox":"5.735708,49.852409,6.060841,50.03221",
     "geom:latitude":49.93674,
     "geom:longitude":5.910793,
     "iso:country":"LU",
+    "label:eng_x_preferred_longname":[
+        "Wiltz Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
     "lbl:latitude":49.94068,
     "lbl:longitude":5.953843,
     "mps:latitude":49.94068,
@@ -30,7 +37,7 @@
     "wof:breaches":[],
     "wof:country":"LU",
     "wof:created":1624925181,
-    "wof:geomhash":"f0e27deabd89255239e70bc144f1b32c",
+    "wof:geomhash":"85f010e3b207ae8af1b9fe8ef32b5029",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,7 +56,7 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1627522349,
+    "wof:lastmodified":1694493255,
     "wof:name":"Wiltz",
     "wof:parent_id":85633275,
     "wof:placetype":"region",

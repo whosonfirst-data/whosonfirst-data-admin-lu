@@ -5,10 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025592,
+    "geom:area_square_m":203998343.266347,
     "geom:bbox":"5.970187,49.785379,6.314311,49.955251",
     "geom:latitude":49.861152,
     "geom:longitude":6.13157,
     "iso:country":"LU",
+    "label:eng_x_preferred_longname":[
+        "Diekirch Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
     "lbl:latitude":49.879387,
     "lbl:longitude":6.074334,
     "mps:latitude":49.879387,
@@ -51,7 +58,7 @@
     "wof:breaches":[],
     "wof:country":"LU",
     "wof:created":1624925185,
-    "wof:geomhash":"a9ed6630ea0272316ad128ad20927a00",
+    "wof:geomhash":"2c543fe710fb211c9dcfa7730746297e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -70,7 +77,7 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1642551757,
+    "wof:lastmodified":1694493263,
     "wof:name":"Diekirch",
     "wof:parent_id":85633275,
     "wof:placetype":"region",

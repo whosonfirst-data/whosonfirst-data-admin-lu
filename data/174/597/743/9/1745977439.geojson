@@ -5,10 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.027999,
+    "geom:area_square_m":223670370.109582,
     "geom:bbox":"5.985934,49.681343,6.279537,49.834438",
     "geom:latitude":49.756398,
     "geom:longitude":6.116665,
     "iso:country":"LU",
+    "label:eng_x_preferred_longname":[
+        "Mersch Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
     "lbl:latitude":49.751989,
     "lbl:longitude":6.116712,
     "mps:latitude":49.751989,
@@ -30,7 +37,7 @@
     "wof:breaches":[],
     "wof:country":"LU",
     "wof:created":1624925184,
-    "wof:geomhash":"64739bad06dafd1f00d32a3182c657dc",
+    "wof:geomhash":"a6813781da0981bb1121f03bfc536314",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,7 +56,7 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1627522349,
+    "wof:lastmodified":1694493255,
     "wof:name":"Mersch",
     "wof:parent_id":85633275,
     "wof:placetype":"region",

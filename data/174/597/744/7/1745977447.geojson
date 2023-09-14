@@ -5,10 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026301,
+    "geom:area_square_m":210393223.5445,
     "geom:bbox":"6.167014,49.590039,6.517149,49.755653",
     "geom:latitude":49.68952,
     "geom:longitude":6.348991,
     "iso:country":"LU",
+    "label:eng_x_preferred_longname":[
+        "Grevenmacher Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
     "lbl:latitude":49.674918,
     "lbl:longitude":6.366245,
     "mps:latitude":49.674918,
@@ -60,7 +67,7 @@
     "wof:breaches":[],
     "wof:country":"LU",
     "wof:created":1624925188,
-    "wof:geomhash":"599f3dbdd8391c16c11788bcf974e1bf",
+    "wof:geomhash":"4d029755b975bf991f2d55eed539d0d8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -79,7 +86,7 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1636501778,
+    "wof:lastmodified":1694493260,
     "wof:name":"Grevenmacher",
     "wof:parent_id":85633275,
     "wof:placetype":"region",
