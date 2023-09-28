@@ -35,6 +35,10 @@
         85633275
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "iso:code":"LU-WI"
+    },
+    "wof:concordances_official":"iso:code",
     "wof:country":"LU",
     "wof:created":1624925181,
     "wof:geomhash":"85f010e3b207ae8af1b9fe8ef32b5029",
@@ -56,7 +60,7 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1694493255,
+    "wof:lastmodified":1695884755,
     "wof:name":"Wiltz",
     "wof:parent_id":85633275,
     "wof:placetype":"region",

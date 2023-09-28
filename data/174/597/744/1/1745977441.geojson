@@ -56,6 +56,10 @@
         85633275
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "iso:code":"LU-DI"
+    },
+    "wof:concordances_official":"iso:code",
     "wof:country":"LU",
     "wof:created":1624925185,
     "wof:geomhash":"2c543fe710fb211c9dcfa7730746297e",
@@ -77,7 +81,7 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1694493263,
+    "wof:lastmodified":1695885131,
     "wof:name":"Diekirch",
     "wof:parent_id":85633275,
     "wof:placetype":"region",

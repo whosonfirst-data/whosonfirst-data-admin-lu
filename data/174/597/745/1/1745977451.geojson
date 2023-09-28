@@ -35,6 +35,10 @@
         85633275
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "iso:code":"LU-CL"
+    },
+    "wof:concordances_official":"iso:code",
     "wof:country":"LU",
     "wof:created":1624925189,
     "wof:geomhash":"7ccca7516bfd9d4d4415c804b2dcb0ed",
@@ -56,7 +60,7 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1694493254,
+    "wof:lastmodified":1695884755,
     "wof:name":"Clervaux",
     "wof:parent_id":85633275,
     "wof:placetype":"region",

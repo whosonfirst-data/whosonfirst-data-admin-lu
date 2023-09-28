@@ -35,6 +35,10 @@
         85633275
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "iso:code":"LU-RD"
+    },
+    "wof:concordances_official":"iso:code",
     "wof:country":"LU",
     "wof:created":1624925182,
     "wof:geomhash":"1232d5223889a92fca6f2c344b17dea0",
@@ -56,7 +60,7 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1694493255,
+    "wof:lastmodified":1695884755,
     "wof:name":"Redange",
     "wof:parent_id":85633275,
     "wof:placetype":"region",
