@@ -35,6 +35,10 @@
         85633275
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "iso:code":"LU-EC"
+    },
+    "wof:concordances_official":"iso:code",
     "wof:country":"LU",
     "wof:created":1624925187,
     "wof:geomhash":"6ec91e15517f314664d10c018aa9b330",
@@ -56,7 +60,7 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1694493254,
+    "wof:lastmodified":1695884755,
     "wof:name":"Echternach",
     "wof:parent_id":85633275,
     "wof:placetype":"region",

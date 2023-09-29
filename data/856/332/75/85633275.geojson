@@ -1347,6 +1347,7 @@
         "hasc:id":"LU",
         "icao:code":"LX",
         "ioc:id":"LUX",
+        "iso:code":"LU",
         "itu:id":"LUX",
         "m49:code":"442",
         "marc:id":"lu",
@@ -1360,6 +1361,7 @@
         "wk:page":"Luxembourg",
         "wmo:id":"BX"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"LU",
     "wof:country_alpha3":"LUX",
     "wof:geom_alt":[
@@ -1384,7 +1386,7 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1694492264,
+    "wof:lastmodified":1695881377,
     "wof:name":"Luxembourg",
     "wof:parent_id":102191581,
     "wof:placetype":"country",

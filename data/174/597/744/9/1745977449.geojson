@@ -35,6 +35,10 @@
         85633275
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "iso:code":"LU-VD"
+    },
+    "wof:concordances_official":"iso:code",
     "wof:country":"LU",
     "wof:created":1624925188,
     "wof:geomhash":"bc8abd48985787f5ced95a57de09da4a",
@@ -56,7 +60,7 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1694493255,
+    "wof:lastmodified":1695884755,
     "wof:name":"Vianden",
     "wof:parent_id":85633275,
     "wof:placetype":"region",

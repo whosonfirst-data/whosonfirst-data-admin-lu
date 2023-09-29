@@ -107,6 +107,10 @@
         85633275
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "iso:code":"LU-LU"
+    },
+    "wof:concordances_official":"iso:code",
     "wof:country":"LU",
     "wof:created":1624925179,
     "wof:geomhash":"81cd2abc030c7deb47682e7c882e7760",
@@ -128,7 +132,7 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1694493264,
+    "wof:lastmodified":1695885134,
     "wof:name":"Luxembourg",
     "wof:parent_id":85633275,
     "wof:placetype":"region",

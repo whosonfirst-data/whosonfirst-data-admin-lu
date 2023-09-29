@@ -35,6 +35,10 @@
         85633275
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "iso:code":"LU-RM"
+    },
+    "wof:concordances_official":"iso:code",
     "wof:country":"LU",
     "wof:created":1624925186,
     "wof:geomhash":"9b57dab8037e52a24402151aeefb5464",
@@ -56,7 +60,7 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1694493255,
+    "wof:lastmodified":1695884755,
     "wof:name":"Remich",
     "wof:parent_id":85633275,
     "wof:placetype":"region",
