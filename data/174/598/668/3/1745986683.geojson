@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"5.835092,49.523915,5.835092,49.523915",
@@ -16,7 +18,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
@@ -115,12 +117,14 @@
         "ltz",
         "deu"
     ],
-    "wof:lastmodified":1690938714,
+    "wof:lastmodified":1706240345,
     "wof:name":"Lasauvage",
     "wof:parent_id":101839817,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-lu",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1126063951
+    ],
     "wof:supersedes":[
         1125933643
     ],
