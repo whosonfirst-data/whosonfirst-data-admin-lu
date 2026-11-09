@@ -43,7 +43,7 @@
     },
     "wof:country":"LU",
     "wof:created":1625097093,
-    "wof:geomhash":"6ab39a8fcff947181a2ae6bc79b04e59",
+    "wof:geomhash":"5d5cabb0f28fa0eb92f78cb958ff4286",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -82,5 +82,5 @@
     6.0,
     50.08333
 ],
-  "geometry": {"coordinates":[6.0,50.08333],"type":"Point"}
+  "geometry": {"coordinates":[6,50.08333],"type":"Point"}
 }
