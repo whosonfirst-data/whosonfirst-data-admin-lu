@@ -1,0 +1,74 @@
+{
+  "id": 9895037424,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.08087,49.90879,6.08087,49.90879",
+    "geom:latitude":49.90879,
+    "geom:longitude":6.08087,
+    "iso:country":"LU",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11703873: name \"Bourscheid-Plage\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11703873"
+        },
+        {
+            "citation":"GeoNames populated place 11703873: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11703873"
+        },
+        {
+            "citation":"GeoNames populated place 11703873: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11703873"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125333097 (Bourscheid), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633275,
+        102191581,
+        1125333097,
+        1745977441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11703873
+    },
+    "wof:country":"LU",
+    "wof:geomhash":"6c3847a25e93ba8fd0c9f4038e13399b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1125333097,
+            "locality_id":9895037424,
+            "region_id":1745977441
+        }
+    ],
+    "wof:id":9895037424,
+    "wof:lastmodified":1795735145,
+    "wof:name":"Bourscheid-Plage",
+    "wof:parent_id":1125333097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.08087,
+    49.90879,
+    6.08087,
+    49.90879
+],
+  "geometry": {"coordinates":[6.08087,49.90879],"type":"Point"}
+}

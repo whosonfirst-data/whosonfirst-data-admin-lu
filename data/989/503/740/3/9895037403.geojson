@@ -1,0 +1,74 @@
+{
+  "id": 9895037403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.37361,49.58611,6.37361,49.58611",
+    "geom:latitude":49.58611,
+    "geom:longitude":6.37361,
+    "iso:country":"LU",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 2960416: name \"H\u00ebttermillen\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/2960416"
+        },
+        {
+            "citation":"GeoNames populated place 2960416: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/2960416"
+        },
+        {
+            "citation":"GeoNames populated place 2960416: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/2960416"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125341017 (Stadtbredimus), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633275,
+        102191581,
+        1125341017,
+        1745977443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2960416
+    },
+    "wof:country":"LU",
+    "wof:geomhash":"b16e3238c00b9e830d7f23451cf58ab7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1125341017,
+            "locality_id":9895037403,
+            "region_id":1745977443
+        }
+    ],
+    "wof:id":9895037403,
+    "wof:lastmodified":1795735145,
+    "wof:name":"H\u00ebttermillen",
+    "wof:parent_id":1125341017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.37361,
+    49.58611,
+    6.37361,
+    49.58611
+],
+  "geometry": {"coordinates":[6.37361,49.58611],"type":"Point"}
+}

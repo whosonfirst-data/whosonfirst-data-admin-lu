@@ -1,0 +1,74 @@
+{
+  "id": 9895037409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.10788,49.91006,6.10788,49.91006",
+    "geom:latitude":49.91006,
+    "geom:longitude":6.10788,
+    "iso:country":"LU",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11669758: name \"Flebour\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11669758"
+        },
+        {
+            "citation":"GeoNames populated place 11669758: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11669758"
+        },
+        {
+            "citation":"GeoNames populated place 11669758: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11669758"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125333097 (Bourscheid), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633275,
+        102191581,
+        1125333097,
+        1745977441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11669758
+    },
+    "wof:country":"LU",
+    "wof:geomhash":"97c0b1d46b65e1942706a548951b22d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1125333097,
+            "locality_id":9895037409,
+            "region_id":1745977441
+        }
+    ],
+    "wof:id":9895037409,
+    "wof:lastmodified":1795735145,
+    "wof:name":"Flebour",
+    "wof:parent_id":1125333097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.10788,
+    49.91006,
+    6.10788,
+    49.91006
+],
+  "geometry": {"coordinates":[6.10788,49.91006],"type":"Point"}
+}
