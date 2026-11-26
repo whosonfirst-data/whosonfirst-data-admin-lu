@@ -1,0 +1,74 @@
+{
+  "id": 9895037399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.05333,50.15556,6.05333,50.15556",
+    "geom:latitude":50.15556,
+    "geom:longitude":6.05333,
+    "iso:country":"LU",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 2959983: name \"Wemperhardt\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/2959983"
+        },
+        {
+            "citation":"GeoNames populated place 2959983: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/2959983"
+        },
+        {
+            "citation":"GeoNames populated place 2959983: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/2959983"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125352025 (Weiswampach), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633275,
+        102191581,
+        1125352025,
+        1745977451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2959983
+    },
+    "wof:country":"LU",
+    "wof:geomhash":"ec30286be11963442d2972ff0f60e6bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1125352025,
+            "locality_id":9895037399,
+            "region_id":1745977451
+        }
+    ],
+    "wof:id":9895037399,
+    "wof:lastmodified":1795735145,
+    "wof:name":"Wemperhardt",
+    "wof:parent_id":1125352025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.05333,
+    50.15556,
+    6.05333,
+    50.15556
+],
+  "geometry": {"coordinates":[6.05333,50.15556],"type":"Point"}
+}

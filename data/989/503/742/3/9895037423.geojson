@@ -1,0 +1,75 @@
+{
+  "id": 9895037423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.96021,49.94815,5.96021,49.94815",
+    "geom:latitude":49.94815,
+    "geom:longitude":5.96021,
+    "gn:population":180,
+    "iso:country":"LU",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11703869: name \"Nocher-Route\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11703869"
+        },
+        {
+            "citation":"GeoNames populated place 11703869: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11703869"
+        },
+        {
+            "citation":"GeoNames populated place 11703869: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11703869"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125298213 (Goesdorf), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633275,
+        102191581,
+        1125298213,
+        1745977429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11703869
+    },
+    "wof:country":"LU",
+    "wof:geomhash":"3212bb092ad905500eba2a6ecdc62a27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1125298213,
+            "locality_id":9895037423,
+            "region_id":1745977429
+        }
+    ],
+    "wof:id":9895037423,
+    "wof:lastmodified":1795735145,
+    "wof:name":"Nocher-Route",
+    "wof:parent_id":1125298213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.96021,
+    49.94815,
+    5.96021,
+    49.94815
+],
+  "geometry": {"coordinates":[5.96021,49.94815],"type":"Point"}
+}

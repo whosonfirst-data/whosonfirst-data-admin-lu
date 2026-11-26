@@ -1,0 +1,75 @@
+{
+  "id": 9895037408,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.97306,50.09722,5.97306,50.09722",
+    "geom:latitude":50.09722,
+    "geom:longitude":5.97306,
+    "gn:population":454,
+    "iso:country":"LU",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 2960820: name \"Asselborn\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/2960820"
+        },
+        {
+            "citation":"GeoNames populated place 2960820: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/2960820"
+        },
+        {
+            "citation":"GeoNames populated place 2960820: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/2960820"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1745980853 (Wincrange), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633275,
+        102191581,
+        1745977451,
+        1745980853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2960820
+    },
+    "wof:country":"LU",
+    "wof:geomhash":"7dd196720819ce185210dc9c878e7c2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1745980853,
+            "locality_id":9895037408,
+            "region_id":1745977451
+        }
+    ],
+    "wof:id":9895037408,
+    "wof:lastmodified":1795735145,
+    "wof:name":"Asselborn",
+    "wof:parent_id":1745980853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.97306,
+    50.09722,
+    5.97306,
+    50.09722
+],
+  "geometry": {"coordinates":[5.97306,50.09722],"type":"Point"}
+}

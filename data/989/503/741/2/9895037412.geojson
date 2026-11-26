@@ -1,0 +1,77 @@
+{
+  "id": 9895037412,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.39999,49.60983,6.39999,49.60983",
+    "geom:latitude":49.60983,
+    "geom:longitude":6.39999,
+    "gn:population":359,
+    "iso:country":"LU",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11670382: name \"Wormeldange-Haut\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11670382"
+        },
+        {
+            "citation":"GeoNames populated place 11670382: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11670382"
+        },
+        {
+            "citation":"GeoNames populated place 11670382: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11670382"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125311551 (Wormeldange), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633111,
+        85682491,
+        102063545,
+        102191581,
+        1125311551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11670382
+    },
+    "wof:country":"LU",
+    "wof:geomhash":"477233033fca7e443a774715c8039f81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063545,
+            "localadmin_id":1125311551,
+            "locality_id":9895037412,
+            "region_id":85682491
+        }
+    ],
+    "wof:id":9895037412,
+    "wof:lastmodified":1795735145,
+    "wof:name":"Wormeldange-Haut",
+    "wof:parent_id":1125311551,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.39999,
+    49.60983,
+    6.39999,
+    49.60983
+],
+  "geometry": {"coordinates":[6.39999,49.60983],"type":"Point"}
+}

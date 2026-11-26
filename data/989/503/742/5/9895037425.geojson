@@ -1,0 +1,74 @@
+{
+  "id": 9895037425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.07325,50.09253,6.07325,50.09253",
+    "geom:latitude":50.09253,
+    "geom:longitude":6.07325,
+    "iso:country":"LU",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11703904: name \"Kaesfurt\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11703904"
+        },
+        {
+            "citation":"GeoNames populated place 11703904: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11703904"
+        },
+        {
+            "citation":"GeoNames populated place 11703904: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11703904"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125411213 (Clervaux), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633275,
+        102191581,
+        1125411213,
+        1745977451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11703904
+    },
+    "wof:country":"LU",
+    "wof:geomhash":"d38258037980fdb8941dd1ce187b66c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1125411213,
+            "locality_id":9895037425,
+            "region_id":1745977451
+        }
+    ],
+    "wof:id":9895037425,
+    "wof:lastmodified":1795735145,
+    "wof:name":"Kaesfurt",
+    "wof:parent_id":1125411213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.07325,
+    50.09253,
+    6.07325,
+    50.09253
+],
+  "geometry": {"coordinates":[6.07325,50.09253],"type":"Point"}
+}

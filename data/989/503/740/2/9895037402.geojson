@@ -1,0 +1,75 @@
+{
+  "id": 9895037402,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.35167,49.48861,6.35167,49.48861",
+    "geom:latitude":49.48861,
+    "geom:longitude":6.35167,
+    "gn:population":761,
+    "iso:country":"LU",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 2960155: name \"Remerschen\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/2960155"
+        },
+        {
+            "citation":"GeoNames populated place 2960155: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/2960155"
+        },
+        {
+            "citation":"GeoNames populated place 2960155: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/2960155"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1745980847 (Schengen), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633275,
+        102191581,
+        1745977443,
+        1745980847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2960155
+    },
+    "wof:country":"LU",
+    "wof:geomhash":"d2bdc86e03b3afee5863a7fd40d39d75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1745980847,
+            "locality_id":9895037402,
+            "region_id":1745977443
+        }
+    ],
+    "wof:id":9895037402,
+    "wof:lastmodified":1795735145,
+    "wof:name":"Remerschen",
+    "wof:parent_id":1745980847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.35167,
+    49.48861,
+    6.35167,
+    49.48861
+],
+  "geometry": {"coordinates":[6.35167,49.48861],"type":"Point"}
+}

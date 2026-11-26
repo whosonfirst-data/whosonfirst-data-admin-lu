@@ -1,0 +1,75 @@
+{
+  "id": 9895037401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.50532,49.8047,6.50532,49.8047",
+    "geom:latitude":49.8047,
+    "geom:longitude":6.50532,
+    "gn:population":681,
+    "iso:country":"LU",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 2960127: name \"Rosport\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/2960127"
+        },
+        {
+            "citation":"GeoNames populated place 2960127: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/2960127"
+        },
+        {
+            "citation":"GeoNames populated place 2960127: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/2960127"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1745980855 (Rosport-Mompach), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633275,
+        102191581,
+        1745977445,
+        1745980855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2960127
+    },
+    "wof:country":"LU",
+    "wof:geomhash":"78803634e759e49f9a815c11750d1071",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1745980855,
+            "locality_id":9895037401,
+            "region_id":1745977445
+        }
+    ],
+    "wof:id":9895037401,
+    "wof:lastmodified":1795735145,
+    "wof:name":"Rosport",
+    "wof:parent_id":1745980855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.50532,
+    49.8047,
+    6.50532,
+    49.8047
+],
+  "geometry": {"coordinates":[6.50532,49.8047],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895037426,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.3956,49.75405,6.3956,49.75405",
+    "geom:latitude":49.75405,
+    "geom:longitude":6.3956,
+    "iso:country":"LU",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11703905: name \"Lilien\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11703905"
+        },
+        {
+            "citation":"GeoNames populated place 11703905: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11703905"
+        },
+        {
+            "citation":"GeoNames populated place 11703905: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11703905"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1745980855 (Rosport-Mompach), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633275,
+        102191581,
+        1745977445,
+        1745980855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11703905
+    },
+    "wof:country":"LU",
+    "wof:geomhash":"6ee215ee9c619b5490f586fbddb61c96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1745980855,
+            "locality_id":9895037426,
+            "region_id":1745977445
+        }
+    ],
+    "wof:id":9895037426,
+    "wof:lastmodified":1795735145,
+    "wof:name":"Lilien",
+    "wof:parent_id":1745980855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.3956,
+    49.75405,
+    6.3956,
+    49.75405
+],
+  "geometry": {"coordinates":[6.3956,49.75405],"type":"Point"}
+}

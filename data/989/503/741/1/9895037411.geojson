@@ -1,0 +1,74 @@
+{
+  "id": 9895037411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.35379,49.80143,6.35379,49.80143",
+    "geom:latitude":49.80143,
+    "geom:longitude":6.35379,
+    "iso:country":"LU",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11669891: name \"Kalkesbach\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11669891"
+        },
+        {
+            "citation":"GeoNames populated place 11669891: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11669891"
+        },
+        {
+            "citation":"GeoNames populated place 11669891: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11669891"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125350967 (Berdorf), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633275,
+        102191581,
+        1125350967,
+        1745977445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11669891
+    },
+    "wof:country":"LU",
+    "wof:geomhash":"99874f2c9d838a5f9fe5314d2eab471f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1125350967,
+            "locality_id":9895037411,
+            "region_id":1745977445
+        }
+    ],
+    "wof:id":9895037411,
+    "wof:lastmodified":1795735145,
+    "wof:name":"Kalkesbach",
+    "wof:parent_id":1125350967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.35379,
+    49.80143,
+    6.35379,
+    49.80143
+],
+  "geometry": {"coordinates":[6.35379,49.80143],"type":"Point"}
+}

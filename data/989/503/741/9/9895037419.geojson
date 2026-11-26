@@ -1,0 +1,75 @@
+{
+  "id": 9895037419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.03051,49.69001,6.03051,49.69001",
+    "geom:latitude":49.69001,
+    "geom:longitude":6.03051,
+    "gn:population":203,
+    "iso:country":"LU",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11703835: name \"Dondelange\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11703835"
+        },
+        {
+            "citation":"GeoNames populated place 11703835: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11703835"
+        },
+        {
+            "citation":"GeoNames populated place 11703835: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11703835"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125376161 (Kehlen), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633275,
+        102191581,
+        1125376161,
+        1745977433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11703835
+    },
+    "wof:country":"LU",
+    "wof:geomhash":"267109f788fdeed2d30244ba2408f9b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "localadmin_id":1125376161,
+            "locality_id":9895037419,
+            "region_id":1745977433
+        }
+    ],
+    "wof:id":9895037419,
+    "wof:lastmodified":1795735145,
+    "wof:name":"Dondelange",
+    "wof:parent_id":1125376161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.03051,
+    49.69001,
+    6.03051,
+    49.69001
+],
+  "geometry": {"coordinates":[6.03051,49.69001],"type":"Point"}
+}
